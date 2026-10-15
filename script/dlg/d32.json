@@ -931,7 +931,7 @@
   "id": "F6EEEC:19",
   "kind": "msg",
   "speaker": "蛮",
-  "jp": "頷下げられンだろうが！！",
+  "jp": "額下げられンだろうが！！",
   "en": "",
   "status": ""
  },
@@ -1004,16 +1004,16 @@
   "kind": "msg",
   "speaker": "男C",
   "jp": "ブツブツブツ…",
-  "en": "",
-  "status": ""
+  "en": "Mutter mutter mutter...",
+  "status": "tl"
  },
  {
   "id": "F6F618:2",
   "kind": "msg",
   "speaker": "男C",
   "jp": "ブツブツブツ…",
-  "en": "",
-  "status": ""
+  "en": "Mutter mutter mutter...",
+  "status": "tl"
  },
  {
   "id": "F6F67C:1",
@@ -1324,8 +1324,8 @@
   "kind": "msg",
   "speaker": "蛮",
   "jp": "まァな…",
-  "en": "",
-  "status": ""
+  "en": "Somethin' like that...",
+  "status": "tl"
  },
  {
   "id": "F70340:6",

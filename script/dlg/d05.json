@@ -4,40 +4,40 @@
   "kind": "bline",
   "speaker": "神門　京介(狂面)",
   "jp": "狂面の舞",
-  "en": "",
-  "status": ""
+  "en": "Kurui Mask Dance",
+  "status": "tl"
  },
  {
   "id": "EF6364:1",
   "kind": "bline",
   "speaker": "K(六面豪鬼)",
   "jp": "巫面の舞",
-  "en": "",
-  "status": ""
+  "en": "Miko Mask Dance",
+  "status": "tl"
  },
  {
   "id": "EF6D5C:1",
   "kind": "bline",
   "speaker": "K(六面豪鬼)",
   "jp": "魂寄せ　",
-  "en": "",
-  "status": ""
+  "en": "Soul Summoning",
+  "status": "tl"
  },
  {
   "id": "EF7310:1",
   "kind": "bline",
   "speaker": "K(六面豪鬼)",
   "jp": "地嶽変　",
-  "en": "",
-  "status": ""
+  "en": "Hell Screen",
+  "status": "tl"
  },
  {
   "id": "EF77B4:1",
   "kind": "bline",
   "speaker": "K(六面豪鬼)",
   "jp": "オオオォォオオオッ！！　",
-  "en": "",
-  "status": ""
+  "en": "Ooooooooooh!!",
+  "status": "tl"
  },
  {
   "id": "EF7CA4:1",
@@ -52,64 +52,64 @@
   "kind": "bline",
   "speaker": "K(六面豪鬼)",
   "jp": "オ…オ…オオオ！！　",
-  "en": "",
-  "status": ""
+  "en": "O... O... Ooooh!!",
+  "status": "tl"
  },
  {
   "id": "EF7CA4:5",
   "kind": "bline",
   "speaker": "K(六面豪鬼)",
   "jp": "ウオオォォオオオ！！",
-  "en": "",
-  "status": ""
+  "en": "Wooooooooooh!!",
+  "status": "tl"
  },
  {
   "id": "EF8510:1",
   "kind": "bline",
   "speaker": "RETA",
   "jp": "ウキュー",
-  "en": "",
-  "status": ""
+  "en": "Kyuuu",
+  "status": "tl"
  },
  {
   "id": "EF878C:1",
   "kind": "bline",
   "speaker": "RETA",
   "jp": "ウキュキュ！",
-  "en": "",
-  "status": ""
+  "en": "Kyu-kyu!",
+  "status": "tl"
  },
  {
   "id": "EF878C:3",
   "kind": "bline",
   "speaker": "RETA",
   "jp": "ウキュー！　",
-  "en": "",
-  "status": ""
+  "en": "Kyuuu!",
+  "status": "tl"
  },
  {
   "id": "EF9200:1",
   "kind": "bline",
   "speaker": "銀次",
   "jp": "もらったぁっ！　",
-  "en": "",
-  "status": ""
+  "en": "Gotcha!",
+  "status": "tl"
  },
  {
   "id": "EF9620:1",
   "kind": "bline",
   "speaker": "銀次",
   "jp": "イナズマキーック！　",
-  "en": "",
-  "status": ""
+  "en": "Lightning Kiiick!",
+  "status": "tl"
  },
  {
   "id": "EF9958:1",
   "kind": "bline",
   "speaker": "???",
   "jp": "………　",
-  "en": "",
-  "status": ""
+  "en": "......",
+  "status": "tl"
  },
  {
   "id": "EF9A10:1",
@@ -604,816 +604,816 @@
   "kind": "msg",
   "speaker": "蛮",
   "jp": "で、そのカメラが奪われたのは\nこの裏新宿占い横町ってワケだな?",
-  "en": "",
-  "status": ""
+  "en": "So the place your camera got stolen was this Fortune-Teller Alley in Ura-Shinjuku, huh?",
+  "status": "tl"
  },
  {
   "id": "EFB050:3",
   "kind": "msg",
   "speaker": "杏",
   "jp": "そうッス！",
-  "en": "",
-  "status": ""
+  "en": "That's right, see!",
+  "status": "tl"
  },
  {
   "id": "EFB050:4",
   "kind": "msg",
   "speaker": "杏",
   "jp": "スクープ狙ってここをブラついてたら\n怪しい男に呼び止められて…",
-  "en": "",
-  "status": ""
+  "en": "I was wandering around hunting for a scoop when a shady guy stopped me...",
+  "status": "tl"
  },
  {
   "id": "EFB050:6",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "怪しい男って?",
-  "en": "",
-  "status": ""
+  "en": "A shady guy?",
+  "status": "tl"
  },
  {
   "id": "EFB050:8",
   "kind": "msg",
   "speaker": "杏",
   "jp": "見るからに怪しい男だったッスよ！",
-  "en": "",
-  "status": ""
+  "en": "He was shady just to look at, see!",
+  "status": "tl"
  },
  {
   "id": "EFB050:9",
   "kind": "msg",
   "speaker": "杏",
   "jp": "妖術とか使いそうな感じッス",
-  "en": "",
-  "status": ""
+  "en": "He seemed like the type to use sorcery.",
+  "status": "tl"
  },
  {
   "id": "EFB050:11",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "妖術だア?\nンなモン、使うわけねーだろうが！",
-  "en": "",
-  "status": ""
+  "en": "Sorcery?! Like hell anybody uses junk like that!",
+  "status": "tl"
  },
  {
   "id": "EFB050:13",
   "kind": "msg",
   "speaker": "杏",
   "jp": "使ったッスよ！",
-  "en": "",
-  "status": ""
+  "en": "He did use it, see!",
+  "status": "tl"
  },
  {
   "id": "EFB050:14",
   "kind": "msg",
   "speaker": "杏",
   "jp": "カメラ貸せって言うから貸してあげたら\nいきなりケムリがボワンってなって…",
-  "en": "",
-  "status": ""
+  "en": "He asked to borrow my camera, so I lent it to him, and then poof! A big cloud of smoke...",
+  "status": "tl"
  },
  {
   "id": "EFB050:16",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "…消えちゃったの?",
-  "en": "",
-  "status": ""
+  "en": "...And he vanished?",
+  "status": "tl"
  },
  {
   "id": "EFB050:18",
   "kind": "msg",
   "speaker": "杏",
   "jp": "消えたッス！\nちゃんと見てたから、間違いないッス！",
-  "en": "",
-  "status": ""
+  "en": "He vanished, see! I saw it with my own eyes, so I'm positive!",
+  "status": "tl"
  },
  {
   "id": "EFB050:20",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ま、この場所ならあり得なくもねーか…\nタネはありそうだがな?",
-  "en": "",
-  "status": ""
+  "en": "Well, in this place, I guess it ain't impossible... Bet there's a trick to it, though.",
+  "status": "tl"
  },
  {
   "id": "EFB050:21",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "よし、行くとするか！",
-  "en": "",
-  "status": ""
+  "en": "All right, let's get movin'!",
+  "status": "tl"
  },
  {
   "id": "EFB050:23",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "じゃあ、杏ちゃんは\nHONKYTONKで待っててね",
-  "en": "",
-  "status": ""
+  "en": "Okay, Anzu, you wait for us at the Honky Tonk.",
+  "status": "tl"
  },
  {
   "id": "EFB57C:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "じゃ、聞き込みから始めよっか！",
-  "en": "",
-  "status": ""
+  "en": "So, let's start by asking around!",
+  "status": "tl"
  },
  {
   "id": "EFB57C:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "そうだな…",
-  "en": "",
-  "status": ""
+  "en": "Yeah...",
+  "status": "tl"
  },
  {
   "id": "EFB57C:4",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ところで、\nここいらにゃ手癖の悪ィガキが多い…",
-  "en": "",
-  "status": ""
+  "en": "By the way, there's a lotta sticky-fingered brats around here...",
+  "status": "tl"
  },
  {
   "id": "EFB57C:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "いつ襲われてもおかしくねーからな…\n気ィ引き締めてけよ、銀次ィ！！",
-  "en": "",
-  "status": ""
+  "en": "They could jump us any second... So stay sharp, Ginjiii!!",
+  "status": "tl"
  },
  {
   "id": "EFB6D8:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あれっ、いないね?",
-  "en": "",
-  "status": ""
+  "en": "Huh? Nobody's here?",
+  "status": "tl"
  },
  {
   "id": "EFB6D8:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "いや、気配はある…\n出て来いや、マリーア！！",
-  "en": "",
-  "status": ""
+  "en": "Nah, I can sense somebody... Come on out, Maria!!",
+  "status": "tl"
  },
  {
   "id": "EFB7B8:1",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "ブエノスタルデス♥",
-  "en": "",
-  "status": ""
+  "en": "Buenas tardes!♥",
+  "status": "tl"
  },
  {
   "id": "EFB7B8:2",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "久しぶりね~\n蛮も銀次クンも♥",
-  "en": "",
-  "status": ""
+  "en": "Long time no see, Ban, and you too, Ginji♥",
+  "status": "tl"
  },
  {
   "id": "EFB7B8:4",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "お久しぶりで~す、マリーアさん",
-  "en": "",
-  "status": ""
+  "en": "Long time no seeee, Maria!",
+  "status": "tl"
  },
  {
   "id": "EFB7B8:6",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "どうしちゃったの、蛮",
-  "en": "",
-  "status": ""
+  "en": "What's gotten into you, Ban?",
+  "status": "tl"
  },
  {
   "id": "EFB7B8:7",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "あなたがここに来るなんて\n珍しいじゃない?",
-  "en": "",
-  "status": ""
+  "en": "Not like you to come here, is it?",
+  "status": "tl"
  },
  {
   "id": "EFB7B8:8",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "探しものでもあるのかな~?",
-  "en": "",
-  "status": ""
+  "en": "Looking for something, hmm?",
+  "status": "tl"
  },
  {
   "id": "EFB7B8:10",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "どぉせ知ってンだろが、得意のカードで",
-  "en": "",
-  "status": ""
+  "en": "You already know, don'tcha? From those cards of yours.",
+  "status": "tl"
  },
  {
   "id": "EFB7B8:12",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "なによ、冷たい言い方ね~",
-  "en": "",
-  "status": ""
+  "en": "My, what a cold way to put it...",
+  "status": "tl"
  },
  {
   "id": "EFB7B8:13",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "久しぶりに会ったんだから、\nキスの一つでもして欲しいわ♥",
-  "en": "",
-  "status": ""
+  "en": "It's been so long, the least you could do is give me a kiss♥",
+  "status": "tl"
  },
  {
   "id": "EFB7B8:15",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "とぼけンなよ",
-  "en": "",
-  "status": ""
+  "en": "Quit playin' dumb.",
+  "status": "tl"
  },
  {
   "id": "EFB7B8:17",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "…カメラを奪った男を捜してるのね?",
-  "en": "",
-  "status": ""
+  "en": "...You're looking for the man who stole the camera, aren't you?",
+  "status": "tl"
  },
  {
   "id": "EFB7B8:19",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "さすがですね、マリーアさん！！",
-  "en": "",
-  "status": ""
+  "en": "You're amazing, Maria!!",
+  "status": "tl"
  },
  {
   "id": "EFB7B8:21",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "まぁね~、ダテに長生きしてないわよ♥",
-  "en": "",
-  "status": ""
+  "en": "Well, I haven't lived this long for nothing♥",
+  "status": "tl"
  },
  {
   "id": "EFB7B8:22",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "それで?　ヒントが欲しいのかしら?",
-  "en": "",
-  "status": ""
+  "en": "So? Would you like a hint?",
+  "status": "tl"
  },
  {
   "id": "EFB7B8:24",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "別に…いらねーよ、ヒントなんざ",
-  "en": "",
-  "status": ""
+  "en": "Nah... Don't need no hint.",
+  "status": "tl"
  },
  {
   "id": "EFB7B8:26",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "蛮ちゃんってば、\nホント素直じゃないんだから…",
-  "en": "",
-  "status": ""
+  "en": "Geez, Ban, you're never honest...",
+  "status": "tl"
  },
  {
   "id": "EFB7B8:27",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "素直に教えて下さいって言えばいいのに",
-  "en": "",
-  "status": ""
+  "en": "You could just ask her nicely to tell us.",
+  "status": "tl"
  },
  {
   "id": "EFB7B8:29",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": "......",
+  "status": "tl"
  },
  {
   "id": "EFB7B8:30",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "大丈夫よ、答えはあなたたちの\nすぐ近くにあるんだから",
-  "en": "",
-  "status": ""
+  "en": "Don't worry, the answer is right near you.",
+  "status": "tl"
  },
  {
   "id": "EFB7B8:31",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "後は自分たちの力を\nもっと信じればいいだけのことよ♥",
-  "en": "",
-  "status": ""
+  "en": "All you need is to believe a little more in your own power♥",
+  "status": "tl"
  },
  {
   "id": "EFB7B8:33",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "自分たちの…力?",
-  "en": "",
-  "status": ""
+  "en": "Our own... power?",
+  "status": "tl"
  },
  {
   "id": "EFB7B8:35",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "そうよ",
-  "en": "",
-  "status": ""
+  "en": "That's right.",
+  "status": "tl"
  },
  {
   "id": "EFB7B8:36",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "素晴らしい能力を持ってるんだから、\nそれを使わない手はないわ",
-  "en": "",
-  "status": ""
+  "en": "You two have wonderful abilities, so it'd be a waste not to use them.",
+  "status": "tl"
  },
  {
   "id": "EFB7B8:37",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "二人の持つ能力を生かせば、\n自ずと道は切り開かれていくものよ",
-  "en": "",
-  "status": ""
+  "en": "If you make use of both your abilities, the path will open up on its own.",
+  "status": "tl"
  },
  {
   "id": "EFB7B8:39",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "はあ…",
-  "en": "",
-  "status": ""
+  "en": "Uh-huh...",
+  "status": "tl"
  },
  {
   "id": "EFB7B8:41",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "詳しく聞きたかったら、\nもう一度ここへいらっしゃい",
-  "en": "",
-  "status": ""
+  "en": "If you want to hear more, come see me here again.",
+  "status": "tl"
  },
  {
   "id": "EFB7B8:42",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "傷を癒してあげることもできるしね…",
-  "en": "",
-  "status": ""
+  "en": "I can heal your wounds, too...",
+  "status": "tl"
  },
  {
   "id": "EFB7B8:43",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "がんばるのよ、二人とも♥",
-  "en": "",
-  "status": ""
+  "en": "Do your best, you two♥",
+  "status": "tl"
  },
  {
   "id": "EFBFEC:1",
   "kind": "msg",
   "speaker": "吉良",
   "jp": "ボンジョールノ！！\n妖術師、吉良の骨董屋へようこそ…",
-  "en": "",
-  "status": ""
+  "en": "Buongiorno!! Welcome to the antique shop of Kira the sorcerer...",
+  "status": "tl"
  },
  {
   "id": "EFBFEC:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "(うわっ…見た目もかなり怪しいね~)",
-  "en": "",
-  "status": ""
+  "en": "(Whoa... He looks super shady, too...)",
+  "status": "tl"
  },
  {
   "id": "EFBFEC:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "(どう見てもマトモじゃねえな…)",
-  "en": "",
-  "status": ""
+  "en": "(No way this guy's normal...)",
+  "status": "tl"
  },
  {
   "id": "EFBFEC:6",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ちっと聞きてぇことがあんだがな…",
-  "en": "",
-  "status": ""
+  "en": "Got somethin' I wanna ask ya...",
+  "status": "tl"
  },
  {
   "id": "EFBFEC:8",
   "kind": "msg",
   "speaker": "吉良",
   "jp": "なんなりと申してみたまえ",
-  "en": "",
-  "status": ""
+  "en": "Ask whatever you wish.",
+  "status": "tl"
  },
  {
   "id": "EFBFEC:9",
   "kind": "msg",
   "speaker": "吉良",
   "jp": "キミが知りたいのは自分の未来かな?\nそれとも他人の秘密なのかな?　ん?",
-  "en": "",
-  "status": ""
+  "en": "Is it your own future you wish to know? Or perhaps the secrets of others? Hm?",
+  "status": "tl"
  },
  {
   "id": "EFBFEC:11",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ンなことよりカメラのことを聞きてぇな",
-  "en": "",
-  "status": ""
+  "en": "Forget that, I wanna hear about a camera.",
+  "status": "tl"
  },
  {
   "id": "EFBFEC:12",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "アンタが奪ったカメラのことだ",
-  "en": "",
-  "status": ""
+  "en": "The camera you swiped.",
+  "status": "tl"
  },
  {
   "id": "EFBFEC:14",
   "kind": "msg",
   "speaker": "吉良",
   "jp": "マンマ・ミーア！",
-  "en": "",
-  "status": ""
+  "en": "Mamma mia!",
+  "status": "tl"
  },
  {
   "id": "EFBFEC:15",
   "kind": "msg",
   "speaker": "吉良",
   "jp": "失敬だな、キミたちは…\nいきなり入ってきて人を泥棒扱いとはね",
-  "en": "",
-  "status": ""
+  "en": "How rude of you... Barging in here and treating a man like a thief.",
+  "status": "tl"
  },
  {
   "id": "EFBFEC:17",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ハッ！　泥棒のくせしてよく言うぜ…",
-  "en": "",
-  "status": ""
+  "en": "Hah! Big talk for a thief...",
+  "status": "tl"
  },
  {
   "id": "EFBFEC:19",
   "kind": "msg",
   "speaker": "吉良",
   "jp": "いいかい?　あのカメラはね、\n普通のカメラじゃないんだよ",
-  "en": "",
-  "status": ""
+  "en": "Listen, okay? That camera is no ordinary camera, you see.",
+  "status": "tl"
  },
  {
   "id": "EFBFEC:20",
   "kind": "msg",
   "speaker": "吉良",
   "jp": "然るべき資格の持ち主が所有するべきだ\nトゥット・キアーロ?",
-  "en": "",
-  "status": ""
+  "en": "It belongs in the hands of someone with the proper qualifications. Tutto chiaro?",
+  "status": "tl"
  },
  {
   "id": "EFBFEC:22",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "えっ、な、何語！?",
-  "en": "",
-  "status": ""
+  "en": "Huh? Wh-what language is that?!",
+  "status": "tl"
  },
  {
   "id": "EFBFEC:23",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "蛮ちゃ~ん、分かんないよー…",
-  "en": "",
-  "status": ""
+  "en": "Baaan, I don't get it...",
+  "status": "tl"
  },
  {
   "id": "EFBFEC:25",
   "kind": "msg",
   "speaker": "吉良",
   "jp": "ああ、すまないね…\n私はイタリア人ハーフなものだから",
-  "en": "",
-  "status": ""
+  "en": "Ah, forgive me... I'm half Italian, you see.",
+  "status": "tl"
  },
  {
   "id": "EFBFEC:26",
   "kind": "msg",
   "speaker": "吉良",
   "jp": "今のはね、キミたちみたいな凡人に\n理解できるかな?　という意味だよ",
-  "en": "",
-  "status": ""
+  "en": "What I just said means, \"Can commoners like you understand that?\"",
+  "status": "tl"
  },
  {
   "id": "EFBFEC:28",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "話し合いの余地もなさそうだな",
-  "en": "",
-  "status": ""
+  "en": "Looks like there's no room for talking this out.",
+  "status": "tl"
  },
  {
   "id": "EFBFEC:29",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "こうなったら力づくで…",
-  "en": "",
-  "status": ""
+  "en": "Then we'll do it the hard way...",
+  "status": "tl"
  },
  {
   "id": "EFBFEC:31",
   "kind": "msg",
   "speaker": "吉良",
   "jp": "フフフ…それはどうかな?",
-  "en": "",
-  "status": ""
+  "en": "Heh heh heh... Will you, now?",
+  "status": "tl"
  },
  {
   "id": "EFBFEC:32",
   "kind": "msg",
   "speaker": "吉良",
   "jp": "キミたち、私が妖術師だということを\nお忘れなんじゃないかな?　どうかね?",
-  "en": "",
-  "status": ""
+  "en": "Haven't you forgotten that I am a sorcerer? Hmm? Haven't you?",
+  "status": "tl"
  },
  {
   "id": "EFBFEC:34",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ええ、まあ…\nちょっと忘れてましたけど…",
-  "en": "",
-  "status": ""
+  "en": "Well, um... We kinda did forget, yeah...",
+  "status": "tl"
  },
  {
   "id": "EFBFEC:36",
   "kind": "msg",
   "speaker": "吉良",
   "jp": "私の妖術に驚いた時、私は消えているよ",
-  "en": "",
-  "status": ""
+  "en": "By the time my sorcery astonishes you, I'll already be gone.",
+  "status": "tl"
  },
  {
   "id": "EFBFEC:37",
   "kind": "msg",
   "speaker": "吉良",
   "jp": "それでは…チャオ",
-  "en": "",
-  "status": ""
+  "en": "And so... ciao.",
+  "status": "tl"
  },
  {
   "id": "EFC774:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "き、消えた！\n本物の妖術師だ！！",
-  "en": "",
-  "status": ""
+  "en": "H-he vanished! He's a real sorcerer!!",
+  "status": "tl"
  },
  {
   "id": "EFC774:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "アホか！　煙幕で目ェくらまして、\nその隙に地下に逃げただけじゃねーか！",
-  "en": "",
-  "status": ""
+  "en": "You idiot! He just blinded us with a smoke screen and ducked underground while we couldn't see!",
+  "status": "tl"
  },
  {
   "id": "EFC774:4",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "追うぞ！！",
-  "en": "",
-  "status": ""
+  "en": "After him!!",
+  "status": "tl"
  },
  {
   "id": "EFC8E4:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "暗くてよく見えねえな…",
-  "en": "",
-  "status": ""
+  "en": "Too dark to see a damn thing...",
+  "status": "tl"
  },
  {
   "id": "EFC8E4:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "んあ~、\n電気のスイッチ押しても点かないよ~…",
-  "en": "",
-  "status": ""
+  "en": "Nnngh... I'm pushing the light switch but nothing's turning on...",
+  "status": "tl"
  },
  {
   "id": "EFC8E4:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ブレーカー飛ばしやがったか?",
-  "en": "",
-  "status": ""
+  "en": "He trip the breaker or somethin'?",
+  "status": "tl"
  },
  {
   "id": "EFC8E4:6",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "とりあえず電気点けるのが先決だな",
-  "en": "",
-  "status": ""
+  "en": "First things first, we gotta get the lights on.",
+  "status": "tl"
  },
  {
   "id": "EFC8E4:7",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ブレーカーでも探してみっか…",
-  "en": "",
-  "status": ""
+  "en": "Guess I'll go look for the breaker...",
+  "status": "tl"
  },
  {
   "id": "EFC8E4:9",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "だね！　ブレーカーさえあれば\nオレが電気点けることもできるしね",
-  "en": "",
-  "status": ""
+  "en": "Yeah! As long as there's a breaker, I can get the power running myself!",
+  "status": "tl"
  },
  {
   "id": "EFCA74:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "波児…ツケで飯食わしてくれ！\n頼む！！",
-  "en": "",
-  "status": ""
+  "en": "Paul... Feed us on credit! Please!!",
+  "status": "tl"
  },
  {
   "id": "EFCA74:3",
   "kind": "msg",
   "speaker": "波児",
   "jp": "なんだ夏実ちゃんと\nレナちゃんに会わなかったのか?",
-  "en": "",
-  "status": ""
+  "en": "What, you didn't run into Natsumi and Rena?",
+  "status": "tl"
  },
  {
   "id": "EFCA74:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "?　会わなかったよ?",
-  "en": "",
-  "status": ""
+  "en": "? Nope, we didn't.",
+  "status": "tl"
  },
  {
   "id": "EFCA74:7",
   "kind": "msg",
   "speaker": "ヘヴン",
   "jp": "あの二人、アンタたちが\n飢え死に寸前だって聞いたから",
-  "en": "",
-  "status": ""
+  "en": "Those two heard you guys were about to starve to death,",
+  "status": "tl"
  },
  {
   "id": "EFCA74:8",
   "kind": "msg",
   "speaker": "ヘヴン",
   "jp": "食べ物持って占い横町に向かったのよ",
-  "en": "",
-  "status": ""
+  "en": "so they took some food and headed for Fortune-Teller Alley.",
+  "status": "tl"
  },
  {
   "id": "EFCA74:10",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "わー、優しいな~\n夏実ちゃんもレナちゃんも！！",
-  "en": "",
-  "status": ""
+  "en": "Wow, they're so sweet! Natsumi and Rena both!!",
+  "status": "tl"
  },
  {
   "id": "EFCA74:12",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "オメーもちったあ見習え！　ヘヴン！！",
-  "en": "",
-  "status": ""
+  "en": "You could stand to learn a thing or two from 'em, Hevn!!",
+  "status": "tl"
  },
  {
   "id": "EFCA74:14",
   "kind": "msg",
   "speaker": "ヘヴン",
   "jp": "なんで私がアンタたちに\n優しくしなきゃならないのよ！",
-  "en": "",
-  "status": ""
+  "en": "Why should I be nice to you two?!",
+  "status": "tl"
  },
  {
   "id": "EFCA74:15",
   "kind": "msg",
   "speaker": "ヘヴン",
   "jp": "それにあの二人だって\nレスキュー気分で行ってるんですからね",
-  "en": "",
-  "status": ""
+  "en": "Besides, those two only went because they think it's some kind of rescue mission.",
+  "status": "tl"
  },
  {
   "id": "EFCA74:16",
   "kind": "msg",
   "speaker": "ヘヴン",
   "jp": "好奇心よ、好奇心！！",
-  "en": "",
-  "status": ""
+  "en": "It's curiosity, pure curiosity!!",
+  "status": "tl"
  },
  {
   "id": "EFCA74:18",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ま、どっちだっていいけどな",
-  "en": "",
-  "status": ""
+  "en": "Eh, whatever. Don't matter to me.",
+  "status": "tl"
  },
  {
   "id": "EFCA74:20",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ねえ、蛮ちゃん！\n夏実ちゃんたち探しに行こうよ！！",
-  "en": "",
-  "status": ""
+  "en": "Hey, Ban! Let's go find Natsumi and the others!!",
+  "status": "tl"
  },
  {
   "id": "EFCA74:22",
   "kind": "msg",
   "speaker": "波児",
   "jp": "お前ら…",
-  "en": "",
-  "status": ""
+  "en": "You two...",
+  "status": "tl"
  },
  {
   "id": "EFCA74:23",
   "kind": "msg",
   "speaker": "波児",
   "jp": "言っとくが、その食べ物はツケだからな",
-  "en": "",
-  "status": ""
+  "en": "Just so you know, that food's going on your tab.",
+  "status": "tl"
  },
  {
   "id": "EFCA74:26",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "や、やっぱり…",
-  "en": "",
-  "status": ""
+  "en": "I-I knew it...",
+  "status": "tl"
  },
  {
   "id": "EFD0B4:1",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "あっ！　蛮さん、銀次さん！！\n無事だったんですね~",
-  "en": "",
-  "status": ""
+  "en": "Ah! Ban, Ginji!! You're okay!",
+  "status": "tl"
  },
  {
   "id": "EFD0B4:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "夏実ちゃ~ん、レナちゃ~~ん！！\n食べ物持ってきてくれたんだって！?",
-  "en": "",
-  "status": ""
+  "en": "Natsumiii, Renaaa!! You brought us food?!",
+  "status": "tl"
  },
  {
   "id": "EFD0B4:5",
   "kind": "msg",
   "speaker": "レナ",
   "jp": "そうなんです！　この特製サンドイッチ\n二人でがんばって作ったんですよ！！",
-  "en": "",
-  "status": ""
+  "en": "That's right! We worked really hard making these special sandwiches together!!",
+  "status": "tl"
  },
  {
   "id": "EFD0B4:7",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ン?　…特製！?",
-  "en": "",
-  "status": ""
+  "en": "Hm? ...Special?!",
+  "status": "tl"
  },
  {
   "id": "EFD0B4:9",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "はい、体力がつきそうなものが\n色々入ってるんですよ！",
-  "en": "",
-  "status": ""
+  "en": "Yep, they've got all kinds of stuff in them to build up your strength!",
+  "status": "tl"
  },
  {
   "id": "EFD0B4:11",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "わ~…おいしそ~う…",
-  "en": "",
-  "status": ""
+  "en": "Wooow... They look so yummy...",
+  "status": "tl"
  },
  {
   "id": "EFD0B4:13",
@@ -1428,456 +1428,456 @@
   "kind": "msg",
   "speaker": "蛮",
   "jp": "(明らかに食いモンに\n見えねーモンがあるが…)",
-  "en": "",
-  "status": ""
+  "en": "(Some of that stuff clearly doesn't look like food...)",
+  "status": "tl"
  },
  {
   "id": "EFD0B4:17",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "早く食べて下さい！！",
-  "en": "",
-  "status": ""
+  "en": "Hurry up and eat!!",
+  "status": "tl"
  },
  {
   "id": "EFD51C:0",
   "kind": "choice",
   "speaker": "",
   "jp": "夏実のサンドイッチ",
-  "en": "",
-  "status": ""
+  "en": "Natsumi's sandwich",
+  "status": "tl"
  },
  {
   "id": "EFD51C:1",
   "kind": "choice",
   "speaker": "",
   "jp": "レナのサンドイッチ",
-  "en": "",
-  "status": ""
+  "en": "Rena's sandwich",
+  "status": "tl"
  },
  {
   "id": "EFD51C:2",
   "kind": "prompt",
   "speaker": "",
   "jp": "どっちのサンドイッチを食べる?",
-  "en": "",
-  "status": ""
+  "en": "Which sandwich will you eat?",
+  "status": "tl"
  },
  {
   "id": "EFD5C0:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "わ~い、いっただきま~す！！",
-  "en": "",
-  "status": ""
+  "en": "Yaaay, let's diiig in!!",
+  "status": "tl"
  },
  {
   "id": "EFD5C0:4",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "モグモグモグ…",
-  "en": "",
-  "status": ""
+  "en": "Munch munch munch...",
+  "status": "tl"
  },
  {
   "id": "EFD5C0:6",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ん！　おいしいね、コレ！！",
-  "en": "",
-  "status": ""
+  "en": "Mm! This is delicious!!",
+  "status": "tl"
  },
  {
   "id": "EFD5C0:8",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "こりゃ十分、合格点だな！",
-  "en": "",
-  "status": ""
+  "en": "Now this easily makes the grade!",
+  "status": "tl"
  },
  {
   "id": "EFD5C0:10",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "わー、ありがとうございまーす！！",
-  "en": "",
-  "status": ""
+  "en": "Yay, thank you so much!!",
+  "status": "tl"
  },
  {
   "id": "EFD7A4:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "いっ、いただきま~す…",
-  "en": "",
-  "status": ""
+  "en": "L-let's diiig in...",
+  "status": "tl"
  },
  {
   "id": "EFD7A4:4",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "モグモグモグ…",
-  "en": "",
-  "status": ""
+  "en": "Munch munch munch...",
+  "status": "tl"
  },
  {
   "id": "EFD7A4:6",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "………グハッ！！",
-  "en": "",
-  "status": ""
+  "en": ".........Bleaugh!!",
+  "status": "tl"
  },
  {
   "id": "EFD7A4:8",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "…オ、オエエエエッ！！",
-  "en": "",
-  "status": ""
+  "en": "...H-hurrrk!!",
+  "status": "tl"
  },
  {
   "id": "EFD7A4:9",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ンだこりゃ、俺たちを殺す気か！?",
-  "en": "",
-  "status": ""
+  "en": "What the hell is this, you tryin' to kill us?!",
+  "status": "tl"
  },
  {
   "id": "EFD7A4:11",
   "kind": "msg",
   "speaker": "レナ",
   "jp": "ダメ…なんですね………",
-  "en": "",
-  "status": ""
+  "en": "So it's... no good.........",
+  "status": "tl"
  },
  {
   "id": "EFD7A4:13",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ダメに決まってンだろうが！\nダイオキシンみてぇな味すンぞ！?",
-  "en": "",
-  "status": ""
+  "en": "Of course it's no good! It tastes like dioxin!",
+  "status": "tl"
  },
  {
   "id": "EFD7A4:15",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "蛮ちゃん…\nダイオキシン食べたことあんの?",
-  "en": "",
-  "status": ""
+  "en": "Ban... You've eaten dioxin before?",
+  "status": "tl"
  },
  {
   "id": "EFD7A4:17",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "体に悪そうな味がするってことだよ！",
-  "en": "",
-  "status": ""
+  "en": "I mean it tastes bad for your health!",
+  "status": "tl"
  },
  {
   "id": "EFD7A4:19",
   "kind": "msg",
   "speaker": "レナ",
   "jp": "そうですか…やっぱり私なんて\nいなくなった方がマシなんですよね…",
-  "en": "",
-  "status": ""
+  "en": "I see... I knew it, everyone would be better off without me...",
+  "status": "tl"
  },
  {
   "id": "EFD7A4:21",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "そ、そんなことないって！\nおいしいよね、蛮ちゃん?",
-  "en": "",
-  "status": ""
+  "en": "Th-that's not true! It's tasty, right, Ban?",
+  "status": "tl"
  },
  {
   "id": "EFD7A4:23",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "…お、おうよ",
-  "en": "",
-  "status": ""
+  "en": "...Y-yeah, sure.",
+  "status": "tl"
  },
  {
   "id": "EFD7A4:25",
   "kind": "msg",
   "speaker": "レナ",
   "jp": "あ、ありがとうございます！！",
-  "en": "",
-  "status": ""
+  "en": "Th-thank you so much!!",
+  "status": "tl"
  },
  {
   "id": "EFDD40:1",
   "kind": "msg",
   "speaker": "JキッズA",
   "jp": "おっ、キミたち可愛いね~\nどうよ、これから遊びに行かない?",
-  "en": "",
-  "status": ""
+  "en": "Whoa, you girls are cute! How 'bout it, wanna go hang out with us?",
+  "status": "tl"
  },
  {
   "id": "EFDD40:3",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "バイト中なんでダメです\n帰ろ、レナちゃん",
-  "en": "",
-  "status": ""
+  "en": "We can't, we're on the job. Let's go home, Rena.",
+  "status": "tl"
  },
  {
   "id": "EFDD40:5",
   "kind": "msg",
   "speaker": "JキッズB",
   "jp": "バイトなんてサボればいいじゃん、な！",
-  "en": "",
-  "status": ""
+  "en": "Just skip your job, c'mon!",
+  "status": "tl"
  },
  {
   "id": "EFDD40:7",
   "kind": "msg",
   "speaker": "レナ",
   "jp": "ヤダ！　ちょっとヤメて下さい！！",
-  "en": "",
-  "status": ""
+  "en": "No! Please stop it!!",
+  "status": "tl"
  },
  {
   "id": "EFDE94:1",
   "kind": "msg",
   "speaker": "JキッズC",
   "jp": "なんだよ、アンタら…\n関係ないならどいてて欲しいんだけど?",
-  "en": "",
-  "status": ""
+  "en": "What's with you guys... If this ain't your business, how 'bout you get outta the way?",
+  "status": "tl"
  },
  {
   "id": "EFDE94:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "そういうワケにもいかないよ！\nね、蛮ちゃん?",
-  "en": "",
-  "status": ""
+  "en": "We can't just do that! Right, Ban?",
+  "status": "tl"
  },
  {
   "id": "EFDE94:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ま、飯の恩もあるしな…",
-  "en": "",
-  "status": ""
+  "en": "Well, we do owe 'em for the food...",
+  "status": "tl"
  },
  {
   "id": "EFDE94:7",
   "kind": "msg",
   "speaker": "JキッズA",
   "jp": "へえ、保護者ヅラかよ…",
-  "en": "",
-  "status": ""
+  "en": "Heh, playin' guardian, huh...",
+  "status": "tl"
  },
  {
   "id": "EFDE94:8",
   "kind": "msg",
   "speaker": "JキッズA",
   "jp": "そういうウルサイのには\nここで消えてもらわないとな！",
-  "en": "",
-  "status": ""
+  "en": "Busybodies like you are gonna have to disappear right here!",
+  "status": "tl"
  },
  {
   "id": "EFE01C:1",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "蛮さん、銀次さん！\n大丈夫ですか！?",
-  "en": "",
-  "status": ""
+  "en": "Ban, Ginji! Are you all right?!",
+  "status": "tl"
  },
  {
   "id": "EFE01C:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "こんなの平気、平気！\n夏実ちゃんのサンドイッチのおかげだね",
-  "en": "",
-  "status": ""
+  "en": "That was nothing, nothing at all! It's all thanks to your sandwich, Natsumi!",
+  "status": "tl"
  },
  {
   "id": "EFE01C:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "腹へってちゃパワー出ねえしな",
-  "en": "",
-  "status": ""
+  "en": "Can't put out any power on an empty stomach.",
+  "status": "tl"
  },
  {
   "id": "EFE01C:7",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "じゃあ、私たちはそろそろ帰りますね\nお仕事ガンバって下さいね♥",
-  "en": "",
-  "status": ""
+  "en": "Well, we'd better get going home now. Good luck with your work♥",
+  "status": "tl"
  },
  {
   "id": "EFE20C:1",
   "kind": "msg",
   "speaker": "レナ",
   "jp": "あ、あの…大丈夫ですか?",
-  "en": "",
-  "status": ""
+  "en": "U-um... Are you all right?",
+  "status": "tl"
  },
  {
   "id": "EFE20C:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "う~ん、大丈夫っていうか、\n大丈夫じゃないっていうか…",
-  "en": "",
-  "status": ""
+  "en": "Hmmm, I guess I'm all right, but also kinda not all right...",
+  "status": "tl"
  },
  {
   "id": "EFE20C:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "やけに破壊力のある\nサンドイッチだったからな…",
-  "en": "",
-  "status": ""
+  "en": "That sandwich packed a hell of a punch...",
+  "status": "tl"
  },
  {
   "id": "EFE20C:7",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "…あれ?\nでもなんかパワーみなぎってきたよ?",
-  "en": "",
-  "status": ""
+  "en": "...Huh? But I feel power surging through me all of a sudden!",
+  "status": "tl"
  },
  {
   "id": "EFE3C8:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "な、なんだ?\n後から効いてきやがったぞ！?",
-  "en": "",
-  "status": ""
+  "en": "Wh-what the? It's kicking in after the fact?!",
+  "status": "tl"
  },
  {
   "id": "EFE3C8:3",
   "kind": "msg",
   "speaker": "レナ",
   "jp": "ええ、体に良さそうなものを\n色々と入れておきましたから！",
-  "en": "",
-  "status": ""
+  "en": "Yes, I put in all kinds of things that seemed good for your health!",
+  "status": "tl"
  },
  {
   "id": "EFE3C8:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "(色々と…?)",
-  "en": "",
-  "status": ""
+  "en": "(All kinds of things...?)",
+  "status": "tl"
  },
  {
   "id": "EFE3C8:7",
   "kind": "msg",
   "speaker": "レナ",
   "jp": "そろそろお店に戻りますね\nじゃあ、ガンバって下さいね♥",
-  "en": "",
-  "status": ""
+  "en": "I'd better get back to the shop. Well, good luck♥",
+  "status": "tl"
  },
  {
   "id": "EFE5A4:1",
   "kind": "msg",
   "speaker": "吉良",
   "jp": "オー・ディオ！\nあきらめが悪い人ってのはタチが悪いね",
-  "en": "",
-  "status": ""
+  "en": "Oh Dio! People who can't take a hint are such a nuisance.",
+  "status": "tl"
  },
  {
   "id": "EFE5A4:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "それはテメーだろうが?\nさっさと観念してカメラを渡しな?",
-  "en": "",
-  "status": ""
+  "en": "Look who's talkin'. Give it up already and hand over the camera.",
+  "status": "tl"
  },
  {
   "id": "EFE5A4:5",
   "kind": "msg",
   "speaker": "吉良",
   "jp": "どうしてこの私がキミたちなんかに\n観念しなくちゃならないのかな?　ん?",
-  "en": "",
-  "status": ""
+  "en": "Why ever should I give up to the likes of you? Hmm?",
+  "status": "tl"
  },
  {
   "id": "EFE5A4:7",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "蛮ちゃん…\nオレ、この人苦手なんだけど…",
-  "en": "",
-  "status": ""
+  "en": "Ban... I'm not so good with this guy...",
+  "status": "tl"
  },
  {
   "id": "EFE5A4:9",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ムリにイタリア語使おうとする辺りも\n頭にくるしな…",
-  "en": "",
-  "status": ""
+  "en": "The way he forces out that Italian really ticks me off too...",
+  "status": "tl"
  },
  {
   "id": "EFE5A4:10",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "こうなったら力づくでだな…",
-  "en": "",
-  "status": ""
+  "en": "Guess we'll do it the hard way, then...",
+  "status": "tl"
  },
  {
   "id": "EFE5A4:12",
   "kind": "msg",
   "speaker": "吉良",
   "jp": "ほほう、かかってくるかね?",
-  "en": "",
-  "status": ""
+  "en": "Oho, so you'll come at me, will you?",
+  "status": "tl"
  },
  {
   "id": "EFE5A4:13",
   "kind": "msg",
   "speaker": "吉良",
   "jp": "まあお相手してあげなくもないがね?\n私の得意な妖術でね！！",
-  "en": "",
-  "status": ""
+  "en": "Well, I suppose I could indulge you. With my specialty, sorcery!!",
+  "status": "tl"
  },
  {
   "id": "EFE8E8:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "悪夢は見れたかよ?",
-  "en": "",
-  "status": ""
+  "en": "Enjoy the nightmare?",
+  "status": "tl"
  },
  {
   "id": "EFE8E8:3",
   "kind": "msg",
   "speaker": "吉良",
   "jp": "なっ…今のは！?",
-  "en": "",
-  "status": ""
+  "en": "Wha... What was that?!",
+  "status": "tl"
  },
  {
   "id": "EFE8E8:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "邪眼だよ…仮にも妖術師の端くれなら\n知ってンだろうが?",
-  "en": "",
-  "status": ""
+  "en": "The Evil Eye... If you're even a small-time sorcerer, you oughta know it, right?",
+  "status": "tl"
  },
  {
   "id": "EFE8E8:7",
   "kind": "msg",
   "speaker": "吉良",
   "jp": "邪眼だと?　あの一分間の幻影を\n見せることができるという！?",
-  "en": "",
-  "status": ""
+  "en": "The Evil Eye, you say? The one that can show a one-minute illusion?!",
+  "status": "tl"
  },
  {
   "id": "EFE8E8:8",
   "kind": "msg",
   "speaker": "吉良",
   "jp": "まさかお前は…魔女の末裔！?",
-  "en": "",
-  "status": ""
+  "en": "Don't tell me you're... a descendant of the witches?!",
+  "status": "tl"
  },
  {
   "id": "EFE8E8:10",
@@ -1892,295 +1892,295 @@
   "kind": "msg",
   "speaker": "銀次",
   "jp": "蛮ちゃん、カメラあったよ！！",
-  "en": "",
-  "status": ""
+  "en": "Ban, I found the camera!!",
+  "status": "tl"
  },
  {
   "id": "EFE8E8:14",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "つーワケで\nカメラは奪還させてもらったぜ",
-  "en": "",
-  "status": ""
+  "en": "So yeah, we'll be getting back this camera.",
+  "status": "tl"
  },
  {
   "id": "EFE8E8:15",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "俺らは奪還屋だからな…\nあんたと戦うのが目的じゃねーんだよ！",
-  "en": "",
-  "status": ""
+  "en": "We're the GetBackers... Fighting you was never the point!",
+  "status": "tl"
  },
  {
   "id": "EFE8E8:16",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "じゃあな！",
-  "en": "",
-  "status": ""
+  "en": "See ya!",
+  "status": "tl"
  },
  {
   "id": "EFEBD4:1",
   "kind": "msg",
   "speaker": "吉良",
   "jp": "待ちたまえ！",
-  "en": "",
-  "status": ""
+  "en": "Wait!",
+  "status": "tl"
  },
  {
   "id": "EFEC18:1",
   "kind": "msg",
   "speaker": "吉良",
   "jp": "キミ…キミは素晴らしいよ！\nベニッシモ…実に、ね",
-  "en": "",
-  "status": ""
+  "en": "You... You are magnificent! Benissimo... truly.",
+  "status": "tl"
  },
  {
   "id": "EFEC18:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "蛮ちゃん…あの人、蛮ちゃんを見て\n目をキラキラさせてるけど?",
-  "en": "",
-  "status": ""
+  "en": "Ban... That guy's looking at you all starry-eyed...",
+  "status": "tl"
  },
  {
   "id": "EFEC18:5",
   "kind": "msg",
   "speaker": "吉良",
   "jp": "キミの持つ魔力…欲しいねえ、それ",
-  "en": "",
-  "status": ""
+  "en": "Your magic power... I want it.",
+  "status": "tl"
  },
  {
   "id": "EFEC18:6",
   "kind": "msg",
   "speaker": "吉良",
   "jp": "妖術の次は魔術を習いたいんだよ…\nそうすれば最強になれるんだ、私は！！",
-  "en": "",
-  "status": ""
+  "en": "After sorcery, I want to learn magic... Then I'll be the strongest of all!!",
+  "status": "tl"
  },
  {
   "id": "EFEC18:8",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "…なンだ、そりゃ?\n最強になるだァ?",
-  "en": "",
-  "status": ""
+  "en": "...The hell's that? You wanna be the strongest?",
+  "status": "tl"
  },
  {
   "id": "EFEC18:9",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "この俺から魔力を奪いたいンなら、\nそれなりの覚悟をした方がいいぜ?",
-  "en": "",
-  "status": ""
+  "en": "If you wanna steal magic power from the great Ban, you'd better be ready for what's comin'.",
+  "status": "tl"
  },
  {
   "id": "EFEC18:11",
   "kind": "msg",
   "speaker": "吉良",
   "jp": "いいだろう！\nキミを倒し、その魔力を奪ってみせよう",
-  "en": "",
-  "status": ""
+  "en": "Very well! I shall defeat you and take that magic power for myself.",
+  "status": "tl"
  },
  {
   "id": "EFEF04:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ケッ、\nやっぱインチキ妖術師だったな…",
-  "en": "",
-  "status": ""
+  "en": "Tch. Knew he was a phony sorcerer...",
+  "status": "tl"
  },
  {
   "id": "EFEF04:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "じゃ、早いとこカメラを\n杏ちゃんに届けてあげようよ！",
-  "en": "",
-  "status": ""
+  "en": "Okay, let's hurry and get the camera to Anzu!",
+  "status": "tl"
  },
  {
   "id": "EFEFC0:1",
   "kind": "msg",
   "speaker": "杏",
   "jp": "さっすが奪還屋さんッス！\nカメラが無事で良かったッスよ~！！",
-  "en": "",
-  "status": ""
+  "en": "The GetBackers, as expected! I'm so glad the camera's safe, see!!",
+  "status": "tl"
  },
  {
   "id": "EFEFC0:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "良かったね、杏ちゃん！",
-  "en": "",
-  "status": ""
+  "en": "That's great, Anzu!",
+  "status": "tl"
  },
  {
   "id": "EFEFC0:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "俺らはタダ働き同然だったがな…",
-  "en": "",
-  "status": ""
+  "en": "We pretty much worked for free, though...",
+  "status": "tl"
  },
  {
   "id": "EFEFC0:7",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ねえねえ、\nそれって特別なカメラなんでしょ?",
-  "en": "",
-  "status": ""
+  "en": "Hey, hey, that's a special camera, right?",
+  "status": "tl"
  },
  {
   "id": "EFEFC0:8",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "どう特別なの?",
-  "en": "",
-  "status": ""
+  "en": "How's it special?",
+  "status": "tl"
  },
  {
   "id": "EFEFC0:10",
   "kind": "msg",
   "speaker": "杏",
   "jp": "うーん、それはゴクヒなんスけど…\nでもいいッス、教えてあげちゃうッス！",
-  "en": "",
-  "status": ""
+  "en": "Hmm, that's top secret... But okay, I'll tell you, see!",
+  "status": "tl"
  },
  {
   "id": "EFEFC0:11",
   "kind": "msg",
   "speaker": "杏",
   "jp": "このカメラは真実を\n映し出すカメラなんッスよー",
-  "en": "",
-  "status": ""
+  "en": "This camera shows the truth!",
+  "status": "tl"
  },
  {
   "id": "EFEFC0:13",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "真実！?",
-  "en": "",
-  "status": ""
+  "en": "The truth?!",
+  "status": "tl"
  },
  {
   "id": "EFEFC0:15",
   "kind": "msg",
   "speaker": "杏",
   "jp": "そっス！　例えば写した人の\n一番信頼してる人が隣に写ったりとか…",
-  "en": "",
-  "status": ""
+  "en": "Yup! Like, the person the subject trusts most might show up right next to them...",
+  "status": "tl"
  },
  {
   "id": "EFEFC0:17",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "アホか！　写るワケねーだろうが！！",
-  "en": "",
-  "status": ""
+  "en": "Moron! Like that's gonna show up!!",
+  "status": "tl"
  },
  {
   "id": "EFEFC0:19",
   "kind": "msg",
   "speaker": "杏",
   "jp": "杏のコト、疑ってるッスね?",
-  "en": "",
-  "status": ""
+  "en": "You don't believe me, do you?",
+  "status": "tl"
  },
  {
   "id": "EFEFC0:20",
   "kind": "msg",
   "speaker": "杏",
-  "jp": "…まあいつもいつも不思濤な写真が\n撮れるワケじゃないッスけど…",
-  "en": "",
-  "status": ""
+  "jp": "…まあいつもいつも不思議な写真が\n撮れるワケじゃないッスけど…",
+  "en": "...Well, it doesn't take mysterious pictures every single time...",
+  "status": "tl"
  },
  {
   "id": "EFEFC0:21",
   "kind": "msg",
   "speaker": "杏",
   "jp": "でも撮れる時は撮れるッスよ！",
-  "en": "",
-  "status": ""
+  "en": "But when it does, it does, see!",
+  "status": "tl"
  },
  {
   "id": "EFEFC0:23",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "面白いね、それ！\nねえ、一枚撮ってよ！！",
-  "en": "",
-  "status": ""
+  "en": "Sounds fun! Hey, take one of us!!",
+  "status": "tl"
  },
  {
   "id": "EFEFC0:25",
   "kind": "msg",
   "speaker": "杏",
   "jp": "いいッスよ！\nさあ、並んで、並んで！！",
-  "en": "",
-  "status": ""
+  "en": "Sure! C'mon, line up, line up!!",
+  "status": "tl"
  },
  {
   "id": "EFF5D8:1",
   "kind": "msg",
   "speaker": "杏",
   "jp": "杏が撮った写真はすぐにあげるッス",
-  "en": "",
-  "status": ""
+  "en": "I'll hand over the photos I take right away.",
+  "status": "tl"
  },
  {
   "id": "EFF5D8:2",
   "kind": "msg",
   "speaker": "杏",
   "jp": "写真のデータはアイテムの\nカードの中に入ってるッスよ！！",
-  "en": "",
-  "status": ""
+  "en": "The photo data goes inside one of your item cards, see!!",
+  "status": "tl"
  },
  {
   "id": "EFF5D8:3",
   "kind": "msg",
   "speaker": "杏",
   "jp": "ち・な・み・に…",
-  "en": "",
-  "status": ""
+  "en": "And... by... the... way...",
+  "status": "tl"
  },
  {
   "id": "EFF5D8:4",
   "kind": "msg",
   "speaker": "杏",
   "jp": "カードはたくさんあるから今撮ったのが\n下の方に出現してる場合もあるッス",
-  "en": "",
-  "status": ""
+  "en": "There are lots of cards, so the one you just took might show up farther down the list.",
+  "status": "tl"
  },
  {
   "id": "EFF5D8:5",
   "kind": "msg",
   "speaker": "杏",
   "jp": "写真を撮ったのに見当たらない場合は\nカーソルを下の方に送ってみるッスよ！",
-  "en": "",
-  "status": ""
+  "en": "If you took a picture but can't find it, try moving the cursor down, see!",
+  "status": "tl"
  },
  {
   "id": "EFF5D8:6",
   "kind": "msg",
   "speaker": "杏",
   "jp": "んじゃ、準備はいいッスかー?",
-  "en": "",
-  "status": ""
+  "en": "Okay, everybody ready?",
+  "status": "tl"
  },
  {
   "id": "EFF5D8:7",
   "kind": "msg",
   "speaker": "杏",
   "jp": "撮るッスよー",
-  "en": "",
-  "status": ""
+  "en": "Here goes!",
+  "status": "tl"
  },
  {
   "id": "EFF5D8:8",
   "kind": "msg",
   "speaker": "杏",
   "jp": "ハイ、カシャリンコー",
-  "en": "",
-  "status": ""
+  "en": "Say cheese... click!",
+  "status": "tl"
  }
 ]

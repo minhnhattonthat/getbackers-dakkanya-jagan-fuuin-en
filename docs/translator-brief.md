@@ -47,7 +47,20 @@ Never edit `glossary.md` or any file other than your own output file. For a recu
 glossary, pick a form (official English if you know it, else Hepburn), use it consistently, and report it.
 
 ## Notes from earlier batches (binding)
-- (none yet)
+- Edit your output only with the Write/Edit tools (no sed), as the ground rules require.
+- Terms already chosen: カルタス -> Cartas; ハイパー・バトル・シンク -> Hyper Battle Sync; 気力アップ -> Spirit Up;
+  綾峰先生 -> Professor Ayamine; 新宿のババ -> Hag of Shinjuku; 人面イカ -> Human-Face Squid; ルン -> Run.
+- Battle skills: 風鳥院流絃術 -> "String Arts" is acceptable inside a battle cut-in only when the full form can't fit
+  (the cut-in limit is hard); 薔玉の楯 -> Rose Bead Shield; 秋雨 -> Autumn Rain; 流星 -> Shooting Star;
+  白扇の舞 -> White Fan Dance; 〜面の舞 -> "Okina/Kami/Otoko/Onna/Kurui/Miko Mask Dance"; 地嶽変 -> Hell Screen.
+- 神門 is read Mikado (Kyosuke Mikado, Daisuke Mikado). 窪田清十郎 -> Seijuro Kubota; 清ジイ -> "Old Man Sei";
+  窪ちん -> "Kubo"; カヅっちゃん -> "Kazu"; 絃巻き (Ban about Kazuki) -> "Spool Boy"; 催眠香 -> Hypno Incense;
+  百獣擬態 -> Hundred Beast Mimicry; ブルマン -> Blue Mountain; ウグイス廊下 -> nightingale floor; 招き猫 -> beckoning cat;
+  カギ爪ロープ -> Grappling Rope; 地下室のカギ -> Basement Key; 清十郎 -> Seijuro.
+- More glyph misreads: 獄散 = 蹴散, 胤 = 脱, 菅 = 管, 綿 = 絡 (連絡), 頷 = 額, 勾 = 句 (文句), 閲 = 閉.
+- Ginji's たれ (tare) form = "droopy" chibi Ginji ("go all droopy"). Mecha Hiruta speaks in ALL CAPS.
+- Known glyph misreads in the Japanese: 責様 = 貴様 (you bastard), 閲 = 閉, 誉 = 響, 薇 = 猿 (monkey; 猿擬 = Monkey
+  Mimicry), 濤 = 議, 獺 = 殲. Kira's Italian stays Italian ("Benissimo!", "Tutto chiaro?").
 
 ## Report (reply with only this)
 Files written and entry count; then any lines: `NEW TERM: jp -> en`, `UNSURE: id - note`, `LONG: id - note`.

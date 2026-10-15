@@ -12,8 +12,8 @@
   "kind": "bline",
   "speaker": "松風",
   "jp": "これならどうだ?",
-  "en": "",
-  "status": ""
+  "en": "How about this?",
+  "status": "tl"
  },
  {
   "id": "EE1B88:1",
@@ -28,8 +28,8 @@
   "kind": "bline",
   "speaker": "松風",
   "jp": "引き潮の舞！　　",
-  "en": "",
-  "status": ""
+  "en": "Ebb Tide Dance!",
+  "status": "tl"
  },
  {
   "id": "EE1C4C:1",
@@ -44,8 +44,8 @@
   "kind": "bline",
   "speaker": "松風",
   "jp": "ムダなことを…　",
-  "en": "",
-  "status": ""
+  "en": "Pointless...",
+  "status": "tl"
  },
  {
   "id": "EE1CCC:1",
@@ -60,8 +60,8 @@
   "kind": "bline",
   "speaker": "村雨",
   "jp": "これで決める！！　　",
-  "en": "",
-  "status": ""
+  "en": "This ends it!!",
+  "status": "tl"
  },
  {
   "id": "EE1D94:1",
@@ -76,8 +76,8 @@
   "kind": "bline",
   "speaker": "村雨",
   "jp": "お楽しみはこれからさっ！　　",
-  "en": "",
-  "status": ""
+  "en": "The fun's just getting started!",
+  "status": "tl"
  },
  {
   "id": "EE1E20:1",
@@ -92,8 +92,8 @@
   "kind": "bline",
   "speaker": "村雨",
   "jp": "勝ったつもりかい！?　　",
-  "en": "",
-  "status": ""
+  "en": "Think you've already won?!",
+  "status": "tl"
  },
  {
   "id": "EE1EA8:1",
@@ -108,8 +108,8 @@
   "kind": "bline",
   "speaker": "白拍子",
   "jp": "ほっ！　",
-  "en": "",
-  "status": ""
+  "en": "Hup!",
+  "status": "tl"
  },
  {
   "id": "EE1F64:1",
@@ -124,8 +124,8 @@
   "kind": "bline",
   "speaker": "白拍子",
   "jp": "よっ！　",
-  "en": "",
-  "status": ""
+  "en": "Yo!",
+  "status": "tl"
  },
  {
   "id": "EE2064:1",
@@ -140,8 +140,8 @@
   "kind": "bline",
   "speaker": "白拍子",
   "jp": "はっ！　",
-  "en": "",
-  "status": ""
+  "en": "Hah!",
+  "status": "tl"
  },
  {
   "id": "EE21B4:1",
@@ -156,8 +156,8 @@
   "kind": "bline",
   "speaker": "杜若",
   "jp": "せりゃ！！　",
-  "en": "",
-  "status": ""
+  "en": "Hyah!!",
+  "status": "tl"
  },
  {
   "id": "EE2274:1",
@@ -172,40 +172,40 @@
   "kind": "bline",
   "speaker": "杜若",
   "jp": "行くぞ、扇風波！！　",
-  "en": "",
-  "status": ""
+  "en": "Here goes, Fan Wind Wave!!",
+  "status": "tl"
  },
  {
   "id": "EE2330:1",
   "kind": "bline",
   "speaker": "杜若",
   "jp": "見切れるか…扇乱舞！！！　　",
-  "en": "",
-  "status": ""
+  "en": "Can you read it... Fan Frenzy!!!",
+  "status": "tl"
  },
  {
   "id": "EE2468:1",
   "kind": "bline",
   "speaker": "百万",
   "jp": "キェェェッ！",
-  "en": "",
-  "status": ""
+  "en": "Kyeeeeh!",
+  "status": "tl"
  },
  {
   "id": "EE250C:1",
   "kind": "bline",
   "speaker": "百万",
   "jp": "タァァッ！　",
-  "en": "",
-  "status": ""
+  "en": "Taaaah!",
+  "status": "tl"
  },
  {
   "id": "EE2634:1",
   "kind": "bline",
   "speaker": "百万",
   "jp": "シャァァァアッ！！　",
-  "en": "",
-  "status": ""
+  "en": "Shaaaaaah!!",
+  "status": "tl"
  },
  {
   "id": "EE271C:1",
@@ -220,8 +220,8 @@
   "kind": "bline",
   "speaker": "天人(鳳凰)",
   "jp": "燃え尽きちまいなっ！　　",
-  "en": "",
-  "status": ""
+  "en": "Burn to a crisp!",
+  "status": "tl"
  },
  {
   "id": "EE27F8:1",
@@ -235,9 +235,9 @@
   "id": "EE27F8:3",
   "kind": "bline",
   "speaker": "天人(鳳凰)",
-  "jp": "責様ら全員ケシズミにしてやる！！　　",
-  "en": "",
-  "status": ""
+  "jp": "貴様ら全員ケシズミにしてやる！！　　",
+  "en": "I'll reduce you all to ashes!!",
+  "status": "tl"
  },
  {
   "id": "EE28E0:1",
@@ -252,8 +252,8 @@
   "kind": "bline",
   "speaker": "天人(鳳凰)",
   "jp": "三天人の焔…受けてみな！！　",
-  "en": "",
-  "status": ""
+  "en": "Take the Three Tennin's flame!!",
+  "status": "tl"
  },
  {
   "id": "EE29E4:1",
@@ -268,8 +268,8 @@
   "kind": "bline",
   "speaker": "天人(蓮)",
   "jp": "花雨！　",
-  "en": "",
-  "status": ""
+  "en": "Flower Rain!",
+  "status": "tl"
  },
  {
   "id": "EE2AA8:1",
@@ -284,8 +284,8 @@
   "kind": "bline",
   "speaker": "天人(蓮)",
   "jp": "花嵐！　",
-  "en": "",
-  "status": ""
+  "en": "Flower Storm!",
+  "status": "tl"
  },
  {
   "id": "EE2BFC:1",
@@ -300,8 +300,8 @@
   "kind": "bline",
   "speaker": "天人(蓮)",
   "jp": "三天人の力、いまこそ合わす時！　",
-  "en": "",
-  "status": ""
+  "en": "Three Tennin, unite our power now!",
+  "status": "tl"
  },
  {
   "id": "EE2D98:1",
@@ -316,8 +316,8 @@
   "kind": "bline",
   "speaker": "天人(日月)",
   "jp": "…蝕！！　　",
-  "en": "",
-  "status": ""
+  "en": "...Eclipse!!",
+  "status": "tl"
  },
  {
   "id": "EE2E68:1",
@@ -332,8 +332,8 @@
   "kind": "bline",
   "speaker": "天人(日月)",
   "jp": "……日蝕！！　　",
-  "en": "",
-  "status": ""
+  "en": "......Solar Eclipse!!",
+  "status": "tl"
  },
  {
   "id": "EE2EF8:1",
@@ -348,8 +348,8 @@
   "kind": "bline",
   "speaker": "天人(日月)",
   "jp": "三天人の恐ろしさをみせてやろうぞ…　",
-  "en": "",
-  "status": ""
+  "en": "Know the Three Tennin's terror...",
+  "status": "tl"
  },
  {
   "id": "EE2F98:1",
@@ -364,8 +364,8 @@
   "kind": "bline",
   "speaker": "西行桜",
   "jp": "願わくば　花の下にて春死なむ…　",
-  "en": "",
-  "status": ""
+  "en": "Let me die in spring 'neath bloom",
+  "status": "tl"
  },
  {
   "id": "EE3078:1",
@@ -380,8 +380,8 @@
   "kind": "bline",
   "speaker": "西行桜",
   "jp": "花に清香　月に影…　",
-  "en": "",
-  "status": ""
+  "en": "Scent to blossom, shade to moon...",
+  "status": "tl"
  },
  {
   "id": "EE30FC:1",
@@ -396,8 +396,8 @@
   "kind": "bline",
   "speaker": "西行桜",
   "jp": "しづごころなく花のちるらむ…",
-  "en": "",
-  "status": ""
+  "en": "Why must the blossoms fall so...",
+  "status": "tl"
  },
  {
   "id": "EE3208:1",
@@ -412,8 +412,8 @@
   "kind": "bline",
   "speaker": "曲見",
   "jp": "呪いの舞！！　　",
-  "en": "",
-  "status": ""
+  "en": "Dance of Curses!!",
+  "status": "tl"
  },
  {
   "id": "EE32C0:1",
@@ -428,8 +428,8 @@
   "kind": "bline",
   "speaker": "曲見",
   "jp": "さあ、狂宴の始まりだ！　",
-  "en": "",
-  "status": ""
+  "en": "Now, let the mad feast begin!",
+  "status": "tl"
  },
  {
   "id": "EE33C8:1",
@@ -444,8 +444,8 @@
   "kind": "bline",
   "speaker": "曲見",
   "jp": "魂は我が掌中に有り　",
-  "en": "",
-  "status": ""
+  "en": "Your soul lies in my palm.",
+  "status": "tl"
  },
  {
   "id": "EE34C0:1",
@@ -460,8 +460,8 @@
   "kind": "bline",
   "speaker": "梅若丸母",
   "jp": "乱気流よっ！　来い！",
-  "en": "",
-  "status": ""
+  "en": "Turbulence! Come forth!",
+  "status": "tl"
  },
  {
   "id": "EE3590:1",
@@ -476,8 +476,8 @@
   "kind": "bline",
   "speaker": "梅若丸母",
   "jp": "疾風の力をオレにっ！",
-  "en": "",
-  "status": ""
+  "en": "Lend me the power of the gale!",
+  "status": "tl"
  },
  {
   "id": "EE361C:1",
@@ -492,8 +492,8 @@
   "kind": "bline",
   "speaker": "梅若丸母",
   "jp": "春風よ、傷を癒せっ！",
-  "en": "",
-  "status": ""
+  "en": "Spring breeze, heal my wounds!",
+  "status": "tl"
  },
  {
   "id": "EE36E4:1",
@@ -508,8 +508,8 @@
   "kind": "bline",
   "speaker": "芦屋某妻",
   "jp": "オラァッ！　",
-  "en": "",
-  "status": ""
+  "en": "Hyah!",
+  "status": "tl"
  },
  {
   "id": "EE37AC:1",
@@ -524,8 +524,8 @@
   "kind": "bline",
   "speaker": "芦屋某妻",
   "jp": "オラオラオラァッ！！",
-  "en": "",
-  "status": ""
+  "en": "Hyah hyah hyaaah!!",
+  "status": "tl"
  },
  {
   "id": "EE3900:1",
@@ -540,8 +540,8 @@
   "kind": "bline",
   "speaker": "芦屋某妻",
   "jp": "オラオラオラオラオラァッ！！",
-  "en": "",
-  "status": ""
+  "en": "Hyah hyah hyah hyah hyaaah!!",
+  "status": "tl"
  },
  {
   "id": "EE3AEC:1",
@@ -556,8 +556,8 @@
   "kind": "bline",
   "speaker": "慈童",
   "jp": "連撃！！　　",
-  "en": "",
-  "status": ""
+  "en": "Combo strike!!",
+  "status": "tl"
  },
  {
   "id": "EE3BC4:1",
@@ -572,16 +572,16 @@
   "kind": "bline",
   "speaker": "慈童",
   "jp": "おおおおぉぉぉお！　",
-  "en": "",
-  "status": ""
+  "en": "Ooooooooh!",
+  "status": "tl"
  },
  {
   "id": "EE3C48:1",
   "kind": "bline",
   "speaker": "慈童",
   "jp": "獣の姿に変えてやろう",
-  "en": "",
-  "status": ""
+  "en": "I'll turn you into a beast.",
+  "status": "tl"
  },
  {
   "id": "EE3E4C:1",
@@ -596,7 +596,7 @@
   "kind": "bline",
   "speaker": "K(六面豪鬼)",
   "jp": "ガアアアアァァアア！！　",
-  "en": "",
-  "status": ""
+  "en": "Gaaaaaaaaargh!!",
+  "status": "tl"
  }
 ]

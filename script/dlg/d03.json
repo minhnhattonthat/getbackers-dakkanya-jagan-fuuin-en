@@ -12,8 +12,8 @@
   "kind": "bline",
   "speaker": "照日巫女",
   "jp": "昇天！！",
-  "en": "",
-  "status": ""
+  "en": "Ascend!!",
+  "status": "tl"
  },
  {
   "id": "EEAD28:1",
@@ -28,8 +28,8 @@
   "kind": "bline",
   "speaker": "照日巫女",
   "jp": "照日の舞…　",
-  "en": "",
-  "status": ""
+  "en": "Dance of Teruhi...",
+  "status": "tl"
  },
  {
   "id": "EEADE8:1",
@@ -44,8 +44,8 @@
   "kind": "bline",
   "speaker": "照日巫女",
   "jp": "口寄せ…",
-  "en": "",
-  "status": ""
+  "en": "Summoning the dead...",
+  "status": "tl"
  },
  {
   "id": "EEAEA4:1",
@@ -60,8 +60,8 @@
   "kind": "bline",
   "speaker": "巫女",
   "jp": "ヒーッヒッヒ！！　　",
-  "en": "",
-  "status": ""
+  "en": "Hee-hee-hee!!",
+  "status": "tl"
  },
  {
   "id": "EEAF6C:1",
@@ -76,8 +76,8 @@
   "kind": "bline",
   "speaker": "巫女",
   "jp": "呪呪呪呪呪呪呪…",
-  "en": "",
-  "status": ""
+  "en": "Curse curse curse curse curse...",
+  "status": "tl"
  },
  {
   "id": "EEAFEC:1",
@@ -92,8 +92,8 @@
   "kind": "bline",
   "speaker": "巫女",
   "jp": "呪詛呪詛呪詛呪詛…　",
-  "en": "",
-  "status": ""
+  "en": "Hex hex hex hex...",
+  "status": "tl"
  },
  {
   "id": "EEB0B0:1",
@@ -108,8 +108,8 @@
   "kind": "bline",
   "speaker": "慧遠禅師",
   "jp": "ヌンッ！！　",
-  "en": "",
-  "status": ""
+  "en": "Hngh!!",
+  "status": "tl"
  },
  {
   "id": "EEB178:1",
@@ -124,8 +124,8 @@
   "kind": "bline",
   "speaker": "慧遠禅師",
   "jp": "ガアアアァァアアッ！！　",
-  "en": "",
-  "status": ""
+  "en": "Gaaaaaaaagh!!",
+  "status": "tl"
  },
  {
   "id": "EEB208:1",
@@ -140,32 +140,32 @@
   "kind": "bline",
   "speaker": "慧遠禅師",
   "jp": "ウリャアァァアアッ！！　",
-  "en": "",
-  "status": ""
+  "en": "Uryaaaaaaah!!",
+  "status": "tl"
  },
  {
   "id": "EEB354:1",
   "kind": "bline",
   "speaker": "天狗",
   "jp": "行け！　カマイタチ！！　",
-  "en": "",
-  "status": ""
+  "en": "Go! Kamaitachi!!",
+  "status": "tl"
  },
  {
   "id": "EEB410:1",
   "kind": "bline",
   "speaker": "天狗",
   "jp": "心眼…開ッ！！　",
-  "en": "",
-  "status": ""
+  "en": "Mind's Eye... OPEN!!",
+  "status": "tl"
  },
  {
   "id": "EEB474:1",
   "kind": "bline",
   "speaker": "天狗",
   "jp": "切り裂かれてしまえ！",
-  "en": "",
-  "status": ""
+  "en": "Be torn to shreds!",
+  "status": "tl"
  },
  {
   "id": "EEB52C:1",
@@ -180,8 +180,8 @@
   "kind": "bline",
   "speaker": "地嶽鬼",
   "jp": "グァーッハッハッハ！！　",
-  "en": "",
-  "status": ""
+  "en": "Gwaaahahaha!!",
+  "status": "tl"
  },
  {
   "id": "EEB5F8:1",
@@ -196,16 +196,16 @@
   "kind": "bline",
   "speaker": "地嶽鬼",
   "jp": "地嶽の炎で焼かれるがいい！　",
-  "en": "",
-  "status": ""
+  "en": "Burn in the flames of Hell!",
+  "status": "tl"
  },
  {
   "id": "EEB6C8:1",
   "kind": "bline",
   "speaker": "地嶽鬼",
   "jp": "食らえ、地嶽車！！　",
-  "en": "",
-  "status": ""
+  "en": "Take this, Hell Wheel!!",
+  "status": "tl"
  },
  {
   "id": "EEB898:1",
@@ -220,8 +220,8 @@
   "kind": "bline",
   "speaker": "鬼神",
   "jp": "地嶽の業火、受けてみな！！　",
-  "en": "",
-  "status": ""
+  "en": "Taste the fires of Hell!!",
+  "status": "tl"
  },
  {
   "id": "EEB968:1",
@@ -236,8 +236,8 @@
   "kind": "bline",
   "speaker": "鬼神",
   "jp": "こいつに堪えられるか?　",
-  "en": "",
-  "status": ""
+  "en": "Think you can withstand this?",
+  "status": "tl"
  },
  {
   "id": "EEBA34:1",
@@ -252,8 +252,8 @@
   "kind": "bline",
   "speaker": "鬼神",
   "jp": "炎よ、嵐となれ！！　",
-  "en": "",
-  "status": ""
+  "en": "Flames, become a storm!!",
+  "status": "tl"
  },
  {
   "id": "EEBAFC:1",
@@ -268,8 +268,8 @@
   "kind": "bline",
   "speaker": "鵺",
   "jp": "陰ノ術　毒尾！！　　",
-  "en": "",
-  "status": ""
+  "en": "Yin Art: Poison Tail!!",
+  "status": "tl"
  },
  {
   "id": "EEBBEC:1",
@@ -283,17 +283,17 @@
   "id": "EEBBEC:3",
   "kind": "bline",
   "speaker": "鵺",
-  "jp": "陰ノ術　虎薇鳥蛇！！　　",
-  "en": "",
-  "status": ""
+  "jp": "陰ノ術　虎猿鳥蛇！！　　",
+  "en": "Yin Art: Tiger-Bird-Serpent!!",
+  "status": "tl"
  },
  {
   "id": "EEBCB0:1",
   "kind": "bline",
   "speaker": "鵺",
   "jp": "陰ノ術　百鬼夜行！！　　",
-  "en": "",
-  "status": ""
+  "en": "Yin Art: Hundred Demons' Parade!!",
+  "status": "tl"
  },
  {
   "id": "EEBE74:1",
@@ -307,9 +307,9 @@
   "id": "EEBE74:3",
   "kind": "bline",
   "speaker": "雷電",
-  "jp": "雷鳴よ、鳴り誉け！　",
-  "en": "",
-  "status": ""
+  "jp": "雷鳴よ、鳴り響け！　",
+  "en": "Thunder, roar out!",
+  "status": "tl"
  },
  {
   "id": "EEBF3C:1",
@@ -324,16 +324,16 @@
   "kind": "bline",
   "speaker": "雷電",
   "jp": "金縛りだ！　",
-  "en": "",
-  "status": ""
+  "en": "You're paralyzed!",
+  "status": "tl"
  },
  {
   "id": "EEC02C:1",
   "kind": "bline",
   "speaker": "雷電",
   "jp": "雷雲よ、奴らを焦がし尽くせ　",
-  "en": "",
-  "status": ""
+  "en": "Thunderclouds, burn them to ashes!",
+  "status": "tl"
  },
  {
   "id": "EEC200:1",
@@ -348,8 +348,8 @@
   "kind": "bline",
   "speaker": "霊狐",
   "jp": "狐爪！　",
-  "en": "",
-  "status": ""
+  "en": "Fox Claw!",
+  "status": "tl"
  },
  {
   "id": "EEC2BC:1",
@@ -364,8 +364,8 @@
   "kind": "bline",
   "speaker": "霊狐",
   "jp": "九尾爪！　　",
-  "en": "",
-  "status": ""
+  "en": "Nine-Tail Claw!",
+  "status": "tl"
  },
  {
   "id": "EEC3AC:1",
@@ -380,8 +380,8 @@
   "kind": "bline",
   "speaker": "霊狐",
   "jp": "変化爪！　　",
-  "en": "",
-  "status": ""
+  "en": "Shapeshift Claw!",
+  "status": "tl"
  },
  {
   "id": "EEC49C:1",
@@ -396,8 +396,8 @@
   "kind": "bline",
   "speaker": "龍女",
   "jp": "逃さないよっ！　",
-  "en": "",
-  "status": ""
+  "en": "You won't get away!",
+  "status": "tl"
  },
  {
   "id": "EEC560:1",
@@ -412,8 +412,8 @@
   "kind": "bline",
   "speaker": "龍女",
   "jp": "龍刃",
-  "en": "",
-  "status": ""
+  "en": "Dragon Blade",
+  "status": "tl"
  },
  {
   "id": "EEC648:1",
@@ -428,8 +428,8 @@
   "kind": "bline",
   "speaker": "龍女",
   "jp": "我が太刀筋に惑わぬものは無し…　",
-  "en": "",
-  "status": ""
+  "en": "None can follow my blade's path...",
+  "status": "tl"
  },
  {
   "id": "EEC74C:1",
@@ -444,8 +444,8 @@
   "kind": "bline",
   "speaker": "龍神",
   "jp": "目障りだ",
-  "en": "",
-  "status": ""
+  "en": "You're an eyesore.",
+  "status": "tl"
  },
  {
   "id": "EEC808:1",
@@ -460,8 +460,8 @@
   "kind": "bline",
   "speaker": "龍神",
   "jp": "邪魔だ　",
-  "en": "",
-  "status": ""
+  "en": "Out of my way.",
+  "status": "tl"
  },
  {
   "id": "EEC8C4:1",
@@ -476,8 +476,8 @@
   "kind": "bline",
   "speaker": "龍神",
   "jp": "竜巻招来！　",
-  "en": "",
-  "status": ""
+  "en": "Tornado, come forth!",
+  "status": "tl"
  },
  {
   "id": "EEC9CC:1",
@@ -492,8 +492,8 @@
   "kind": "bline",
   "speaker": "葵上",
   "jp": "我が怨念を食らえ！！",
-  "en": "",
-  "status": ""
+  "en": "Taste my grudge!!",
+  "status": "tl"
  },
  {
   "id": "EECA94:1",
@@ -508,8 +508,8 @@
   "kind": "bline",
   "speaker": "葵上",
   "jp": "オレ様の呪詛を受けるがいい！",
-  "en": "",
-  "status": ""
+  "en": "Suffer my curse!",
+  "status": "tl"
  },
  {
   "id": "EECB70:1",
@@ -524,8 +524,8 @@
   "kind": "bline",
   "speaker": "葵上",
   "jp": "動物の姿になるがいい！　",
-  "en": "",
-  "status": ""
+  "en": "Take the form of an animal!",
+  "status": "tl"
  },
  {
   "id": "EECC3C:1",
@@ -540,8 +540,8 @@
   "kind": "bline",
   "speaker": "一角仙人",
   "jp": "仙術のニ…角刀！　　",
-  "en": "",
-  "status": ""
+  "en": "Sage Art 2... Horn Blade!",
+  "status": "tl"
  },
  {
   "id": "EECD0C:1",
@@ -556,8 +556,8 @@
   "kind": "bline",
   "speaker": "一角仙人",
   "jp": "仙術の三…神角刀！！　　",
-  "en": "",
-  "status": ""
+  "en": "Sage Art 3... Divine Horn Blade!!",
+  "status": "tl"
  },
  {
   "id": "EECDE8:1",
@@ -572,8 +572,8 @@
   "kind": "bline",
   "speaker": "一角仙人",
   "jp": "仙術の一…仙力！！　",
-  "en": "",
-  "status": ""
+  "en": "Sage Art 1... Sage Power!!",
+  "status": "tl"
  },
  {
   "id": "EECEB0:1",
@@ -588,7 +588,7 @@
   "kind": "bline",
   "speaker": "山姥",
   "jp": "ケーッケッケ！　",
-  "en": "",
-  "status": ""
+  "en": "Keh-heh-heh-heh!",
+  "status": "tl"
  }
 ]

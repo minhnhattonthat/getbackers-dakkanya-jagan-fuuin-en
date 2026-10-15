@@ -4,32 +4,32 @@
   "kind": "bline",
   "speaker": "K(六面豪鬼)",
   "jp": "オアアァァアア！！　",
-  "en": "",
-  "status": ""
+  "en": "Oaaaaaargh!!",
+  "status": "tl"
  },
  {
   "id": "EE4C00:1",
   "kind": "bline",
   "speaker": "鏡　形而",
   "jp": "死は苦痛ではないよ?",
-  "en": "",
-  "status": ""
+  "en": "Death isn't painful, you know?",
+  "status": "tl"
  },
  {
   "id": "EE50E0:1",
   "kind": "bline",
   "speaker": "鏡　形而",
   "jp": "危険…だね、キミは　",
-  "en": "",
-  "status": ""
+  "en": "You're... dangerous, aren't you?",
+  "status": "tl"
  },
  {
   "id": "EE5380:1",
   "kind": "bline",
   "speaker": "鏡　形而",
   "jp": "ダイヤモンド・ダスト",
-  "en": "",
-  "status": ""
+  "en": "Diamond Dust",
+  "status": "tl"
  },
  {
   "id": "EE5A78:1",
@@ -44,8 +44,8 @@
   "kind": "bline",
   "speaker": "ジャンクキッズ",
   "jp": "オラァッ！！",
-  "en": "",
-  "status": ""
+  "en": "Hraaah!!",
+  "status": "tl"
  },
  {
   "id": "EE5B60:1",
@@ -60,8 +60,8 @@
   "kind": "bline",
   "speaker": "ジャンクキッズ",
   "jp": "オラァッ！！",
-  "en": "",
-  "status": ""
+  "en": "Hraaah!!",
+  "status": "tl"
  },
  {
   "id": "EE5C48:1",
@@ -76,8 +76,8 @@
   "kind": "bline",
   "speaker": "武道家くずれ",
   "jp": "ホワタァ！！",
-  "en": "",
-  "status": ""
+  "en": "Hwataaah!!",
+  "status": "tl"
  },
  {
   "id": "EE5D60:1",
@@ -92,8 +92,8 @@
   "kind": "bline",
   "speaker": "武道家くずれ",
   "jp": "ホワタァ！！",
-  "en": "",
-  "status": ""
+  "en": "Hwataaah!!",
+  "status": "tl"
  },
  {
   "id": "EE5E78:1",
@@ -108,56 +108,56 @@
   "kind": "bline",
   "speaker": "トンファーファイター",
   "jp": "受けてみるかい?",
-  "en": "",
-  "status": ""
+  "en": "Wanna try taking this?",
+  "status": "tl"
  },
  {
   "id": "EE5F74:1",
   "kind": "bline",
   "speaker": "巨大たれ銀次",
   "jp": "いくよ　",
-  "en": "",
-  "status": ""
+  "en": "Here I go.",
+  "status": "tl"
  },
  {
   "id": "EE6160:1",
   "kind": "bline",
   "speaker": "巨大たれ銀次",
   "jp": "ウキュ！",
-  "en": "",
-  "status": ""
+  "en": "Squee!",
+  "status": "tl"
  },
  {
   "id": "EE6434:1",
   "kind": "bline",
   "speaker": "巨大たれ銀次",
   "jp": "わーい、わーい！",
-  "en": "",
-  "status": ""
+  "en": "Yaaay, yaaay!",
+  "status": "tl"
  },
  {
   "id": "EE6434:3",
   "kind": "bline",
   "speaker": "巨大たれ銀次",
   "jp": "わーいわーい",
-  "en": "",
-  "status": ""
+  "en": "Yay yay",
+  "status": "tl"
  },
  {
   "id": "EE69C8:1",
   "kind": "bline",
   "speaker": "巨大たれ銀次",
   "jp": "ウキュ~…　",
-  "en": "",
-  "status": ""
+  "en": "Squee...",
+  "status": "tl"
  },
  {
   "id": "EE69C8:3",
   "kind": "bline",
   "speaker": "巨大たれ銀次",
   "jp": "んあ~、お腹すいた~",
-  "en": "",
-  "status": ""
+  "en": "Nnaah... I'm so hungry...",
+  "status": "tl"
  },
  {
   "id": "EE702C:1",
@@ -172,8 +172,8 @@
   "kind": "bline",
   "speaker": "トンファーファイター",
   "jp": "受けてみるかい?",
-  "en": "",
-  "status": ""
+  "en": "Wanna try taking this?",
+  "status": "tl"
  },
  {
   "id": "EE7128:1",
@@ -188,8 +188,8 @@
   "kind": "bline",
   "speaker": "シークレットサービス",
   "jp": "これでも食らいな！！",
-  "en": "",
-  "status": ""
+  "en": "Eat this!!",
+  "status": "tl"
  },
  {
   "id": "EE724C:1",
@@ -204,8 +204,8 @@
   "kind": "bline",
   "speaker": "ボディーガード",
   "jp": "こいつで吹き飛べ！！",
-  "en": "",
-  "status": ""
+  "en": "Get blown away by this!!",
+  "status": "tl"
  },
  {
   "id": "EE7360:1",
@@ -220,8 +220,8 @@
   "kind": "bline",
   "speaker": "スナイパー",
   "jp": "ハチの巣にしてやるよっ！",
-  "en": "",
-  "status": ""
+  "en": "I'll turn you into Swiss cheese!",
+  "status": "tl"
  },
  {
   "id": "EE74AC:1",
@@ -236,8 +236,8 @@
   "kind": "bline",
   "speaker": "黒服",
   "jp": "避けられると思うなよ！！",
-  "en": "",
-  "status": ""
+  "en": "Don't think you can dodge this!!",
+  "status": "tl"
  },
  {
   "id": "EE75F0:1",
@@ -252,8 +252,8 @@
   "kind": "bline",
   "speaker": "壊し屋",
   "jp": "グハハハハハハッ！　",
-  "en": "",
-  "status": ""
+  "en": "Gwahahahahahaha!",
+  "status": "tl"
  },
  {
   "id": "EE76C8:1",
@@ -268,8 +268,8 @@
   "kind": "bline",
   "speaker": "デストロイヤー",
   "jp": "邪魔だっ！　",
-  "en": "",
-  "status": ""
+  "en": "Outta my way!",
+  "status": "tl"
  },
  {
   "id": "EE77A8:1",
@@ -284,8 +284,8 @@
   "kind": "bline",
   "speaker": "警備員",
   "jp": "喰らえっ！　",
-  "en": "",
-  "status": ""
+  "en": "Take this!",
+  "status": "tl"
  },
  {
   "id": "EE7880:1",
@@ -300,8 +300,8 @@
   "kind": "bline",
   "speaker": "キャリア警備員",
   "jp": "せああぁっ！",
-  "en": "",
-  "status": ""
+  "en": "Seyaaaah!",
+  "status": "tl"
  },
  {
   "id": "EE7968:1",
@@ -316,8 +316,8 @@
   "kind": "bline",
   "speaker": "ガードマン",
   "jp": "このスタンガンを喰らえ！！　",
-  "en": "",
-  "status": ""
+  "en": "Taste my stun gun!!",
+  "status": "tl"
  },
  {
   "id": "EE7A44:1",
@@ -332,8 +332,8 @@
   "kind": "bline",
   "speaker": "上級ガードマン",
   "jp": "シビれちまいな！！　",
-  "en": "",
-  "status": ""
+  "en": "Get a nice little jolt!!",
+  "status": "tl"
  },
  {
   "id": "EE7B20:1",
@@ -348,8 +348,8 @@
   "kind": "bline",
   "speaker": "毒薬研究員",
   "jp": "ウヒヒヒヒッ！　実験、実験~！　",
-  "en": "",
-  "status": ""
+  "en": "Heeheehee! Experiment, experiment!",
+  "status": "tl"
  },
  {
   "id": "EE7C00:1",
@@ -364,8 +364,8 @@
   "kind": "bline",
   "speaker": "劇薬開発員",
   "jp": "どんな反応が出るかな~?",
-  "en": "",
-  "status": ""
+  "en": "I wonder how you'll react...?",
+  "status": "tl"
  },
  {
   "id": "EE7CD8:1",
@@ -380,8 +380,8 @@
   "kind": "bline",
   "speaker": "銃器発明家",
   "jp": "ワシの発明品の威力を見よっ！",
-  "en": "",
-  "status": ""
+  "en": "Behold the power of my invention!",
+  "status": "tl"
  },
  {
   "id": "EE7DB4:1",
@@ -396,8 +396,8 @@
   "kind": "bline",
   "speaker": "凶器発明家",
   "jp": "これが今世紀最大の発明品だ！",
-  "en": "",
-  "status": ""
+  "en": "This century's greatest invention!",
+  "status": "tl"
  },
  {
   "id": "EE7E90:1",
@@ -412,24 +412,24 @@
   "kind": "bline",
   "speaker": "ソルジャー",
   "jp": "ターゲット、ロック！！　",
-  "en": "",
-  "status": ""
+  "en": "Target locked!!",
+  "status": "tl"
  },
  {
   "id": "EE8018:1",
   "kind": "bline",
   "speaker": "アサシン",
   "jp": "……",
-  "en": "",
-  "status": ""
+  "en": "......",
+  "status": "tl"
  },
  {
   "id": "EE8018:3",
   "kind": "bline",
   "speaker": "アサシン",
   "jp": "……",
-  "en": "",
-  "status": ""
+  "en": "......",
+  "status": "tl"
  },
  {
   "id": "EE818C:1",
@@ -444,8 +444,8 @@
   "kind": "bline",
   "speaker": "イエローアーミー",
   "jp": "切り刻んでやるっ！　",
-  "en": "",
-  "status": ""
+  "en": "I'll slice you to ribbons!",
+  "status": "tl"
  },
  {
   "id": "EE8270:1",
@@ -460,24 +460,24 @@
   "kind": "bline",
   "speaker": "グリーンベレー",
   "jp": "俺の攻撃が避けられるか?",
-  "en": "",
-  "status": ""
+  "en": "Think you can dodge my attack?",
+  "status": "tl"
  },
  {
   "id": "EE834C:1",
   "kind": "bline",
   "speaker": "下忍",
   "jp": "覚悟！　",
-  "en": "",
-  "status": ""
+  "en": "Prepare yourself!",
+  "status": "tl"
  },
  {
   "id": "EE83F0:1",
   "kind": "bline",
   "speaker": "上忍",
   "jp": "参る…！　　",
-  "en": "",
-  "status": ""
+  "en": "Here I come...!",
+  "status": "tl"
  },
  {
   "id": "EE8498:1",
@@ -492,8 +492,8 @@
   "kind": "bline",
   "speaker": "隠密",
   "jp": "受けてみよっ！　",
-  "en": "",
-  "status": ""
+  "en": "Try and take this!",
+  "status": "tl"
  },
  {
   "id": "EE865C:1",
@@ -508,8 +508,8 @@
   "kind": "bline",
   "speaker": "ニンジャマスター",
   "jp": "お命頂戴！　",
-  "en": "",
-  "status": ""
+  "en": "Your life is mine!",
+  "status": "tl"
  },
  {
   "id": "EE8834:1",
@@ -524,8 +524,8 @@
   "kind": "bline",
   "speaker": "スーパーエリート",
   "jp": "ジュテーム…",
-  "en": "",
-  "status": ""
+  "en": "Je t'aime...",
+  "status": "tl"
  },
  {
   "id": "EE8910:1",
@@ -540,8 +540,8 @@
   "kind": "bline",
   "speaker": "ナルシストエリート",
   "jp": "ボクの美しい攻撃がかわせるかな?",
-  "en": "",
-  "status": ""
+  "en": "Can you dodge my beautiful attack?",
+  "status": "tl"
  },
  {
   "id": "EE8A00:1",
@@ -556,7 +556,7 @@
   "kind": "bline",
   "speaker": "特殊兵器隊員",
   "jp": "新兵器の餌食になりな！！",
-  "en": "",
-  "status": ""
+  "en": "Fall prey to my new weapon!!",
+  "status": "tl"
  }
 ]

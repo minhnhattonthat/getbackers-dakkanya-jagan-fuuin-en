@@ -4,1160 +4,1160 @@
   "kind": "msg",
   "speaker": "窪田",
   "jp": "では、失礼致します",
-  "en": "",
-  "status": ""
+  "en": "Then, if you'll excuse me.",
+  "status": "tl"
  },
  {
   "id": "F08ED4:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ま、今日は前祝いってコトで\nパーッといくか！",
-  "en": "",
-  "status": ""
+  "en": "Well, today we celebrate in advance! Let's party!",
+  "status": "tl"
  },
  {
   "id": "F08ED4:3",
   "kind": "msg",
   "speaker": "ヘヴン",
   "jp": "ちょっとアンタたち…\n依頼料はまだ入ってないんでしょ?",
-  "en": "",
-  "status": ""
+  "en": "Hold on, you two... You haven't actually been paid yet, have you?",
+  "status": "tl"
  },
  {
   "id": "F08ED4:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ンなモン、\n手に入ったも同然じゃねぇかよ！",
-  "en": "",
-  "status": ""
+  "en": "Ah, that's as good as in our pockets already!",
+  "status": "tl"
  },
  {
   "id": "F08ED4:6",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ブハハハハッ！！",
-  "en": "",
-  "status": ""
+  "en": "Bwahahahaha!!",
+  "status": "tl"
  },
  {
   "id": "F08ED4:8",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ねえ、蛮ちゃん…",
-  "en": "",
-  "status": ""
+  "en": "Hey, Ban...",
+  "status": "tl"
  },
  {
   "id": "F08ED4:9",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "清十郎さん、\nちゃんと記憶を奪り還せるのかな?",
-  "en": "",
-  "status": ""
+  "en": "Do you think Seijuro can really get his memories back?",
+  "status": "tl"
  },
  {
   "id": "F08ED4:11",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "奪り還せるさ…大切な記憶ってのは\nそう簡単に消えるモンでもねぇしな…",
-  "en": "",
-  "status": ""
+  "en": "Sure he can... Precious memories don't just vanish that easily...",
+  "status": "tl"
  },
  {
   "id": "F08ED4:13",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "だよね！",
-  "en": "",
-  "status": ""
+  "en": "Yeah, right!",
+  "status": "tl"
  },
  {
   "id": "F08ED4:14",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "さーて、\n前祝いにじゃんじゃん食べるぞー！！",
-  "en": "",
-  "status": ""
+  "en": "Alrighty, time to eat up a storm to celebrate!!",
+  "status": "tl"
  },
  {
   "id": "F08ED4:16",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "腹ごしらえが終ったら\nロフト付きアパートでも見にいくか！",
-  "en": "",
-  "status": ""
+  "en": "Once we've chowed down, let's go look at apartments with lofts!",
+  "status": "tl"
  },
  {
   "id": "F08ED4:18",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "いいねー！　ようやくオレらも\nまともな生活できそうだね！！",
-  "en": "",
-  "status": ""
+  "en": "Yeah! We can finally live like normal people!!",
+  "status": "tl"
  },
  {
   "id": "F092D8:1",
   "kind": "msg",
   "speaker": "杏",
   "jp": "あらら…まだお金入ってないのに\nあんなにはしゃいでいいんスかねー?",
-  "en": "",
-  "status": ""
+  "en": "Oh boy... They haven't even been paid yet. Should they really be partying like that, see?",
+  "status": "tl"
  },
  {
   "id": "F092D8:2",
   "kind": "msg",
   "speaker": "杏",
   "jp": "…あれ、なんか落ちてる?",
-  "en": "",
-  "status": ""
+  "en": "...Huh, something fell on the floor?",
+  "status": "tl"
  },
  {
   "id": "F093CC:1",
   "kind": "msg",
   "speaker": "杏",
   "jp": "あれ?　これって蛮さんたちが奪還した\n日記の1ページじゃないッスか",
-  "en": "",
-  "status": ""
+  "en": "Isn't this a page from the diary Ban and the guys retrieved?",
+  "status": "tl"
  },
  {
   "id": "F093CC:2",
   "kind": "msg",
   "speaker": "杏",
   "jp": "窪ちん、落としちゃったのかなー…",
-  "en": "",
-  "status": ""
+  "en": "Did Kubo drop it, I wonder...",
+  "status": "tl"
  },
  {
   "id": "F093CC:3",
   "kind": "msg",
   "speaker": "杏",
   "jp": "ん?　なんか書いてあるッスね",
-  "en": "",
-  "status": ""
+  "en": "Hm? Something's written on it, see.",
+  "status": "tl"
  },
  {
   "id": "F093CC:4",
   "kind": "msg",
   "speaker": "杏",
   "jp": "*月*日　今日、Kの計画を知る",
-  "en": "",
-  "status": ""
+  "en": "Month *, day *. Today, I learned of K's plan.",
+  "status": "tl"
  },
  {
   "id": "F093CC:5",
   "kind": "msg",
   "speaker": "杏",
   "jp": "この計画だけは\nなんとしても止めなくては…",
-  "en": "",
-  "status": ""
+  "en": "This plan, at least, must be stopped no matter what...",
+  "status": "tl"
  },
  {
   "id": "F093CC:7",
   "kind": "msg",
   "speaker": "杏",
   "jp": "K…",
-  "en": "",
-  "status": ""
+  "en": "K...",
+  "status": "tl"
  },
  {
   "id": "F093CC:8",
   "kind": "msg",
   "speaker": "杏",
   "jp": "これってもしかして………",
-  "en": "",
-  "status": ""
+  "en": "Could this be...",
+  "status": "tl"
  },
  {
   "id": "F095A8:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "オメーがいても戻されたじゃねえかよ！",
-  "en": "",
-  "status": ""
+  "en": "We got sent back even with you around!",
+  "status": "tl"
  },
  {
   "id": "F095A8:3",
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "なによ！　アンタたちだけで\n抜けられるものなら抜けてみなさいよ！",
-  "en": "",
-  "status": ""
+  "en": "Excuse me?! If you can get through on your own, go ahead and try!",
+  "status": "tl"
  },
  {
   "id": "F095A8:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "まあまあ、二人とも…",
-  "en": "",
-  "status": ""
+  "en": "Now, now, you two...",
+  "status": "tl"
  },
  {
   "id": "F095A8:7",
   "kind": "msg",
   "speaker": "花月",
   "jp": "落ち着いて…",
-  "en": "",
-  "status": ""
+  "en": "Calm down...",
+  "status": "tl"
  },
  {
   "id": "F096CC:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ここで使えるんじゃない?\nカギ爪ロープ",
-  "en": "",
-  "status": ""
+  "en": "Can't we use the grappling hook here?",
+  "status": "tl"
  },
  {
   "id": "F096CC:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "よし、使ってみるとするか…",
-  "en": "",
-  "status": ""
+  "en": "Right, let's give it a shot...",
+  "status": "tl"
  },
  {
   "id": "F09768:1",
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "どうしたのかしら、\n下が騒がしいわね…?",
-  "en": "",
-  "status": ""
+  "en": "I wonder what's going on. It's noisy downstairs...?",
+  "status": "tl"
  },
  {
   "id": "F09768:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "なンかあったんじゃねーか?",
-  "en": "",
-  "status": ""
+  "en": "Somethin' musta happened, huh?",
+  "status": "tl"
  },
  {
   "id": "F09768:4",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "絃巻き、探れるかよ?",
-  "en": "",
-  "status": ""
+  "en": "Can you snoop on 'em, Spool Boy?",
+  "status": "tl"
  },
  {
   "id": "F09768:6",
   "kind": "msg",
   "speaker": "花月",
   "jp": "そうですね…\n下に絃を垂らせるようなところがあれば",
-  "en": "",
-  "status": ""
+  "en": "Let me see... if there were someplace I could lower a string down...",
+  "status": "tl"
  },
  {
   "id": "F09768:8",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "穴が開いてればいいんだね?\n探してみよう！",
-  "en": "",
-  "status": ""
+  "en": "So we need a hole, right? Let's look for one!",
+  "status": "tl"
  },
  {
   "id": "F098D0:1",
   "kind": "msg",
   "speaker": "花月",
   "jp": "…どうも倉庫のカギがないことで\n騒いでいるみたいですよ",
-  "en": "",
-  "status": ""
+  "en": "...It seems they're in an uproar because the storehouse key is missing.",
+  "status": "tl"
  },
  {
   "id": "F098D0:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "倉庫って、\nあの色んなモノが入ってるトコ?",
-  "en": "",
-  "status": ""
+  "en": "The storehouse? The place with all kinds of stuff in it?",
+  "status": "tl"
  },
  {
   "id": "F098D0:5",
   "kind": "msg",
   "speaker": "花月",
   "jp": "ええ…一階の廊下の突き当たりに\n扉がありましたよね?",
-  "en": "",
-  "status": ""
+  "en": "Yes... There was a door at the end of the first-floor hallway, remember?",
+  "status": "tl"
  },
  {
   "id": "F098D0:6",
   "kind": "msg",
   "speaker": "花月",
   "jp": "そこから入るようです",
-  "en": "",
-  "status": ""
+  "en": "It seems we can get in from there.",
+  "status": "tl"
  },
  {
   "id": "F098D0:8",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "倉庫か…依頼品もそこにありそうだな?",
-  "en": "",
-  "status": ""
+  "en": "A storehouse, huh... Bet the job item's in there too.",
+  "status": "tl"
  },
  {
   "id": "F098D0:9",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "よし、俺たちも倉庫のカギを探すぞ！",
-  "en": "",
-  "status": ""
+  "en": "All right, we're gonna find the storehouse key too!",
+  "status": "tl"
  },
  {
   "id": "F098D0:11",
   "kind": "msg",
   "speaker": "花月",
   "jp": "カギはいつも一階左側の部屋の\nどこかに置いてあるとのことです",
-  "en": "",
-  "status": ""
+  "en": "They say the key is always kept somewhere in the room on the left side of the first floor.",
+  "status": "tl"
  },
  {
   "id": "F098D0:12",
   "kind": "msg",
   "speaker": "花月",
   "jp": "その辺りを探ってみましょう！",
-  "en": "",
-  "status": ""
+  "en": "Let's search around there!",
+  "status": "tl"
  },
  {
   "id": "F09B08:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "クソッ！　またかよ",
-  "en": "",
-  "status": ""
+  "en": "Dammit! Not again!",
+  "status": "tl"
  },
  {
   "id": "F09B08:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ついつい走っちゃうんだよね…\nトホホ~",
-  "en": "",
-  "status": ""
+  "en": "I just can't help running, y'know... Boo hoo...",
+  "status": "tl"
  },
  {
   "id": "F09B9C:1",
   "kind": "msg",
   "speaker": "忍者A",
   "jp": "おい、早く開けろよ",
-  "en": "",
-  "status": ""
+  "en": "Hey, hurry up and open it.",
+  "status": "tl"
  },
  {
   "id": "F09B9C:3",
   "kind": "msg",
   "speaker": "忍者B",
   "jp": "了解だ",
-  "en": "",
-  "status": ""
+  "en": "Got it.",
+  "status": "tl"
  },
  {
   "id": "F09B9C:4",
   "kind": "msg",
   "speaker": "忍者B",
   "jp": "…あれ、暗号はいくつだ?",
-  "en": "",
-  "status": ""
+  "en": "...Huh, what was the code again?",
+  "status": "tl"
  },
  {
   "id": "F09B9C:6",
   "kind": "msg",
   "speaker": "忍者A",
   "jp": "4148だ…いい加減に覚えろ",
-  "en": "",
-  "status": ""
+  "en": "It's 4148... Memorize it already.",
+  "status": "tl"
  },
  {
   "id": "F09B9C:8",
   "kind": "msg",
   "speaker": "忍者B",
   "jp": "最近、物忘れがひどくてな…",
-  "en": "",
-  "status": ""
+  "en": "My memory's been awful lately...",
+  "status": "tl"
  },
  {
   "id": "F09CBC:1",
   "kind": "msg",
   "speaker": "花月",
   "jp": "暗号は4148のようですね\n行きましょう！",
-  "en": "",
-  "status": ""
+  "en": "It seems the code is 4148. Let's go!",
+  "status": "tl"
  },
  {
   "id": "F09D24:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "チッ、落とし穴とはな…",
-  "en": "",
-  "status": ""
+  "en": "Tch, a pitfall, huh...",
+  "status": "tl"
  },
  {
   "id": "F09D24:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "さっすが忍者屋敷だね！",
-  "en": "",
-  "status": ""
+  "en": "Just what you'd expect from a ninja mansion!",
+  "status": "tl"
  },
  {
   "id": "F09D24:4",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "でもここってどこなんだろ?",
-  "en": "",
-  "status": ""
+  "en": "But where are we, anyway?",
+  "status": "tl"
  },
  {
   "id": "F09D24:6",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "地下牢ってワケでもなさそうだな?",
-  "en": "",
-  "status": ""
+  "en": "Doesn't look like a dungeon or anything, though.",
+  "status": "tl"
  },
  {
   "id": "F09D24:7",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "どっかに出口がねーか、探ってみるか…",
-  "en": "",
-  "status": ""
+  "en": "Guess we'd better look around for a way out...",
+  "status": "tl"
  },
  {
   "id": "F09D24:9",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ところでこっちの廊下は\nウグイス廊下じゃないんだね",
-  "en": "",
-  "status": ""
+  "en": "By the way, this hallway isn't a nightingale floor, huh?",
+  "status": "tl"
  },
  {
   "id": "F09D24:11",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "こっちは走りOKだな！",
-  "en": "",
-  "status": ""
+  "en": "Means we can run all we want here!",
+  "status": "tl"
  },
  {
   "id": "F09D24:12",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "よし、行くぞ！！",
-  "en": "",
-  "status": ""
+  "en": "All right, let's move!!",
+  "status": "tl"
  },
  {
   "id": "F09EF0:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "すごい、すごい！\nホントにあったね！！",
-  "en": "",
-  "status": ""
+  "en": "Wow, wow! It really was here!!",
+  "status": "tl"
  },
  {
   "id": "F09EF0:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ったく、\nこんくれぇではしゃいでンじゃねーよ",
-  "en": "",
-  "status": ""
+  "en": "Geez, don't get all worked up over something like this.",
+  "status": "tl"
  },
  {
   "id": "F09EF0:4",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "この先もなにがあるか\n分かったモンじゃねえんだぞ?",
-  "en": "",
-  "status": ""
+  "en": "There's no telling what's waiting for us further in, got it?",
+  "status": "tl"
  },
  {
   "id": "F09EF0:6",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "そうだけどさ~",
-  "en": "",
-  "status": ""
+  "en": "I know, but still...",
+  "status": "tl"
  },
  {
   "id": "F09EF0:7",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "…あれ?\nこの壁、こっちからは回らないね",
-  "en": "",
-  "status": ""
+  "en": "...Huh? This wall won't turn from this side.",
+  "status": "tl"
  },
  {
   "id": "F09EF0:9",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "一方通行ってワケか…\nま、なんとかなンだろ！",
-  "en": "",
-  "status": ""
+  "en": "One-way only, huh... Eh, we'll manage somehow!",
+  "status": "tl"
  },
  {
   "id": "F09EF0:10",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "よし、持って帰れそうなモン探すぞ！",
-  "en": "",
-  "status": ""
+  "en": "All right, let's find something worth taking home!",
+  "status": "tl"
  },
  {
   "id": "F0A0C8:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なんだろ、これ?\n数字を入れられるみたいだけど",
-  "en": "",
-  "status": ""
+  "en": "What's this? Looks like you can punch in numbers...",
+  "status": "tl"
  },
  {
   "id": "F0A0C8:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "どれ…こりゃ暗号式みてぇだな?",
-  "en": "",
-  "status": ""
+  "en": "Lemme see... Looks like some kinda combination lock.",
+  "status": "tl"
  },
  {
   "id": "F0A0C8:4",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "つっても、\n暗号が分からねぇんじゃあな…",
-  "en": "",
-  "status": ""
+  "en": "Then again, it's no use if we don't know the code...",
+  "status": "tl"
  },
  {
   "id": "F0A0C8:6",
   "kind": "msg",
   "speaker": "花月",
   "jp": "でしたら\n僕が敵から情報を聞き出してみましょう",
-  "en": "",
-  "status": ""
+  "en": "In that case, let me try to get the information out of the enemy.",
+  "status": "tl"
  },
  {
   "id": "F0A0C8:8",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "できるの、カヅっちゃん?",
-  "en": "",
-  "status": ""
+  "en": "You can do that, Kazuki?",
+  "status": "tl"
  },
  {
   "id": "F0A0C8:10",
   "kind": "msg",
   "speaker": "花月",
   "jp": "ええ…どこかに穴のようなものが\nあれば、そこから絃を伸ばせるのですが",
-  "en": "",
-  "status": ""
+  "en": "Yes... If there's a hole of some sort somewhere, I can extend my strings through it.",
+  "status": "tl"
  },
  {
   "id": "F0A298:0",
   "kind": "msg",
   "speaker": "",
   "jp": "暗号を入力した！",
-  "en": "",
-  "status": ""
+  "en": "Entered the code!",
+  "status": "tl"
  },
  {
   "id": "F0A2D8:1",
   "kind": "msg",
   "speaker": "忍者A",
   "jp": "おい、侵入者がいるみたいだぞ",
-  "en": "",
-  "status": ""
+  "en": "Hey, looks like we've got an intruder.",
+  "status": "tl"
  },
  {
   "id": "F0A2D8:2",
   "kind": "msg",
   "speaker": "忍者A",
   "jp": "ウグイス廊下に反応があった",
-  "en": "",
-  "status": ""
+  "en": "Something set off the nightingale floor.",
+  "status": "tl"
  },
  {
   "id": "F0A2D8:4",
   "kind": "msg",
   "speaker": "忍者B",
   "jp": "みたいだな…",
-  "en": "",
-  "status": ""
+  "en": "Seems like it...",
+  "status": "tl"
  },
  {
   "id": "F0A2D8:5",
   "kind": "msg",
   "speaker": "忍者B",
   "jp": "廊下の装置を止めて全員で\n警戒にあたった方がいいのかもな",
-  "en": "",
-  "status": ""
+  "en": "Maybe we oughta shut off the hallway device and have everyone keep watch.",
+  "status": "tl"
  },
  {
   "id": "F0A2D8:7",
   "kind": "msg",
   "speaker": "忍者A",
   "jp": "お前、地下に行って止めてこいよ",
-  "en": "",
-  "status": ""
+  "en": "You go down to the basement and shut it off.",
+  "status": "tl"
  },
  {
   "id": "F0A2D8:9",
   "kind": "msg",
   "speaker": "忍者B",
   "jp": "地下の左側の小部屋だろ?\n面倒なんだよな、あそこに行くの…",
-  "en": "",
-  "status": ""
+  "en": "The small room on the left side of the basement, right? Going down there is such a pain...",
+  "status": "tl"
  },
  {
   "id": "F0A474:1",
   "kind": "msg",
   "speaker": "花月",
   "jp": "ウグイス廊下は地下の装置で\n止められるようですね…",
-  "en": "",
-  "status": ""
+  "en": "It seems the nightingale floor can be stopped with a device in the basement...",
+  "status": "tl"
  },
  {
   "id": "F0A4E4:1",
   "kind": "msg",
   "speaker": "忍者A",
   "jp": "前から思ってたんだけどさー、\nうちの頭領ってヤバくない?",
-  "en": "",
-  "status": ""
+  "en": "I've been thinking this for a while, but isn't our boss kinda sketchy?",
+  "status": "tl"
  },
  {
   "id": "F0A4E4:3",
   "kind": "msg",
   "speaker": "忍者B",
   "jp": "忍者のくせして妖術師だからな…\nどうかと思うよ",
-  "en": "",
-  "status": ""
+  "en": "He's a ninja, but he's also a sorcerer... I dunno about that.",
+  "status": "tl"
  },
  {
   "id": "F0A5B4:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ウグイス廊下の装置を解除した",
-  "en": "",
-  "status": ""
+  "en": "Shut off the nightingale floor device.",
+  "status": "tl"
  },
  {
   "id": "F0A600:1",
   "kind": "msg",
   "speaker": "忍者A",
   "jp": "俺…そろそろ忍者を\n辞めたいんだよな~",
-  "en": "",
-  "status": ""
+  "en": "Man... I kinda wanna quit being a ninja...",
+  "status": "tl"
  },
  {
   "id": "F0A600:3",
   "kind": "msg",
   "speaker": "忍者B",
   "jp": "やめとけよ\nこの不況じゃ他に就職先ないぞ…",
-  "en": "",
-  "status": ""
+  "en": "Don't. In this recession, there's nowhere else that'll hire you...",
+  "status": "tl"
  },
  {
   "id": "F0A6BC:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ねえ、蛮ちゃん\nさっきのカギでここが通れそうだよ",
-  "en": "",
-  "status": ""
+  "en": "Hey, Ban, I think we can get through here with that key from before.",
+  "status": "tl"
  },
  {
   "id": "F0A6BC:2",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "地下扉のカギを開けた！",
-  "en": "",
-  "status": ""
+  "en": "Unlocked the basement door!",
+  "status": "tl"
  },
  {
   "id": "F0A758:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あれ~、どこにも入り口がないね?",
-  "en": "",
-  "status": ""
+  "en": "Huh? There's no entrance anywhere...",
+  "status": "tl"
  },
  {
   "id": "F0A758:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "一応、忍者屋敷だからな…\n特殊な造りしてンだろうよ",
-  "en": "",
-  "status": ""
+  "en": "It's a ninja mansion, after all... Probably got some special kinda layout.",
+  "status": "tl"
  },
  {
   "id": "F0A758:4",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "よし、壁沿いに歩いてみっか",
-  "en": "",
-  "status": ""
+  "en": "All right, let's try walking along the walls.",
+  "status": "tl"
  },
  {
   "id": "F0A758:6",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あっ、それってもしかしてアレ?\nなんとか返し！?",
-  "en": "",
-  "status": ""
+  "en": "Oh, wait, is it one of those things? The something-flip?!",
+  "status": "tl"
  },
  {
   "id": "F0A758:8",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "どんでん返しだ\n忍者屋敷なんだし、それ位あンだろ",
-  "en": "",
-  "status": ""
+  "en": "A trick wall flip. It's a ninja mansion, so it's bound to have something like that.",
+  "status": "tl"
  },
  {
   "id": "F0A758:10",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "だね！\nじゃ、壁を調べながら歩こうか",
-  "en": "",
-  "status": ""
+  "en": "Yeah! Then let's check the walls as we walk.",
+  "status": "tl"
  },
  {
   "id": "F0A91C:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おい、清ジイ！\nお探しのモンはこれじゃねーか?",
-  "en": "",
-  "status": ""
+  "en": "Hey, Gramps Sei! Ain't this the thing you're looking for?",
+  "status": "tl"
  },
  {
   "id": "F0A91C:3",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F0A91C:4",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "…………",
-  "en": "",
-  "status": ""
+  "en": "............",
+  "status": "tl"
  },
  {
   "id": "F0A91C:5",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "……………",
-  "en": "",
-  "status": ""
+  "en": "...............",
+  "status": "tl"
  },
  {
   "id": "F0A91C:6",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "いえ、残念ながら\nこれではないような気が致します",
-  "en": "",
-  "status": ""
+  "en": "No, I'm afraid I don't believe this is it.",
+  "status": "tl"
  },
  {
   "id": "F0A91C:8",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "チッ、ムダ足かよ…",
-  "en": "",
-  "status": ""
+  "en": "Tch, a wild-goose chase...",
+  "status": "tl"
  },
  {
   "id": "F0A91C:10",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "ですが、一つ思い出したことがあります",
-  "en": "",
-  "status": ""
+  "en": "However, there is one thing I have remembered.",
+  "status": "tl"
  },
  {
   "id": "F0A91C:11",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "それはあたたかいものでございました",
-  "en": "",
-  "status": ""
+  "en": "It was something warm.",
+  "status": "tl"
  },
  {
   "id": "F0A91C:13",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あたたかいもの?",
-  "en": "",
-  "status": ""
+  "en": "Something warm?",
+  "status": "tl"
  },
  {
   "id": "F0A91C:15",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "左様でございます",
-  "en": "",
-  "status": ""
+  "en": "Indeed.",
+  "status": "tl"
  },
  {
   "id": "F0A91C:16",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "それともう一つ、\nその壺の中にカギがあるはずです",
-  "en": "",
-  "status": ""
+  "en": "And one more thing: there should be a key inside that pot.",
+  "status": "tl"
  },
  {
   "id": "F0A91C:18",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あっ、ホントだ！\n中にカギが貼り付けてあったよ！！",
-  "en": "",
-  "status": ""
+  "en": "Oh, you're right! There was a key stuck inside!!",
+  "status": "tl"
  },
  {
   "id": "F0A91C:20",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "それで地下の扉が開くはずですよ",
-  "en": "",
-  "status": ""
+  "en": "That should open the door to the basement.",
+  "status": "tl"
  },
  {
   "id": "F0A91C:21",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "地下室のカギをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Basement Key!",
+  "status": "tl"
  },
  {
   "id": "F0AD30:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "清十郎さん、あたたかいものって\nこれじゃないですか?",
-  "en": "",
-  "status": ""
+  "en": "Seijuro, is this the something warm?",
+  "status": "tl"
  },
  {
   "id": "F0AD30:3",
   "kind": "msg",
   "speaker": "ヘヴン",
   "jp": "なによ、それ?\nなんで招き猫があたたかいものなワケ?",
-  "en": "",
-  "status": ""
+  "en": "What's that supposed to be? How is a beckoning cat \"something warm\"?",
+  "status": "tl"
  },
  {
   "id": "F0AD30:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "だってネコってあったかいじゃん！",
-  "en": "",
-  "status": ""
+  "en": "'Cause cats are warm, duh!",
+  "status": "tl"
  },
  {
   "id": "F0AD30:7",
   "kind": "msg",
   "speaker": "ヘヴン",
   "jp": "…だそうですけど?",
-  "en": "",
-  "status": ""
+  "en": "...So he says?",
+  "status": "tl"
  },
  {
   "id": "F0AD30:9",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F0AD30:10",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "…………",
-  "en": "",
-  "status": ""
+  "en": "............",
+  "status": "tl"
  },
  {
   "id": "F0AD30:11",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "……………",
-  "en": "",
-  "status": ""
+  "en": "...............",
+  "status": "tl"
  },
  {
   "id": "F0AD30:12",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "残念ながら、それではないようです",
-  "en": "",
-  "status": ""
+  "en": "I'm afraid that is not it.",
+  "status": "tl"
  },
  {
   "id": "F0AD30:14",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "んあ~、これだと思ったのになあ…",
-  "en": "",
-  "status": ""
+  "en": "Awww... I was sure this was it...",
+  "status": "tl"
  },
  {
   "id": "F0AD30:16",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "ですが、それは二階への\n階段を開くカギになっているはずです",
-  "en": "",
-  "status": ""
+  "en": "However, it should serve as the key to open the stairs to the second floor.",
+  "status": "tl"
  },
  {
   "id": "F0AD30:18",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "カギ?　招き猫がか?",
-  "en": "",
-  "status": ""
+  "en": "A key? The beckoning cat?",
+  "status": "tl"
  },
  {
   "id": "F0AD30:20",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "左様でございます",
-  "en": "",
-  "status": ""
+  "en": "Indeed.",
+  "status": "tl"
  },
  {
   "id": "F0AD30:21",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "この招き猫を茶だんすの\n空いている場所に置きますと",
-  "en": "",
-  "status": ""
+  "en": "If you place this beckoning cat in the empty spot on the tea cabinet,",
+  "status": "tl"
  },
  {
   "id": "F0AD30:22",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "茶だんすが動いて\n二階への階段が現れるはずです",
-  "en": "",
-  "status": ""
+  "en": "the tea cabinet should move and reveal the stairs to the second floor.",
+  "status": "tl"
  },
  {
   "id": "F0AD30:24",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "うわー、さすが忍者屋敷だね",
-  "en": "",
-  "status": ""
+  "en": "Whoa, that's a ninja mansion for ya.",
+  "status": "tl"
  },
  {
   "id": "F0AD30:26",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "もう一つ思い出したことがあります",
-  "en": "",
-  "status": ""
+  "en": "There is one more thing I have remembered.",
+  "status": "tl"
  },
  {
   "id": "F0AD30:27",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "私が探しているものは\nもっと平べったいものでございました",
-  "en": "",
-  "status": ""
+  "en": "What I am looking for was something flatter.",
+  "status": "tl"
  },
  {
   "id": "F0AD30:28",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "それにあたたかいというのは\n気持ちの上でのことで、",
-  "en": "",
-  "status": ""
+  "en": "And by warm, I believe I meant warm in feeling,",
+  "status": "tl"
  },
  {
   "id": "F0AD30:29",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "必ずしもそのものが\nあたたかいというわけではないようです",
-  "en": "",
-  "status": ""
+  "en": "not that the thing itself was necessarily warm.",
+  "status": "tl"
  },
  {
   "id": "F0AD30:31",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "平べったい?",
-  "en": "",
-  "status": ""
+  "en": "Flatter?",
+  "status": "tl"
  },
  {
   "id": "F0AD30:32",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "…まあいいわ\n行くぞ、銀次！！",
-  "en": "",
-  "status": ""
+  "en": "...Whatever. Let's go, Ginji!!",
+  "status": "tl"
  },
  {
   "id": "F0B32C:1",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "奪還屋のみなさん、\nよろしくお願い致します",
-  "en": "",
-  "status": ""
+  "en": "I am counting on all of you, GetBackers.",
+  "status": "tl"
  },
  {
   "id": "F0B394:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "どうよ、清ジイ\n肖像画だ！！",
-  "en": "",
-  "status": ""
+  "en": "How's this, Gramps Sei? A portrait!!",
+  "status": "tl"
  },
  {
   "id": "F0B394:3",
   "kind": "msg",
   "speaker": "ヘヴン",
   "jp": "ちょっとォ…\nそれのどこがあたたかいものなワケ?",
-  "en": "",
-  "status": ""
+  "en": "Oh, come on... How exactly is that \"something warm\"?",
+  "status": "tl"
  },
  {
   "id": "F0B394:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "この絵の女に\nホレてたかも知んねーだろうが！",
-  "en": "",
-  "status": ""
+  "en": "He coulda been in love with the woman in this painting, y'know!",
+  "status": "tl"
  },
  {
   "id": "F0B394:6",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "恋心ってのは\n人の心を熱くさせるモンだからな！！",
-  "en": "",
-  "status": ""
+  "en": "Love's the kinda thing that sets a person's heart on fire!!",
+  "status": "tl"
  },
  {
   "id": "F0B394:8",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "そうです",
-  "en": "",
-  "status": ""
+  "en": "That is right.",
+  "status": "tl"
  },
  {
   "id": "F0B394:9",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "私のいう「あたたかい」は誰かを思う\n気持ちのあたたかみでございます",
-  "en": "",
-  "status": ""
+  "en": "The \"warmth\" I speak of is the warmth of caring for someone.",
+  "status": "tl"
  },
  {
   "id": "F0B394:10",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "ただ恋心とは異なるようですが…",
-  "en": "",
-  "status": ""
+  "en": "Though it does not seem to be romantic love...",
+  "status": "tl"
  },
  {
   "id": "F0B394:12",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "…ってことはこれもハズレ?",
-  "en": "",
-  "status": ""
+  "en": "...So this one's a miss too?",
+  "status": "tl"
  },
  {
   "id": "F0B394:14",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "残念ながら…\nですが、思い出したことがあります",
-  "en": "",
-  "status": ""
+  "en": "I'm afraid so... However, I have remembered something.",
+  "status": "tl"
  },
  {
   "id": "F0B394:15",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "私はあのお屋敷である御方の\nお世話をしておりました",
-  "en": "",
-  "status": ""
+  "en": "At that mansion, I was in service to a certain person.",
+  "status": "tl"
  },
  {
   "id": "F0B394:16",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "奪り還していただきたいものは\nその御方から預かった品物だと思います",
-  "en": "",
-  "status": ""
+  "en": "I believe the item I wish you to get back was entrusted to me by that person.",
+  "status": "tl"
  },
  {
   "id": "F0B394:18",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "結構思い出してきたじゃねえかよ、\n清ジイ！",
-  "en": "",
-  "status": ""
+  "en": "You're remembering a lot now, Gramps Sei!",
+  "status": "tl"
  },
  {
   "id": "F0B394:20",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "はい…その御方も私のことを\n「清じい」と呼んでおられました",
-  "en": "",
-  "status": ""
+  "en": "Yes... That person also called me \"Gramps Sei.\"",
+  "status": "tl"
  },
  {
   "id": "F0B394:21",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "あなたのその言葉を聞いて\n思い出したのです",
-  "en": "",
-  "status": ""
+  "en": "Hearing you say it is what made me remember.",
+  "status": "tl"
  },
  {
   "id": "F0B394:23",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "その人って\nまだあの屋敷にいるんですか?",
-  "en": "",
-  "status": ""
+  "en": "Is that person still in that mansion?",
+  "status": "tl"
  },
  {
   "id": "F0B394:25",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "いえ、その御方は\nあのお屋敷にはもういないはずです",
-  "en": "",
-  "status": ""
+  "en": "No, that person should no longer be in that mansion.",
+  "status": "tl"
  },
  {
   "id": "F0B394:26",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "…でもそれで良かったのだと思います",
-  "en": "",
-  "status": ""
+  "en": "...But I believe that was for the best.",
+  "status": "tl"
  },
  {
   "id": "F0B394:27",
   "kind": "msg",
   "speaker": "窪田",
-  "jp": "その御方はあの場所に閲じ込められて\nいたようなものでしたから…",
-  "en": "",
-  "status": ""
+  "jp": "その御方はあの場所に閉じ込められて\nいたようなものでしたから…",
+  "en": "That person was all but locked away in that place...",
+  "status": "tl"
  },
  {
   "id": "F0B394:28",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "外の世界に出して差し上げたかった…",
-  "en": "",
-  "status": ""
+  "en": "I wanted to let them out into the outside world...",
+  "status": "tl"
  },
  {
   "id": "F0B394:30",
@@ -1172,1303 +1172,1303 @@
   "kind": "msg",
   "speaker": "蛮",
   "jp": "で、その品がなンなのか\n思い出せたのかよ?",
-  "en": "",
-  "status": ""
+  "en": "So, did ya remember what the item is?",
+  "status": "tl"
  },
  {
   "id": "F0B394:33",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "申し訳ございません…",
-  "en": "",
-  "status": ""
+  "en": "I am terribly sorry...",
+  "status": "tl"
  },
  {
   "id": "F0B394:34",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "それがどうしても\n思い出すことができないのです",
-  "en": "",
-  "status": ""
+  "en": "That is the one thing I simply cannot remember.",
+  "status": "tl"
  },
  {
   "id": "F0B394:35",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "どうしてでしょうか、\nその御方のことも思い出せません",
-  "en": "",
-  "status": ""
+  "en": "I wonder why... I cannot remember that person either.",
+  "status": "tl"
  },
  {
   "id": "F0B394:36",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "お姿も…お名前も…",
-  "en": "",
-  "status": ""
+  "en": "Not their face... nor their name...",
+  "status": "tl"
  },
  {
   "id": "F0B394:37",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "とても大事な思い出なのですが",
-  "en": "",
-  "status": ""
+  "en": "Though they are very precious memories.",
+  "status": "tl"
  },
  {
   "id": "F0B394:39",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "大丈夫、\nその品物を見れば全部思い出せますよ",
-  "en": "",
-  "status": ""
+  "en": "Don't worry, once you see that item, you'll remember everything.",
+  "status": "tl"
  },
  {
   "id": "F0B394:41",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ところで清ジイ、\nあの館には三階だけ階段がないよな?",
-  "en": "",
-  "status": ""
+  "en": "By the way, Gramps Sei, only the third floor of that place has no stairs, right?",
+  "status": "tl"
  },
  {
   "id": "F0B394:42",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "向こう側へ行くにはどうすンだよ?",
-  "en": "",
-  "status": ""
+  "en": "How're we supposed to get to the other side?",
+  "status": "tl"
  },
  {
   "id": "F0B394:44",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "それでしたら、\nその肖像画が役立つはずでございます",
-  "en": "",
-  "status": ""
+  "en": "In that case, that portrait should prove useful.",
+  "status": "tl"
  },
  {
   "id": "F0B394:46",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "肖像画が?",
-  "en": "",
-  "status": ""
+  "en": "The portrait?",
+  "status": "tl"
  },
  {
   "id": "F0B394:48",
   "kind": "msg",
   "speaker": "窪田",
-  "jp": "はい、その肖像画と頷の間に\nカギ爪ロープが入っているはずです",
-  "en": "",
-  "status": ""
+  "jp": "はい、その肖像画と額の間に\nカギ爪ロープが入っているはずです",
+  "en": "Yes, there should be a grappling rope tucked between that portrait and its frame.",
+  "status": "tl"
  },
  {
   "id": "F0B394:49",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "それを使うことで反対側の塔にも\n忍び込むことが可能になります",
-  "en": "",
-  "status": ""
+  "en": "With it, you can also sneak into the tower on the opposite side.",
+  "status": "tl"
  },
  {
   "id": "F0B394:50",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "三階南側の壁をお調べ下さい",
-  "en": "",
-  "status": ""
+  "en": "Please examine the wall on the south side of the third floor.",
+  "status": "tl"
  },
  {
   "id": "F0B394:52",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あっ、ホントにロープが入ってた！",
-  "en": "",
-  "status": ""
+  "en": "Oh, there really was a rope inside!",
+  "status": "tl"
  },
  {
   "id": "F0B394:53",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "…まさか、清十郎さんもこれで\n向こう側まで渡っていたんですか?",
-  "en": "",
-  "status": ""
+  "en": "...Don't tell me you crossed over to the other side with this too, Seijuro?",
+  "status": "tl"
  },
  {
   "id": "F0B394:55",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "左様でございます",
-  "en": "",
-  "status": ""
+  "en": "Indeed.",
+  "status": "tl"
  },
  {
   "id": "F0B394:56",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "お食事を盆に乗せている時などは\n難儀でございました",
-  "en": "",
-  "status": ""
+  "en": "It was quite a trial when I was carrying meals on a tray.",
+  "status": "tl"
  },
  {
   "id": "F0B394:58",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "執事って結構大変なんですね…",
-  "en": "",
-  "status": ""
+  "en": "Being a butler sure is tough...",
+  "status": "tl"
  },
  {
   "id": "F0B394:60",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "主人の要求には顔色一つ変えずに従う…\n執事とはそういうものでございます",
-  "en": "",
-  "status": ""
+  "en": "Obeying the master's every demand without batting an eye... That is what a butler is.",
+  "status": "tl"
  },
  {
   "id": "F0B394:62",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "良かった~、執事にならなくて！",
-  "en": "",
-  "status": ""
+  "en": "Phew, I'm glad I'm not a butler!",
+  "status": "tl"
  },
  {
   "id": "F0B394:64",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "安心しろ、銀次",
-  "en": "",
-  "status": ""
+  "en": "Relax, Ginji.",
+  "status": "tl"
  },
  {
   "id": "F0B394:65",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "なろうと思ったところで\nなれやしねーから…",
-  "en": "",
-  "status": ""
+  "en": "Even if you wanted to be one, you'd never make it...",
+  "status": "tl"
  },
  {
   "id": "F0C154:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おい、清ジイ！\nお探しのモンはこれじゃねーか?",
-  "en": "",
-  "status": ""
+  "en": "Hey, Gramps Sei! Ain't this the thing you're looking for?",
+  "status": "tl"
  },
  {
   "id": "F0C154:3",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F0C154:4",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "…………",
-  "en": "",
-  "status": ""
+  "en": "............",
+  "status": "tl"
  },
  {
   "id": "F0C154:5",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "……………",
-  "en": "",
-  "status": ""
+  "en": "...............",
+  "status": "tl"
  },
  {
   "id": "F0C154:6",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "いえ、残念ながら\nこれではないような気が致します",
-  "en": "",
-  "status": ""
+  "en": "No, I'm afraid I don't believe this is it.",
+  "status": "tl"
  },
  {
   "id": "F0C154:8",
   "kind": "msg",
   "speaker": "ヘヴン",
   "jp": "ちょっとォ…なんなのよ、これ?",
-  "en": "",
-  "status": ""
+  "en": "Oh, come on... What is this supposed to be?",
+  "status": "tl"
  },
  {
   "id": "F0C154:10",
   "kind": "msg",
   "speaker": "蛮",
-  "jp": "信楽焼きの狸だ！\n文勾あんのかよ！！",
-  "en": "",
-  "status": ""
+  "jp": "信楽焼きの狸だ！\n文句あんのかよ！！",
+  "en": "It's a Shigaraki tanuki statue! Got a problem with that?!",
+  "status": "tl"
  },
  {
   "id": "F0C154:12",
   "kind": "msg",
   "speaker": "ヘヴン",
   "jp": "大アリよ！\nこんなのであるわけないじゃない！！",
-  "en": "",
-  "status": ""
+  "en": "You bet I do! There's no way it's something like this!!",
+  "status": "tl"
  },
  {
   "id": "F0C154:14",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "うるせえ！　なんだか分かんねーんだ\n仕方ねえだろうが！！",
-  "en": "",
-  "status": ""
+  "en": "Shaddap! We don't know what it is, so whaddaya expect?!",
+  "status": "tl"
  },
  {
   "id": "F0C154:16",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "お、落ち着いてよ、二人とも~…",
-  "en": "",
-  "status": ""
+  "en": "C-calm down, you two...",
+  "status": "tl"
  },
  {
   "id": "F0C530:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おい、清ジイ！\nお探しのモンはこれじゃねーか?",
-  "en": "",
-  "status": ""
+  "en": "Hey, Gramps Sei! Ain't this the thing you're looking for?",
+  "status": "tl"
  },
  {
   "id": "F0C530:3",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F0C530:4",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "…………",
-  "en": "",
-  "status": ""
+  "en": "............",
+  "status": "tl"
  },
  {
   "id": "F0C530:5",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "……………",
-  "en": "",
-  "status": ""
+  "en": "...............",
+  "status": "tl"
  },
  {
   "id": "F0C530:6",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "いえ、残念ながら\nこれではないような気が致します",
-  "en": "",
-  "status": ""
+  "en": "No, I'm afraid I don't believe this is it.",
+  "status": "tl"
  },
  {
   "id": "F0C530:8",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "なんですか、これ?",
-  "en": "",
-  "status": ""
+  "en": "What's this?",
+  "status": "tl"
  },
  {
   "id": "F0C530:10",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "これ?　竹の一輪挿しだよ",
-  "en": "",
-  "status": ""
+  "en": "This? It's a bamboo bud vase.",
+  "status": "tl"
  },
  {
   "id": "F0C530:12",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F0C530:13",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "わ~、面白~い！！",
-  "en": "",
-  "status": ""
+  "en": "Wow, how fuuun!!",
+  "status": "tl"
  },
  {
   "id": "F0C530:15",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "…もしかして、バカにされてる！?",
-  "en": "",
-  "status": ""
+  "en": "...Wait, is she making fun of me?!",
+  "status": "tl"
  },
  {
   "id": "F0C830:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おい、清ジイ！\nお探しのモンはこれじゃねーか?",
-  "en": "",
-  "status": ""
+  "en": "Hey, Gramps Sei! Ain't this the thing you're looking for?",
+  "status": "tl"
  },
  {
   "id": "F0C830:3",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F0C830:4",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "…………",
-  "en": "",
-  "status": ""
+  "en": "............",
+  "status": "tl"
  },
  {
   "id": "F0C830:5",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "……………",
-  "en": "",
-  "status": ""
+  "en": "...............",
+  "status": "tl"
  },
  {
   "id": "F0C830:6",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "いえ、残念ながら\nこれではないような気が致します",
-  "en": "",
-  "status": ""
+  "en": "No, I'm afraid I don't believe this is it.",
+  "status": "tl"
  },
  {
   "id": "F0C830:8",
   "kind": "msg",
   "speaker": "波児",
   "jp": "なんだ、酒器じゃないか\nへえ、いいもんだな",
-  "en": "",
-  "status": ""
+  "en": "Why, it's a sake set. Huh, nice piece.",
+  "status": "tl"
  },
  {
   "id": "F0C830:9",
   "kind": "msg",
   "speaker": "波児",
   "jp": "にしてもこれは依頼品じゃないと思うぞ",
-  "en": "",
-  "status": ""
+  "en": "Still, I don't think this is the item from the job.",
+  "status": "tl"
  },
  {
   "id": "F0C830:11",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "でしょ！　オレもそう思ったんだよね~",
-  "en": "",
-  "status": ""
+  "en": "Right?! That's what I thought toooo!",
+  "status": "tl"
  },
  {
   "id": "F0C830:13",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "テメーがコレだっつったんだろうが！",
-  "en": "",
-  "status": ""
+  "en": "You're the one who said this was it, you jerk!",
+  "status": "tl"
  },
  {
   "id": "F0CB1C:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おい、清ジイ！\nお探しのモンはこれじゃねーか?",
-  "en": "",
-  "status": ""
+  "en": "Hey, Gramps Sei! Ain't this the thing you're looking for?",
+  "status": "tl"
  },
  {
   "id": "F0CB1C:3",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F0CB1C:4",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "…………",
-  "en": "",
-  "status": ""
+  "en": "............",
+  "status": "tl"
  },
  {
   "id": "F0CB1C:5",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "……………",
-  "en": "",
-  "status": ""
+  "en": "...............",
+  "status": "tl"
  },
  {
   "id": "F0CB1C:6",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "いえ、残念ながら\nこれではないような気が致します",
-  "en": "",
-  "status": ""
+  "en": "No, I'm afraid I don't believe this is it.",
+  "status": "tl"
  },
  {
   "id": "F0CB1C:8",
   "kind": "msg",
   "speaker": "ヘヴン",
   "jp": "なにこれ、漆器?",
-  "en": "",
-  "status": ""
+  "en": "What's this, lacquerware?",
+  "status": "tl"
  },
  {
   "id": "F0CB1C:9",
   "kind": "msg",
   "speaker": "ヘヴン",
   "jp": "思い出の品で漆器ってどうなの…?",
-  "en": "",
-  "status": ""
+  "en": "Lacquerware as a keepsake...? Seriously?",
+  "status": "tl"
  },
  {
   "id": "F0CB1C:11",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "う、うーん…ダメかあ………",
-  "en": "",
-  "status": ""
+  "en": "Uh, umm... No good, huh...",
+  "status": "tl"
  },
  {
   "id": "F0CD74:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おい、清ジイ！\nお探しのモンはこれじゃねーか?",
-  "en": "",
-  "status": ""
+  "en": "Hey, Gramps Sei! Ain't this the thing you're looking for?",
+  "status": "tl"
  },
  {
   "id": "F0CD74:3",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F0CD74:4",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "…………",
-  "en": "",
-  "status": ""
+  "en": "............",
+  "status": "tl"
  },
  {
   "id": "F0CD74:5",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "……………",
-  "en": "",
-  "status": ""
+  "en": "...............",
+  "status": "tl"
  },
  {
   "id": "F0CD74:6",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "いえ、残念ながら\nこれではないような気が致します",
-  "en": "",
-  "status": ""
+  "en": "No, I'm afraid I don't believe this is it.",
+  "status": "tl"
  },
  {
   "id": "F0CD74:8",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "わー、有田焼のお皿だ~",
-  "en": "",
-  "status": ""
+  "en": "Wow, an Arita porcelain plate!",
+  "status": "tl"
  },
  {
   "id": "F0CD74:9",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "マスター、\nこういうのお店でも使いません?",
-  "en": "",
-  "status": ""
+  "en": "Master, wouldn't something like this work in the shop too?",
+  "status": "tl"
  },
  {
   "id": "F0CD74:11",
   "kind": "msg",
   "speaker": "波児",
   "jp": "こういうのって…皿かい！?",
-  "en": "",
-  "status": ""
+  "en": "Something like this... You mean a plate?!",
+  "status": "tl"
  },
  {
   "id": "F0CD74:12",
   "kind": "msg",
   "speaker": "波児",
   "jp": "ま、有田焼のカップならいいけどな…",
-  "en": "",
-  "status": ""
+  "en": "Well, an Arita cup I'd take, anyway...",
+  "status": "tl"
  },
  {
   "id": "F0CFE8:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おい、清ジイ！\nお探しのモンはこれじゃねーか?",
-  "en": "",
-  "status": ""
+  "en": "Hey, Gramps Sei! Ain't this the thing you're looking for?",
+  "status": "tl"
  },
  {
   "id": "F0CFE8:3",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F0CFE8:4",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "…………",
-  "en": "",
-  "status": ""
+  "en": "............",
+  "status": "tl"
  },
  {
   "id": "F0CFE8:5",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "……………",
-  "en": "",
-  "status": ""
+  "en": "...............",
+  "status": "tl"
  },
  {
   "id": "F0CFE8:6",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "いえ、残念ながら\nこれではないような気が致します",
-  "en": "",
-  "status": ""
+  "en": "No, I'm afraid I don't believe this is it.",
+  "status": "tl"
  },
  {
   "id": "F0CFE8:8",
   "kind": "msg",
   "speaker": "ヘヴン",
   "jp": "香炉ねえ…",
-  "en": "",
-  "status": ""
+  "en": "Incense burner, huh...",
+  "status": "tl"
  },
  {
   "id": "F0CFE8:9",
   "kind": "msg",
   "speaker": "ヘヴン",
   "jp": "アンタたちもお香とかやって\nもっと想像力働かせたらどう?",
-  "en": "",
-  "status": ""
+  "en": "Why don't you two burn some incense and put your imaginations to work for once?",
+  "status": "tl"
  },
  {
   "id": "F0CFE8:11",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "うるせえ、外野は黙ってろ…",
-  "en": "",
-  "status": ""
+  "en": "Shaddap, nobody asked the peanut gallery...",
+  "status": "tl"
  },
  {
   "id": "F0D230:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おい、清ジイ！\nお探しのモンはこれじゃねーか?",
-  "en": "",
-  "status": ""
+  "en": "Hey, Gramps Sei! Ain't this the thing you're looking for?",
+  "status": "tl"
  },
  {
   "id": "F0D230:3",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F0D230:4",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "…………",
-  "en": "",
-  "status": ""
+  "en": "............",
+  "status": "tl"
  },
  {
   "id": "F0D230:5",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "……………",
-  "en": "",
-  "status": ""
+  "en": "...............",
+  "status": "tl"
  },
  {
   "id": "F0D230:6",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "いえ、残念ながら\nこれではないような気が致します",
-  "en": "",
-  "status": ""
+  "en": "No, I'm afraid I don't believe this is it.",
+  "status": "tl"
  },
  {
   "id": "F0D230:8",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "わ~、なんですか、コレ?\nランプ?",
-  "en": "",
-  "status": ""
+  "en": "Wow, what's this? A lamp?",
+  "status": "tl"
  },
  {
   "id": "F0D230:10",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "正確にはだるまランプでございますね",
-  "en": "",
-  "status": ""
+  "en": "To be precise, it is a daruma lamp.",
+  "status": "tl"
  },
  {
   "id": "F0D230:12",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "可愛い~い♥",
-  "en": "",
-  "status": ""
+  "en": "Sooo cute♥",
+  "status": "tl"
  },
  {
   "id": "F0D230:14",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "可愛くても依頼品でなきゃあな…",
-  "en": "",
-  "status": ""
+  "en": "Cute or not, it's no good if it ain't the thing we're after...",
+  "status": "tl"
  },
  {
   "id": "F0D4B8:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おい、清ジイ！\nお探しのモンはこれじゃねーか?",
-  "en": "",
-  "status": ""
+  "en": "Hey, Gramps Sei! Ain't this the thing you're looking for?",
+  "status": "tl"
  },
  {
   "id": "F0D4B8:3",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F0D4B8:4",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "…………",
-  "en": "",
-  "status": ""
+  "en": "............",
+  "status": "tl"
  },
  {
   "id": "F0D4B8:5",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "……………",
-  "en": "",
-  "status": ""
+  "en": "...............",
+  "status": "tl"
  },
  {
   "id": "F0D4B8:6",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "いえ、残念ながら\nこれではないような気が致します",
-  "en": "",
-  "status": ""
+  "en": "No, I'm afraid I don't believe this is it.",
+  "status": "tl"
  },
  {
   "id": "F0D4B8:8",
   "kind": "msg",
   "speaker": "ヘヴン",
   "jp": "湯たんぽ…",
-  "en": "",
-  "status": ""
+  "en": "A hot-water bottle...",
+  "status": "tl"
  },
  {
   "id": "F0D4B8:9",
   "kind": "msg",
   "speaker": "ヘヴン",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": "......",
+  "status": "tl"
  },
  {
   "id": "F0D4B8:11",
   "kind": "msg",
   "speaker": "波児",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": "......",
+  "status": "tl"
  },
  {
   "id": "F0D4B8:13",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F0D4B8:15",
   "kind": "msg",
   "speaker": "レナ",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": "......",
+  "status": "tl"
  },
  {
   "id": "F0D4B8:17",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "わ~、蛮ちゃん！\nみんなに呆れられてるよ！！",
-  "en": "",
-  "status": ""
+  "en": "Waah, Ban! Everybody's totally fed up with you!!",
+  "status": "tl"
  },
  {
   "id": "F0D4B8:19",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "クソッ！　次を見てろ、次を！！",
-  "en": "",
-  "status": ""
+  "en": "Damn it! Just wait'll you see the next one!!",
+  "status": "tl"
  },
  {
   "id": "F0D860:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おい、清ジイ！\nお探しのモンはこれじゃねーか?",
-  "en": "",
-  "status": ""
+  "en": "Hey, Gramps Sei! Ain't this the thing you're looking for?",
+  "status": "tl"
  },
  {
   "id": "F0D860:3",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F0D860:4",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "…………",
-  "en": "",
-  "status": ""
+  "en": "............",
+  "status": "tl"
  },
  {
   "id": "F0D860:5",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "……………",
-  "en": "",
-  "status": ""
+  "en": "...............",
+  "status": "tl"
  },
  {
   "id": "F0D860:6",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "いえ、残念ながら\nこれではないような気が致します",
-  "en": "",
-  "status": ""
+  "en": "No, I'm afraid I don't believe this is it.",
+  "status": "tl"
  },
  {
   "id": "F0D860:8",
   "kind": "msg",
   "speaker": "レナ",
   "jp": "うわ~！　なんですか、これ?",
-  "en": "",
-  "status": ""
+  "en": "Whoa! What's this?",
+  "status": "tl"
  },
  {
   "id": "F0D860:10",
   "kind": "msg",
   "speaker": "波児",
   "jp": "これはつげ櫛だな",
-  "en": "",
-  "status": ""
+  "en": "That's a boxwood comb.",
+  "status": "tl"
  },
  {
   "id": "F0D860:11",
   "kind": "msg",
   "speaker": "波児",
   "jp": "昔の女の人が使ってたくしだよ",
-  "en": "",
-  "status": ""
+  "en": "Women used combs like that long ago.",
+  "status": "tl"
  },
  {
   "id": "F0D860:13",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "へ~、そうなんだ~",
-  "en": "",
-  "status": ""
+  "en": "Huh, is that so...",
+  "status": "tl"
  },
  {
   "id": "F0D860:15",
   "kind": "msg",
   "speaker": "波児",
   "jp": "お前ら、知らないのに持ってくるなよ…",
-  "en": "",
-  "status": ""
+  "en": "Don't bring stuff here when you don't even know what it is...",
+  "status": "tl"
  },
  {
   "id": "F0DB28:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おい、清ジイ！\nお探しのモンはこれじゃねーか?",
-  "en": "",
-  "status": ""
+  "en": "Hey, Gramps Sei! Ain't this the thing you're looking for?",
+  "status": "tl"
  },
  {
   "id": "F0DB28:3",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F0DB28:4",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "…………",
-  "en": "",
-  "status": ""
+  "en": "............",
+  "status": "tl"
  },
  {
   "id": "F0DB28:5",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "……………",
-  "en": "",
-  "status": ""
+  "en": "...............",
+  "status": "tl"
  },
  {
   "id": "F0DB28:6",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "いえ、残念ながら\nこれではないような気が致します",
-  "en": "",
-  "status": ""
+  "en": "No, I'm afraid I don't believe this is it.",
+  "status": "tl"
  },
  {
   "id": "F0DB28:8",
   "kind": "msg",
   "speaker": "レナ",
   "jp": "なんですか、コレ！?\nもしかして給湯器???",
-  "en": "",
-  "status": ""
+  "en": "What's this?! Could it be a water heater???",
+  "status": "tl"
  },
  {
   "id": "F0DB28:10",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "違うとは思ったんだけどさー\nつい持ってきちゃって~ハハハ",
-  "en": "",
-  "status": ""
+  "en": "I kinda figured it wasn't the one, but I just ended up bringing it anyway... Hahaha.",
+  "status": "tl"
  },
  {
   "id": "F0DB28:12",
   "kind": "msg",
   "speaker": "レナ",
   "jp": "だ、大丈夫ですか！?",
-  "en": "",
-  "status": ""
+  "en": "A-are you okay?!",
+  "status": "tl"
  },
  {
   "id": "F0DB28:14",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "えっ、なにが！?",
-  "en": "",
-  "status": ""
+  "en": "Huh? Okay about what?!",
+  "status": "tl"
  },
  {
   "id": "F0DDCC:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おい、清ジイ！\nお探しのモンはこれじゃねーか?",
-  "en": "",
-  "status": ""
+  "en": "Hey, Gramps Sei! Ain't this the thing you're looking for?",
+  "status": "tl"
  },
  {
   "id": "F0DDCC:3",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F0DDCC:4",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "…………",
-  "en": "",
-  "status": ""
+  "en": "............",
+  "status": "tl"
  },
  {
   "id": "F0DDCC:5",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "……………",
-  "en": "",
-  "status": ""
+  "en": "...............",
+  "status": "tl"
  },
  {
   "id": "F0DDCC:6",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "いえ、残念ながら\nこれではないような気が致します",
-  "en": "",
-  "status": ""
+  "en": "No, I'm afraid I don't believe this is it.",
+  "status": "tl"
  },
  {
   "id": "F0DDCC:8",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "あっ、でもこれって\n窪田さんじゃないですか?",
-  "en": "",
-  "status": ""
+  "en": "Oh, but isn't this Mr. Kubota?",
+  "status": "tl"
  },
  {
   "id": "F0DDCC:10",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あっ、ホントだ！\n全然気付かなかったよ~",
-  "en": "",
-  "status": ""
+  "en": "Oh, you're right! I didn't even notice!",
+  "status": "tl"
  },
  {
   "id": "F0DDCC:12",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "えっ、気付いてなかったんですか！?",
-  "en": "",
-  "status": ""
+  "en": "Huh? You didn't notice?!",
+  "status": "tl"
  },
  {
   "id": "F0DDCC:14",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "だってあんまり写りがよくないからさ~",
-  "en": "",
-  "status": ""
+  "en": "Well, it's not a very good picture of him...",
+  "status": "tl"
  },
  {
   "id": "F0DDCC:16",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "これが清ジイとなると、\n手前のガキ二人はなに者だ?",
-  "en": "",
-  "status": ""
+  "en": "If this is Old Man Seijuro, then who're the two brats in front?",
+  "status": "tl"
  },
  {
   "id": "F0DDCC:18",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F0DDCC:19",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "…………",
-  "en": "",
-  "status": ""
+  "en": "............",
+  "status": "tl"
  },
  {
   "id": "F0DDCC:20",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "……………",
-  "en": "",
-  "status": ""
+  "en": "...............",
+  "status": "tl"
  },
  {
   "id": "F0DDCC:21",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "申し訳ございませんが、\n思い出すことができないようです",
-  "en": "",
-  "status": ""
+  "en": "I am terribly sorry, but I cannot seem to remember.",
+  "status": "tl"
  },
  {
   "id": "F0DDCC:22",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "ですが…どちらも\n思い出深い人物であるような…",
-  "en": "",
-  "status": ""
+  "en": "However... I feel that both of them were people very dear to me...",
+  "status": "tl"
  },
  {
   "id": "F0DDCC:24",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "…ムリすることないですよ、清十郎さん",
-  "en": "",
-  "status": ""
+  "en": "...Don't push yourself, Seijuro.",
+  "status": "tl"
  },
  {
   "id": "F0DDCC:25",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "いつか思い出せるようになりますって",
-  "en": "",
-  "status": ""
+  "en": "You'll be able to remember someday, I'm sure of it.",
+  "status": "tl"
  },
  {
   "id": "F0E2A0:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おい、清ジイ！\nお探しのモンはこれじゃねーか?",
-  "en": "",
-  "status": ""
+  "en": "Hey, Gramps Sei! Ain't this the thing you're looking for?",
+  "status": "tl"
  },
  {
   "id": "F0E2A0:3",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F0E2A0:4",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "…………",
-  "en": "",
-  "status": ""
+  "en": "............",
+  "status": "tl"
  },
  {
   "id": "F0E2A0:5",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "……………",
-  "en": "",
-  "status": ""
+  "en": "...............",
+  "status": "tl"
  },
  {
   "id": "F0E2A0:6",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "いえ、残念ながら\nこれではないような気が致します",
-  "en": "",
-  "status": ""
+  "en": "No, I'm afraid I don't believe this is it.",
+  "status": "tl"
  },
  {
   "id": "F0E2A0:8",
   "kind": "msg",
   "speaker": "ヘヴン",
   "jp": "なによ、コレ?　のれん！?\nのれんなワケないでしょーが！！",
-  "en": "",
-  "status": ""
+  "en": "What's this? A shop curtain?! Of course it's not a shop curtain!!",
+  "status": "tl"
  },
  {
   "id": "F0E2A0:10",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "もしかしたらってことが\nあるかも知んねーだろうが！！",
-  "en": "",
-  "status": ""
+  "en": "Hey, there was a chance it might've been!!",
+  "status": "tl"
  },
  {
   "id": "F0E2A0:12",
   "kind": "msg",
   "speaker": "ヘヴン",
   "jp": "違ってたじゃないのよ！！",
-  "en": "",
-  "status": ""
+  "en": "Well, it wasn't, was it?!",
+  "status": "tl"
  },
  {
   "id": "F0E2A0:14",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "可能性の話だ、可能性の！！",
-  "en": "",
-  "status": ""
+  "en": "I'm talkin' possibilities here, possibilities!!",
+  "status": "tl"
  },
  {
   "id": "F0E2A0:16",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ケ、ケンカはやめようよ~…\n二人とも…",
-  "en": "",
-  "status": ""
+  "en": "C-come on, stop fighting, you two...",
+  "status": "tl"
  },
  {
   "id": "F0E654:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おい、清ジイ！\nお探しのモンはこれじゃねーか?",
-  "en": "",
-  "status": ""
+  "en": "Hey, Gramps Sei! Ain't this the thing you're looking for?",
+  "status": "tl"
  },
  {
   "id": "F0E654:3",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F0E654:4",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "…………",
-  "en": "",
-  "status": ""
+  "en": "............",
+  "status": "tl"
  },
  {
   "id": "F0E654:5",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "……………",
-  "en": "",
-  "status": ""
+  "en": "...............",
+  "status": "tl"
  },
  {
   "id": "F0E654:6",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "いえ、残念ながら\nこれではないような気が致します",
-  "en": "",
-  "status": ""
+  "en": "No, I'm afraid I don't believe this is it.",
+  "status": "tl"
  },
  {
   "id": "F0E654:8",
   "kind": "msg",
   "speaker": "ヘヴン",
   "jp": "座布団…",
-  "en": "",
-  "status": ""
+  "en": "A floor cushion...",
+  "status": "tl"
  },
  {
   "id": "F0E654:9",
   "kind": "msg",
   "speaker": "ヘヴン",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": "......",
+  "status": "tl"
  },
  {
   "id": "F0E654:11",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "だ、だ、だっていつも使ってた\n思い出の座布団かも知れないし~…",
-  "en": "",
-  "status": ""
+  "en": "B-b-but it could be the cushion he always used, full of memories...",
+  "status": "tl"
  },
  {
   "id": "F0E654:13",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "よせ、銀次\n言い訳したところで空しくなるだけだ…",
-  "en": "",
-  "status": ""
+  "en": "Drop it, Ginji. Making excuses'll just make you feel emptier...",
+  "status": "tl"
  },
  {
   "id": "F0E92C:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おい、清ジイ！\nお探しのモンはこれじゃねーか?",
-  "en": "",
-  "status": ""
+  "en": "Hey, Gramps Sei! Ain't this the thing you're looking for?",
+  "status": "tl"
  },
  {
   "id": "F0E92C:3",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F0E92C:4",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "…………",
-  "en": "",
-  "status": ""
+  "en": "............",
+  "status": "tl"
  },
  {
   "id": "F0E92C:5",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "……………",
-  "en": "",
-  "status": ""
+  "en": "...............",
+  "status": "tl"
  },
  {
   "id": "F0E92C:6",
   "kind": "msg",
   "speaker": "窪田",
   "jp": "いえ、残念ながら\nこれではないような気が致します",
-  "en": "",
-  "status": ""
+  "en": "No, I'm afraid I don't believe this is it.",
+  "status": "tl"
  },
  {
   "id": "F0E92C:8",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "わー、大きな古時計だ~",
-  "en": "",
-  "status": ""
+  "en": "Wow, a big old grandfather clock!",
+  "status": "tl"
  },
  {
   "id": "F0E92C:9",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "窪田さんの生まれた日に\n買ってきた時計ですか?",
-  "en": "",
-  "status": ""
+  "en": "Is it a clock that was bought the day Mr. Kubota was born?",
+  "status": "tl"
  },
  {
   "id": "F0E92C:11",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "そうかもね！",
-  "en": "",
-  "status": ""
+  "en": "Maybe!",
+  "status": "tl"
  },
  {
   "id": "F0E92C:12",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "…っていうか\nあの歌切ないからやめようよ…",
-  "en": "",
-  "status": ""
+  "en": "...Actually, let's not go there. That song's way too sad...",
+  "status": "tl"
  },
  {
   "id": "F0E92C:14",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "…ですね",
-  "en": "",
-  "status": ""
+  "en": "...Agreed.",
+  "status": "tl"
  }
 ]

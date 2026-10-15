@@ -39,12 +39,12 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | 弥勒 | Miroku | | the Miroku family member on screen | |
 | 鏡形而 / 鏡 | Kyoji Kagami / Kagami | | | |
 | 羨木竜童 / 羨木 | Ryudo Urayamagi / Urayamagi | | | |
-| 神門京介 / 京介 | Kyosuke Kando / Kyosuke | | masks (面) | |
-| 神門大介 / 大介 | Daisuke Kando / Daisuke | | Kyosuke's younger brother (client) | |
+| 神門京介 / 京介 | Kyosuke Mikado / Kyosuke | | masks (面) | |
+| 神門大介 / 大介 | Daisuke Mikado / Daisuke | | Kyosuke's younger brother (client) | |
 | 吉良利信 / 吉良 | Toshinobu Kira / Kira | | "sorcerer", half Italian | |
 | 吉野杏 / 杏 | Anzu Yoshino / Anzu | | camera girl, says ッス | An |
 | 蛭田 / メカ蛭田 | Hiruta / Mecha Hiruta | | 蛭田ジャパン -> Hiruta Japan | |
-| 窪田 | Kubota | | | |
+| 窪田清十郎 / 窪田 / 清十郎 | Seijuro Kubota / Kubota / Seijuro | | 清ジイ (Ban) -> Old Man Sei; 窪ちん (Anzu) -> Kubo | Seijuurou |
 | 鬼夜叉 | Oniyasha | | | |
 | 西園寺 | Saionji | | | |
 | ヘヴン | Hevn | | Mediator | Heaven |
@@ -78,7 +78,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | 占い横町 | Fortune-Teller Alley | | | |
 | 蛭田ジャパン | Hiruta Japan | | | |
 | 臨海パーク | Seaside Park | | | |
-| 神門の里 | Kando Village | | | |
+| 神門の里 | Mikado Village | | | |
 
 ## Items / skills / terms
 | JP | EN | max | notes | Avoid |

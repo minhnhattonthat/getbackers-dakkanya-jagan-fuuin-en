@@ -4,783 +4,783 @@
   "kind": "msg",
   "speaker": "ヘヴン",
   "jp": "アンタたちもいい加減、飢えない程度に\nもうけるようになったらどう?",
-  "en": "",
-  "status": ""
+  "en": "Isn't it about time you two started earning enough not to starve?",
+  "status": "tl"
  },
  {
   "id": "F021A4:1",
   "kind": "msg",
   "speaker": "杏",
   "jp": "杏、奪還屋さんたちのコト\n信じてるッスよ！",
-  "en": "",
-  "status": ""
+  "en": "Anzu believes in you retrieval agents, see!",
+  "status": "tl"
  },
  {
   "id": "F02208:1",
   "kind": "msg",
   "speaker": "吉良",
   "jp": "邪眼………",
-  "en": "",
-  "status": ""
+  "en": "Evil Eye.........",
+  "status": "tl"
  },
  {
   "id": "F0224C:0",
   "kind": "msg",
   "speaker": "",
-  "jp": "タコヤキ占い『ルン』は\n一身上の都合により閲店いたします",
-  "en": "",
-  "status": ""
+  "jp": "タコヤキ占い『ルン』は\n一身上の都合により閉店いたします",
+  "en": "Takoyaki Fortunes \"Run\" is closing for personal reasons.",
+  "status": "tl"
  },
  {
   "id": "F0224C:2",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "えっ、タ…タコヤキで占うの！?",
-  "en": "",
-  "status": ""
+  "en": "Huh? Th-They tell fortunes with takoyaki?!",
+  "status": "tl"
  },
  {
   "id": "F0224C:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "うわ~、当たらなそーう…",
-  "en": "",
-  "status": ""
+  "en": "Wow... That doesn't sound accurate at all...",
+  "status": "tl"
  },
  {
   "id": "F0231C:0",
   "kind": "msg",
   "speaker": "",
-  "jp": "タコヤキ占い『ルン』は\n一身上の都合により閲店いたします",
-  "en": "",
-  "status": ""
+  "jp": "タコヤキ占い『ルン』は\n一身上の都合により閉店いたします",
+  "en": "Takoyaki Fortunes \"Run\" is closing for personal reasons.",
+  "status": "tl"
  },
  {
   "id": "F0231C:2",
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "なによ、これ?\n本気で商売する気あるのかしら…",
-  "en": "",
-  "status": ""
+  "en": "What is this? Are they even serious about running a business?",
+  "status": "tl"
  },
  {
   "id": "F023E0:0",
   "kind": "msg",
   "speaker": "",
-  "jp": "タコヤキ占い『ルン』は\n一身上の都合により閲店いたします",
-  "en": "",
-  "status": ""
+  "jp": "タコヤキ占い『ルン』は\n一身上の都合により閉店いたします",
+  "en": "Takoyaki Fortunes \"Run\" is closing for personal reasons.",
+  "status": "tl"
  },
  {
   "id": "F023E0:2",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F02474:0",
   "kind": "msg",
   "speaker": "",
-  "jp": "タコヤキ占い『ルン』は\n一身上の都合により閲店いたします",
-  "en": "",
-  "status": ""
+  "jp": "タコヤキ占い『ルン』は\n一身上の都合により閉店いたします",
+  "en": "Takoyaki Fortunes \"Run\" is closing for personal reasons.",
+  "status": "tl"
  },
  {
   "id": "F02474:2",
   "kind": "msg",
   "speaker": "花月",
   "jp": "タコヤキで占いですか\n発想としては面白いのですが…",
-  "en": "",
-  "status": ""
+  "en": "Fortune-telling with takoyaki? The idea itself is interesting, but...",
+  "status": "tl"
  },
  {
   "id": "F02534:0",
   "kind": "msg",
   "speaker": "",
-  "jp": "タコヤキ占い『ルン』は\n一身上の都合により閲店いたします",
-  "en": "",
-  "status": ""
+  "jp": "タコヤキ占い『ルン』は\n一身上の都合により閉店いたします",
+  "en": "Takoyaki Fortunes \"Run\" is closing for personal reasons.",
+  "status": "tl"
  },
  {
   "id": "F02534:2",
   "kind": "msg",
   "speaker": "士度",
   "jp": "…あ?　タコヤキ！?",
-  "en": "",
-  "status": ""
+  "en": "...Huh? Takoyaki?!",
+  "status": "tl"
  },
  {
   "id": "F025D4:0",
   "kind": "msg",
   "speaker": "",
-  "jp": "タコヤキ占い『ルン』は\n一身上の都合により閲店いたします",
-  "en": "",
-  "status": ""
+  "jp": "タコヤキ占い『ルン』は\n一身上の都合により閉店いたします",
+  "en": "Takoyaki Fortunes \"Run\" is closing for personal reasons.",
+  "status": "tl"
  },
  {
   "id": "F025D4:2",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "なんやコレ！　タコヤキで占いかい！！\nな、な、なんでやね~~~ん！！",
-  "en": "",
-  "status": ""
+  "en": "What the heck?! Fortunes with takoyaki?! Wh-wh-what kinda nonsense is thaaaat!!",
+  "status": "tl"
  },
  {
   "id": "F025D4:3",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "いやいや、あり得へん！",
-  "en": "",
-  "status": ""
+  "en": "No, no, that just ain't possible!",
+  "status": "tl"
  },
  {
   "id": "F025D4:4",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "こんなん、あり得へん！",
-  "en": "",
-  "status": ""
+  "en": "Somethin' like this just ain't possible!",
+  "status": "tl"
  },
  {
   "id": "F025D4:5",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ていうか、許されへん！！",
-  "en": "",
-  "status": ""
+  "en": "Or rather, it ain't forgivable!!",
+  "status": "tl"
  },
  {
   "id": "F025D4:6",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "むしろワイが許さん！！",
-  "en": "",
-  "status": ""
+  "en": "Truth is, I ain't forgivin' it!!",
+  "status": "tl"
  },
  {
   "id": "F025D4:7",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "タコが許してもワイが許さへん！！",
-  "en": "",
-  "status": ""
+  "en": "Even if the octopus forgives ya, I sure won't!!",
+  "status": "tl"
  },
  {
   "id": "F025D4:8",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "許さへんで~！！",
-  "en": "",
-  "status": ""
+  "en": "I ain't forgivin' ya, nooo!!",
+  "status": "tl"
  },
  {
   "id": "F025D4:9",
   "kind": "msg",
   "speaker": "笑師",
-  "jp": "って、もう閲店しとるやんけ！！",
-  "en": "",
-  "status": ""
+  "jp": "って、もう閉店しとるやんけ！！",
+  "en": "...Wait, they're already closed!!",
+  "status": "tl"
  },
  {
   "id": "F027AC:0",
   "kind": "msg",
   "speaker": "",
-  "jp": "タコヤキ占い『ルン』は\n一身上の都合により閲店いたします",
-  "en": "",
-  "status": ""
+  "jp": "タコヤキ占い『ルン』は\n一身上の都合により閉店いたします",
+  "en": "Takoyaki Fortunes \"Run\" is closing for personal reasons.",
+  "status": "tl"
  },
  {
   "id": "F027AC:2",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "…なぜタコヤキなのだ?",
-  "en": "",
-  "status": ""
+  "en": "...Why takoyaki?",
+  "status": "tl"
  },
  {
   "id": "F02854:0",
   "kind": "msg",
   "speaker": "",
-  "jp": "タコヤキ占い『ルン』は\n一身上の都合により閲店いたします",
-  "en": "",
-  "status": ""
+  "jp": "タコヤキ占い『ルン』は\n一身上の都合により閉店いたします",
+  "en": "Takoyaki Fortunes \"Run\" is closing for personal reasons.",
+  "status": "tl"
  },
  {
   "id": "F02854:2",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "タコヤキで占いだと?\n…どういうことだ！?",
-  "en": "",
-  "status": ""
+  "en": "Fortunes with takoyaki? ...What is the meaning of this?!",
+  "status": "tl"
  },
  {
   "id": "F0290C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "あなたの未来を占います\n金運・恋愛運・仕事運…",
-  "en": "",
-  "status": ""
+  "en": "We'll tell your future. Money, love, career...",
+  "status": "tl"
  },
  {
   "id": "F0290C:2",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "んあ~、金運と仕事運でも\n占ってもらおうかな~…",
-  "en": "",
-  "status": ""
+  "en": "Mmm... Maybe I'll get my money luck and work luck read...",
+  "status": "tl"
  },
  {
   "id": "F029C4:0",
   "kind": "msg",
   "speaker": "",
   "jp": "あなたの未来を占います\n金運・恋愛運・仕事運…",
-  "en": "",
-  "status": ""
+  "en": "We'll tell your future. Money, love, career...",
+  "status": "tl"
  },
  {
   "id": "F029C4:2",
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "占いって信じてないのよね…",
-  "en": "",
-  "status": ""
+  "en": "I don't really believe in fortune-telling...",
+  "status": "tl"
  },
  {
   "id": "F02A68:0",
   "kind": "msg",
   "speaker": "",
   "jp": "あなたの未来を占います\n金運・恋愛運・仕事運…",
-  "en": "",
-  "status": ""
+  "en": "We'll tell your future. Money, love, career...",
+  "status": "tl"
  },
  {
   "id": "F02A68:2",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "ダメですね、占いに頼るようでは…",
-  "en": "",
-  "status": ""
+  "en": "Oh dear. Relying on fortune-telling just won't do...",
+  "status": "tl"
  },
  {
   "id": "F02B0C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "あなたの未来を占います\n金運・恋愛運・仕事運…",
-  "en": "",
-  "status": ""
+  "en": "We'll tell your future. Money, love, career...",
+  "status": "tl"
  },
  {
   "id": "F02B0C:2",
   "kind": "msg",
   "speaker": "花月",
   "jp": "ここの占いは\n霊感商法に結びついていそうですね…",
-  "en": "",
-  "status": ""
+  "en": "The fortune-telling here seems likely to be tied to some spiritual sales scam...",
+  "status": "tl"
  },
  {
   "id": "F02BC4:0",
   "kind": "msg",
   "speaker": "",
   "jp": "あなたの未来を占います\n金運・恋愛運・仕事運…",
-  "en": "",
-  "status": ""
+  "en": "We'll tell your future. Money, love, career...",
+  "status": "tl"
  },
  {
   "id": "F02BC4:2",
   "kind": "msg",
   "speaker": "士度",
   "jp": "占いなんぞ信じてねーよ",
-  "en": "",
-  "status": ""
+  "en": "I don't believe in fortunes.",
+  "status": "tl"
  },
  {
   "id": "F02C60:0",
   "kind": "msg",
   "speaker": "",
   "jp": "あなたの未来を占います\n金運・恋愛運・仕事運…",
-  "en": "",
-  "status": ""
+  "en": "We'll tell your future. Money, love, career...",
+  "status": "tl"
  },
  {
   "id": "F02C60:2",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ごっつ気になるわ~、恋愛運！\n後でこっそり占ってもらおかな…",
-  "en": "",
-  "status": ""
+  "en": "I'm real curious about my love luck! Maybe I'll sneak back later and get it read...",
+  "status": "tl"
  },
  {
   "id": "F02D24:0",
   "kind": "msg",
   "speaker": "",
   "jp": "あなたの未来を占います\n金運・恋愛運・仕事運…",
-  "en": "",
-  "status": ""
+  "en": "We'll tell your future. Money, love, career...",
+  "status": "tl"
  },
  {
   "id": "F02D24:2",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "ここにある多くの占い屋はまやかしだな",
-  "en": "",
-  "status": ""
+  "en": "Most of the fortune-tellers here are frauds.",
+  "status": "tl"
  },
  {
   "id": "F02D24:3",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "マリーア殿は本物だが…",
-  "en": "",
-  "status": ""
+  "en": "Though Maria is the genuine article...",
+  "status": "tl"
  },
  {
   "id": "F02DF4:0",
   "kind": "msg",
   "speaker": "",
   "jp": "あなたの未来を占います\n金運・恋愛運・仕事運…",
-  "en": "",
-  "status": ""
+  "en": "We'll tell your future. Money, love, career...",
+  "status": "tl"
  },
  {
   "id": "F02DF4:2",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "占いなんてものは弱者のすがるものだ",
-  "en": "",
-  "status": ""
+  "en": "Fortune-telling is something only the weak cling to.",
+  "status": "tl"
  },
  {
   "id": "F02E9C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "占いから呪いまで…\n新宿のババになんでもご相談下さい",
-  "en": "",
-  "status": ""
+  "en": "From fortune-telling to curses... Bring all your troubles to the Hag of Shinjuku.",
+  "status": "tl"
  },
  {
   "id": "F02E9C:2",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "呪いはちょっとマズいよね~",
-  "en": "",
-  "status": ""
+  "en": "Curses are kinda bad news, huh...",
+  "status": "tl"
  },
  {
   "id": "F02F40:0",
   "kind": "msg",
   "speaker": "",
   "jp": "占いから呪いまで…\n新宿のババになんでもご相談下さい",
-  "en": "",
-  "status": ""
+  "en": "From fortune-telling to curses... Bring all your troubles to the Hag of Shinjuku.",
+  "status": "tl"
  },
  {
   "id": "F02F40:2",
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "他人を呪うようになったら、\n人生終わりだわね…",
-  "en": "",
-  "status": ""
+  "en": "Once you start cursing other people, your life's as good as over...",
+  "status": "tl"
  },
  {
   "id": "F03000:0",
   "kind": "msg",
   "speaker": "",
   "jp": "占いから呪いまで…\n新宿のババになんでもご相談下さい",
-  "en": "",
-  "status": ""
+  "en": "From fortune-telling to curses... Bring all your troubles to the Hag of Shinjuku.",
+  "status": "tl"
  },
  {
   "id": "F03000:2",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "おやおや、穏やかではありませんね…",
-  "en": "",
-  "status": ""
+  "en": "My, my... How very unsettling.",
+  "status": "tl"
  },
  {
   "id": "F030AC:0",
   "kind": "msg",
   "speaker": "",
   "jp": "占いから呪いまで…\n新宿のババになんでもご相談下さい",
-  "en": "",
-  "status": ""
+  "en": "From fortune-telling to curses... Bring all your troubles to the Hag of Shinjuku.",
+  "status": "tl"
  },
  {
   "id": "F030AC:2",
   "kind": "msg",
   "speaker": "花月",
   "jp": "人を呪うのはどうかと思いますが…",
-  "en": "",
-  "status": ""
+  "en": "I'm not sure cursing people is such a good idea...",
+  "status": "tl"
  },
  {
   "id": "F03154:0",
   "kind": "msg",
   "speaker": "",
   "jp": "占いから呪いまで…\n新宿のババになんでもご相談下さい",
-  "en": "",
-  "status": ""
+  "en": "From fortune-telling to curses... Bring all your troubles to the Hag of Shinjuku.",
+  "status": "tl"
  },
  {
   "id": "F03154:2",
   "kind": "msg",
   "speaker": "士度",
   "jp": "人を呪うなんてのは\n最低の人間のすることだな",
-  "en": "",
-  "status": ""
+  "en": "Cursing people is what the lowest of the low do.",
+  "status": "tl"
  },
  {
   "id": "F0320C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "占いから呪いまで…\n新宿のババになんでもご相談下さい",
-  "en": "",
-  "status": ""
+  "en": "From fortune-telling to curses... Bring all your troubles to the Hag of Shinjuku.",
+  "status": "tl"
  },
  {
   "id": "F0320C:2",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ア、アカン！\n人を呪ったりしたらあきまへんで！！",
-  "en": "",
-  "status": ""
+  "en": "N-No way! Ya can't go cursin' people!!",
+  "status": "tl"
  },
  {
   "id": "F032C8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "占いから呪いまで…\n新宿のババになんでもご相談下さい",
-  "en": "",
-  "status": ""
+  "en": "From fortune-telling to curses... Bring all your troubles to the Hag of Shinjuku.",
+  "status": "tl"
  },
  {
   "id": "F032C8:2",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "呪いか…卑怯者のすることだな",
-  "en": "",
-  "status": ""
+  "en": "A curse... That is a coward's way.",
+  "status": "tl"
  },
  {
   "id": "F03370:0",
   "kind": "msg",
   "speaker": "",
   "jp": "占いから呪いまで…\n新宿のババになんでもご相談下さい",
-  "en": "",
-  "status": ""
+  "en": "From fortune-telling to curses... Bring all your troubles to the Hag of Shinjuku.",
+  "status": "tl"
  },
  {
   "id": "F03370:2",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "人を呪うところまで\n落ちたくはないものだな…",
-  "en": "",
-  "status": ""
+  "en": "I'd rather not sink so low as to curse others...",
+  "status": "tl"
  },
  {
   "id": "F03428:0",
   "kind": "msg",
   "speaker": "",
   "jp": "可愛い動物たちが\nあなたの未来を占います",
-  "en": "",
-  "status": ""
+  "en": "Our cute animals will tell your future.",
+  "status": "tl"
  },
  {
   "id": "F03428:2",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "えー、動物が占ってくれるんだ\nなんか当たりそうだな~",
-  "en": "",
-  "status": ""
+  "en": "Whoa, animals tell your fortune? Sounds like they'd be right on!",
+  "status": "tl"
  },
  {
   "id": "F034DC:0",
   "kind": "msg",
   "speaker": "",
   "jp": "可愛い動物たちが\nあなたの未来を占います",
-  "en": "",
-  "status": ""
+  "en": "Our cute animals will tell your future.",
+  "status": "tl"
  },
  {
   "id": "F034DC:2",
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "わざわざ動物に占わせなくても\nよさそうなものよね",
-  "en": "",
-  "status": ""
+  "en": "No need to make animals tell your fortune, if you ask me.",
+  "status": "tl"
  },
  {
   "id": "F03590:0",
   "kind": "msg",
   "speaker": "",
   "jp": "可愛い動物たちが\nあなたの未来を占います",
-  "en": "",
-  "status": ""
+  "en": "Our cute animals will tell your future.",
+  "status": "tl"
  },
  {
   "id": "F03590:2",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F03614:0",
   "kind": "msg",
   "speaker": "",
   "jp": "可愛い動物たちが\nあなたの未来を占います",
-  "en": "",
-  "status": ""
+  "en": "Our cute animals will tell your future.",
+  "status": "tl"
  },
  {
   "id": "F03614:2",
   "kind": "msg",
   "speaker": "花月",
-  "jp": "動物が占ってくれるんですか…\n不思濤と当たりそうですね",
-  "en": "",
-  "status": ""
+  "jp": "動物が占ってくれるんですか…\n不思議と当たりそうですね",
+  "en": "Animals tell your fortune...? Strangely, it seems like it might be accurate.",
+  "status": "tl"
  },
  {
   "id": "F036C8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "可愛い動物たちが\nあなたの未来を占います",
-  "en": "",
-  "status": ""
+  "en": "Our cute animals will tell your future.",
+  "status": "tl"
  },
  {
   "id": "F036C8:2",
   "kind": "msg",
   "speaker": "士度",
   "jp": "占いに動物を…?",
-  "en": "",
-  "status": ""
+  "en": "Using animals for fortune-telling...?",
+  "status": "tl"
  },
  {
   "id": "F036C8:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F03768:0",
   "kind": "msg",
   "speaker": "",
   "jp": "可愛い動物たちが\nあなたの未来を占います",
-  "en": "",
-  "status": ""
+  "en": "Our cute animals will tell your future.",
+  "status": "tl"
  },
  {
   "id": "F03768:2",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "おおっ！　ひらめいたで！！",
-  "en": "",
-  "status": ""
+  "en": "Ooh! I got it!!",
+  "status": "tl"
  },
  {
   "id": "F03768:3",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "動物占いならぬ、百獣擬態占い！\nこれどないやろな、いけるんちゃうか?",
-  "en": "",
-  "status": ""
+  "en": "Not animal fortunes, but Hundred Beast Mimicry fortunes! Whaddaya think? Could work, right?",
+  "status": "tl"
  },
  {
   "id": "F03854:0",
   "kind": "msg",
   "speaker": "",
   "jp": "可愛い動物たちが\nあなたの未来を占います",
-  "en": "",
-  "status": ""
+  "en": "Our cute animals will tell your future.",
+  "status": "tl"
  },
  {
   "id": "F03854:2",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "動物の直感はバカにはできないからな…",
-  "en": "",
-  "status": ""
+  "en": "One shouldn't scoff at an animal's instincts...",
+  "status": "tl"
  },
  {
   "id": "F038F8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "可愛い動物たちが\nあなたの未来を占います",
-  "en": "",
-  "status": ""
+  "en": "Our cute animals will tell your future.",
+  "status": "tl"
  },
  {
   "id": "F038F8:2",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "占いも競争が激しいと見えるな…",
-  "en": "",
-  "status": ""
+  "en": "So even fortune-telling is a cutthroat business...",
+  "status": "tl"
  },
  {
   "id": "F03994:0",
   "kind": "msg",
   "speaker": "",
-  "jp": "責方の大切なモノ、\n奪り還してみませんか?",
-  "en": "",
-  "status": ""
+  "jp": "貴方の大切なモノ、\n奪り還してみませんか?",
+  "en": "Why not get back what's precious?",
+  "status": "tl"
  },
  {
   "id": "F03994:1",
   "kind": "msg",
   "speaker": "",
   "jp": "奪還率100%！\nゲットバッカーズ　奪還屋！！",
-  "en": "",
-  "status": ""
+  "en": "100% retrieval rate! GetBackers, the retrieval agents!!",
+  "status": "tl"
  },
  {
   "id": "F03994:2",
   "kind": "msg",
   "speaker": "",
   "jp": "~分割払い応相談~",
-  "en": "",
-  "status": ""
+  "en": "~ Installment plans negotiable ~",
+  "status": "tl"
  },
  {
   "id": "F03994:4",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あ~、早く依頼人さん来ないかなー…",
-  "en": "",
-  "status": ""
+  "en": "Ahh, I wish a client would hurry up and come...",
+  "status": "tl"
  },
  {
   "id": "F03A94:0",
   "kind": "msg",
   "speaker": "",
-  "jp": "責方の大切なモノ、\n奪り還してみませんか?",
-  "en": "",
-  "status": ""
+  "jp": "貴方の大切なモノ、\n奪り還してみませんか?",
+  "en": "Why not get back what's precious?",
+  "status": "tl"
  },
  {
   "id": "F03A94:1",
   "kind": "msg",
   "speaker": "",
   "jp": "奪還率100%！\nゲットバッカーズ　奪還屋！！",
-  "en": "",
-  "status": ""
+  "en": "100% retrieval rate! GetBackers, the retrieval agents!!",
+  "status": "tl"
  },
  {
   "id": "F03A94:2",
   "kind": "msg",
   "speaker": "",
   "jp": "~分割払い応相談~",
-  "en": "",
-  "status": ""
+  "en": "~ Installment plans negotiable ~",
+  "status": "tl"
  },
  {
   "id": "F03A94:4",
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "こんな張り紙まで張っちゃって…\nなさけないわね~",
-  "en": "",
-  "status": ""
+  "en": "Even putting up flyers like this... How pathetic.",
+  "status": "tl"
  },
  {
   "id": "F03BA8:0",
   "kind": "msg",
   "speaker": "",
-  "jp": "責方の大切なモノ、\n奪り還してみませんか?",
-  "en": "",
-  "status": ""
+  "jp": "貴方の大切なモノ、\n奪り還してみませんか?",
+  "en": "Why not get back what's precious?",
+  "status": "tl"
  },
  {
   "id": "F03BA8:1",
   "kind": "msg",
   "speaker": "",
   "jp": "奪還率100%！\nゲットバッカーズ　奪還屋！！",
-  "en": "",
-  "status": ""
+  "en": "100% retrieval rate! GetBackers, the retrieval agents!!",
+  "status": "tl"
  },
  {
   "id": "F03BA8:2",
   "kind": "msg",
   "speaker": "",
   "jp": "~分割払い応相談~",
-  "en": "",
-  "status": ""
+  "en": "~ Installment plans negotiable ~",
+  "status": "tl"
  },
  {
   "id": "F03BA8:4",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "面白い方々ですね…",
-  "en": "",
-  "status": ""
+  "en": "What amusing people...",
+  "status": "tl"
  },
  {
   "id": "F03C98:0",
   "kind": "msg",
   "speaker": "",
-  "jp": "責方の大切なモノ、\n奪り還してみませんか?",
-  "en": "",
-  "status": ""
+  "jp": "貴方の大切なモノ、\n奪り還してみませんか?",
+  "en": "Why not get back what's precious?",
+  "status": "tl"
  },
  {
   "id": "F03C98:1",
   "kind": "msg",
   "speaker": "",
   "jp": "奪還率100%！\nゲットバッカーズ　奪還屋！！",
-  "en": "",
-  "status": ""
+  "en": "100% retrieval rate! GetBackers, the retrieval agents!!",
+  "status": "tl"
  },
  {
   "id": "F03C98:2",
   "kind": "msg",
   "speaker": "",
   "jp": "~分割払い応相談~",
-  "en": "",
-  "status": ""
+  "en": "~ Installment plans negotiable ~",
+  "status": "tl"
  },
  {
   "id": "F03C98:4",
   "kind": "msg",
   "speaker": "花月",
   "jp": "銀次さんたちも大変そうですね…",
-  "en": "",
-  "status": ""
+  "en": "It looks like Ginji and his partner are having a hard time...",
+  "status": "tl"
  },
  {
   "id": "F03D94:0",
   "kind": "msg",
   "speaker": "",
-  "jp": "責方の大切なモノ、\n奪り還してみませんか?",
-  "en": "",
-  "status": ""
+  "jp": "貴方の大切なモノ、\n奪り還してみませんか?",
+  "en": "Why not get back what's precious?",
+  "status": "tl"
  },
  {
   "id": "F03D94:1",
   "kind": "msg",
   "speaker": "",
   "jp": "奪還率100%！\nゲットバッカーズ　奪還屋！！",
-  "en": "",
-  "status": ""
+  "en": "100% retrieval rate! GetBackers, the retrieval agents!!",
+  "status": "tl"
  },
  {
   "id": "F03D94:2",
   "kind": "msg",
   "speaker": "",
   "jp": "~分割払い応相談~",
-  "en": "",
-  "status": ""
+  "en": "~ Installment plans negotiable ~",
+  "status": "tl"
  },
  {
   "id": "F03D94:4",
   "kind": "msg",
   "speaker": "士度",
   "jp": "アイツら、\nこんな張り紙までしてんのかよ",
-  "en": "",
-  "status": ""
+  "en": "Those two are even puttin' up flyers like this?",
+  "status": "tl"
  }
 ]

@@ -68,8 +68,8 @@
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F158E4:0",
@@ -236,8 +236,8 @@
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F15EE0:0",
@@ -435,7 +435,7 @@
   "id": "F16268:22",
   "kind": "msg",
   "speaker": "花月",
-  "jp": "その六つの面は\nそれぞれ不思濤な力を宿していたとか…",
+  "jp": "その六つの面は\nそれぞれ不思議な力を宿していたとか…",
   "en": "",
   "status": ""
  },
@@ -652,16 +652,16 @@
   "kind": "msg",
   "speaker": "蛮",
   "jp": "よし、行くぞ！！",
-  "en": "",
-  "status": ""
+  "en": "All right, let's move!!",
+  "status": "tl"
  },
  {
   "id": "F1706C:1",
   "kind": "msg",
   "speaker": "羨木",
   "jp": "ウガアアアアア~ッ！！",
-  "en": "",
-  "status": ""
+  "en": "GRAAAAAAAH!!",
+  "status": "tl"
  },
  {
   "id": "F1706C:3",
@@ -828,8 +828,8 @@
   "kind": "msg",
   "speaker": "杏",
   "jp": "あ、ここらで記念写真でも\nいかがッスか?",
-  "en": "",
-  "status": ""
+  "en": "Oh, how about a commemorative photo around here?",
+  "status": "tl"
  },
  {
   "id": "F17478:15",
@@ -844,32 +844,32 @@
   "kind": "msg",
   "speaker": "杏",
   "jp": "写真はもうダメッスよ",
-  "en": "",
-  "status": ""
+  "en": "No more photos, see.",
+  "status": "tl"
  },
  {
   "id": "F177C0:1",
   "kind": "choice",
   "speaker": "波児",
   "jp": "ブルマンをくれ",
-  "en": "",
-  "status": ""
+  "en": "Give me a Blue Mountain.",
+  "status": "tl"
  },
  {
   "id": "F177C0:2",
   "kind": "choice",
   "speaker": "波児",
   "jp": "今は飲まない",
-  "en": "",
-  "status": ""
+  "en": "Not right now.",
+  "status": "tl"
  },
  {
   "id": "F177C0:3",
   "kind": "prompt",
   "speaker": "波児",
   "jp": "コーヒーでも飲んでくか?",
-  "en": "",
-  "status": ""
+  "en": "Want a cup of coffee?",
+  "status": "tl"
  },
  {
   "id": "F17858:1",
@@ -1316,14 +1316,14 @@
   "kind": "msg",
   "speaker": "士度",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F18B24:16",
   "kind": "msg",
   "speaker": "蛭田",
-  "jp": "じゃ、ボクは犯人から連綿が入るかも\n知れないから自宅で待機するよ",
+  "jp": "じゃ、ボクは犯人から連絡が入るかも\n知れないから自宅で待機するよ",
   "en": "",
   "status": ""
  },
@@ -1940,8 +1940,8 @@
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ブハハハハッ！！",
-  "en": "",
-  "status": ""
+  "en": "Bwahahahaha!!",
+  "status": "tl"
  },
  {
   "id": "F1A26C:17",
@@ -2036,8 +2036,8 @@
   "kind": "msg",
   "speaker": "花月",
   "jp": "そうですね…",
-  "en": "",
-  "status": ""
+  "en": "Indeed...",
+  "status": "tl"
  },
  {
   "id": "F1A26C:39",

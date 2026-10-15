@@ -107,7 +107,7 @@
   "id": "F3F944:1",
   "kind": "choice",
   "speaker": "士度",
-  "jp": "まだ責女(キミ)のこと　踊ってる",
+  "jp": "まだ貴女(キミ)のこと　踊ってる",
   "en": "",
   "status": ""
  },
@@ -123,7 +123,7 @@
   "id": "F3F944:3",
   "kind": "choice",
   "speaker": "士度",
-  "jp": "まだ責女(キミ)のこと　願ってる",
+  "jp": "まだ貴女(キミ)のこと　願ってる",
   "en": "",
   "status": ""
  },
@@ -228,8 +228,8 @@
   "kind": "msg",
   "speaker": "士度",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F3FBE4:6",
@@ -284,32 +284,32 @@
   "kind": "msg",
   "speaker": "杏",
   "jp": "写真はもうダメッスよ",
-  "en": "",
-  "status": ""
+  "en": "No more photos, see.",
+  "status": "tl"
  },
  {
   "id": "F3FF74:1",
   "kind": "choice",
   "speaker": "波児",
   "jp": "ブルマンをくれ",
-  "en": "",
-  "status": ""
+  "en": "Give me a Blue Mountain.",
+  "status": "tl"
  },
  {
   "id": "F3FF74:2",
   "kind": "choice",
   "speaker": "波児",
   "jp": "今は飲まない",
-  "en": "",
-  "status": ""
+  "en": "Not right now.",
+  "status": "tl"
  },
  {
   "id": "F3FF74:3",
   "kind": "prompt",
   "speaker": "波児",
   "jp": "コーヒーでも飲んでくか?",
-  "en": "",
-  "status": ""
+  "en": "Want a cup of coffee?",
+  "status": "tl"
  },
  {
   "id": "F4000C:0",
@@ -1043,7 +1043,7 @@
   "id": "F419C0:19",
   "kind": "msg",
   "speaker": "蛮",
-  "jp": "ちゃんと連綿したんだろうなあ、\nヘヴン?",
+  "jp": "ちゃんと連絡したんだろうなあ、\nヘヴン?",
   "en": "",
   "status": ""
  },
@@ -1236,8 +1236,8 @@
   "kind": "msg",
   "speaker": "蛮",
   "jp": "まァな…",
-  "en": "",
-  "status": ""
+  "en": "Somethin' like that...",
+  "status": "tl"
  },
  {
   "id": "F4220C:23",

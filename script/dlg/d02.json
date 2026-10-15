@@ -12,8 +12,8 @@
   "kind": "bline",
   "speaker": "レーザーガンマン",
   "jp": "レーザー…ヴィィィーム！",
-  "en": "",
-  "status": ""
+  "en": "Laser... beeeeeam!",
+  "status": "tl"
  },
  {
   "id": "EE8C08:1",
@@ -28,8 +28,8 @@
   "kind": "bline",
   "speaker": "天照大神",
   "jp": "受けてみよ、我が怒りを！！　",
-  "en": "",
-  "status": ""
+  "en": "Receive my wrath!!",
+  "status": "tl"
  },
  {
   "id": "EE8CE8:1",
@@ -44,8 +44,8 @@
   "kind": "bline",
   "speaker": "天照大神",
   "jp": "さあ…戦いはこれからだ　",
-  "en": "",
-  "status": ""
+  "en": "Now... the real battle begins.",
+  "status": "tl"
  },
  {
   "id": "EE8DB4:1",
@@ -60,8 +60,8 @@
   "kind": "bline",
   "speaker": "天照大神",
   "jp": "この試練に耐えられるか…?　",
-  "en": "",
-  "status": ""
+  "en": "Can you endure this trial...?",
+  "status": "tl"
  },
  {
   "id": "EE8ED0:1",
@@ -76,8 +76,8 @@
   "kind": "bline",
   "speaker": "天細女命",
   "jp": "ほっ！　",
-  "en": "",
-  "status": ""
+  "en": "Hup!",
+  "status": "tl"
  },
  {
   "id": "EE8F94:1",
@@ -92,8 +92,8 @@
   "kind": "bline",
   "speaker": "天細女命",
   "jp": "わたしの癒しの力をお見せしよう…",
-  "en": "",
-  "status": ""
+  "en": "Behold my healing power...",
+  "status": "tl"
  },
  {
   "id": "EE9068:1",
@@ -108,8 +108,8 @@
   "kind": "bline",
   "speaker": "天細女命",
   "jp": "天女の舞！　",
-  "en": "",
-  "status": ""
+  "en": "Celestial Maiden Dance!",
+  "status": "tl"
  },
  {
   "id": "EE9130:1",
@@ -124,8 +124,8 @@
   "kind": "bline",
   "speaker": "手刀男命",
   "jp": "天罰を受けるがいい！！　",
-  "en": "",
-  "status": ""
+  "en": "Receive divine punishment!!",
+  "status": "tl"
  },
  {
   "id": "EE9204:1",
@@ -140,8 +140,8 @@
   "kind": "bline",
   "speaker": "手刀男命",
   "jp": "神に背く愚か者め！　",
-  "en": "",
-  "status": ""
+  "en": "Fool who defies the gods!",
+  "status": "tl"
  },
  {
   "id": "EE92D4:1",
@@ -156,8 +156,8 @@
   "kind": "bline",
   "speaker": "手刀男命",
   "jp": "岩戸開きの力…見せてくれようぞ！",
-  "en": "",
-  "status": ""
+  "en": "Behold my Rock-Door-opening might!",
+  "status": "tl"
  },
  {
   "id": "EE945C:1",
@@ -172,8 +172,8 @@
   "kind": "bline",
   "speaker": "吉野天人",
   "jp": "さあ、行くぞ…　",
-  "en": "",
-  "status": ""
+  "en": "Now, here I come...",
+  "status": "tl"
  },
  {
   "id": "EE9528:1",
@@ -188,8 +188,8 @@
   "kind": "bline",
   "speaker": "吉野天人",
   "jp": "この壁を破って見せよ…　",
-  "en": "",
-  "status": ""
+  "en": "Break through this wall, then...",
+  "status": "tl"
  },
  {
   "id": "EE95B8:1",
@@ -204,8 +204,8 @@
   "kind": "bline",
   "speaker": "吉野天人",
   "jp": "動きを封じてくれよう…　",
-  "en": "",
-  "status": ""
+  "en": "I shall bind your movements...",
+  "status": "tl"
  },
  {
   "id": "EE968C:1",
@@ -220,8 +220,8 @@
   "kind": "bline",
   "speaker": "住吉明神",
   "jp": "…！　　",
-  "en": "",
-  "status": ""
+  "en": "...!",
+  "status": "tl"
  },
  {
   "id": "EE9750:1",
@@ -236,8 +236,8 @@
   "kind": "bline",
   "speaker": "住吉明神",
   "jp": "……………！！　",
-  "en": "",
-  "status": ""
+  "en": "...............!!",
+  "status": "tl"
  },
  {
   "id": "EE981C:1",
@@ -252,8 +252,8 @@
   "kind": "bline",
   "speaker": "住吉明神",
   "jp": "………　",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "EE98D8:1",
@@ -268,8 +268,8 @@
   "kind": "bline",
   "speaker": "白髭明神",
   "jp": "第一奥義、真空波！！　　",
-  "en": "",
-  "status": ""
+  "en": "First Art: Vacuum Wave!!",
+  "status": "tl"
  },
  {
   "id": "EE99AC:1",
@@ -284,8 +284,8 @@
   "kind": "bline",
   "speaker": "白髭明神",
   "jp": "第二奥義、仙風波！！　　",
-  "en": "",
-  "status": ""
+  "en": "Second Art: Sage Wind Wave!!",
+  "status": "tl"
  },
  {
   "id": "EE9A8C:1",
@@ -300,8 +300,8 @@
   "kind": "bline",
   "speaker": "白髭明神",
   "jp": "最終奥義、斬風波！！　　",
-  "en": "",
-  "status": ""
+  "en": "Final Art: Slashing Wind Wave!!",
+  "status": "tl"
  },
  {
   "id": "EE9BA4:1",
@@ -316,8 +316,8 @@
   "kind": "bline",
   "speaker": "十六",
   "jp": "かあぁぁぁっ！！！！",
-  "en": "",
-  "status": ""
+  "en": "Kaaaaaah!!!!",
+  "status": "tl"
  },
  {
   "id": "EE9C30:1",
@@ -332,8 +332,8 @@
   "kind": "bline",
   "speaker": "十六",
   "jp": "二段斬り！　",
-  "en": "",
-  "status": ""
+  "en": "Double Slash!",
+  "status": "tl"
  },
  {
   "id": "EE9D2C:1",
@@ -348,8 +348,8 @@
   "kind": "bline",
   "speaker": "十六",
   "jp": "三段斬り！！",
-  "en": "",
-  "status": ""
+  "en": "Triple Slash!!",
+  "status": "tl"
  },
  {
   "id": "EE9E00:1",
@@ -364,8 +364,8 @@
   "kind": "bline",
   "speaker": "平経正",
   "jp": "おおおぉぉおおっ！！　　",
-  "en": "",
-  "status": ""
+  "en": "Raaaaaaaagh!!",
+  "status": "tl"
  },
  {
   "id": "EE9ECC:1",
@@ -380,8 +380,8 @@
   "kind": "bline",
   "speaker": "平経正",
   "jp": "毒刃の切れ味をみせてやるぜ！　　",
-  "en": "",
-  "status": ""
+  "en": "Taste the edge of my poison blade!",
+  "status": "tl"
  },
  {
   "id": "EE9FD0:1",
@@ -396,8 +396,8 @@
   "kind": "bline",
   "speaker": "平経正",
   "jp": "どっからでもかかってきな！　",
-  "en": "",
-  "status": ""
+  "en": "Come at me from anywhere!",
+  "status": "tl"
  },
  {
   "id": "EEA05C:1",
@@ -412,8 +412,8 @@
   "kind": "bline",
   "speaker": "平清経",
   "jp": "盛者必衰！！　　",
-  "en": "",
-  "status": ""
+  "en": "The mighty must fall!!",
+  "status": "tl"
  },
  {
   "id": "EEA128:1",
@@ -428,16 +428,16 @@
   "kind": "bline",
   "speaker": "平清経",
   "jp": "諸行無常！！　　",
-  "en": "",
-  "status": ""
+  "en": "All things must pass!!",
+  "status": "tl"
  },
  {
   "id": "EEA1EC:1",
   "kind": "bline",
   "speaker": "平清経",
   "jp": "おごれる人も久しからず…",
-  "en": "",
-  "status": ""
+  "en": "The proud do not long endure...",
+  "status": "tl"
  },
  {
   "id": "EEA258:1",
@@ -452,8 +452,8 @@
   "kind": "bline",
   "speaker": "源頼政",
   "jp": "この太刀筋が見切れるか?",
-  "en": "",
-  "status": ""
+  "en": "Can you read my blade's path?",
+  "status": "tl"
  },
  {
   "id": "EEA324:1",
@@ -468,8 +468,8 @@
   "kind": "bline",
   "speaker": "源頼政",
   "jp": "幻惑の太刀…逆刃！　",
-  "en": "",
-  "status": ""
+  "en": "Illusion Blade... Reverse Edge!",
+  "status": "tl"
  },
  {
   "id": "EEA3EC:1",
@@ -484,8 +484,8 @@
   "kind": "bline",
   "speaker": "源頼政",
   "jp": "風よ、刃に宿れ…疾風の刃！　",
-  "en": "",
-  "status": ""
+  "en": "Wind, fill my blade... Gale Edge!",
+  "status": "tl"
  },
  {
   "id": "EEA478:1",
@@ -500,8 +500,8 @@
   "kind": "bline",
   "speaker": "巴御前",
   "jp": "お覚悟…",
-  "en": "",
-  "status": ""
+  "en": "Prepare yourself...",
+  "status": "tl"
  },
  {
   "id": "EEA534:1",
@@ -516,16 +516,16 @@
   "kind": "bline",
   "speaker": "巴御前",
   "jp": "刀舞",
-  "en": "",
-  "status": ""
+  "en": "Blade Dance",
+  "status": "tl"
  },
  {
   "id": "EEA658:1",
   "kind": "bline",
   "speaker": "巴御前",
   "jp": "本気でいきますよ",
-  "en": "",
-  "status": ""
+  "en": "I'm going all out now.",
+  "status": "tl"
  },
  {
   "id": "EEA6BC:1",
@@ -540,8 +540,8 @@
   "kind": "bline",
   "speaker": "夕顔",
   "jp": "悲恋の舞！！　　",
-  "en": "",
-  "status": ""
+  "en": "Dance of Doomed Love!!",
+  "status": "tl"
  },
  {
   "id": "EEA880:1",
@@ -556,8 +556,8 @@
   "kind": "bline",
   "speaker": "夕顔",
   "jp": "助太刀頼むぞ！！　　",
-  "en": "",
-  "status": ""
+  "en": "Back me up here!!",
+  "status": "tl"
  },
  {
   "id": "EEA904:1",
@@ -572,8 +572,8 @@
   "kind": "bline",
   "speaker": "夕顔",
   "jp": "決めの一手だ！！　　",
-  "en": "",
-  "status": ""
+  "en": "This move finishes it!!",
+  "status": "tl"
  },
  {
   "id": "EEA9CC:1",
@@ -588,8 +588,8 @@
   "kind": "bline",
   "speaker": "富士妻",
   "jp": "退屈でやす　",
-  "en": "",
-  "status": ""
+  "en": "How dull, it is.",
+  "status": "tl"
  },
  {
   "id": "EEAA8C:1",
@@ -604,8 +604,8 @@
   "kind": "bline",
   "speaker": "富士妻",
   "jp": "これでお終いでやす　",
-  "en": "",
-  "status": ""
+  "en": "This here's the end, it is.",
+  "status": "tl"
  },
  {
   "id": "EEAB54:1",
@@ -620,7 +620,7 @@
   "kind": "bline",
   "speaker": "富士妻",
   "jp": "一曲どうでやすか?　",
-  "en": "",
-  "status": ""
+  "en": "Fancy a tune, then?",
+  "status": "tl"
  }
 ]

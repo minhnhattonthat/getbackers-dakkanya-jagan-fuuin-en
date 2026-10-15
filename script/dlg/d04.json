@@ -12,8 +12,8 @@
   "kind": "bline",
   "speaker": "山姥",
   "jp": "お前の魂を喰わせろぉっ！！　",
-  "en": "",
-  "status": ""
+  "en": "Let me devour your soul!!",
+  "status": "tl"
  },
  {
   "id": "EED044:1",
@@ -28,8 +28,8 @@
   "kind": "bline",
   "speaker": "山姥",
   "jp": "ひさびさに血の味が楽しめそうじゃ",
-  "en": "",
-  "status": ""
+  "en": "A taste of blood, after so long!",
+  "status": "tl"
  },
  {
   "id": "EED148:1",
@@ -44,8 +44,8 @@
   "kind": "bline",
   "speaker": "獅子",
   "jp": "ガルルルッ！",
-  "en": "",
-  "status": ""
+  "en": "Grrrrr!",
+  "status": "tl"
  },
  {
   "id": "EED208:1",
@@ -60,8 +60,8 @@
   "kind": "bline",
   "speaker": "獅子",
   "jp": "グアアアァッ！　",
-  "en": "",
-  "status": ""
+  "en": "Graaaagh!",
+  "status": "tl"
  },
  {
   "id": "EED2FC:1",
@@ -76,8 +76,8 @@
   "kind": "bline",
   "speaker": "獅子",
   "jp": "アオーーーーン！",
-  "en": "",
-  "status": ""
+  "en": "Awoooooooo!",
+  "status": "tl"
  },
  {
   "id": "EED37C:1",
@@ -92,8 +92,8 @@
   "kind": "bline",
   "speaker": "猩々",
   "jp": "ウィー、ヒック！",
-  "en": "",
-  "status": ""
+  "en": "Wheee... hic!",
+  "status": "tl"
  },
  {
   "id": "EED440:1",
@@ -108,8 +108,8 @@
   "kind": "bline",
   "speaker": "猩々",
   "jp": "おっとっと！",
-  "en": "",
-  "status": ""
+  "en": "Whoopsie-daisy!",
+  "status": "tl"
  },
  {
   "id": "EED50C:1",
@@ -124,256 +124,256 @@
   "kind": "bline",
   "speaker": "猩々",
   "jp": "お前さんも一杯やるかい?",
-  "en": "",
-  "status": ""
+  "en": "Care to have a drink too?",
+  "status": "tl"
  },
  {
   "id": "EED830:1",
   "kind": "bline",
   "speaker": "吉良　利信",
   "jp": "ペルメッソ　",
-  "en": "",
-  "status": ""
+  "en": "Permesso!",
+  "status": "tl"
  },
  {
   "id": "EEDE78:1",
   "kind": "bline",
   "speaker": "吉良　利信",
   "jp": "アッリヴェデェルチ　",
-  "en": "",
-  "status": ""
+  "en": "Arrivederci!",
+  "status": "tl"
  },
  {
   "id": "EEE304:1",
   "kind": "bline",
   "speaker": "???(翁面)",
   "jp": "さあ、参りますよ",
-  "en": "",
-  "status": ""
+  "en": "Now then, here I come.",
+  "status": "tl"
  },
  {
   "id": "EEE500:1",
   "kind": "bline",
   "speaker": "???(翁面)",
   "jp": "白扇の舞",
-  "en": "",
-  "status": ""
+  "en": "White Fan Dance",
+  "status": "tl"
  },
  {
   "id": "EEE85C:1",
   "kind": "bline",
   "speaker": "???(翁面)",
   "jp": "翁面の舞",
-  "en": "",
-  "status": ""
+  "en": "Okina Mask Dance",
+  "status": "tl"
  },
  {
   "id": "EEEDFC:1",
   "kind": "bline",
   "speaker": "羨木　竜童",
   "jp": "………　",
-  "en": "",
-  "status": ""
+  "en": "......",
+  "status": "tl"
  },
  {
   "id": "EEF118:1",
   "kind": "bline",
   "speaker": "羨木　竜童",
   "jp": "ニィ…　",
-  "en": "",
-  "status": ""
+  "en": "Heh...",
+  "status": "tl"
  },
  {
   "id": "EEF118:3",
   "kind": "bline",
   "speaker": "羨木　竜童",
   "jp": "ウガアァァァッ！！　",
-  "en": "",
-  "status": ""
+  "en": "Graaaaagh!!",
+  "status": "tl"
  },
  {
   "id": "EEF918:1",
   "kind": "bline",
   "speaker": "羨木　竜童",
   "jp": "ウガァァァッ！！",
-  "en": "",
-  "status": ""
+  "en": "Graaagh!!",
+  "status": "tl"
  },
  {
   "id": "EEFB08:1",
   "kind": "bline",
   "speaker": "神門　京介(神面)",
   "jp": "お覚悟　",
-  "en": "",
-  "status": ""
+  "en": "Prepare yourself.",
+  "status": "tl"
  },
  {
   "id": "EEFE08:1",
   "kind": "bline",
   "speaker": "神門　京介(神面)",
   "jp": "白扇の舞",
-  "en": "",
-  "status": ""
+  "en": "White Fan Dance",
+  "status": "tl"
  },
  {
   "id": "EF0108:1",
   "kind": "bline",
   "speaker": "神門　京介(神面)",
   "jp": "神面の舞",
-  "en": "",
-  "status": ""
+  "en": "Kami Mask Dance",
+  "status": "tl"
  },
  {
   "id": "EF0824:1",
   "kind": "bline",
   "speaker": "神門　京介(男面)",
   "jp": "準備はよろしいか?　",
-  "en": "",
-  "status": ""
+  "en": "Are you ready?",
+  "status": "tl"
  },
  {
   "id": "EF0A48:1",
   "kind": "bline",
   "speaker": "神門　京介(男面)",
   "jp": "白扇の舞",
-  "en": "",
-  "status": ""
+  "en": "White Fan Dance",
+  "status": "tl"
  },
  {
   "id": "EF0C74:1",
   "kind": "bline",
   "speaker": "神門　京介(男面)",
   "jp": "男面の舞",
-  "en": "",
-  "status": ""
+  "en": "Otoko Mask Dance",
+  "status": "tl"
  },
  {
   "id": "EF15D4:1",
   "kind": "bline",
   "speaker": "風鳥院花月(花月面)",
   "jp": "風鳥院流絃術",
-  "en": "",
-  "status": ""
+  "en": "Fuchoin-style String Arts",
+  "status": "tl"
  },
  {
   "id": "EF15D4:3",
   "kind": "bline",
   "speaker": "風鳥院花月(花月面)",
   "jp": "風鳥院流絃術　薔玉の楯　",
-  "en": "",
-  "status": ""
+  "en": "String Arts: Rose Bead Shield",
+  "status": "tl"
  },
  {
   "id": "EF1988:1",
   "kind": "bline",
   "speaker": "風鳥院花月(花月面)",
   "jp": "風鳥院流絃術　秋雨　",
-  "en": "",
-  "status": ""
+  "en": "String Arts: Autumn Rain",
+  "status": "tl"
  },
  {
   "id": "EF1DA0:1",
   "kind": "bline",
   "speaker": "風鳥院花月(花月面)",
   "jp": "風鳥院流絃術　　",
-  "en": "",
-  "status": ""
+  "en": "Fuchoin-style String Arts",
+  "status": "tl"
  },
  {
   "id": "EF1DA0:3",
   "kind": "bline",
   "speaker": "風鳥院花月(花月面)",
   "jp": "風鳥院流絃術　絃呪縛",
-  "en": "",
-  "status": ""
+  "en": "String Arts: Cursed String Bind",
+  "status": "tl"
  },
  {
   "id": "EF22EC:1",
   "kind": "bline",
   "speaker": "風鳥院花月(花月面)",
   "jp": "風鳥院流絃術　　",
-  "en": "",
-  "status": ""
+  "en": "Fuchoin-style String Arts",
+  "status": "tl"
  },
  {
   "id": "EF22EC:3",
   "kind": "bline",
   "speaker": "風鳥院花月(花月面)",
   "jp": "風鳥院流絃術　雫",
-  "en": "",
-  "status": ""
+  "en": "String Arts: Dewdrop",
+  "status": "tl"
  },
  {
   "id": "EF29C8:1",
   "kind": "bline",
   "speaker": "風鳥院花月(花月面)",
   "jp": "風鳥院流絃術",
-  "en": "",
-  "status": ""
+  "en": "Fuchoin-style String Arts",
+  "status": "tl"
  },
  {
   "id": "EF29C8:3",
   "kind": "bline",
   "speaker": "風鳥院花月(花月面)",
   "jp": "風鳥院流絃術　流星　",
-  "en": "",
-  "status": ""
+  "en": "String Arts: Shooting Star",
+  "status": "tl"
  },
  {
   "id": "EF308C:1",
   "kind": "bline",
   "speaker": "メカ蛭田(MK－Ⅰ)",
   "jp": "攻撃開始",
-  "en": "",
-  "status": ""
+  "en": "BEGIN ATTACK.",
+  "status": "tl"
  },
  {
   "id": "EF308C:3",
   "kind": "bline",
   "speaker": "メカ蛭田(MK－Ⅰ)",
-  "jp": "攻撃開始　敵獺滅",
-  "en": "",
-  "status": ""
+  "jp": "攻撃開始　敵殲滅",
+  "en": "BEGIN ATTACK. ANNIHILATE ENEMY.",
+  "status": "tl"
  },
  {
   "id": "EF333C:1",
   "kind": "bline",
   "speaker": "メカ蛭田(MK－Ⅰ)",
   "jp": "排除スル",
-  "en": "",
-  "status": ""
+  "en": "ELIMINATE.",
+  "status": "tl"
  },
  {
   "id": "EF333C:3",
   "kind": "bline",
   "speaker": "メカ蛭田(MK－Ⅰ)",
   "jp": "照準セット　",
-  "en": "",
-  "status": ""
+  "en": "TARGET LOCKED.",
+  "status": "tl"
  },
  {
   "id": "EF333C:5",
   "kind": "bline",
   "speaker": "メカ蛭田(MK－Ⅰ)",
   "jp": "照準セット　全弾発射",
-  "en": "",
-  "status": ""
+  "en": "TARGET LOCKED. FIRE ALL ROUNDS.",
+  "status": "tl"
  },
  {
   "id": "EF391C:1",
   "kind": "bline",
   "speaker": "メカ蛭田(MK－Ⅱ)",
   "jp": "攻撃開始",
-  "en": "",
-  "status": ""
+  "en": "BEGIN ATTACK.",
+  "status": "tl"
  },
  {
   "id": "EF391C:3",
   "kind": "bline",
   "speaker": "メカ蛭田(MK－Ⅱ)",
-  "jp": "攻撃開始　敵獺滅",
-  "en": "",
-  "status": ""
+  "jp": "攻撃開始　敵殲滅",
+  "en": "BEGIN ATTACK. ANNIHILATE ENEMY.",
+  "status": "tl"
  },
  {
   "id": "EF3BCC:1",
@@ -388,40 +388,40 @@
   "kind": "bline",
   "speaker": "メカ蛭田(MK－Ⅱ)",
   "jp": "排除スル",
-  "en": "",
-  "status": ""
+  "en": "ELIMINATE.",
+  "status": "tl"
  },
  {
   "id": "EF3BCC:5",
   "kind": "bline",
   "speaker": "メカ蛭田(MK－Ⅱ)",
   "jp": "照準セット　",
-  "en": "",
-  "status": ""
+  "en": "TARGET LOCKED.",
+  "status": "tl"
  },
  {
   "id": "EF3BCC:7",
   "kind": "bline",
   "speaker": "メカ蛭田(MK－Ⅱ)",
   "jp": "照準セット　全弾発射",
-  "en": "",
-  "status": ""
+  "en": "TARGET LOCKED. FIRE ALL ROUNDS.",
+  "status": "tl"
  },
  {
   "id": "EF41D8:1",
   "kind": "bline",
   "speaker": "メカ蛭田(MK－Ⅲ)",
   "jp": "攻撃開始",
-  "en": "",
-  "status": ""
+  "en": "BEGIN ATTACK.",
+  "status": "tl"
  },
  {
   "id": "EF41D8:3",
   "kind": "bline",
   "speaker": "メカ蛭田(MK－Ⅲ)",
-  "jp": "攻撃開始　敵獺滅",
-  "en": "",
-  "status": ""
+  "jp": "攻撃開始　敵殲滅",
+  "en": "BEGIN ATTACK. ANNIHILATE ENEMY.",
+  "status": "tl"
  },
  {
   "id": "EF4488:1",
@@ -436,63 +436,63 @@
   "kind": "bline",
   "speaker": "メカ蛭田(MK－Ⅲ)",
   "jp": "排除スル",
-  "en": "",
-  "status": ""
+  "en": "ELIMINATE.",
+  "status": "tl"
  },
  {
   "id": "EF4488:5",
   "kind": "bline",
   "speaker": "メカ蛭田(MK－Ⅲ)",
   "jp": "照準セット　",
-  "en": "",
-  "status": ""
+  "en": "TARGET LOCKED.",
+  "status": "tl"
  },
  {
   "id": "EF4488:7",
   "kind": "bline",
   "speaker": "メカ蛭田(MK－Ⅲ)",
   "jp": "照準セット　全弾発射",
-  "en": "",
-  "status": ""
+  "en": "TARGET LOCKED. FIRE ALL ROUNDS.",
+  "status": "tl"
  },
  {
   "id": "EF4A94:1",
   "kind": "bline",
   "speaker": "神門　京介(女面)",
   "jp": "手合わせ願いましょう",
-  "en": "",
-  "status": ""
+  "en": "Shall we cross blades?",
+  "status": "tl"
  },
  {
   "id": "EF4DD4:1",
   "kind": "bline",
   "speaker": "神門　京介(女面)",
   "jp": "白扇の舞",
-  "en": "",
-  "status": ""
+  "en": "White Fan Dance",
+  "status": "tl"
  },
  {
   "id": "EF511C:1",
   "kind": "bline",
   "speaker": "神門　京介(女面)",
   "jp": "女面の舞",
-  "en": "",
-  "status": ""
+  "en": "Onna Mask Dance",
+  "status": "tl"
  },
  {
   "id": "EF5518:1",
   "kind": "bline",
   "speaker": "神門　京介(狂面)",
   "jp": "終わりにしましょう　",
-  "en": "",
-  "status": ""
+  "en": "Let us end this.",
+  "status": "tl"
  },
  {
   "id": "EF584C:1",
   "kind": "bline",
   "speaker": "神門　京介(狂面)",
   "jp": "白扇の舞",
-  "en": "",
-  "status": ""
+  "en": "White Fan Dance",
+  "status": "tl"
  }
 ]

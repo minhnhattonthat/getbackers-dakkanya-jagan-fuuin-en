@@ -7,7 +7,7 @@ LIMITS = {
     'msg': (36, 2),      # measured: 18 cells per line, page arrow in cell 19 of line 2
     'prompt': (36, 1),
     'choice': (34, 1),   # window widened by choice_cmd (screen = 30 tiles; text starts 2 tiles in)
-    'bline': (34, 1),    # provisional until a battle is reached
+    'bline': (36, 1),    # battle cut-in box = 18 cells (marker battle, bank lines shown at full width)
     'name': (12, 1),     # measured: name tag shows 6 cells
     'bname': (24, 1),
     'bank': (36, 1),

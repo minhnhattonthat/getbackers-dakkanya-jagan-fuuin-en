@@ -820,8 +820,8 @@
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F2866C:0",
@@ -1164,8 +1164,8 @@
   "kind": "msg",
   "speaker": "杏",
   "jp": "この計画だけは\nなんとしても止めなくては…",
-  "en": "",
-  "status": ""
+  "en": "This plan, at least, must be stopped no matter what...",
+  "status": "tl"
  },
  {
   "id": "F28B48:38",
@@ -1324,8 +1324,8 @@
   "kind": "msg",
   "speaker": "銀次",
   "jp": "良かったね、杏ちゃん！",
-  "en": "",
-  "status": ""
+  "en": "That's great, Anzu!",
+  "status": "tl"
  },
  {
   "id": "F28B48:73",
@@ -1340,22 +1340,22 @@
   "kind": "msg",
   "speaker": "杏",
   "jp": "撮るッスよー",
-  "en": "",
-  "status": ""
+  "en": "Here goes!",
+  "status": "tl"
  },
  {
   "id": "F299F4:2",
   "kind": "msg",
   "speaker": "杏",
   "jp": "ハイ、カシャリンコー",
-  "en": "",
-  "status": ""
+  "en": "Say cheese... click!",
+  "status": "tl"
  },
  {
   "id": "F29A70:1",
   "kind": "msg",
   "speaker": "蛮",
-  "jp": "テメー、薇マワシ！\n人の仕事を横取りしようってのか?",
+  "jp": "テメー、猿マワシ！\n人の仕事を横取りしようってのか?",
   "en": "",
   "status": ""
  },
@@ -1507,7 +1507,7 @@
   "id": "F29A70:38",
   "kind": "msg",
   "speaker": "蛮",
-  "jp": "後で吠え面かくなよ、薇マワシ！",
+  "jp": "後で吠え面かくなよ、猿マワシ！",
   "en": "",
   "status": ""
  },
