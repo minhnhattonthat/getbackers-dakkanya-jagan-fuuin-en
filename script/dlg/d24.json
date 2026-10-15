@@ -1,0 +1,514 @@
+[
+ {
+  "id": "F47388:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "はじけとぶのは青春の証",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F473D0:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "深夜はトーゼン！　オールナイト",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47420:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "胸がすく　俺たちの未来へ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47468:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "こみあげる力を　受け止めてくれよな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F474BC:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "しなやかな仕草で　かきわけてくれよな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47510:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "はたからみたら　俺たちはなんだろうな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47564:1",
+  "kind": "bline",
+  "speaker": "揺さぶられるなよ",
+  "jp": "ノック・イット・ダウン　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F475C0:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "カウント9で恋はクリンチ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47608:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "もっと近くによせてあげて",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47650:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "ボール4つで恋は出塁",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47694:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "Aから始めようトゥナイト",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F476DC:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "そこまでやったらノン・ストッパー",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F4772C:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "気持ちあずけてドント・トラスト",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F4777C:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "いまの気分はドントコベッシャリ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F477CC:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "圧巻ベイビー　誰にも止められないぜ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47820:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "まいどあり！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F4786C:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "シェイキン&シェイキン",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F478B4:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "シェイキン&シェイキン",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F478FC:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "シェイキン&シェイキン",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47944:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "シェイキン&シェイキン",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F4798C:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "夢は見れたかよ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F479D8:1",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "ごきげんいかが　マイ・ベイビー",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47A30:1",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "こそばゆいから　ヘルプミー",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47A30:2",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "やるせないのに　ロンリーウルフ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47A30:3",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "これでいいのさ！　トゥルー・ラブ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47A30:4",
+  "kind": "prompt",
+  "speaker": "銀次",
+  "jp": "え~っと…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47B00:1",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "走り出せ！　俺たちの明日へ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47B54:1",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "転んでも　ただでは起きないぜ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47B54:2",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "ノンストップな　恋の炎を",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47B54:3",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "燃え上がる魂を感じて欲しいのさ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47B54:4",
+  "kind": "prompt",
+  "speaker": "銀次",
+  "jp": "なんだったっけな~…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47C24:1",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "気絶しちゃうなよ\nレット・イット・ライド",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47C88:1",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "雑草のように生き延びてやる",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47C88:2",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "ステーキ食べたら空腹はジ・エンド",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47C88:3",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "ブレーキかけたら青春はジ・エンド",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47C88:4",
+  "kind": "prompt",
+  "speaker": "銀次",
+  "jp": "うーん、確か…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47D5C:1",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "ゴールは見えなくてもOK！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47DB0:1",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "ハッとしてグッときてパンチ×3",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47DB0:2",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "恋する魔法はマジカルスネーク",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47DB0:3",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "ハグしてキスしてシェイキン×2",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47DB0:4",
+  "kind": "prompt",
+  "speaker": "銀次",
+  "jp": "う、う~ん…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47E80:1",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "はじけているの?　スィート・ハート",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47EDC:1",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "深夜はトーゼン！　オールナイト",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47EDC:2",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "はじけとぶのは青春の証",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47EDC:3",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "今夜はゼッタイ！　オールナイト",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47EDC:4",
+  "kind": "prompt",
+  "speaker": "銀次",
+  "jp": "なんだったっけ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47FAC:1",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "胸がすく　俺たちの未来へ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47FFC:1",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "こみあげる力を　受け止めてくれよな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47FFC:2",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "しなやかな仕草で　かきわけてくれよな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47FFC:3",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "はたからみたら　俺たちはなんだろうな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47FFC:4",
+  "kind": "prompt",
+  "speaker": "銀次",
+  "jp": "んあ~、分かんないよ~…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F480E8:1",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "揺さぶられるなよ\nノック・イット・ダウン",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F4814C:1",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "ボール4つで恋は出塁",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F4814C:2",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "もっと近くによせてあげて",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F4814C:3",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "カウント9で恋はクリンチ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F4814C:4",
+  "kind": "prompt",
+  "speaker": "銀次",
+  "jp": "そろそろツライな~…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F4820C:1",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "Aから始めようトゥナイト",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F4825C:1",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "気持ちあずけてドント・トラスト",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F4825C:2",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "いまの気分はドントコベッシャリ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F4825C:3",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "そこまでやったらノン・ストッパー",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F4825C:4",
+  "kind": "prompt",
+  "speaker": "銀次",
+  "jp": "後少し…！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48330:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "『裏新宿……みれん』",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48380:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "たそがれの摩天楼",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F483C0:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "差し込む夕日が目に焼き付く",
+  "en": "",
+  "status": ""
+ }
+]

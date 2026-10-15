@@ -1,0 +1,322 @@
+[
+ {
+  "id": "F8702C:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "連綿通路のカギをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F87074:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "カギ爪ロープをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F870BC:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "地下室のカギをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F87104:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "倉庫のカギをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F87148:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ケージのカギをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F87190:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "IDパス1をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F871D4:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "卵をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F87210:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "バンをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F87250:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "IDパス2をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F87294:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ネズミをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F872D4:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "IDパス3をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F87318:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "コンタクトをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8735C:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "サンプルCDをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F873A4:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "入場パスをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F873E8:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "入り口のカギ1をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F87430:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "入り口のカギ2をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F87478:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "SRキー1をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F874BC:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "SRキー2をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F87500:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "SRキー3をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F87544:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "SRキー4をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F87588:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "SRキー5をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F875CC:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "SRキー6をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F87610:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "赤の勾玉をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F87654:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "青の勾玉をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F87698:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "黒の勾玉をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F876DC:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "白の勾玉をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F87720:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "緑の勾玉をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F87764:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "黄の勾玉をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F877A8:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "スズキをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F877E8:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "フグをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F87828:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ミノカサゴをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8786C:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "コイをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F878AC:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "アユをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F878EC:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ニジマスをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F87930:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "マグロをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F87970:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "アジをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F879B0:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "イワシをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F879F0:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "クラゲをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F87A30:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "イソギンをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F87A74:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ヒドラをゲット！",
+  "en": "",
+  "status": ""
+ }
+]

@@ -1,0 +1,354 @@
+[
+ {
+  "id": "F88528:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "じゅグロをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8856C:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "レナエプをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F885B0:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "なつエプをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F885F4:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "クレかみをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F88638:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "うりリスをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8867C:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "あおグラをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F886C0:1",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "うるせーんだよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F88714:1",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "用でもあンのかよ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8876C:1",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "おっ、どーしたよ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F887C4:1",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "さーて、面白くなってきやがったな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8882C:1",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "無敵の俺様に任しときな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F88888:1",
+  "kind": "prompt",
+  "speaker": "蛮",
+  "jp": "ヘマすンじゃねーぞ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F88888:2",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "銀次ィ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8890C:1",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "助けが必要なら言えよ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F88968:1",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "ウキュ~…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F889B8:1",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "んあ~、なんか言った?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F88A14:1",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "絶好調~！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F88A64:1",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "な~んか楽しくなってきたね！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F88AC4:1",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "オレたちっていいコンビだよね！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F88B28:1",
+  "kind": "prompt",
+  "speaker": "銀次",
+  "jp": "蛮ちゃん",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F88B28:2",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "二人なら無敵だよね！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F88BAC:1",
+  "kind": "prompt",
+  "speaker": "銀次",
+  "jp": "ど、どうかしましたか",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F88BAC:2",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "赤屍さん…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F88C34:1",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "雪彦君…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F88C80:1",
+  "kind": "msg",
+  "speaker": "卑弥呼",
+  "jp": "話し掛けないでよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F88CD8:1",
+  "kind": "msg",
+  "speaker": "卑弥呼",
+  "jp": "ジロジロ見ないでくれる?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F88D38:1",
+  "kind": "msg",
+  "speaker": "卑弥呼",
+  "jp": "さてと、行きましょうか",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F88D98:1",
+  "kind": "msg",
+  "speaker": "卑弥呼",
+  "jp": "心配いらないわよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F88DF0:1",
+  "kind": "msg",
+  "speaker": "卑弥呼",
+  "jp": "アンタといるとそこそこ楽しいわね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F88E58:1",
+  "kind": "msg",
+  "speaker": "卑弥呼",
+  "jp": "あたしだってプロなんだから！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F88EBC:1",
+  "kind": "msg",
+  "speaker": "赤屍",
+  "jp": "あなたには失望しました",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F88F18:1",
+  "kind": "msg",
+  "speaker": "赤屍",
+  "jp": "やれやれですね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F88F6C:1",
+  "kind": "msg",
+  "speaker": "赤屍",
+  "jp": "少しは楽しめそうですね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F88FC8:1",
+  "kind": "msg",
+  "speaker": "赤屍",
+  "jp": "なるほど…これは面白い",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89024:1",
+  "kind": "msg",
+  "speaker": "赤屍",
+  "jp": "たっぷりと楽しませて下さい",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89084:1",
+  "kind": "msg",
+  "speaker": "赤屍",
+  "jp": "興味深い方ですね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F890D8:1",
+  "kind": "msg",
+  "speaker": "赤屍",
+  "jp": "本当に面白い方だ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89130:1",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "理解できないな、君のことは…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89190:1",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "…なんでしょうか?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F891E8:1",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "気を引き締めて行きましょう",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89248:1",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "頼りにしてますよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8929C:1",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "僕には君が必要なようだ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F892F8:1",
+  "kind": "prompt",
+  "speaker": "花月",
+  "jp": "十兵衛",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F892F8:2",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "いつもすまないね",
+  "en": "",
+  "status": ""
+ }
+]

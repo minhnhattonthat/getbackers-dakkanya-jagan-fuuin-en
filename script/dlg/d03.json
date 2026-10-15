@@ -1,0 +1,594 @@
+[
+ {
+  "id": "EEAC58:1",
+  "kind": "bline",
+  "speaker": "照日巫女",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEAC58:3",
+  "kind": "bline",
+  "speaker": "照日巫女",
+  "jp": "昇天！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEAD28:1",
+  "kind": "bline",
+  "speaker": "照日巫女",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEAD28:3",
+  "kind": "bline",
+  "speaker": "照日巫女",
+  "jp": "照日の舞…　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEADE8:1",
+  "kind": "bline",
+  "speaker": "照日巫女",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEADE8:3",
+  "kind": "bline",
+  "speaker": "照日巫女",
+  "jp": "口寄せ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEAEA4:1",
+  "kind": "bline",
+  "speaker": "巫女",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEAEA4:3",
+  "kind": "bline",
+  "speaker": "巫女",
+  "jp": "ヒーッヒッヒ！！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEAF6C:1",
+  "kind": "bline",
+  "speaker": "巫女",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEAF6C:3",
+  "kind": "bline",
+  "speaker": "巫女",
+  "jp": "呪呪呪呪呪呪呪…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEAFEC:1",
+  "kind": "bline",
+  "speaker": "巫女",
+  "jp": "",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEAFEC:3",
+  "kind": "bline",
+  "speaker": "巫女",
+  "jp": "呪詛呪詛呪詛呪詛…　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEB0B0:1",
+  "kind": "bline",
+  "speaker": "慧遠禅師",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEB0B0:3",
+  "kind": "bline",
+  "speaker": "慧遠禅師",
+  "jp": "ヌンッ！！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEB178:1",
+  "kind": "bline",
+  "speaker": "慧遠禅師",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEB178:3",
+  "kind": "bline",
+  "speaker": "慧遠禅師",
+  "jp": "ガアアアァァアアッ！！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEB208:1",
+  "kind": "bline",
+  "speaker": "慧遠禅師",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEB208:3",
+  "kind": "bline",
+  "speaker": "慧遠禅師",
+  "jp": "ウリャアァァアアッ！！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEB354:1",
+  "kind": "bline",
+  "speaker": "天狗",
+  "jp": "行け！　カマイタチ！！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEB410:1",
+  "kind": "bline",
+  "speaker": "天狗",
+  "jp": "心眼…開ッ！！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEB474:1",
+  "kind": "bline",
+  "speaker": "天狗",
+  "jp": "切り裂かれてしまえ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEB52C:1",
+  "kind": "bline",
+  "speaker": "地嶽鬼",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEB52C:3",
+  "kind": "bline",
+  "speaker": "地嶽鬼",
+  "jp": "グァーッハッハッハ！！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEB5F8:1",
+  "kind": "bline",
+  "speaker": "地嶽鬼",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEB5F8:3",
+  "kind": "bline",
+  "speaker": "地嶽鬼",
+  "jp": "地嶽の炎で焼かれるがいい！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEB6C8:1",
+  "kind": "bline",
+  "speaker": "地嶽鬼",
+  "jp": "食らえ、地嶽車！！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEB898:1",
+  "kind": "bline",
+  "speaker": "鬼神",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEB898:3",
+  "kind": "bline",
+  "speaker": "鬼神",
+  "jp": "地嶽の業火、受けてみな！！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEB968:1",
+  "kind": "bline",
+  "speaker": "鬼神",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEB968:3",
+  "kind": "bline",
+  "speaker": "鬼神",
+  "jp": "こいつに堪えられるか?　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEBA34:1",
+  "kind": "bline",
+  "speaker": "鬼神",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEBA34:3",
+  "kind": "bline",
+  "speaker": "鬼神",
+  "jp": "炎よ、嵐となれ！！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEBAFC:1",
+  "kind": "bline",
+  "speaker": "鵺",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEBAFC:3",
+  "kind": "bline",
+  "speaker": "鵺",
+  "jp": "陰ノ術　毒尾！！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEBBEC:1",
+  "kind": "bline",
+  "speaker": "鵺",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEBBEC:3",
+  "kind": "bline",
+  "speaker": "鵺",
+  "jp": "陰ノ術　虎薇鳥蛇！！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEBCB0:1",
+  "kind": "bline",
+  "speaker": "鵺",
+  "jp": "陰ノ術　百鬼夜行！！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEBE74:1",
+  "kind": "bline",
+  "speaker": "雷電",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEBE74:3",
+  "kind": "bline",
+  "speaker": "雷電",
+  "jp": "雷鳴よ、鳴り誉け！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEBF3C:1",
+  "kind": "bline",
+  "speaker": "雷電",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEBF3C:3",
+  "kind": "bline",
+  "speaker": "雷電",
+  "jp": "金縛りだ！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEC02C:1",
+  "kind": "bline",
+  "speaker": "雷電",
+  "jp": "雷雲よ、奴らを焦がし尽くせ　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEC200:1",
+  "kind": "bline",
+  "speaker": "霊狐",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEC200:3",
+  "kind": "bline",
+  "speaker": "霊狐",
+  "jp": "狐爪！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEC2BC:1",
+  "kind": "bline",
+  "speaker": "霊狐",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEC2BC:3",
+  "kind": "bline",
+  "speaker": "霊狐",
+  "jp": "九尾爪！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEC3AC:1",
+  "kind": "bline",
+  "speaker": "霊狐",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEC3AC:3",
+  "kind": "bline",
+  "speaker": "霊狐",
+  "jp": "変化爪！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEC49C:1",
+  "kind": "bline",
+  "speaker": "龍女",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEC49C:3",
+  "kind": "bline",
+  "speaker": "龍女",
+  "jp": "逃さないよっ！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEC560:1",
+  "kind": "bline",
+  "speaker": "龍女",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEC560:3",
+  "kind": "bline",
+  "speaker": "龍女",
+  "jp": "龍刃",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEC648:1",
+  "kind": "bline",
+  "speaker": "龍女",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEC648:3",
+  "kind": "bline",
+  "speaker": "龍女",
+  "jp": "我が太刀筋に惑わぬものは無し…　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEC74C:1",
+  "kind": "bline",
+  "speaker": "龍神",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEC74C:3",
+  "kind": "bline",
+  "speaker": "龍神",
+  "jp": "目障りだ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEC808:1",
+  "kind": "bline",
+  "speaker": "龍神",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEC808:3",
+  "kind": "bline",
+  "speaker": "龍神",
+  "jp": "邪魔だ　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEC8C4:1",
+  "kind": "bline",
+  "speaker": "龍神",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEC8C4:3",
+  "kind": "bline",
+  "speaker": "龍神",
+  "jp": "竜巻招来！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEC9CC:1",
+  "kind": "bline",
+  "speaker": "葵上",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEC9CC:3",
+  "kind": "bline",
+  "speaker": "葵上",
+  "jp": "我が怨念を食らえ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EECA94:1",
+  "kind": "bline",
+  "speaker": "葵上",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EECA94:3",
+  "kind": "bline",
+  "speaker": "葵上",
+  "jp": "オレ様の呪詛を受けるがいい！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EECB70:1",
+  "kind": "bline",
+  "speaker": "葵上",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EECB70:3",
+  "kind": "bline",
+  "speaker": "葵上",
+  "jp": "動物の姿になるがいい！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EECC3C:1",
+  "kind": "bline",
+  "speaker": "一角仙人",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EECC3C:3",
+  "kind": "bline",
+  "speaker": "一角仙人",
+  "jp": "仙術のニ…角刀！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EECD0C:1",
+  "kind": "bline",
+  "speaker": "一角仙人",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EECD0C:3",
+  "kind": "bline",
+  "speaker": "一角仙人",
+  "jp": "仙術の三…神角刀！！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EECDE8:1",
+  "kind": "bline",
+  "speaker": "一角仙人",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EECDE8:3",
+  "kind": "bline",
+  "speaker": "一角仙人",
+  "jp": "仙術の一…仙力！！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EECEB0:1",
+  "kind": "bline",
+  "speaker": "山姥",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EECEB0:3",
+  "kind": "bline",
+  "speaker": "山姥",
+  "jp": "ケーッケッケ！　",
+  "en": "",
+  "status": ""
+ }
+]

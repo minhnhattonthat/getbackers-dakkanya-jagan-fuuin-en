@@ -1,0 +1,1642 @@
+[
+ {
+  "id": "F1FAB0:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "おおっ、アクセス成功~！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F1FAB0:2",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ん~、このパソコンからは\n隔壁1が解除できるみたいやな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F1FAB0:4",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "全て解除することはできねぇか…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F1FAB0:5",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "とりあえず1を解除してくれ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F1FAB0:7",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "OK、任しとき！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F1FAB0:8",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "隔壁1を解除した！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F1FC08:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "これで最後やったのにぃ~",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F1FC08:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "確認してみた方がいいかもな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F1FC94:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "あ、あらら?　間違うたんか！?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F1FC94:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "落ち着け、笑師\n一番気に入っている曲名だぞ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F1FD3C:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "アカン、間違えてもーた！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F1FD3C:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "もう一度確認してみた方がいいかもな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F1FDD0:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "よし、入れてみよか",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F1FDD0:2",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "オノダコウヘイ…っと",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F1FDD0:4",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "…エラーが出てるぞ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F1FDD0:6",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "な、な、なんでやね~ん！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F1FDD0:8",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "自分以外の名前を鵠定してるのかもな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F1FDD0:10",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ん~、どないしよか?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F1FDD0:12",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "部屋の中を詳しく\n調べてみるしかねえだろうな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F1FDD0:13",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "なにかヒントがあるかも知れねえし",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F1FDD0:15",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "せやな！　調べてみましょか！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F1FFDC:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "このパソコンにちょちょっと\nアクセスすればエエんやな?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F1FFDC:2",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "楽勝やん~",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F1FFDC:4",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "笑師、パスワードを要求してるぞ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F1FFDC:6",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "name…って、\nここの部屋の人の名前かいな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F1FFDC:7",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "そんなん分からへんやん！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F1FFDC:9",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "部屋の中を調べてみた方が良さそうだな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20160:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "こりゃまたぎょうさん\n貼ってありますなあ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20160:2",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "しかも、これ全部MAIちゃんやんか",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20160:4",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "MAIのファンってことか…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20230:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "なんや、この雑誌にも\nMAIちゃん載ってまっせ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20230:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "やっぱファンなんだな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20230:5",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "おっ、プロフィールやんか！\nなになに…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20230:6",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "MAI(本名:坂本茉衣)",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20230:7",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "4月20日生まれ、年齢17歳\n血液型A型、出身地:東京",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20230:8",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "フムフム…覚えとこ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20230:10",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F203D4:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ん~、音楽雑誌やな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F203D4:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "特にパスワードに\nなりそうなものはないか?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F203D4:5",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "あらへんなあ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20498:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "この雑誌にもMAIちゃん載ってまっせ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20498:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "本当にファンなんだな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20498:5",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ん~、なになに?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20498:6",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "MAI全曲紹介",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20498:7",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "デビュー曲\n『キラキラ☆チュ！　チュ！　チュ♥』",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20498:8",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "2ndシングル\n『スパイシー☆ラブ！』",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20498:9",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "3rdシングル\n『twinkle☆キラめいて』",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20498:10",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "1stアルバム\n『DA・DA・DA・DA・ダーリン』",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20498:11",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "4thシングル\n『言葉にならないカテゴリー』",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20498:12",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "持っとる、持っとる！\n全部持ってんで~！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20498:13",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "なあ、士度はん?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20498:15",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "マドカが持っていたな、確か…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20740:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "これはテレビ雑誌やなあ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20740:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "パスワードになりそうなものはねえか?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20740:5",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "パラパラ~っと\n見た感じではあらへんなあ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20820:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "おおっ！\nこれにもMAIちゃん載ってまっせ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20820:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "………で?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20820:5",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "なになに…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20820:6",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "熱烈交際！！\n超人気アーティスト深夜のお忍びデート",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20820:7",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "人気アーティスト、MAIが同事務所の\n先輩と付き合っていることが発覚",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20820:8",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "二人は同じMMSに所属しており、\nMAIの移籍によって知り合った…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20820:9",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "…って、なんやコレ！?\nMAIちゃん、付き合ってる人おるん?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20820:11",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "(そういえば婿約したんだっけな…)",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20820:13",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "な、なんでやねーん！！！\nショックで胸が張り裂けそうやわあー！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20820:15",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "(婿約したことは言わないでおくか…)",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20AF8:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ん~、これは週刊誌みたいやな\n芸能ネタとか載っとるヤツや",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20AF8:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "なにか情報は載ってるのか?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20AF8:5",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "特にあらへんなあ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20BD8:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "これもMAIちゃん載っとるで！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20BD8:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "とことんファンみてぇだな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20BD8:5",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "んーと、\n新曲のタイトルが発表になっとるな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20BD8:6",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ニューシングルは\n『還らないこと』っちゅータイトルやで",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20BD8:7",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "10月10日発売予定！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20BD8:8",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "アカ~ン！　早よ予約せな、予約！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20BD8:10",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20D78:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "こら音楽系の専門誌やな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20D78:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "情報になりそうなものはねえのかよ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20D78:5",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "んん~、見当たらんなあ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20E44:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "こらまた全部MAIちゃんのもんやで",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20E44:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "ファンだから当然か…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20E44:5",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ん?　『スパイシー☆ラブ！』の\nCDが三枚ありまっせ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20E44:6",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "お気に入りなんかな?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20E44:8",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "そうなのかもな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20E44:10",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "士度はんは知っとるんか、\n『スパイシー☆ラブ』?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20E44:12",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "いや…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20E44:14",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "アカンて！\n時代の波に取り残されてんで！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20E44:15",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "今からワイが歌ったるから\nしっかり覚えるんやで~?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20E44:16",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "♪スパイシー☆ラブ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20E44:17",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "♪恋の調味料~",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20E44:18",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "♪あなたとの甘くせつない日々",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20E44:19",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "♪そして　さよなら~",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20E44:20",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "♪わたしの　グッバイ☆ラブ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20E44:21",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "んん~、ワイの歌声も最高やな~！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F20E44:23",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2118C:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "CDとMDやな…\n音楽好きな人っちゅーことやな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2118C:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2121C:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ホワイトボードや",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2121C:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "なにかありそうなのか?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2121C:5",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "仕事の予定書いとるだけやな…\nなんもあらへん",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2121C:7",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "そうか…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21314:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "おっ、手帳発見~！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21314:2",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "中身諌んだろか",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21314:4",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "おい、いいのかよ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21314:6",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "バレへん、バレへん！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21314:7",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "どれどれ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21314:8",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21314:9",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "…………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21314:10",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "……………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21314:11",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "アカン…どこも白紙や",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21314:13",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "情報はなし…か",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21490:1",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "これでだいぶ分かってきたな?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21490:3",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "せやな！\nパスワード入れてみよか！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2152C:1",
+  "kind": "choice",
+  "speaker": "笑師",
+  "jp": "小山幹夫",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2152C:2",
+  "kind": "choice",
+  "speaker": "笑師",
+  "jp": "小山幹雄",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2152C:3",
+  "kind": "choice",
+  "speaker": "笑師",
+  "jp": "小山幹男",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2152C:4",
+  "kind": "choice",
+  "speaker": "笑師",
+  "jp": "小山幹生",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2152C:5",
+  "kind": "choice",
+  "speaker": "笑師",
+  "jp": "小山幹郎",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2152C:6",
+  "kind": "prompt",
+  "speaker": "笑師",
+  "jp": "まずは名前…っと",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F215D4:1",
+  "kind": "choice",
+  "speaker": "笑師",
+  "jp": "19800612",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F215D4:2",
+  "kind": "choice",
+  "speaker": "笑師",
+  "jp": "19800814",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F215D4:3",
+  "kind": "choice",
+  "speaker": "笑師",
+  "jp": "19800622",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F215D4:4",
+  "kind": "choice",
+  "speaker": "笑師",
+  "jp": "19800613",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F215D4:5",
+  "kind": "choice",
+  "speaker": "笑師",
+  "jp": "19800715",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F215D4:6",
+  "kind": "prompt",
+  "speaker": "笑師",
+  "jp": "次に生年月日…っと",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F216A8:1",
+  "kind": "choice",
+  "speaker": "笑師",
+  "jp": "人",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F216A8:2",
+  "kind": "choice",
+  "speaker": "笑師",
+  "jp": "男",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F216A8:3",
+  "kind": "choice",
+  "speaker": "笑師",
+  "jp": "女",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F216A8:4",
+  "kind": "choice",
+  "speaker": "笑師",
+  "jp": "?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F216A8:5",
+  "kind": "choice",
+  "speaker": "笑師",
+  "jp": "アレ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F216A8:6",
+  "kind": "prompt",
+  "speaker": "笑師",
+  "jp": "性別…っと",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21738:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "やったで、アクセス成功や！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21738:2",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ここからは…\n隔壁2が解除できるみたいやな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21738:4",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "解除してくれ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21738:6",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "よっしゃ、任しとき！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21738:7",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "隔壁2を解除した！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21854:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ん~、これやと思ったのになあ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21854:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "違ったか…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F218D4:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "おしい！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F218D4:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "…おしいか?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21940:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "んん~、微妙やな~",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21940:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "もう一度確認してみた方がいいかもな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F219D0:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "こっちもパスワードが必要みたいやな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F219D0:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "探してみるとするか…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21A60:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "おっ、手帳発見や！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21A60:2",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "なになに持ち主らしき人物の名は\n『コヤマ　ミキ』…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21A60:4",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "他の情報は?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21A60:6",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ん~、あらへんな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21B50:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "んん~、化粧品ぎょうさん持っとるなあ\n女の子って感じやな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21B50:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "それで情報は?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21B50:5",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "手がかりになりそなモンはあらへんなあ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21C38:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "化粧品でごまかしとるってことやな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21C38:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "見た目じゃ分からねえってことか…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21CD4:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "こないな服を着ていても…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21CD4:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "中身は…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21D4C:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ロッカーん中に私服が入っとりまっせ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21D4C:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "勝手にのぞいていいのかよ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21D4C:5",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ん~、フローラルな香りやなあ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21D4C:6",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "服もいかにも女の子って感じやわあ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21D4C:8",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "それで情報は?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21D4C:10",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "なさそやな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21EA8:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ん?　奥にガムテープで\nぐるぐる巻きにされた封筒発見！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21EA8:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "怪しいな…中身を見てみるか",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21EA8:5",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "中身は…写真や！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21EA8:6",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21EA8:7",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "なんや、全然別人が写っとるんやけど…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21EA8:9",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "………男?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21EA8:10",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "といってもコヤマ　ミキに\n特徴は似ているな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21EA8:12",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21EA8:14",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F21EA8:16",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "怪しぃな、名前とか\n確認できるモン探してみましょか",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F220D8:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "前の写真を剥ぎ取ったのって…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F220D8:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "証拠隠滅ってことなんだろうな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2216C:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "資料が入っとる翔やな\n…特にめぼしいもんはあらへんなあ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2216C:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "収穫なしか…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22208:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ん?\n資料に交じってアルバムが入ってまっせ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22208:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "アルバム?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22208:5",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "題して『ミキ☆ヒストリー』",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22208:6",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "どれどれ…\nなんや~、可愛ェ子やんか~♥",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22208:8",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "ん?　いくつか剥ぎ取って\nある写真があるぞ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22208:10",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "あらら?\n気に入らん写真やったんかな?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22208:12",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "取られた写真は\n前のページに集中しているな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22208:14",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ナゾやな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2241C:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "おっと白衣のポッケから社員証発見~",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2241C:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "名前はコヤマ　ミキ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2241C:5",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ミキちゃんか、可愛ェ名前やなあ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F224EC:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "どれどれ社員証確認してみよか",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F224EC:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "名前はコヤマ　ミキ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F224EC:4",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "顔写真もアルバムのものだな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F224EC:6",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ん?　これ、\nなんか上から貼ってあらへん?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F224EC:8",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "確かに…名前と写真は上から\n貼り付けてあるみてえだな?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F224EC:10",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "はがしてみよか",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F224EC:11",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F224EC:12",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "…………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F224EC:13",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "……………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F224EC:14",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "アカ~ン、はがれんわ~",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F224EC:16",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "なにか隠してることがありそうだな?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2271C:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "士度はん、\nカバンの奥底からパスポート発見！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2271C:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "これはさすがに偽れねえだろ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2271C:4",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "…で、なにが書いてあんだ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2271C:6",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "名前は…『小山　幹生』",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2271C:7",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "生年月日…19800612",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2271C:8",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "性別…『男』",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2271C:9",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ど、どないなっとんのや！?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2271C:11",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "まあ…そういうことなんだろうな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2271C:12",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "そろそろパスワードが\n入力できそうだな?",
+  "en": "",
+  "status": ""
+ }
+]

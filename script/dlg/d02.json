@@ -1,0 +1,626 @@
+[
+ {
+  "id": "EE8B08:1",
+  "kind": "bline",
+  "speaker": "レーザーガンマン",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE8B08:3",
+  "kind": "bline",
+  "speaker": "レーザーガンマン",
+  "jp": "レーザー…ヴィィィーム！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE8C08:1",
+  "kind": "bline",
+  "speaker": "天照大神",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE8C08:3",
+  "kind": "bline",
+  "speaker": "天照大神",
+  "jp": "受けてみよ、我が怒りを！！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE8CE8:1",
+  "kind": "bline",
+  "speaker": "天照大神",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE8CE8:3",
+  "kind": "bline",
+  "speaker": "天照大神",
+  "jp": "さあ…戦いはこれからだ　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE8DB4:1",
+  "kind": "bline",
+  "speaker": "天照大神",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE8DB4:3",
+  "kind": "bline",
+  "speaker": "天照大神",
+  "jp": "この試練に耐えられるか…?　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE8ED0:1",
+  "kind": "bline",
+  "speaker": "天細女命",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE8ED0:3",
+  "kind": "bline",
+  "speaker": "天細女命",
+  "jp": "ほっ！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE8F94:1",
+  "kind": "bline",
+  "speaker": "天細女命",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE8F94:3",
+  "kind": "bline",
+  "speaker": "天細女命",
+  "jp": "わたしの癒しの力をお見せしよう…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE9068:1",
+  "kind": "bline",
+  "speaker": "天細女命",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE9068:3",
+  "kind": "bline",
+  "speaker": "天細女命",
+  "jp": "天女の舞！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE9130:1",
+  "kind": "bline",
+  "speaker": "手刀男命",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE9130:3",
+  "kind": "bline",
+  "speaker": "手刀男命",
+  "jp": "天罰を受けるがいい！！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE9204:1",
+  "kind": "bline",
+  "speaker": "手刀男命",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE9204:3",
+  "kind": "bline",
+  "speaker": "手刀男命",
+  "jp": "神に背く愚か者め！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE92D4:1",
+  "kind": "bline",
+  "speaker": "手刀男命",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE92D4:3",
+  "kind": "bline",
+  "speaker": "手刀男命",
+  "jp": "岩戸開きの力…見せてくれようぞ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE945C:1",
+  "kind": "bline",
+  "speaker": "吉野天人",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE945C:3",
+  "kind": "bline",
+  "speaker": "吉野天人",
+  "jp": "さあ、行くぞ…　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE9528:1",
+  "kind": "bline",
+  "speaker": "吉野天人",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE9528:3",
+  "kind": "bline",
+  "speaker": "吉野天人",
+  "jp": "この壁を破って見せよ…　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE95B8:1",
+  "kind": "bline",
+  "speaker": "吉野天人",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE95B8:3",
+  "kind": "bline",
+  "speaker": "吉野天人",
+  "jp": "動きを封じてくれよう…　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE968C:1",
+  "kind": "bline",
+  "speaker": "住吉明神",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE968C:3",
+  "kind": "bline",
+  "speaker": "住吉明神",
+  "jp": "…！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE9750:1",
+  "kind": "bline",
+  "speaker": "住吉明神",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE9750:3",
+  "kind": "bline",
+  "speaker": "住吉明神",
+  "jp": "……………！！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE981C:1",
+  "kind": "bline",
+  "speaker": "住吉明神",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE981C:3",
+  "kind": "bline",
+  "speaker": "住吉明神",
+  "jp": "………　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE98D8:1",
+  "kind": "bline",
+  "speaker": "白髭明神",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE98D8:3",
+  "kind": "bline",
+  "speaker": "白髭明神",
+  "jp": "第一奥義、真空波！！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE99AC:1",
+  "kind": "bline",
+  "speaker": "白髭明神",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE99AC:3",
+  "kind": "bline",
+  "speaker": "白髭明神",
+  "jp": "第二奥義、仙風波！！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE9A8C:1",
+  "kind": "bline",
+  "speaker": "白髭明神",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE9A8C:3",
+  "kind": "bline",
+  "speaker": "白髭明神",
+  "jp": "最終奥義、斬風波！！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE9BA4:1",
+  "kind": "bline",
+  "speaker": "十六",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE9BA4:3",
+  "kind": "bline",
+  "speaker": "十六",
+  "jp": "かあぁぁぁっ！！！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE9C30:1",
+  "kind": "bline",
+  "speaker": "十六",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE9C30:3",
+  "kind": "bline",
+  "speaker": "十六",
+  "jp": "二段斬り！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE9D2C:1",
+  "kind": "bline",
+  "speaker": "十六",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE9D2C:3",
+  "kind": "bline",
+  "speaker": "十六",
+  "jp": "三段斬り！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE9E00:1",
+  "kind": "bline",
+  "speaker": "平経正",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE9E00:3",
+  "kind": "bline",
+  "speaker": "平経正",
+  "jp": "おおおぉぉおおっ！！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE9ECC:1",
+  "kind": "bline",
+  "speaker": "平経正",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE9ECC:3",
+  "kind": "bline",
+  "speaker": "平経正",
+  "jp": "毒刃の切れ味をみせてやるぜ！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE9FD0:1",
+  "kind": "bline",
+  "speaker": "平経正",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE9FD0:3",
+  "kind": "bline",
+  "speaker": "平経正",
+  "jp": "どっからでもかかってきな！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEA05C:1",
+  "kind": "bline",
+  "speaker": "平清経",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEA05C:3",
+  "kind": "bline",
+  "speaker": "平清経",
+  "jp": "盛者必衰！！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEA128:1",
+  "kind": "bline",
+  "speaker": "平清経",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEA128:3",
+  "kind": "bline",
+  "speaker": "平清経",
+  "jp": "諸行無常！！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEA1EC:1",
+  "kind": "bline",
+  "speaker": "平清経",
+  "jp": "おごれる人も久しからず…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEA258:1",
+  "kind": "bline",
+  "speaker": "源頼政",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEA258:3",
+  "kind": "bline",
+  "speaker": "源頼政",
+  "jp": "この太刀筋が見切れるか?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEA324:1",
+  "kind": "bline",
+  "speaker": "源頼政",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEA324:3",
+  "kind": "bline",
+  "speaker": "源頼政",
+  "jp": "幻惑の太刀…逆刃！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEA3EC:1",
+  "kind": "bline",
+  "speaker": "源頼政",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEA3EC:3",
+  "kind": "bline",
+  "speaker": "源頼政",
+  "jp": "風よ、刃に宿れ…疾風の刃！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEA478:1",
+  "kind": "bline",
+  "speaker": "巴御前",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEA478:3",
+  "kind": "bline",
+  "speaker": "巴御前",
+  "jp": "お覚悟…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEA534:1",
+  "kind": "bline",
+  "speaker": "巴御前",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEA534:3",
+  "kind": "bline",
+  "speaker": "巴御前",
+  "jp": "刀舞",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEA658:1",
+  "kind": "bline",
+  "speaker": "巴御前",
+  "jp": "本気でいきますよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEA6BC:1",
+  "kind": "bline",
+  "speaker": "夕顔",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEA6BC:3",
+  "kind": "bline",
+  "speaker": "夕顔",
+  "jp": "悲恋の舞！！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEA880:1",
+  "kind": "bline",
+  "speaker": "夕顔",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEA880:3",
+  "kind": "bline",
+  "speaker": "夕顔",
+  "jp": "助太刀頼むぞ！！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEA904:1",
+  "kind": "bline",
+  "speaker": "夕顔",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEA904:3",
+  "kind": "bline",
+  "speaker": "夕顔",
+  "jp": "決めの一手だ！！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEA9CC:1",
+  "kind": "bline",
+  "speaker": "富士妻",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEA9CC:3",
+  "kind": "bline",
+  "speaker": "富士妻",
+  "jp": "退屈でやす　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEAA8C:1",
+  "kind": "bline",
+  "speaker": "富士妻",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEAA8C:3",
+  "kind": "bline",
+  "speaker": "富士妻",
+  "jp": "これでお終いでやす　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEAB54:1",
+  "kind": "bline",
+  "speaker": "富士妻",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEAB54:3",
+  "kind": "bline",
+  "speaker": "富士妻",
+  "jp": "一曲どうでやすか?　",
+  "en": "",
+  "status": ""
+ }
+]

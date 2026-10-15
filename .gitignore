@@ -1,0 +1,12 @@
+rom/
+build/
+work/
+dist/
+release/
+tools/mesen/
+__pycache__/
+*.pyc
+*.mss
+*.sav
+.pytest_cache/
+*.mss

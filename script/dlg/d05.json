@@ -1,0 +1,2186 @@
+[
+ {
+  "id": "EF5B88:1",
+  "kind": "bline",
+  "speaker": "神門　京介(狂面)",
+  "jp": "狂面の舞",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF6364:1",
+  "kind": "bline",
+  "speaker": "K(六面豪鬼)",
+  "jp": "巫面の舞",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF6D5C:1",
+  "kind": "bline",
+  "speaker": "K(六面豪鬼)",
+  "jp": "魂寄せ　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF7310:1",
+  "kind": "bline",
+  "speaker": "K(六面豪鬼)",
+  "jp": "地嶽変　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF77B4:1",
+  "kind": "bline",
+  "speaker": "K(六面豪鬼)",
+  "jp": "オオオォォオオオッ！！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF7CA4:1",
+  "kind": "bline",
+  "speaker": "K(六面豪鬼)",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF7CA4:3",
+  "kind": "bline",
+  "speaker": "K(六面豪鬼)",
+  "jp": "オ…オ…オオオ！！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF7CA4:5",
+  "kind": "bline",
+  "speaker": "K(六面豪鬼)",
+  "jp": "ウオオォォオオオ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF8510:1",
+  "kind": "bline",
+  "speaker": "RETA",
+  "jp": "ウキュー",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF878C:1",
+  "kind": "bline",
+  "speaker": "RETA",
+  "jp": "ウキュキュ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF878C:3",
+  "kind": "bline",
+  "speaker": "RETA",
+  "jp": "ウキュー！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9200:1",
+  "kind": "bline",
+  "speaker": "銀次",
+  "jp": "もらったぁっ！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9620:1",
+  "kind": "bline",
+  "speaker": "銀次",
+  "jp": "イナズマキーック！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9958:1",
+  "kind": "bline",
+  "speaker": "???",
+  "jp": "………　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9A10:1",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "蛮ちゃ~ん…もうダメだぁ………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9A10:3",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "気合入れろ、銀次！\nHONKYTONKはすぐ目の前だぞ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9A10:4",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "…って、俺様ももうダメだけどな………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9A10:6",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "どうしよう、蛮ちゃん…\nこのままじゃ、空腹で死んじゃうかも…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9C60:1",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "なに、コノ人たち…死んでる！?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9C60:2",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "ひょっとして行き倒れってやつッスか?\nスクープ、スクープ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9C60:4",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "るせェな…\n腹へって気が立ってんだよ、黙ってろ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9C60:6",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "あれ、まだ生きてる！?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9C60:8",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "んあ~、どこかから食べモノの匂いが…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9C60:9",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "…あっ！　ハンバーガーだ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9C60:11",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "あっ、これ食べるッスか?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9C60:12",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "あげてもいいケド、その代わりに…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9C60:14",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "なに、くれるってか?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9C60:15",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "悪ィな、いただくぜ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9C60:17",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "蛮ちゃん、ズルいよ！\nオレにも半分ちょうだいよ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9C60:20",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "ガツガツガツ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9C60:21",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "バクバクバク…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9C60:22",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "ゴクゴクゴク…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9C60:24",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "その代わりにお願いがあるんだけど…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9C60:25",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "って聞いてないッスね~…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9C60:28",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "ガツガツガツ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9C60:29",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "バクバクバク…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9C60:30",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "ゴクゴクゴク…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9C60:32",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "ごちそうさまーっ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9C60:34",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "ま、ちっと足りねェがよしとするか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF9C60:35",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "じゃあな、通りすがりの貧乳娘よ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:1",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "ちょ、ちょっと待つッス！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:2",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "杏(あんず)のお願いを\n聞いてもらわないと困るッスよ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:4",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "キミ、杏ちゃんって言うんだ~",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:5",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "なになに、願い事って?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:7",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "おい、銀次…\nそンなの相手にしてンじゃねーよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:8",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "体力があるうちに次の仕事をだな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:10",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "その体力は誰のおかげで\n養えたと思ってるッスか！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:12",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "やー、杏ちゃんは命の恩人だよね~",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:14",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "その恩人の願いを一つ位聞いてくれても\nいいじゃないッスか！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:16",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "どォせくだらねェ頼みなんだろ?\n気が進まねーなぁ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:18",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "くだらなくなんてないッスよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:19",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "カメラを…\n杏のカメラを奪り還して欲しいッス！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:21",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "買い換えりゃいいじゃねェかよ、\nンなモン",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:23",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "あれはお金じゃ買えない\n特別なカメラなんッスよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:24",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "パパが残してくれたものでもあるし…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:26",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "蛮ちゃん、引き受けてあげようよ\nオレたち、奪還屋なんだしさ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:28",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "奪還屋！?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:29",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "奪還屋ってなんッスか?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:31",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "奪られたものを奪り還す…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:32",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "俺たちは成功率100%の奪還屋\nGetBackersだ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:34",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "オレは天野　銀次(あまの　ぎんじ)、\nこっちは相棒のー…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:36",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "美堂　蛮(みどう　ばん)だ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:38",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "じゃあ、杏のカメラ…\n奪り還してくれるッスね?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:40",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "いや、ダメだ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:42",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "はあっ！?　意味分かんないッス！\nだって今、奪還屋だって…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:44",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "あのな…俺たちゃ安かねーんだよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:45",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "ガキの使いじゃあるまいし、\nハンバーガー一個で仕事受けられるか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:47",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "その安くない命を\n誰が救ったと思ってるッスか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:49",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:51",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "お願いするッス！\nあのカメラは本当に大事なモノなんスよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:52",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "引き受けてくれないなら、\n杏ここで泣き喚くッス！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:53",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "足にしがみついて\nワアワア泣いてやるッス！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:55",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "…チッ、しゃーねえなあ………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:57",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "仕方ないよ、蛮ちゃん\nだって杏ちゃんは命の恩人だもんね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFA34C:60",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "ゲットバッカーズ！\nこの依頼、確かに引き受けた！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB050:1",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "で、そのカメラが奪われたのは\nこの裏新宿占い横町ってワケだな?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB050:3",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "そうッス！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB050:4",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "スクープ狙ってここをブラついてたら\n怪しい男に呼び止められて…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB050:6",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "怪しい男って?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB050:8",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "見るからに怪しい男だったッスよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB050:9",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "妖術とか使いそうな感じッス",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB050:11",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "妖術だア?\nンなモン、使うわけねーだろうが！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB050:13",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "使ったッスよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB050:14",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "カメラ貸せって言うから貸してあげたら\nいきなりケムリがボワンってなって…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB050:16",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "…消えちゃったの?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB050:18",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "消えたッス！\nちゃんと見てたから、間違いないッス！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB050:20",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "ま、この場所ならあり得なくもねーか…\nタネはありそうだがな?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB050:21",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "よし、行くとするか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB050:23",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "じゃあ、杏ちゃんは\nHONKYTONKで待っててね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB57C:1",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "じゃ、聞き込みから始めよっか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB57C:3",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "そうだな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB57C:4",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "ところで、\nここいらにゃ手癖の悪ィガキが多い…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB57C:5",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "いつ襲われてもおかしくねーからな…\n気ィ引き締めてけよ、銀次ィ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB6D8:1",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "あれっ、いないね?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB6D8:3",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "いや、気配はある…\n出て来いや、マリーア！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB7B8:1",
+  "kind": "msg",
+  "speaker": "マリーア",
+  "jp": "ブエノスタルデス♥",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB7B8:2",
+  "kind": "msg",
+  "speaker": "マリーア",
+  "jp": "久しぶりね~\n蛮も銀次クンも♥",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB7B8:4",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "お久しぶりで~す、マリーアさん",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB7B8:6",
+  "kind": "msg",
+  "speaker": "マリーア",
+  "jp": "どうしちゃったの、蛮",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB7B8:7",
+  "kind": "msg",
+  "speaker": "マリーア",
+  "jp": "あなたがここに来るなんて\n珍しいじゃない?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB7B8:8",
+  "kind": "msg",
+  "speaker": "マリーア",
+  "jp": "探しものでもあるのかな~?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB7B8:10",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "どぉせ知ってンだろが、得意のカードで",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB7B8:12",
+  "kind": "msg",
+  "speaker": "マリーア",
+  "jp": "なによ、冷たい言い方ね~",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB7B8:13",
+  "kind": "msg",
+  "speaker": "マリーア",
+  "jp": "久しぶりに会ったんだから、\nキスの一つでもして欲しいわ♥",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB7B8:15",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "とぼけンなよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB7B8:17",
+  "kind": "msg",
+  "speaker": "マリーア",
+  "jp": "…カメラを奪った男を捜してるのね?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB7B8:19",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "さすがですね、マリーアさん！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB7B8:21",
+  "kind": "msg",
+  "speaker": "マリーア",
+  "jp": "まぁね~、ダテに長生きしてないわよ♥",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB7B8:22",
+  "kind": "msg",
+  "speaker": "マリーア",
+  "jp": "それで?　ヒントが欲しいのかしら?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB7B8:24",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "別に…いらねーよ、ヒントなんざ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB7B8:26",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "蛮ちゃんってば、\nホント素直じゃないんだから…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB7B8:27",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "素直に教えて下さいって言えばいいのに",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB7B8:29",
+  "kind": "msg",
+  "speaker": "マリーア",
+  "jp": "………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB7B8:30",
+  "kind": "msg",
+  "speaker": "マリーア",
+  "jp": "大丈夫よ、答えはあなたたちの\nすぐ近くにあるんだから",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB7B8:31",
+  "kind": "msg",
+  "speaker": "マリーア",
+  "jp": "後は自分たちの力を\nもっと信じればいいだけのことよ♥",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB7B8:33",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "自分たちの…力?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB7B8:35",
+  "kind": "msg",
+  "speaker": "マリーア",
+  "jp": "そうよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB7B8:36",
+  "kind": "msg",
+  "speaker": "マリーア",
+  "jp": "素晴らしい能力を持ってるんだから、\nそれを使わない手はないわ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB7B8:37",
+  "kind": "msg",
+  "speaker": "マリーア",
+  "jp": "二人の持つ能力を生かせば、\n自ずと道は切り開かれていくものよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB7B8:39",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "はあ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB7B8:41",
+  "kind": "msg",
+  "speaker": "マリーア",
+  "jp": "詳しく聞きたかったら、\nもう一度ここへいらっしゃい",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB7B8:42",
+  "kind": "msg",
+  "speaker": "マリーア",
+  "jp": "傷を癒してあげることもできるしね…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFB7B8:43",
+  "kind": "msg",
+  "speaker": "マリーア",
+  "jp": "がんばるのよ、二人とも♥",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFBFEC:1",
+  "kind": "msg",
+  "speaker": "吉良",
+  "jp": "ボンジョールノ！！\n妖術師、吉良の骨董屋へようこそ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFBFEC:3",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "(うわっ…見た目もかなり怪しいね~)",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFBFEC:5",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "(どう見てもマトモじゃねえな…)",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFBFEC:6",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "ちっと聞きてぇことがあんだがな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFBFEC:8",
+  "kind": "msg",
+  "speaker": "吉良",
+  "jp": "なんなりと申してみたまえ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFBFEC:9",
+  "kind": "msg",
+  "speaker": "吉良",
+  "jp": "キミが知りたいのは自分の未来かな?\nそれとも他人の秘密なのかな?　ん?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFBFEC:11",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "ンなことよりカメラのことを聞きてぇな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFBFEC:12",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "アンタが奪ったカメラのことだ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFBFEC:14",
+  "kind": "msg",
+  "speaker": "吉良",
+  "jp": "マンマ・ミーア！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFBFEC:15",
+  "kind": "msg",
+  "speaker": "吉良",
+  "jp": "失敬だな、キミたちは…\nいきなり入ってきて人を泥棒扱いとはね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFBFEC:17",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "ハッ！　泥棒のくせしてよく言うぜ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFBFEC:19",
+  "kind": "msg",
+  "speaker": "吉良",
+  "jp": "いいかい?　あのカメラはね、\n普通のカメラじゃないんだよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFBFEC:20",
+  "kind": "msg",
+  "speaker": "吉良",
+  "jp": "然るべき資格の持ち主が所有するべきだ\nトゥット・キアーロ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFBFEC:22",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "えっ、な、何語！?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFBFEC:23",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "蛮ちゃ~ん、分かんないよー…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFBFEC:25",
+  "kind": "msg",
+  "speaker": "吉良",
+  "jp": "ああ、すまないね…\n私はイタリア人ハーフなものだから",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFBFEC:26",
+  "kind": "msg",
+  "speaker": "吉良",
+  "jp": "今のはね、キミたちみたいな凡人に\n理解できるかな?　という意味だよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFBFEC:28",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "話し合いの余地もなさそうだな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFBFEC:29",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "こうなったら力づくで…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFBFEC:31",
+  "kind": "msg",
+  "speaker": "吉良",
+  "jp": "フフフ…それはどうかな?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFBFEC:32",
+  "kind": "msg",
+  "speaker": "吉良",
+  "jp": "キミたち、私が妖術師だということを\nお忘れなんじゃないかな?　どうかね?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFBFEC:34",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "ええ、まあ…\nちょっと忘れてましたけど…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFBFEC:36",
+  "kind": "msg",
+  "speaker": "吉良",
+  "jp": "私の妖術に驚いた時、私は消えているよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFBFEC:37",
+  "kind": "msg",
+  "speaker": "吉良",
+  "jp": "それでは…チャオ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFC774:1",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "き、消えた！\n本物の妖術師だ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFC774:3",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "アホか！　煙幕で目ェくらまして、\nその隙に地下に逃げただけじゃねーか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFC774:4",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "追うぞ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFC8E4:1",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "暗くてよく見えねえな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFC8E4:3",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "んあ~、\n電気のスイッチ押しても点かないよ~…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFC8E4:5",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "ブレーカー飛ばしやがったか?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFC8E4:6",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "とりあえず電気点けるのが先決だな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFC8E4:7",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "ブレーカーでも探してみっか…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFC8E4:9",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "だね！　ブレーカーさえあれば\nオレが電気点けることもできるしね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFCA74:1",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "波児…ツケで飯食わしてくれ！\n頼む！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFCA74:3",
+  "kind": "msg",
+  "speaker": "波児",
+  "jp": "なんだ夏実ちゃんと\nレナちゃんに会わなかったのか?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFCA74:5",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "?　会わなかったよ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFCA74:7",
+  "kind": "msg",
+  "speaker": "ヘヴン",
+  "jp": "あの二人、アンタたちが\n飢え死に寸前だって聞いたから",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFCA74:8",
+  "kind": "msg",
+  "speaker": "ヘヴン",
+  "jp": "食べ物持って占い横町に向かったのよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFCA74:10",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "わー、優しいな~\n夏実ちゃんもレナちゃんも！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFCA74:12",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "オメーもちったあ見習え！　ヘヴン！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFCA74:14",
+  "kind": "msg",
+  "speaker": "ヘヴン",
+  "jp": "なんで私がアンタたちに\n優しくしなきゃならないのよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFCA74:15",
+  "kind": "msg",
+  "speaker": "ヘヴン",
+  "jp": "それにあの二人だって\nレスキュー気分で行ってるんですからね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFCA74:16",
+  "kind": "msg",
+  "speaker": "ヘヴン",
+  "jp": "好奇心よ、好奇心！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFCA74:18",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "ま、どっちだっていいけどな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFCA74:20",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "ねえ、蛮ちゃん！\n夏実ちゃんたち探しに行こうよ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFCA74:22",
+  "kind": "msg",
+  "speaker": "波児",
+  "jp": "お前ら…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFCA74:23",
+  "kind": "msg",
+  "speaker": "波児",
+  "jp": "言っとくが、その食べ物はツケだからな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFCA74:26",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "や、やっぱり…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD0B4:1",
+  "kind": "msg",
+  "speaker": "夏実",
+  "jp": "あっ！　蛮さん、銀次さん！！\n無事だったんですね~",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD0B4:3",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "夏実ちゃ~ん、レナちゃ~~ん！！\n食べ物持ってきてくれたんだって！?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD0B4:5",
+  "kind": "msg",
+  "speaker": "レナ",
+  "jp": "そうなんです！　この特製サンドイッチ\n二人でがんばって作ったんですよ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD0B4:7",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "ン?　…特製！?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD0B4:9",
+  "kind": "msg",
+  "speaker": "夏実",
+  "jp": "はい、体力がつきそうなものが\n色々入ってるんですよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD0B4:11",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "わ~…おいしそ~う…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD0B4:13",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD0B4:14",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "(明らかに食いモンに\n見えねーモンがあるが…)",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD0B4:17",
+  "kind": "msg",
+  "speaker": "夏実",
+  "jp": "早く食べて下さい！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD51C:0",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "夏実のサンドイッチ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD51C:1",
+  "kind": "choice",
+  "speaker": "",
+  "jp": "レナのサンドイッチ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD51C:2",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "どっちのサンドイッチを食べる?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD5C0:1",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "わ~い、いっただきま~す！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD5C0:4",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "モグモグモグ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD5C0:6",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "ん！　おいしいね、コレ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD5C0:8",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "こりゃ十分、合格点だな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD5C0:10",
+  "kind": "msg",
+  "speaker": "夏実",
+  "jp": "わー、ありがとうございまーす！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD7A4:1",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "いっ、いただきま~す…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD7A4:4",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "モグモグモグ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD7A4:6",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "………グハッ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD7A4:8",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "…オ、オエエエエッ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD7A4:9",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "ンだこりゃ、俺たちを殺す気か！?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD7A4:11",
+  "kind": "msg",
+  "speaker": "レナ",
+  "jp": "ダメ…なんですね………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD7A4:13",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "ダメに決まってンだろうが！\nダイオキシンみてぇな味すンぞ！?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD7A4:15",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "蛮ちゃん…\nダイオキシン食べたことあんの?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD7A4:17",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "体に悪そうな味がするってことだよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD7A4:19",
+  "kind": "msg",
+  "speaker": "レナ",
+  "jp": "そうですか…やっぱり私なんて\nいなくなった方がマシなんですよね…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD7A4:21",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "そ、そんなことないって！\nおいしいよね、蛮ちゃん?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD7A4:23",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "…お、おうよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFD7A4:25",
+  "kind": "msg",
+  "speaker": "レナ",
+  "jp": "あ、ありがとうございます！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFDD40:1",
+  "kind": "msg",
+  "speaker": "JキッズA",
+  "jp": "おっ、キミたち可愛いね~\nどうよ、これから遊びに行かない?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFDD40:3",
+  "kind": "msg",
+  "speaker": "夏実",
+  "jp": "バイト中なんでダメです\n帰ろ、レナちゃん",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFDD40:5",
+  "kind": "msg",
+  "speaker": "JキッズB",
+  "jp": "バイトなんてサボればいいじゃん、な！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFDD40:7",
+  "kind": "msg",
+  "speaker": "レナ",
+  "jp": "ヤダ！　ちょっとヤメて下さい！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFDE94:1",
+  "kind": "msg",
+  "speaker": "JキッズC",
+  "jp": "なんだよ、アンタら…\n関係ないならどいてて欲しいんだけど?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFDE94:3",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "そういうワケにもいかないよ！\nね、蛮ちゃん?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFDE94:5",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "ま、飯の恩もあるしな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFDE94:7",
+  "kind": "msg",
+  "speaker": "JキッズA",
+  "jp": "へえ、保護者ヅラかよ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFDE94:8",
+  "kind": "msg",
+  "speaker": "JキッズA",
+  "jp": "そういうウルサイのには\nここで消えてもらわないとな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE01C:1",
+  "kind": "msg",
+  "speaker": "夏実",
+  "jp": "蛮さん、銀次さん！\n大丈夫ですか！?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE01C:3",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "こんなの平気、平気！\n夏実ちゃんのサンドイッチのおかげだね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE01C:5",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "腹へってちゃパワー出ねえしな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE01C:7",
+  "kind": "msg",
+  "speaker": "夏実",
+  "jp": "じゃあ、私たちはそろそろ帰りますね\nお仕事ガンバって下さいね♥",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE20C:1",
+  "kind": "msg",
+  "speaker": "レナ",
+  "jp": "あ、あの…大丈夫ですか?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE20C:3",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "う~ん、大丈夫っていうか、\n大丈夫じゃないっていうか…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE20C:5",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "やけに破壊力のある\nサンドイッチだったからな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE20C:7",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "…あれ?\nでもなんかパワーみなぎってきたよ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE3C8:1",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "な、なんだ?\n後から効いてきやがったぞ！?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE3C8:3",
+  "kind": "msg",
+  "speaker": "レナ",
+  "jp": "ええ、体に良さそうなものを\n色々と入れておきましたから！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE3C8:5",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "(色々と…?)",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE3C8:7",
+  "kind": "msg",
+  "speaker": "レナ",
+  "jp": "そろそろお店に戻りますね\nじゃあ、ガンバって下さいね♥",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE5A4:1",
+  "kind": "msg",
+  "speaker": "吉良",
+  "jp": "オー・ディオ！\nあきらめが悪い人ってのはタチが悪いね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE5A4:3",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "それはテメーだろうが?\nさっさと観念してカメラを渡しな?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE5A4:5",
+  "kind": "msg",
+  "speaker": "吉良",
+  "jp": "どうしてこの私がキミたちなんかに\n観念しなくちゃならないのかな?　ん?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE5A4:7",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "蛮ちゃん…\nオレ、この人苦手なんだけど…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE5A4:9",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "ムリにイタリア語使おうとする辺りも\n頭にくるしな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE5A4:10",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "こうなったら力づくでだな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE5A4:12",
+  "kind": "msg",
+  "speaker": "吉良",
+  "jp": "ほほう、かかってくるかね?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE5A4:13",
+  "kind": "msg",
+  "speaker": "吉良",
+  "jp": "まあお相手してあげなくもないがね?\n私の得意な妖術でね！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE8E8:1",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "悪夢は見れたかよ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE8E8:3",
+  "kind": "msg",
+  "speaker": "吉良",
+  "jp": "なっ…今のは！?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE8E8:5",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "邪眼だよ…仮にも妖術師の端くれなら\n知ってンだろうが?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE8E8:7",
+  "kind": "msg",
+  "speaker": "吉良",
+  "jp": "邪眼だと?　あの一分間の幻影を\n見せることができるという！?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE8E8:8",
+  "kind": "msg",
+  "speaker": "吉良",
+  "jp": "まさかお前は…魔女の末裔！?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE8E8:10",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE8E8:12",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "蛮ちゃん、カメラあったよ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE8E8:14",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "つーワケで\nカメラは奪還させてもらったぜ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE8E8:15",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "俺らは奪還屋だからな…\nあんたと戦うのが目的じゃねーんだよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFE8E8:16",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "じゃあな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFEBD4:1",
+  "kind": "msg",
+  "speaker": "吉良",
+  "jp": "待ちたまえ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFEC18:1",
+  "kind": "msg",
+  "speaker": "吉良",
+  "jp": "キミ…キミは素晴らしいよ！\nベニッシモ…実に、ね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFEC18:3",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "蛮ちゃん…あの人、蛮ちゃんを見て\n目をキラキラさせてるけど?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFEC18:5",
+  "kind": "msg",
+  "speaker": "吉良",
+  "jp": "キミの持つ魔力…欲しいねえ、それ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFEC18:6",
+  "kind": "msg",
+  "speaker": "吉良",
+  "jp": "妖術の次は魔術を習いたいんだよ…\nそうすれば最強になれるんだ、私は！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFEC18:8",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "…なンだ、そりゃ?\n最強になるだァ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFEC18:9",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "この俺から魔力を奪いたいンなら、\nそれなりの覚悟をした方がいいぜ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFEC18:11",
+  "kind": "msg",
+  "speaker": "吉良",
+  "jp": "いいだろう！\nキミを倒し、その魔力を奪ってみせよう",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFEF04:1",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "ケッ、\nやっぱインチキ妖術師だったな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFEF04:3",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "じゃ、早いとこカメラを\n杏ちゃんに届けてあげようよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFEFC0:1",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "さっすが奪還屋さんッス！\nカメラが無事で良かったッスよ~！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFEFC0:3",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "良かったね、杏ちゃん！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFEFC0:5",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "俺らはタダ働き同然だったがな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFEFC0:7",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "ねえねえ、\nそれって特別なカメラなんでしょ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFEFC0:8",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "どう特別なの?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFEFC0:10",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "うーん、それはゴクヒなんスけど…\nでもいいッス、教えてあげちゃうッス！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFEFC0:11",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "このカメラは真実を\n映し出すカメラなんッスよー",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFEFC0:13",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "真実！?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFEFC0:15",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "そっス！　例えば写した人の\n一番信頼してる人が隣に写ったりとか…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFEFC0:17",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "アホか！　写るワケねーだろうが！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFEFC0:19",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "杏のコト、疑ってるッスね?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFEFC0:20",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "…まあいつもいつも不思濤な写真が\n撮れるワケじゃないッスけど…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFEFC0:21",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "でも撮れる時は撮れるッスよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFEFC0:23",
+  "kind": "msg",
+  "speaker": "夏実",
+  "jp": "面白いね、それ！\nねえ、一枚撮ってよ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFEFC0:25",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "いいッスよ！\nさあ、並んで、並んで！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFF5D8:1",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "杏が撮った写真はすぐにあげるッス",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFF5D8:2",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "写真のデータはアイテムの\nカードの中に入ってるッスよ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFF5D8:3",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "ち・な・み・に…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFF5D8:4",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "カードはたくさんあるから今撮ったのが\n下の方に出現してる場合もあるッス",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFF5D8:5",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "写真を撮ったのに見当たらない場合は\nカーソルを下の方に送ってみるッスよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFF5D8:6",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "んじゃ、準備はいいッスかー?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFF5D8:7",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "撮るッスよー",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EFF5D8:8",
+  "kind": "msg",
+  "speaker": "杏",
+  "jp": "ハイ、カシャリンコー",
+  "en": "",
+  "status": ""
+ }
+]

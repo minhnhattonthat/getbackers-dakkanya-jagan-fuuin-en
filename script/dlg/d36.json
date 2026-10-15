@@ -1,0 +1,322 @@
+[
+ {
+  "id": "F85A70:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ウサギの尾をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F85AB4:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "マンドラゴラをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F85AFC:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "水晶玉をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F85B3C:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "インセンスをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F85B80:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "天照の面をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F85BC4:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "経正の面をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F85C08:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "頼政の面をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F85C4C:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "巴の面をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F85C8C:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "葵上の面をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F85CD0:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "天細女の面をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F85D14:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "天狗の面をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F85D58:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "松風の面をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F85D9C:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "コーヒー券をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F85DE0:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ばんぎんのMをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F85E28:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ばんひみのMをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F85E70:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ばんばねのMをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F85EB8:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ばんかづのMをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F85F00:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ばんしどのMをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F85F48:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ばんえみのMをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F85F90:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ばんじゅのMをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F85FD8:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ばんうりのMをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F86020:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ひみぎんのMをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F86068:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ばねぎんのMをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F860B0:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "かづぎんのMをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F860F8:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "しどぎんのMをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F86140:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "えみぎんのMをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F86188:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "じゅぎんのMをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F861D0:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "うりぎんのMをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F86218:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ばねひみのMをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F86260:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "かづひみのMをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F862A8:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "しどひみのMをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F862F0:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "えみひみのMをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F86338:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "じゅひみのMをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F86380:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "うりひみのMをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F863C8:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ばねかづのMをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F86410:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ばねしどのMをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F86458:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ばねえみのMをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F864A0:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ばねじゅのMをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F864E8:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ばねうりのMをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F86530:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "しどかづのMをゲット！",
+  "en": "",
+  "status": ""
+ }
+]

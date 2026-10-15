@@ -1,0 +1,370 @@
+[
+ {
+  "id": "F4840C:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "差し込む痛みで腹を押さえる",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48458:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "この良き日に二人幸あれ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F484A0:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "オレンジ色に照らされた俺",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F484E8:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "まだ責女(キミ)のこと　探してる",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48538:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "もう責女(キミ)なんか　どうでもいい",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F4858C:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "また黄身ばかり　残してる",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F485D4:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "うしろ姿　見送った",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48618:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "かしぐ思い　もう追いつけない",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48664:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "背中ごしに　ドロップキック",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F486B0:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "あっかんべーしてやった",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F486F8:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "追いかけた方がええんとちゃうの?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48754:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "お前には関係ねーよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F487A4:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "迷わなくなるまで",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F487E4:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "時間どれほど必要(いるの)か",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48830:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "納豆にはタマゴが必要だ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48878:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "ヤカンどれほど熱いのか",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F488C0:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "裏新宿　もう一度　会いたい",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F4890C:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "さ迷って　歌舞伎町",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48950:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "ネオンに気持ちが躍らされそうさ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F489A0:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "ネオンの上で踊ってみたいんだ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F489EC:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "お兄さん、よってらっしゃいな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48A38:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "眠らない町のちっぽけな俺",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48A80:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "まだ責女(キミ)のこと　願ってる",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48AD0:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "まだ責女(キミ)のこと　踊ってる",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48B20:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "また白身ばかりすすってる",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48B68:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "うしろ姿　見失った",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48BAC:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "俺の想い　もう信じられない",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48BF8:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "俺の重い?　どいてあげようか",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48C44:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "頭抱えてシュラシュシュシュ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48C90:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "みれんタラタラって感じやな~",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48CE8:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "そんなんじゃねーよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48D38:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "乱れなくなるまで",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48D78:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "もう一度探してみるのさ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48DC0:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "もう二度と探さないのさ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48E08:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "マドカは俺が絶対に守る",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48E50:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "裏新宿　いつまでも　さすらう",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48E9C:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "たそがれの摩天楼",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48EE4:1",
+  "kind": "choice",
+  "speaker": "士度",
+  "jp": "この良き日に二人幸あれ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48EE4:2",
+  "kind": "choice",
+  "speaker": "士度",
+  "jp": "差し込む痛みで腹を押さえる",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48EE4:3",
+  "kind": "choice",
+  "speaker": "士度",
+  "jp": "差し込む夕日が目に焼き付く",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48EE4:4",
+  "kind": "prompt",
+  "speaker": "士度",
+  "jp": "………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48FA4:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "オレンジ色に照らされた俺",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48FF4:1",
+  "kind": "choice",
+  "speaker": "士度",
+  "jp": "また黄身ばかり　残してる",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48FF4:2",
+  "kind": "choice",
+  "speaker": "士度",
+  "jp": "もう責女(キミ)なんか　どうでもいい",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48FF4:3",
+  "kind": "choice",
+  "speaker": "士度",
+  "jp": "まだ責女(キミ)のこと　探してる",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F48FF4:4",
+  "kind": "prompt",
+  "speaker": "士度",
+  "jp": "………",
+  "en": "",
+  "status": ""
+ }
+]

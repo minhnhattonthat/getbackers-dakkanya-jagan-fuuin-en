@@ -1,0 +1,370 @@
+[
+ {
+  "id": "F89378:1",
+  "kind": "prompt",
+  "speaker": "花月",
+  "jp": "キレイだね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89378:2",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "俊樹の舞は",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F893F8:1",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "うるせぇ、黙ってろ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89450:1",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "話し掛けんじゃねーよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F894A8:1",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "どうしたよ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F894F8:1",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "ま、後ろのことは任しときな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89558:1",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "俺がいるんだ、安心しな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F895B4:1",
+  "kind": "prompt",
+  "speaker": "士度",
+  "jp": "諦めんじゃねーぞ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F895B4:2",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "笑師！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89634:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ネタにもならへんな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8968C:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "笑いのツボが分かってへんなぁ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F896EC:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "コンビ結成せぇへん?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89744:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "お笑いチャンプ目指そか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F897A0:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "最強のお笑いコンビやな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F897FC:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "士度はんのツッコミは最高やな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89860:1",
+  "kind": "msg",
+  "speaker": "十兵衛",
+  "jp": "理解できんな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F898B8:1",
+  "kind": "msg",
+  "speaker": "十兵衛",
+  "jp": "用があるならさっさと言え",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89918:1",
+  "kind": "msg",
+  "speaker": "十兵衛",
+  "jp": "助けが必要か?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89970:1",
+  "kind": "msg",
+  "speaker": "十兵衛",
+  "jp": "協力は惜しまんぞ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F899C8:1",
+  "kind": "msg",
+  "speaker": "十兵衛",
+  "jp": "お前の背中を守ってやろう",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89A28:1",
+  "kind": "prompt",
+  "speaker": "十兵衛",
+  "jp": "花月",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89A28:2",
+  "kind": "msg",
+  "speaker": "十兵衛",
+  "jp": "お前は俺が守る",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89AA8:1",
+  "kind": "prompt",
+  "speaker": "十兵衛",
+  "jp": "俺にはお前が必要だ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89AA8:2",
+  "kind": "msg",
+  "speaker": "十兵衛",
+  "jp": "雨流",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89B2C:1",
+  "kind": "msg",
+  "speaker": "雨流",
+  "jp": "お前に用はない",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89B80:1",
+  "kind": "msg",
+  "speaker": "雨流",
+  "jp": "馴れ馴れしくするな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89BD8:1",
+  "kind": "msg",
+  "speaker": "雨流",
+  "jp": "フ…どうかしたのか?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89C30:1",
+  "kind": "msg",
+  "speaker": "雨流",
+  "jp": "力が必要であれば言ってくれ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89C90:1",
+  "kind": "msg",
+  "speaker": "雨流",
+  "jp": "居場所を見つけられたようだ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89CF0:1",
+  "kind": "msg",
+  "speaker": "雨流",
+  "jp": "お前のために力を尽くそう…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89D50:1",
+  "kind": "prompt",
+  "speaker": "雨流",
+  "jp": "共に花月を守ろう",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89D50:2",
+  "kind": "msg",
+  "speaker": "雨流",
+  "jp": "筧",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89DCC:1",
+  "kind": "msg",
+  "speaker": "弥勒",
+  "jp": "君とは話したくないんだ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89E28:1",
+  "kind": "msg",
+  "speaker": "弥勒",
+  "jp": "どうかしたのかな?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89E80:1",
+  "kind": "msg",
+  "speaker": "弥勒",
+  "jp": "君とは友達になれるかもね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89EDC:1",
+  "kind": "msg",
+  "speaker": "弥勒",
+  "jp": "君といると楽しいよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89F34:1",
+  "kind": "msg",
+  "speaker": "弥勒",
+  "jp": "親友って感じだね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89F88:1",
+  "kind": "prompt",
+  "speaker": "弥勒",
+  "jp": "君とは親友になれるかもね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F89F88:2",
+  "kind": "msg",
+  "speaker": "弥勒",
+  "jp": "銀次君",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A010:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "なにもないようだ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A048:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "あやメガをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A08C:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ヘヴピアをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A0D0:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ロンピアをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A114:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "きらグロをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A158:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "しどリスをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A19C:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "さくぬのをゲット！",
+  "en": "",
+  "status": ""
+ }
+]

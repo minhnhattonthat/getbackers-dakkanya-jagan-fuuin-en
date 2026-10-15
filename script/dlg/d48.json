@@ -1,0 +1,258 @@
+[
+ {
+  "id": "F94C54:1",
+  "kind": "bline",
+  "speaker": "蛮",
+  "jp": "喰らえ、その毒蛇の牙を以て！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F95AA8:1",
+  "kind": "bline",
+  "speaker": "蛮",
+  "jp": "喰らいやがれ！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F963B0:1",
+  "kind": "bline",
+  "speaker": "銀次",
+  "jp": "もらったぁっ！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F967D0:1",
+  "kind": "bline",
+  "speaker": "銀次",
+  "jp": "電磁スキャン！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F96BCC:1",
+  "kind": "bline",
+  "speaker": "銀次",
+  "jp": "イナズマキーック！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F96F38:1",
+  "kind": "bline",
+  "speaker": "銀次",
+  "jp": "電磁力最大！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F973B8:1",
+  "kind": "bline",
+  "speaker": "銀次",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F973B8:3",
+  "kind": "bline",
+  "speaker": "銀次",
+  "jp": "そろそろ終わりにしよう　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F984D4:1",
+  "kind": "bline",
+  "speaker": "銀次",
+  "jp": "いっけええええっ！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F98C0C:1",
+  "kind": "bline",
+  "speaker": "卑弥呼",
+  "jp": "解毒香！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F99078:1",
+  "kind": "bline",
+  "speaker": "卑弥呼",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F99078:3",
+  "kind": "bline",
+  "speaker": "卑弥呼",
+  "jp": "傀儡香！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F99428:1",
+  "kind": "bline",
+  "speaker": "卑弥呼",
+  "jp": "回復香！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F99774:1",
+  "kind": "bline",
+  "speaker": "卑弥呼",
+  "jp": "火炎香！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F99BA8:1",
+  "kind": "bline",
+  "speaker": "卑弥呼",
+  "jp": "加速香！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F9A534:1",
+  "kind": "bline",
+  "speaker": "卑弥呼",
+  "jp": "覚悟はいいかしら?　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F9AC84:1",
+  "kind": "bline",
+  "speaker": "赤屍",
+  "jp": "ブラッディ・ソード　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F9B5B8:1",
+  "kind": "bline",
+  "speaker": "赤屍",
+  "jp": "ブラッディ・シールド",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F9B938:1",
+  "kind": "bline",
+  "speaker": "赤屍",
+  "jp": "ブラッディ・クロス　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F9BC18:1",
+  "kind": "bline",
+  "speaker": "赤屍",
+  "jp": "ブラッディ・レイン　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F9C0A8:1",
+  "kind": "bline",
+  "speaker": "赤屍",
+  "jp": "ブラッディ・ハリケーン　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F9CA94:1",
+  "kind": "bline",
+  "speaker": "赤屍",
+  "jp": "さあ、行きますよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F9D260:1",
+  "kind": "bline",
+  "speaker": "花月",
+  "jp": "風鳥院流絃術",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F9D260:3",
+  "kind": "bline",
+  "speaker": "花月",
+  "jp": "風鳥院流絃術　薔玉の楯　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F9D4FC:1",
+  "kind": "bline",
+  "speaker": "花月",
+  "jp": "風鳥院流絃術　秋雨　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F9D844:1",
+  "kind": "bline",
+  "speaker": "花月",
+  "jp": "風鳥院流絃術　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F9D844:3",
+  "kind": "bline",
+  "speaker": "花月",
+  "jp": "風鳥院流絃術　絃呪縛",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F9DC60:1",
+  "kind": "bline",
+  "speaker": "花月",
+  "jp": "風鳥院流絃術　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F9DC60:3",
+  "kind": "bline",
+  "speaker": "花月",
+  "jp": "風鳥院流絃術　雫",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F9E260:1",
+  "kind": "bline",
+  "speaker": "花月",
+  "jp": "風鳥院流絃術",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F9E260:3",
+  "kind": "bline",
+  "speaker": "花月",
+  "jp": "風鳥院流絃術　流星　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F9EB34:1",
+  "kind": "bline",
+  "speaker": "花月",
+  "jp": "逃げ場はないぞ　",
+  "en": "",
+  "status": ""
+ }
+]

@@ -1,0 +1,450 @@
+[
+ {
+  "id": "F4627C:1",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "あ、あれ?\nこんなとこに人面イカが飾ってあるよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F462E8:1",
+  "kind": "msg",
+  "speaker": "卑弥呼",
+  "jp": "あら、この変なイカ…\n確かマリーアさんのところにあったヤツ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46360:1",
+  "kind": "msg",
+  "speaker": "赤屍",
+  "jp": "人面のイカですか、\nなかなか興味深いですね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F463C8:1",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "なぜこんなところに\n人面イカが飾ってあるんだろう?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46438:1",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "なんだ、この変なイカは?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46488:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "なんや、これ?　人面のイカやん！\n…宇宙人ちゃうんかな~",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F464FC:1",
+  "kind": "msg",
+  "speaker": "十兵衛",
+  "jp": "なかなか神秘的なイカだな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46554:1",
+  "kind": "msg",
+  "speaker": "雨流",
+  "jp": "人面のイカだと?\nなぜこのようなものが水族館に！?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F465C0:1",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "この軟体動物が…\nこれでもくらえ~~~っ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46628:1",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "ブハハハハ！\n悪夢は見れたかよ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46628:2",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "このターコ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F466A0:1",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "クソッ、こンなとこで軟体動物なんぞに\n捕まるわけにはいかねえってのによ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F466A0:2",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "邪眼も使い果たした…ここまでか…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46750:1",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "この俺様がタコなんぞに捕まるとはな…\nったく、嫌な夢見ちまったぜ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46750:2",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "気ィ取り直していかねーとな！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46750:3",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "つっても、残る邪眼は後二回…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46750:4",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "使いどころを考えねぇとな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46844:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "『ゲットイットオン！　奪還BABY』",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F468A4:1",
+  "kind": "msg",
+  "speaker": "スタッフ",
+  "jp": "ありがとうございました♥",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F468F8:1",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "ここの部屋を仕切ってる\nトビラって電動式になってるね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F468F8:2",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "オレの電撃でどうにかできるかも！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46994:1",
+  "kind": "msg",
+  "speaker": "クレイマン",
+  "jp": "機会があったらまたお会いしよう…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F469F4:1",
+  "kind": "msg",
+  "speaker": "MAI",
+  "jp": "またお世話になっちゃったのね…\nいつもいつもゴメンなさい",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46A6C:1",
+  "kind": "choice",
+  "speaker": "士度",
+  "jp": "分かりません…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46A6C:2",
+  "kind": "choice",
+  "speaker": "士度",
+  "jp": "分かったよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46A6C:3",
+  "kind": "prompt",
+  "speaker": "士度",
+  "jp": "分かったか?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46AF8:1",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "やれやれ…まァた\nタコツボを使うはめになるとはな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46AF8:2",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "しかし前よりもツボの\n数が少なくなってやがンな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46AF8:3",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "前回以上に使い所を考えねえとな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46AF8:4",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "とりあえず、ツボを水中に入れると\n近くにいるタコを封じることができる",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46AF8:5",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "タコを封じている間に移動…\nカギの場所まで汕り着くのが目的だ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46AF8:6",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "よし…行くぞ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46C8C:1",
+  "kind": "choice",
+  "speaker": "蛮",
+  "jp": "分かりません…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46C8C:2",
+  "kind": "choice",
+  "speaker": "蛮",
+  "jp": "分かったよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46C8C:3",
+  "kind": "prompt",
+  "speaker": "蛮",
+  "jp": "分かったかよ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46D1C:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "ごきげんいかが　マイ・ベイビー",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46D6C:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "これでいいのさ！　トゥルー・ラブ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46DBC:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "やるせないのに　ロンリーウルフ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46E0C:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "こそばゆいから　ヘルプミー",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46E58:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "走り出せ！　俺たちの明日へ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46EA4:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "燃え上がる魂を感じて欲しいのさ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46EF4:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "ノンストップな　恋の炎を",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46F3C:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "転んでも　ただでは起きないぜ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46F88:1",
+  "kind": "bline",
+  "speaker": "気絶しちゃうなよ",
+  "jp": "レット・イット・ライド　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F46FE4:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "ブレーキかけたら青春はジ・エンド",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47034:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "ステーキ食べたら空腹はジ・エンド",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47084:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "雑草のように生き延びてやる",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F470D0:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "ゴールは見えなくてもOK！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F4711C:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "ハグしてキスしてシェイキン×2",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F4716C:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "恋する魔法はマジカルスネーク",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F471B8:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "ハッとしてグッときてパンチ×3",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47208:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "奪還ベイビー　だって好きなんだもん！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F4725C:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "ゲットバッカーズ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F4725C:1",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "この依頼、確かに引き受けた！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F472E4:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "はじけているの?　スィート・ハート",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F47338:0",
+  "kind": "prompt",
+  "speaker": "",
+  "jp": "今夜はゼッタイ！　オールナイト",
+  "en": "",
+  "status": ""
+ }
+]

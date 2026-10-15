@@ -1,0 +1,2170 @@
+[
+ {
+  "id": "F22900:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "カバンの中でものぞいてみましょか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22900:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "………で?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22900:5",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "化粧品やら小物がワラワラと…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22900:6",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "特に情報になりそなモンはあらへんな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F229F4:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "こら仕事用のメモやな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F229F4:2",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "んん~、難しいこと書いてあって\nワケ分からんわ~",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F229F4:4",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "特に収穫はナシか…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22AB4:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "カレンダーやな…\nおっ、なにやら書き込みが",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22AB4:2",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "○月○日\nハワイでデート♥",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22AB4:3",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "なんや、エエなあ\n士度はん、ワイらもハワイ行かへん?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22AB4:4",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "青い海！　白い砂浜！！\nプルルン水着ギャル満載でっせ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22AB4:6",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "行かねえよ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22BF8:1",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "おい、起きろ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22BF8:2",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "起きろって！！！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22BF8:4",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "ZZZ…ZZZ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22BF8:6",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22CB8:1",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "おい、声紋についてなんか知らねぇか?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22CB8:3",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "ZZZ…ZZZ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22CB8:5",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "おい、起きろ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22CB8:7",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "ZZZ…ったく…うるせーなあ…\nZZZ…なンだってんだよ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22CB8:9",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "声紋だよ、声紋！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22CB8:11",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "ZZZ…ンなモン、ハムスターに\nしゃべらせりゃいいんだよ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22CB8:13",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "ハムスター?\n人間の声紋じゃないのか！?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22CB8:15",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "ZZZ…登録はハムスターで…\nされてるハズだぜ…ZZZ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22CB8:17",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "…寝ぼけてんじゃねぇだろうな?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22CB8:19",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "ZZZ…俺様を…ナメんじゃねーよ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22CB8:20",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "ZZZ…ハムん中で…\n一匹だけ他と違う感じのがいんだよ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22CB8:21",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "ZZZ…そいつが…\n登録されてるハムスターだ…ZZZ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22CB8:23",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "で、そのハムスターって\nのはどこにいんだ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22CB8:25",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "Hルームにいるはずだぜ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22CB8:26",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "ZZZ…分かったらもう\n俺様の眠りを妨げンじゃねえ…ZZZ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22CB8:28",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22CB8:30",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "なんやて、士度はん?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22CB8:32",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "どうも声紋の持ち主は\nハムスターらしいな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F22CB8:34",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "じゃあ、\nそのハムスターを探してみよう！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F231EC:1",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "おい、Sルームの\n暗号について知らねえか?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F231EC:3",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "知らねえよ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F231EC:4",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "悪いが俺様は眠いんだ\nほっといてくれ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F231EC:5",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "なんか情報が知りてえんならな\n情報室へ行けってんだ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F231EC:7",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "情報室?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F231EC:9",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "そんなことも知らねえのかよ…\nCルームが情報室だぜ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F233D8:1",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "あン?\nなんか忘れたことでもあンのかよ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F233D8:2",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "しゃーねえな…もう一回言っとくぞ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F233D8:3",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "フロアの通路を塞ぐ隔壁は\n小部屋内のパソコンから解除できるぜ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F233D8:4",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "閲まってる小部屋のトビラを\n開けるには、それぞれIDパスが必要だ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F233D8:5",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "他になんか問題に\nぶつかったら俺様ンとこに来いや",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F233D8:6",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "有料で教えてやっからよ！\nブハハハハハ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F235CC:1",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "…お前、赤外線を\n感知することができるよな?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F235CC:3",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "あン?　まあ、\n俺様には第三の目があるからな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F235CC:4",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "で、それがどうしたって?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F235CC:5",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "赤外線センサーの部屋を抜けるのを\n手伝ってくれってか?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F235CC:7",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "分かってるんじゃねぇかよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F235CC:9",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "タダでやる気はねーよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F235CC:11",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "…金かよ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F235CC:13",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "金もいいが、今は腹減ってンだよな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F235CC:14",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "どっかから食べモン\n見つけてきてくんねーか?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F235CC:15",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "そうだな…\n久しぶりに卵とか丸呑みしてーなあ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F235CC:16",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "新鮮な卵をよォ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F235CC:18",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "卵?　そんなものドコにあるんだ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F235CC:20",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "ンなモン、テメーで探せ！\nと言いたいトコだが特別に教えてやるよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F235CC:21",
+  "kind": "msg",
+  "speaker": "バン",
+  "jp": "卵はB2Fにあるはずだぜ\nB2Fフロアの左下側の部屋ン中にな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F235CC:23",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F235CC:25",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "なんやて、士度はん?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F235CC:27",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "卵見つけてきてくれとよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F235CC:29",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "なんや、このヘビむかつくやっちゃなあ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F235CC:30",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "美堂はんにやけに\n似とるゆうのも頭くるしなぁ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F235CC:31",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ヘビのくせして\n頭に毛ェ生やしてるてどないやねん！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F235CC:33",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "落ち着け、笑師",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F235CC:34",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "それより卵を取りに行くには\nまずあの見張りをどうにかしないとな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F235CC:36",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ん~、正面突破しかないんかな~…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F23C44:1",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "これは…卵を孵化させる装置か…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F23C44:3",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "おっ、これをあのヘビに食わせれば…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F23C44:5",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "待て！\nかえりそうにない卵を選ぶんだ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F23C44:7",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "はいな！\n…ってなんぼあんねんな、卵?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F23C44:8",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "っつーか、\nかえるかどうかどこで見分けるねん?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F23C44:9",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "あああ~、そうこう言っている間にも\n士度はんは真剣な目で卵選別中~",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F23C44:10",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "置いてけぼり~…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F23C44:11",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "卵をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F23E50:1",
+  "kind": "choice",
+  "speaker": "花月",
+  "jp": "SW32YGM24",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F23E50:2",
+  "kind": "choice",
+  "speaker": "花月",
+  "jp": "SX32YCM24",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F23E50:3",
+  "kind": "choice",
+  "speaker": "花月",
+  "jp": "SX32YGN24",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F23E50:4",
+  "kind": "choice",
+  "speaker": "花月",
+  "jp": "SX32YGM24",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F23E50:5",
+  "kind": "choice",
+  "speaker": "花月",
+  "jp": "SY32YGM24",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F23E50:6",
+  "kind": "prompt",
+  "speaker": "花月",
+  "jp": "まず一つ目の暗号ですね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F23F3C:1",
+  "kind": "choice",
+  "speaker": "花月",
+  "jp": "YBT80P4CB",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F23F3C:2",
+  "kind": "choice",
+  "speaker": "花月",
+  "jp": "YBT80P4GB",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F23F3C:3",
+  "kind": "choice",
+  "speaker": "花月",
+  "jp": "YBI80P4GB",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F23F3C:4",
+  "kind": "choice",
+  "speaker": "花月",
+  "jp": "YPI80P4GB",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F23F3C:5",
+  "kind": "choice",
+  "speaker": "花月",
+  "jp": "YBT80P4GP",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F23F3C:6",
+  "kind": "prompt",
+  "speaker": "花月",
+  "jp": "二つ目の暗号は…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24020:1",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "ロック解除されましたね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24020:3",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "あれ、トビラに\nなんか挟まってたみたいだよ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24020:4",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "IDパス2をゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F240F8:1",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "間違えてしまいましたね…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F240F8:3",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "ああ?　得意の早耳はどうしたよ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F240F8:5",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "ではご自分で\n情報収集されたらいかがですか?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F240F8:6",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "美堂くん?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F240F8:8",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "ンなコソ泥みてぇな\nマネしてられるかってんだよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F240F8:10",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "コソ泥…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F240F8:11",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F240F8:13",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "あああ…なぜかみなぎる緊張…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F242BC:1",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "ン、暗号入力せよだァ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F242BC:3",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "今までのパスワードのようには\nいかへんようやな?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F242BC:5",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "別の方法で情報を入手するしかねえか…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F242BC:7",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "別の方法ゆうたかて、\nどこに情報あるか分からへんや~ん",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F242BC:9",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "そういう時は僕の出番かな?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F242BC:11",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "おっ、さっすが早耳の花月はん！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F242BC:12",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "で、ドコ行けばエエんやろか?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F242BC:14",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "そうだね、情報の集まる部屋…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F242BC:15",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "そういうところから、\n僕が情報を引き出せるかも知れないね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F242BC:17",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "情報の集まる部屋?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F242BC:18",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "よう分からんけど、\nそういうトコ探してみよか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24598:1",
+  "kind": "msg",
+  "speaker": "???",
+  "jp": "隔壁が侵入者に\n次々と突破されているぞ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24598:2",
+  "kind": "msg",
+  "speaker": "???",
+  "jp": "大丈夫なのか?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24598:4",
+  "kind": "msg",
+  "speaker": "???",
+  "jp": "ご安心下さい",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24598:5",
+  "kind": "msg",
+  "speaker": "???",
+  "jp": "最後の隔壁を解除する\nパソコンは隠し部屋の中にあります",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24598:6",
+  "kind": "msg",
+  "speaker": "???",
+  "jp": "床のトラップも\nまず気付かれないと思います",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24598:8",
+  "kind": "msg",
+  "speaker": "???",
+  "jp": "とにかく警戒を怠るなよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24708:1",
+  "kind": "msg",
+  "speaker": "???",
+  "jp": "これ以上突破された場合は\n我々の手には負えないな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24708:3",
+  "kind": "msg",
+  "speaker": "???",
+  "jp": "あの方の力に頼る以外ありませんね…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F247C0:1",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "どうだった、カヅっちゃん?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F247C0:3",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "隠し部屋…床のトラップ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F247C0:5",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "どしたの?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F247C0:7",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "ああ、すみません",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F247C0:8",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "パソコンは隠し部屋の中に\nあるみたいんなんですが、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F247C0:9",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "隠し部屋を開くためには\n床のトラップをなんとかしないと…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24930:1",
+  "kind": "msg",
+  "speaker": "???",
+  "jp": "侵入者がセキュリティルームを\nいくつか突破している様子です",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24930:3",
+  "kind": "msg",
+  "speaker": "???",
+  "jp": "そのようだな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24930:4",
+  "kind": "msg",
+  "speaker": "???",
+  "jp": "だが例え一、ニ個は突破できても\n暗号入力から先は突破できまい",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24930:5",
+  "kind": "msg",
+  "speaker": "???",
+  "jp": "SX32YCM24\nYBT80P4GB",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24930:6",
+  "kind": "msg",
+  "speaker": "???",
+  "jp": "というものに変更してしまったからな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24930:8",
+  "kind": "msg",
+  "speaker": "???",
+  "jp": "了解\nでは、このまま待機します",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24AD4:1",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "暗号は",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24AD4:2",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "SX32YCM24\nYBT80P4GB",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24AD4:3",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "のようですね…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24B68:1",
+  "kind": "msg",
+  "speaker": "???",
+  "jp": "先ほどから侵入者が\nウロついているようです",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24B68:3",
+  "kind": "msg",
+  "speaker": "???",
+  "jp": "蛭田の息子が招き入れたか…?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24B68:4",
+  "kind": "msg",
+  "speaker": "???",
+  "jp": "セキュリティルームを\n全て突破される前に追い返せ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24B68:6",
+  "kind": "msg",
+  "speaker": "???",
+  "jp": "了解",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24C7C:1",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "冬木士度",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24C7C:2",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "風鳥院花月",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24C7C:3",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "天野銀次",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24C7C:4",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "笑師春樹",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24C7C:5",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "筧十兵衛",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24C7C:6",
+  "kind": "prompt",
+  "speaker": "銀次",
+  "jp": "えーと、まずは名前だよね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24D30:1",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "ア、アレ?　違うの！?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24D30:3",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "チッ、諌み誤ったか…?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24DB8:1",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "1月1日",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24DB8:2",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "5月16日",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24DB8:3",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "8月12日",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24DB8:4",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "8月21日",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24DB8:5",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "4月19日",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24DB8:6",
+  "kind": "prompt",
+  "speaker": "銀次",
+  "jp": "次に誕生日…っと",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24E70:1",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "うーん…合ってると思ったのになあ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24E70:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "もう少し情報集めた方がいいかもな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24F0C:1",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "176cm",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24F0C:2",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "186cm",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24F0C:3",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "180cm",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24F0C:4",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "160cm",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24F0C:5",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "182cm",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24F0C:6",
+  "kind": "prompt",
+  "speaker": "銀次",
+  "jp": "身長も入れなきゃなんないの?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24FD4:1",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "んあ~、\n分かんなくなってきちゃった…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F24FD4:3",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "銀次さん、落ち着いて…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2506C:1",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "58kg",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2506C:2",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "72kg",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2506C:3",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "70kg",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2506C:4",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "62kg",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2506C:5",
+  "kind": "choice",
+  "speaker": "銀次",
+  "jp": "82kg",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2506C:6",
+  "kind": "prompt",
+  "speaker": "銀次",
+  "jp": "これで最後！　体重だ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2511C:1",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "う、う~ん………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2511C:3",
+  "kind": "msg",
+  "speaker": "卑弥呼",
+  "jp": "ちょっと、しっかりしなさいよ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F251A8:1",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "わーい、アクセス成功！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F251A8:2",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "このパソコンからだと\n隔壁3が解除できるみたいだよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F251A8:4",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "よっしゃ、解除してくれや",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F251A8:6",
+  "kind": "msg",
+  "speaker": "卑弥呼",
+  "jp": "それにしても、コイツの身長や体重が\nパスワードになってるってどうなの?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F251A8:7",
+  "kind": "msg",
+  "speaker": "卑弥呼",
+  "jp": "なんか気持ち悪いわ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F251A8:9",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "そ、そんな目で見なくても…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F251A8:10",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "隔壁3を解除した！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25368:1",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ここもパスワードが必要みたいやな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25368:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "部屋ン中を探ってみるか…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F253F8:1",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "あ、テレビ雑誌だ！\n今晩はなにがやってるのかな~",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F253F8:3",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "やめとけ…どうせ調べたところで\nテレビなんぞ見れやしねーんだからな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F253F8:5",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "うん…それもそうだね………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25508:1",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "これは…機械工学の資料みたいだね\nすごく高度で専門的な資料だよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25508:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "まあロボット作ってるくれぇだからな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25508:4",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "で、なんか情報はありそうなのかよ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25508:6",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "特にはなさそうだね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25508:8",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "なかなか見つかりませんなあ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25664:1",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "…資料の一つに\n写真が挟まっていますね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25664:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "写真が?　なんのだよ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25664:4",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25664:6",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "どうしたの、黙っちゃって?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25664:8",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "これは俺たちの昔の写真だな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25664:10",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ホンマやな\n昔のVOLTSメンバーやん",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25664:11",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "これまた見事に勢ぞろいしてますなあ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25664:13",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "なんでこんな写真があるんだろ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25664:15",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "どうしてでしょうね?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2587C:1",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "あれ…これって\nVOLTSのジャケットじゃない?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2587C:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "…なんでこんなもの持ってんだ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2587C:5",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ジュニアのもんやし、\nVOLTSのファンとかかいな?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F2587C:7",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "かも知れないね…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F259B0:1",
+  "kind": "msg",
+  "speaker": "卑弥呼",
+  "jp": "ただ仕事の予定が書いてあるだけね…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F259B0:3",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "情報はなしか…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25A40:1",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "あれ、\nこんなとこにカギが挟まってるよ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25A40:3",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "これは…机のカギみたいですね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25A40:5",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "机か…\nなにかありそうではあるな?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25B28:1",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "あ?\n引き出しにカギがかかってんンな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25B28:3",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "う~ん、開かないね~",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:1",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "このカギで引き出しを\n調べることができますね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:3",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "どうだ、なにかあったか?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:5",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "古い手帳が出てきたよ\n諌んでみようか…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:6",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "今日、あの人に\n危ないところを救ってもらった",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:7",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "無限城での生活に\n希望がもてるような気がしてきた…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:9",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "あの人?　無限城！?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:11",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "誰なんでしょうね?\n先を諌んでみましょうか…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:12",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "あの人がVOLTSに\n属していることが分かった",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:13",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "それもかなり上の位に\nついているみたいだ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:15",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "上の位っちゅーと\n四天王クラスかいな?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:17",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "四天王かあるいは四天王に\n匹敵する強さをもっているか…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:18",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "先を諌んでみようか",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:19",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "無限城にいるせいか、\nあの人があまり笑うことはない",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:20",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "いつも険しい表情を\nしているのが気になる…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:22",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "とりあえず笑師が消えたな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:24",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "な、なんでやねん！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:25",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ワイかてVOLTS時代は\nそれなりに真剣にー…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:26",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ただ場をなごまそうと\nガンバッてただけやんか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:27",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "顔で笑って心で泣いてやんか！\n浪花節やっちゅー話やんか！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:29",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "まあまあ…\n別に笑師がダメってことじゃないから",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:30",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "先を諌んでみよう",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:31",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "あの人は沢山の人に囲まれているのに\nいつも悲しそうに見える…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:33",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "これで俺が消えたな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:35",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ん~、人に囲まれていたとなると\nだいぶしぼられてきた感じやな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:37",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "えっ、誰！?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:39",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "お前か、花月のどっちかじゃねえか?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:41",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "えー?　そ、そうかな~…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:42",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "でも笑師も完全に\n消えたわけじゃないし…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:44",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "それに十兵衛はんかも知れんしな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:45",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "ん~、はっきりせんなあ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:47",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "そうだね…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:48",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "先を諌んでみようか…\nといってもこれで最後みたいだね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:49",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "今日、\nあの人が無限城を去ってしまった…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:50",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "自分もこれを機に無限城を去ろう…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:51",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "これで終わっているね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:53",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:55",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "………",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:57",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "な、なんでオレを見るの！?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:59",
+  "kind": "msg",
+  "speaker": "士度",
+  "jp": "いや、別に…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:61",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "なんとなく分かってきたなあ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F25BBC:62",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "そろそろ入力してみましょか！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F26524:1",
+  "kind": "msg",
+  "speaker": "蛮",
+  "jp": "ンだよ、しけたカバンだな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F26524:3",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "う~ん、なんにもないねー…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F265B4:1",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "おや…こんなところに\nプロフィールが書いてありますね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F265B4:3",
+  "kind": "msg",
+  "speaker": "銀次",
+  "jp": "えっ、誰の?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F265B4:5",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "VOLTSメンバーのものですね",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F265B4:7",
+  "kind": "msg",
+  "speaker": "笑師",
+  "jp": "よっぽどのファンなんやなあ~",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F265B4:9",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "まずは銀次さんから…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F265B4:10",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "4月19日生まれ\n新おひつじ座　O型",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F265B4:11",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "身長…176cm\n体重…62kg",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F265B4:12",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "次に士度…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F265B4:13",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "8月12日生まれ\n新しし座　A型",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F265B4:14",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "身長…182cm\n体重…72kg",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F265B4:15",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "次は僕か…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F265B4:16",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "1月1日生まれ\n新いて座　AB型",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F265B4:17",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "身長…176cm\n体重…59kg",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F265B4:18",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "次は十兵衛…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F265B4:19",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "8月21日生まれ\n新しし座　A型",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F265B4:20",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "身長…180cm\n体重…82kg",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F265B4:21",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "次に笑師…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F265B4:22",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "5月16日生まれ\n新おうし座　O型",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F265B4:23",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "身長…178cm\n体重…70kg",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F265B4:24",
+  "kind": "msg",
+  "speaker": "花月",
+  "jp": "書いてあるのはここまでだね",
+  "en": "",
+  "status": ""
+ }
+]

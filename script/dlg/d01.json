@@ -1,0 +1,562 @@
+[
+ {
+  "id": "EE43B8:1",
+  "kind": "bline",
+  "speaker": "K(六面豪鬼)",
+  "jp": "オアアァァアア！！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE4C00:1",
+  "kind": "bline",
+  "speaker": "鏡　形而",
+  "jp": "死は苦痛ではないよ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE50E0:1",
+  "kind": "bline",
+  "speaker": "鏡　形而",
+  "jp": "危険…だね、キミは　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE5380:1",
+  "kind": "bline",
+  "speaker": "鏡　形而",
+  "jp": "ダイヤモンド・ダスト",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE5A78:1",
+  "kind": "bline",
+  "speaker": "ジャンクキッズ",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE5A78:3",
+  "kind": "bline",
+  "speaker": "ジャンクキッズ",
+  "jp": "オラァッ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE5B60:1",
+  "kind": "bline",
+  "speaker": "ジャンクキッズ",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE5B60:3",
+  "kind": "bline",
+  "speaker": "ジャンクキッズ",
+  "jp": "オラァッ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE5C48:1",
+  "kind": "bline",
+  "speaker": "武道家くずれ",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE5C48:3",
+  "kind": "bline",
+  "speaker": "武道家くずれ",
+  "jp": "ホワタァ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE5D60:1",
+  "kind": "bline",
+  "speaker": "武道家くずれ",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE5D60:3",
+  "kind": "bline",
+  "speaker": "武道家くずれ",
+  "jp": "ホワタァ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE5E78:1",
+  "kind": "bline",
+  "speaker": "トンファーファイター",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE5E78:3",
+  "kind": "bline",
+  "speaker": "トンファーファイター",
+  "jp": "受けてみるかい?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE5F74:1",
+  "kind": "bline",
+  "speaker": "巨大たれ銀次",
+  "jp": "いくよ　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE6160:1",
+  "kind": "bline",
+  "speaker": "巨大たれ銀次",
+  "jp": "ウキュ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE6434:1",
+  "kind": "bline",
+  "speaker": "巨大たれ銀次",
+  "jp": "わーい、わーい！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE6434:3",
+  "kind": "bline",
+  "speaker": "巨大たれ銀次",
+  "jp": "わーいわーい",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE69C8:1",
+  "kind": "bline",
+  "speaker": "巨大たれ銀次",
+  "jp": "ウキュ~…　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE69C8:3",
+  "kind": "bline",
+  "speaker": "巨大たれ銀次",
+  "jp": "んあ~、お腹すいた~",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE702C:1",
+  "kind": "bline",
+  "speaker": "トンファーファイター",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE702C:3",
+  "kind": "bline",
+  "speaker": "トンファーファイター",
+  "jp": "受けてみるかい?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE7128:1",
+  "kind": "bline",
+  "speaker": "シークレットサービス",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE7128:3",
+  "kind": "bline",
+  "speaker": "シークレットサービス",
+  "jp": "これでも食らいな！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE724C:1",
+  "kind": "bline",
+  "speaker": "ボディーガード",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE724C:3",
+  "kind": "bline",
+  "speaker": "ボディーガード",
+  "jp": "こいつで吹き飛べ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE7360:1",
+  "kind": "bline",
+  "speaker": "スナイパー",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE7360:3",
+  "kind": "bline",
+  "speaker": "スナイパー",
+  "jp": "ハチの巣にしてやるよっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE74AC:1",
+  "kind": "bline",
+  "speaker": "黒服",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE74AC:3",
+  "kind": "bline",
+  "speaker": "黒服",
+  "jp": "避けられると思うなよ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE75F0:1",
+  "kind": "bline",
+  "speaker": "壊し屋",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE75F0:3",
+  "kind": "bline",
+  "speaker": "壊し屋",
+  "jp": "グハハハハハハッ！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE76C8:1",
+  "kind": "bline",
+  "speaker": "デストロイヤー",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE76C8:3",
+  "kind": "bline",
+  "speaker": "デストロイヤー",
+  "jp": "邪魔だっ！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE77A8:1",
+  "kind": "bline",
+  "speaker": "警備員",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE77A8:3",
+  "kind": "bline",
+  "speaker": "警備員",
+  "jp": "喰らえっ！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE7880:1",
+  "kind": "bline",
+  "speaker": "キャリア警備員",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE7880:3",
+  "kind": "bline",
+  "speaker": "キャリア警備員",
+  "jp": "せああぁっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE7968:1",
+  "kind": "bline",
+  "speaker": "ガードマン",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE7968:3",
+  "kind": "bline",
+  "speaker": "ガードマン",
+  "jp": "このスタンガンを喰らえ！！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE7A44:1",
+  "kind": "bline",
+  "speaker": "上級ガードマン",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE7A44:3",
+  "kind": "bline",
+  "speaker": "上級ガードマン",
+  "jp": "シビれちまいな！！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE7B20:1",
+  "kind": "bline",
+  "speaker": "毒薬研究員",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE7B20:3",
+  "kind": "bline",
+  "speaker": "毒薬研究員",
+  "jp": "ウヒヒヒヒッ！　実験、実験~！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE7C00:1",
+  "kind": "bline",
+  "speaker": "劇薬開発員",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE7C00:3",
+  "kind": "bline",
+  "speaker": "劇薬開発員",
+  "jp": "どんな反応が出るかな~?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE7CD8:1",
+  "kind": "bline",
+  "speaker": "銃器発明家",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE7CD8:3",
+  "kind": "bline",
+  "speaker": "銃器発明家",
+  "jp": "ワシの発明品の威力を見よっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE7DB4:1",
+  "kind": "bline",
+  "speaker": "凶器発明家",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE7DB4:3",
+  "kind": "bline",
+  "speaker": "凶器発明家",
+  "jp": "これが今世紀最大の発明品だ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE7E90:1",
+  "kind": "bline",
+  "speaker": "ソルジャー",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE7E90:3",
+  "kind": "bline",
+  "speaker": "ソルジャー",
+  "jp": "ターゲット、ロック！！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE8018:1",
+  "kind": "bline",
+  "speaker": "アサシン",
+  "jp": "……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE8018:3",
+  "kind": "bline",
+  "speaker": "アサシン",
+  "jp": "……",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE818C:1",
+  "kind": "bline",
+  "speaker": "イエローアーミー",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE818C:3",
+  "kind": "bline",
+  "speaker": "イエローアーミー",
+  "jp": "切り刻んでやるっ！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE8270:1",
+  "kind": "bline",
+  "speaker": "グリーンベレー",
+  "jp": "",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE8270:3",
+  "kind": "bline",
+  "speaker": "グリーンベレー",
+  "jp": "俺の攻撃が避けられるか?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE834C:1",
+  "kind": "bline",
+  "speaker": "下忍",
+  "jp": "覚悟！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE83F0:1",
+  "kind": "bline",
+  "speaker": "上忍",
+  "jp": "参る…！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE8498:1",
+  "kind": "bline",
+  "speaker": "隠密",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE8498:3",
+  "kind": "bline",
+  "speaker": "隠密",
+  "jp": "受けてみよっ！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE865C:1",
+  "kind": "bline",
+  "speaker": "ニンジャマスター",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE865C:3",
+  "kind": "bline",
+  "speaker": "ニンジャマスター",
+  "jp": "お命頂戴！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE8834:1",
+  "kind": "bline",
+  "speaker": "スーパーエリート",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE8834:3",
+  "kind": "bline",
+  "speaker": "スーパーエリート",
+  "jp": "ジュテーム…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE8910:1",
+  "kind": "bline",
+  "speaker": "ナルシストエリート",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE8910:3",
+  "kind": "bline",
+  "speaker": "ナルシストエリート",
+  "jp": "ボクの美しい攻撃がかわせるかな?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE8A00:1",
+  "kind": "bline",
+  "speaker": "特殊兵器隊員",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE8A00:3",
+  "kind": "bline",
+  "speaker": "特殊兵器隊員",
+  "jp": "新兵器の餌食になりな！！",
+  "en": "",
+  "status": ""
+ }
+]

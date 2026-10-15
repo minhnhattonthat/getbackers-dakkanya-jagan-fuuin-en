@@ -1,0 +1,498 @@
+[
+ {
+  "id": "EECF74:1",
+  "kind": "bline",
+  "speaker": "山姥",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EECF74:3",
+  "kind": "bline",
+  "speaker": "山姥",
+  "jp": "お前の魂を喰わせろぉっ！！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EED044:1",
+  "kind": "bline",
+  "speaker": "山姥",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EED044:3",
+  "kind": "bline",
+  "speaker": "山姥",
+  "jp": "ひさびさに血の味が楽しめそうじゃ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EED148:1",
+  "kind": "bline",
+  "speaker": "獅子",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EED148:3",
+  "kind": "bline",
+  "speaker": "獅子",
+  "jp": "ガルルルッ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EED208:1",
+  "kind": "bline",
+  "speaker": "獅子",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EED208:3",
+  "kind": "bline",
+  "speaker": "獅子",
+  "jp": "グアアアァッ！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EED2FC:1",
+  "kind": "bline",
+  "speaker": "獅子",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EED2FC:3",
+  "kind": "bline",
+  "speaker": "獅子",
+  "jp": "アオーーーーン！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EED37C:1",
+  "kind": "bline",
+  "speaker": "猩々",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EED37C:3",
+  "kind": "bline",
+  "speaker": "猩々",
+  "jp": "ウィー、ヒック！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EED440:1",
+  "kind": "bline",
+  "speaker": "猩々",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EED440:3",
+  "kind": "bline",
+  "speaker": "猩々",
+  "jp": "おっとっと！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EED50C:1",
+  "kind": "bline",
+  "speaker": "猩々",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EED50C:3",
+  "kind": "bline",
+  "speaker": "猩々",
+  "jp": "お前さんも一杯やるかい?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EED830:1",
+  "kind": "bline",
+  "speaker": "吉良　利信",
+  "jp": "ペルメッソ　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEDE78:1",
+  "kind": "bline",
+  "speaker": "吉良　利信",
+  "jp": "アッリヴェデェルチ　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEE304:1",
+  "kind": "bline",
+  "speaker": "???(翁面)",
+  "jp": "さあ、参りますよ",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEE500:1",
+  "kind": "bline",
+  "speaker": "???(翁面)",
+  "jp": "白扇の舞",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEE85C:1",
+  "kind": "bline",
+  "speaker": "???(翁面)",
+  "jp": "翁面の舞",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEEDFC:1",
+  "kind": "bline",
+  "speaker": "羨木　竜童",
+  "jp": "………　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEF118:1",
+  "kind": "bline",
+  "speaker": "羨木　竜童",
+  "jp": "ニィ…　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEF118:3",
+  "kind": "bline",
+  "speaker": "羨木　竜童",
+  "jp": "ウガアァァァッ！！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEF918:1",
+  "kind": "bline",
+  "speaker": "羨木　竜童",
+  "jp": "ウガァァァッ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEFB08:1",
+  "kind": "bline",
+  "speaker": "神門　京介(神面)",
+  "jp": "お覚悟　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EEFE08:1",
+  "kind": "bline",
+  "speaker": "神門　京介(神面)",
+  "jp": "白扇の舞",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF0108:1",
+  "kind": "bline",
+  "speaker": "神門　京介(神面)",
+  "jp": "神面の舞",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF0824:1",
+  "kind": "bline",
+  "speaker": "神門　京介(男面)",
+  "jp": "準備はよろしいか?　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF0A48:1",
+  "kind": "bline",
+  "speaker": "神門　京介(男面)",
+  "jp": "白扇の舞",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF0C74:1",
+  "kind": "bline",
+  "speaker": "神門　京介(男面)",
+  "jp": "男面の舞",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF15D4:1",
+  "kind": "bline",
+  "speaker": "風鳥院花月(花月面)",
+  "jp": "風鳥院流絃術",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF15D4:3",
+  "kind": "bline",
+  "speaker": "風鳥院花月(花月面)",
+  "jp": "風鳥院流絃術　薔玉の楯　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF1988:1",
+  "kind": "bline",
+  "speaker": "風鳥院花月(花月面)",
+  "jp": "風鳥院流絃術　秋雨　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF1DA0:1",
+  "kind": "bline",
+  "speaker": "風鳥院花月(花月面)",
+  "jp": "風鳥院流絃術　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF1DA0:3",
+  "kind": "bline",
+  "speaker": "風鳥院花月(花月面)",
+  "jp": "風鳥院流絃術　絃呪縛",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF22EC:1",
+  "kind": "bline",
+  "speaker": "風鳥院花月(花月面)",
+  "jp": "風鳥院流絃術　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF22EC:3",
+  "kind": "bline",
+  "speaker": "風鳥院花月(花月面)",
+  "jp": "風鳥院流絃術　雫",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF29C8:1",
+  "kind": "bline",
+  "speaker": "風鳥院花月(花月面)",
+  "jp": "風鳥院流絃術",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF29C8:3",
+  "kind": "bline",
+  "speaker": "風鳥院花月(花月面)",
+  "jp": "風鳥院流絃術　流星　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF308C:1",
+  "kind": "bline",
+  "speaker": "メカ蛭田(MK－Ⅰ)",
+  "jp": "攻撃開始",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF308C:3",
+  "kind": "bline",
+  "speaker": "メカ蛭田(MK－Ⅰ)",
+  "jp": "攻撃開始　敵獺滅",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF333C:1",
+  "kind": "bline",
+  "speaker": "メカ蛭田(MK－Ⅰ)",
+  "jp": "排除スル",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF333C:3",
+  "kind": "bline",
+  "speaker": "メカ蛭田(MK－Ⅰ)",
+  "jp": "照準セット　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF333C:5",
+  "kind": "bline",
+  "speaker": "メカ蛭田(MK－Ⅰ)",
+  "jp": "照準セット　全弾発射",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF391C:1",
+  "kind": "bline",
+  "speaker": "メカ蛭田(MK－Ⅱ)",
+  "jp": "攻撃開始",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF391C:3",
+  "kind": "bline",
+  "speaker": "メカ蛭田(MK－Ⅱ)",
+  "jp": "攻撃開始　敵獺滅",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF3BCC:1",
+  "kind": "bline",
+  "speaker": "メカ蛭田(MK－Ⅱ)",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF3BCC:3",
+  "kind": "bline",
+  "speaker": "メカ蛭田(MK－Ⅱ)",
+  "jp": "排除スル",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF3BCC:5",
+  "kind": "bline",
+  "speaker": "メカ蛭田(MK－Ⅱ)",
+  "jp": "照準セット　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF3BCC:7",
+  "kind": "bline",
+  "speaker": "メカ蛭田(MK－Ⅱ)",
+  "jp": "照準セット　全弾発射",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF41D8:1",
+  "kind": "bline",
+  "speaker": "メカ蛭田(MK－Ⅲ)",
+  "jp": "攻撃開始",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF41D8:3",
+  "kind": "bline",
+  "speaker": "メカ蛭田(MK－Ⅲ)",
+  "jp": "攻撃開始　敵獺滅",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF4488:1",
+  "kind": "bline",
+  "speaker": "メカ蛭田(MK－Ⅲ)",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF4488:3",
+  "kind": "bline",
+  "speaker": "メカ蛭田(MK－Ⅲ)",
+  "jp": "排除スル",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF4488:5",
+  "kind": "bline",
+  "speaker": "メカ蛭田(MK－Ⅲ)",
+  "jp": "照準セット　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF4488:7",
+  "kind": "bline",
+  "speaker": "メカ蛭田(MK－Ⅲ)",
+  "jp": "照準セット　全弾発射",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF4A94:1",
+  "kind": "bline",
+  "speaker": "神門　京介(女面)",
+  "jp": "手合わせ願いましょう",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF4DD4:1",
+  "kind": "bline",
+  "speaker": "神門　京介(女面)",
+  "jp": "白扇の舞",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF511C:1",
+  "kind": "bline",
+  "speaker": "神門　京介(女面)",
+  "jp": "女面の舞",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF5518:1",
+  "kind": "bline",
+  "speaker": "神門　京介(狂面)",
+  "jp": "終わりにしましょう　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EF584C:1",
+  "kind": "bline",
+  "speaker": "神門　京介(狂面)",
+  "jp": "白扇の舞",
+  "en": "",
+  "status": ""
+ }
+]

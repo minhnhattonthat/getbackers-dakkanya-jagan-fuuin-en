@@ -1,0 +1,362 @@
+[
+ {
+  "id": "F8A1E0:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ふどがんをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A224:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ふどアンをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A268:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "あかてぶをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A2AC:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "きょめんをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A2F0:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "だいせんをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A334:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "Kめんをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A374:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "あんかみをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A3B8:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "るりかみをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A3FC:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "おにパンをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A440:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ひるサンをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A484:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ひるネッをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A4C8:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "くぼちょをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A50C:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "きらかたをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A550:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "MAブレをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A594:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "よこハンをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A5D8:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "よこヘルをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A61C:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "げんぼうをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A660:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "マドリボをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A6A4:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "みろゆびをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A6E8:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ときグロをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A72C:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "つばグロをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A770:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ひかグロをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A7B4:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "うきグロをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A7F8:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "TSCをゲット！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A838:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "HPが回復した！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A878:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "HPが減少した…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A8B8:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "カギが開いた！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A8EC:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "カギがかかっている",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A924:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "この後のセーブ画面で\nクリアデータをセーブし、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A924:1",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "そのデータをロードすると\nACT8をプレイすることができます",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8A924:2",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "前回のデータは失われますので、\nデータ上書きの際は注意して下さい",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8AA14:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "この後のセーブ画面で\nクリアデータをセーブし、",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8AA14:1",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "そのデータをロードすると\n相性とカードのみ引継ぎで",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8AA14:2",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "ACT1からプレイすることができます",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8AA14:3",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "前回のデータは失われますので、\nデータ上書きの際は注意して下さい",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8AB28:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "銀次:んあ~、今回も色々あったね~",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8ABB4:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "蛮:羨木は追いかけてくるわ、\n赤屍は出てくるわで大変だったな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8AC5C:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "銀次:あっ、そういえば蛮ちゃんに\nそっくりなヘビがいたよね~！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8AD04:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "蛮:臨海パークじゃ、\nアイドル衣装で歌も歌っちまったしな",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8ADA8:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "銀次:神門の里では\n露天風呂にも入っちゃったしね！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8AE48:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "蛮:色々あったな…でも、\nやっぱり金は手に入らねえんだよな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8AEF0:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "銀次:がんばって\n借金返そうね、蛮ちゃん！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8AF88:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "蛮:ったく、お前は今回も\n俺様に頼りっぱなしだったよな…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8B02C:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "卑弥呼:それはこっちのセリフよ！\n催眠香がないと先に進めなかったくせに",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "F8B0DC:0",
+  "kind": "msg",
+  "speaker": "",
+  "jp": "蛮:ンなこと言ってていいのかねえ…",
+  "en": "",
+  "status": ""
+ }
+]

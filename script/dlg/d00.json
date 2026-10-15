@@ -1,0 +1,602 @@
+[
+ {
+  "id": "EE1AC4:1",
+  "kind": "bline",
+  "speaker": "松風",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE1AC4:3",
+  "kind": "bline",
+  "speaker": "松風",
+  "jp": "これならどうだ?",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE1B88:1",
+  "kind": "bline",
+  "speaker": "松風",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE1B88:3",
+  "kind": "bline",
+  "speaker": "松風",
+  "jp": "引き潮の舞！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE1C4C:1",
+  "kind": "bline",
+  "speaker": "松風",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE1C4C:3",
+  "kind": "bline",
+  "speaker": "松風",
+  "jp": "ムダなことを…　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE1CCC:1",
+  "kind": "bline",
+  "speaker": "村雨",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE1CCC:3",
+  "kind": "bline",
+  "speaker": "村雨",
+  "jp": "これで決める！！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE1D94:1",
+  "kind": "bline",
+  "speaker": "村雨",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE1D94:3",
+  "kind": "bline",
+  "speaker": "村雨",
+  "jp": "お楽しみはこれからさっ！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE1E20:1",
+  "kind": "bline",
+  "speaker": "村雨",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE1E20:3",
+  "kind": "bline",
+  "speaker": "村雨",
+  "jp": "勝ったつもりかい！?　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE1EA8:1",
+  "kind": "bline",
+  "speaker": "白拍子",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE1EA8:3",
+  "kind": "bline",
+  "speaker": "白拍子",
+  "jp": "ほっ！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE1F64:1",
+  "kind": "bline",
+  "speaker": "白拍子",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE1F64:3",
+  "kind": "bline",
+  "speaker": "白拍子",
+  "jp": "よっ！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE2064:1",
+  "kind": "bline",
+  "speaker": "白拍子",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE2064:3",
+  "kind": "bline",
+  "speaker": "白拍子",
+  "jp": "はっ！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE21B4:1",
+  "kind": "bline",
+  "speaker": "杜若",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE21B4:3",
+  "kind": "bline",
+  "speaker": "杜若",
+  "jp": "せりゃ！！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE2274:1",
+  "kind": "bline",
+  "speaker": "杜若",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE2274:3",
+  "kind": "bline",
+  "speaker": "杜若",
+  "jp": "行くぞ、扇風波！！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE2330:1",
+  "kind": "bline",
+  "speaker": "杜若",
+  "jp": "見切れるか…扇乱舞！！！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE2468:1",
+  "kind": "bline",
+  "speaker": "百万",
+  "jp": "キェェェッ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE250C:1",
+  "kind": "bline",
+  "speaker": "百万",
+  "jp": "タァァッ！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE2634:1",
+  "kind": "bline",
+  "speaker": "百万",
+  "jp": "シャァァァアッ！！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE271C:1",
+  "kind": "bline",
+  "speaker": "天人(鳳凰)",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE271C:3",
+  "kind": "bline",
+  "speaker": "天人(鳳凰)",
+  "jp": "燃え尽きちまいなっ！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE27F8:1",
+  "kind": "bline",
+  "speaker": "天人(鳳凰)",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE27F8:3",
+  "kind": "bline",
+  "speaker": "天人(鳳凰)",
+  "jp": "責様ら全員ケシズミにしてやる！！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE28E0:1",
+  "kind": "bline",
+  "speaker": "天人(鳳凰)",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE28E0:3",
+  "kind": "bline",
+  "speaker": "天人(鳳凰)",
+  "jp": "三天人の焔…受けてみな！！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE29E4:1",
+  "kind": "bline",
+  "speaker": "天人(蓮)",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE29E4:3",
+  "kind": "bline",
+  "speaker": "天人(蓮)",
+  "jp": "花雨！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE2AA8:1",
+  "kind": "bline",
+  "speaker": "天人(蓮)",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE2AA8:3",
+  "kind": "bline",
+  "speaker": "天人(蓮)",
+  "jp": "花嵐！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE2BFC:1",
+  "kind": "bline",
+  "speaker": "天人(蓮)",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE2BFC:3",
+  "kind": "bline",
+  "speaker": "天人(蓮)",
+  "jp": "三天人の力、いまこそ合わす時！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE2D98:1",
+  "kind": "bline",
+  "speaker": "天人(日月)",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE2D98:3",
+  "kind": "bline",
+  "speaker": "天人(日月)",
+  "jp": "…蝕！！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE2E68:1",
+  "kind": "bline",
+  "speaker": "天人(日月)",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE2E68:3",
+  "kind": "bline",
+  "speaker": "天人(日月)",
+  "jp": "……日蝕！！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE2EF8:1",
+  "kind": "bline",
+  "speaker": "天人(日月)",
+  "jp": "",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE2EF8:3",
+  "kind": "bline",
+  "speaker": "天人(日月)",
+  "jp": "三天人の恐ろしさをみせてやろうぞ…　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE2F98:1",
+  "kind": "bline",
+  "speaker": "西行桜",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE2F98:3",
+  "kind": "bline",
+  "speaker": "西行桜",
+  "jp": "願わくば　花の下にて春死なむ…　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE3078:1",
+  "kind": "bline",
+  "speaker": "西行桜",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE3078:3",
+  "kind": "bline",
+  "speaker": "西行桜",
+  "jp": "花に清香　月に影…　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE30FC:1",
+  "kind": "bline",
+  "speaker": "西行桜",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE30FC:3",
+  "kind": "bline",
+  "speaker": "西行桜",
+  "jp": "しづごころなく花のちるらむ…",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE3208:1",
+  "kind": "bline",
+  "speaker": "曲見",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE3208:3",
+  "kind": "bline",
+  "speaker": "曲見",
+  "jp": "呪いの舞！！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE32C0:1",
+  "kind": "bline",
+  "speaker": "曲見",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE32C0:3",
+  "kind": "bline",
+  "speaker": "曲見",
+  "jp": "さあ、狂宴の始まりだ！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE33C8:1",
+  "kind": "bline",
+  "speaker": "曲見",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE33C8:3",
+  "kind": "bline",
+  "speaker": "曲見",
+  "jp": "魂は我が掌中に有り　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE34C0:1",
+  "kind": "bline",
+  "speaker": "梅若丸母",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE34C0:3",
+  "kind": "bline",
+  "speaker": "梅若丸母",
+  "jp": "乱気流よっ！　来い！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE3590:1",
+  "kind": "bline",
+  "speaker": "梅若丸母",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE3590:3",
+  "kind": "bline",
+  "speaker": "梅若丸母",
+  "jp": "疾風の力をオレにっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE361C:1",
+  "kind": "bline",
+  "speaker": "梅若丸母",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE361C:3",
+  "kind": "bline",
+  "speaker": "梅若丸母",
+  "jp": "春風よ、傷を癒せっ！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE36E4:1",
+  "kind": "bline",
+  "speaker": "芦屋某妻",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE36E4:3",
+  "kind": "bline",
+  "speaker": "芦屋某妻",
+  "jp": "オラァッ！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE37AC:1",
+  "kind": "bline",
+  "speaker": "芦屋某妻",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE37AC:3",
+  "kind": "bline",
+  "speaker": "芦屋某妻",
+  "jp": "オラオラオラァッ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE3900:1",
+  "kind": "bline",
+  "speaker": "芦屋某妻",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE3900:3",
+  "kind": "bline",
+  "speaker": "芦屋某妻",
+  "jp": "オラオラオラオラオラァッ！！",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE3AEC:1",
+  "kind": "bline",
+  "speaker": "慈童",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE3AEC:3",
+  "kind": "bline",
+  "speaker": "慈童",
+  "jp": "連撃！！　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE3BC4:1",
+  "kind": "bline",
+  "speaker": "慈童",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE3BC4:3",
+  "kind": "bline",
+  "speaker": "慈童",
+  "jp": "おおおおぉぉぉお！　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE3C48:1",
+  "kind": "bline",
+  "speaker": "慈童",
+  "jp": "獣の姿に変えてやろう",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE3E4C:1",
+  "kind": "bline",
+  "speaker": "K(六面豪鬼)",
+  "jp": "　　",
+  "en": "",
+  "status": ""
+ },
+ {
+  "id": "EE3E4C:3",
+  "kind": "bline",
+  "speaker": "K(六面豪鬼)",
+  "jp": "ガアアアアァァアア！！　",
+  "en": "",
+  "status": ""
+ }
+]
