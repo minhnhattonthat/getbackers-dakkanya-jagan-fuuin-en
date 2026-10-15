@@ -69,8 +69,9 @@ def compose(layer):
     return img
 
 
-def draw_text(img, x, y, text, ink, outline=None, adv=6):
-    """font_en text, top-left at (x, y) = top of the cap rows; outline = 1 px border colour."""
+def draw_text(img, x, y, text, ink, outline=None, adv=6, sy=1, bold=False):
+    """font_en text, top-left at (x, y) = top of the cap rows; outline = 1 px border colour; sy = vertical
+    scale; bold = double each column."""
     pts = set()
     for i, ch in enumerate(text):
         if ch == ' ':
@@ -79,7 +80,11 @@ def draw_text(img, x, y, text, ink, outline=None, adv=6):
         for r, row in enumerate(rows):
             for c, v in enumerate(row):
                 if v == '#':
-                    pts.add((x + i * adv + c, y + top - 1 + r))
+                    for k in range(sy):
+                        py = y + (top - 1 + r) * sy + k
+                        pts.add((x + i * adv + c, py))
+                        if bold:
+                            pts.add((x + i * adv + c + 1, py))
     if outline is not None:
         for (px, py) in pts:
             for dx in (-1, 0, 1):

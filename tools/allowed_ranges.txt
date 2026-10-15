@@ -3,3 +3,4 @@
 0FB9A-0FBA0
 8505C-8A75C  # title logo tiles (tools/gfx.py)
 1B51A8-1B5928  # title copyright sprites
+9BADC-9BB7C  # act card table (tools/actcards.py)
