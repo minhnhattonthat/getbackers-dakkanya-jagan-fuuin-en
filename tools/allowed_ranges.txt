@@ -4,3 +4,10 @@
 8505C-8A75C  # title logo tiles (tools/gfx.py)
 1B51A8-1B5928  # title copyright sprites
 9BADC-9BB7C  # act card table (tools/actcards.py)
+30737C-317D0C  # battle label tiles + frame tables (tools/labels.py)
+1F00000-2000000  # battle label sheets (ROM grows to 32 MiB)
+A6062C-A60680  # battle label resource entries (tile sheet pointers)
+5AF54-5AF58
+5B0B8-5B0BC
+5B530-5B534
+3008B8-3008E0  # label number tile offsets (tools/labels.py)

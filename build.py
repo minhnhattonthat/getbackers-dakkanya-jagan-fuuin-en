@@ -19,6 +19,7 @@ import menuasm  # noqa: E402
 import items  # noqa: E402
 import gfx  # noqa: E402
 import actcards  # noqa: E402
+import labels  # noqa: E402
 
 OUT = {'identity': 'getbackers_identity.gba', 'marker': 'getbackers_marker.gba', 'build': 'getbackers_en.gba',
        'qa': 'getbackers_qa.gba'}
@@ -26,6 +27,7 @@ SCRIPT_START = 0xEE1AC4
 BANK_PTR = 0x058174
 REF_RANGES = [(0x0, 0xB0000), (0xED0000, SCRIPT_START)]   # where script pointers live (code pools + tables)
 FREE_END = 0xFE0000                         # 0xFE0000-0xFE4000 holds code/data, keep
+LABEL_START, LABEL_END = 0x1F00000, 0x2000000  # battle label sheets + widened labels (tools/labels.py; ROM -> 32 MiB)
 EXT_START, EXT_END = 0x1000000, 0x2000000   # overflow area when the ROM has to grow
 
 
@@ -207,6 +209,8 @@ def build(mode, overrides=None):
             items.apply(rom, encoder, alloc)
             gfx.apply(rom)
             actcards.apply(rom, alloc)
+            rom += b'\xff' * (EXT_END - len(rom))
+            labels.apply(rom, Alloc(LABEL_START, LABEL_END))
     # repack scripts contiguously in ROM order (4 zero bytes after each, like the original: some scripts
     # are reached only by walking on from the previous one, so order and spacing must not change)
     scripts = sorted(s for s in find_scripts(orig) if s != BANK)

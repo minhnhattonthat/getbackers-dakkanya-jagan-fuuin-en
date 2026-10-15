@@ -1,0 +1,17 @@
+{
+ "A6062C": ["Attack", "Special", "Item", "Defend", "Change", "Run",
+  "Ban Mido", "Ginji Amano", "Himiko Kudo", "Kurodo Akabane", "Kazuki Fuchoin", "Shido Fuyuki",
+  "Haruki Emishi", "Juubei Kakei", "Toshiki Uryu", "Yukihiko Miroku",
+  "Human-Face Squid", "M Oil", "Gut Barley Flour", "Dried Newt", "Lizard Tail", "Shed Snakeskin", "Poison Mushroom",
+  "Rabbit Tail", "Mandragora", "Crystal Ball", "Incense", "Amaterasu Mask", "Tsunemasa Mask", "Yorimasa Mask",
+  "Tomoe Mask", "Aoi-no-Ue Mask", "Amenouzume Mask", "Tengu Mask", "Matsukaze Mask"],
+ "A60648": ["Venom Fang", "Vice Destroid", "Snake Bite", "Sidewinder", "Ophiuchus Freed", "Electric Shock",
+  "Electromagnetic Scan", "Lightning Kick", "Electromagnetic Field", "Raitei Descends", "Antidote Incense",
+  "Puppet Incense", "Healing Incense", "Flame Incense", "Speed Incense", "Red Sword", "Red Shield", "Red Cross",
+  "Red Rain", "Red Tempest", "Cocoon Shield", "Autumn Rain", "Binding Curse", "Droplet", "Shooting Star",
+  "Monkey Mimicry", "Bird-Beast Mimicry", "Tiger Claw Mimicry", "Shadow Dragon", "Ravenous Wolf Mimicry",
+  "Seize Like a Viper", "Coil Like Quicksand"],
+ "A60664": ["Vanish in a Sandstorm", "Engulf Like a Flood", "Burn Like Hellfire", "Poison Moth", "Koshingo",
+  "Touch-Me-Not", "Earth Spider", "Mine Quake", "Distant Strike", "War Drum", "Whirlwind Palm", "Flow Strike Wave",
+  "Air Shatter Palm", "Full Moon Sword", "Kirara", "Endless New Moon", "Finite Full Moon"]
+}
