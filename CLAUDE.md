@@ -20,5 +20,5 @@ Skill: translate-retro-game (H:\translation\batch\.claude\skills\translate-retro
 - Engine: English = digraph glyphs (2 letters per 12 px cell) allocated at build time into font codes 0x100-0x7FF; messages auto-paginate (extra 0B boxes); scripts repacked contiguously (order matters).
 
 ## Status
-- Done: phases 1-7 (all dialogue 8188/8188, bank 2383, names, items/equipment, menus via glyph cache patch tools/menuasm.py, title + act cards graphics), review fixes. Phase 8: field-script tour `tools/debug/tour.py run` (69 groups, sheets in work/qa/tour/*/sheet_*.png). Battle: `warp.py battle_act1`.
-- Next: read every tour sheet, battle-script tour, release (`build.py release`). Known gaps: battle command/skill label graphics, opening demo captions, map shop signs, katakana logo reading stay Japanese.
+- Done: all phases. Dialogue 8188/8188, bank 2383, names, items/equipment, menus (glyph cache patch tools/menuasm.py), title + act card graphics. Phase 8 tour: all 69 field groups + 11 battle groups viewed (`tools/debug/tour.py run [--only b000,..]`; battle chains show leftover-text harness artifacts). Release v1.0 built locally (release/getbackers-dakkanya-jagan-fuuin_en.zip, patched CRC32 600361ED).
+- Known gaps: battle command/skill label graphics, opening demo captions, map shop signs, katakana logo reading stay Japanese. Open bugs: none known.
