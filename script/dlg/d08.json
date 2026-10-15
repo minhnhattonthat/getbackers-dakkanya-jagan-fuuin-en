@@ -1228,8 +1228,8 @@
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ゲットバッカーズ！\nこの依頼、確かに引き受けた！！",
-  "en": "",
-  "status": ""
+  "en": "The GetBackers! We hereby accept this job!!",
+  "status": "reviewed"
  },
  {
   "id": "F06C70:1",
@@ -1324,8 +1324,8 @@
   "kind": "msg",
   "speaker": "蛮",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "reviewed"
  },
  {
   "id": "F06FE4:3",

@@ -116,488 +116,488 @@
   "kind": "msg",
   "speaker": "銀次",
   "jp": "蛮ちゃ~ん…もうダメだぁ………",
-  "en": "",
-  "status": ""
+  "en": "Baaan... I can't go on anymore...",
+  "status": "reviewed"
  },
  {
   "id": "EF9A10:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "気合入れろ、銀次！\nHONKYTONKはすぐ目の前だぞ！",
-  "en": "",
-  "status": ""
+  "en": "Pull yourself together, Ginji! The Honky Tonk's right in front of us!",
+  "status": "reviewed"
  },
  {
   "id": "EF9A10:4",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "…って、俺様ももうダメだけどな………",
-  "en": "",
-  "status": ""
+  "en": "...Not that I'm doing any better, mind you...",
+  "status": "reviewed"
  },
  {
   "id": "EF9A10:6",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "どうしよう、蛮ちゃん…\nこのままじゃ、空腹で死んじゃうかも…",
-  "en": "",
-  "status": ""
+  "en": "What do we do, Ban...? At this rate we're gonna starve to death...",
+  "status": "reviewed"
  },
  {
   "id": "EF9C60:1",
   "kind": "msg",
   "speaker": "杏",
   "jp": "なに、コノ人たち…死んでる！?",
-  "en": "",
-  "status": ""
+  "en": "Whoa, what's with these guys... Are they dead?!",
+  "status": "reviewed"
  },
  {
   "id": "EF9C60:2",
   "kind": "msg",
   "speaker": "杏",
   "jp": "ひょっとして行き倒れってやつッスか?\nスクープ、スクープ！！",
-  "en": "",
-  "status": ""
+  "en": "Could this be one of those \"collapsed in the street\" deals, see? A scoop! A total scoop!!",
+  "status": "reviewed"
  },
  {
   "id": "EF9C60:4",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "るせェな…\n腹へって気が立ってんだよ、黙ってろ！",
-  "en": "",
-  "status": ""
+  "en": "Shaddap... I'm starving and I'm in a lousy mood, so zip it!",
+  "status": "reviewed"
  },
  {
   "id": "EF9C60:6",
   "kind": "msg",
   "speaker": "杏",
   "jp": "あれ、まだ生きてる！?",
-  "en": "",
-  "status": ""
+  "en": "Huh, they're still alive?!",
+  "status": "reviewed"
  },
  {
   "id": "EF9C60:8",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "んあ~、どこかから食べモノの匂いが…",
-  "en": "",
-  "status": ""
+  "en": "Nnngh... I smell food from somewhere...",
+  "status": "reviewed"
  },
  {
   "id": "EF9C60:9",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "…あっ！　ハンバーガーだ！！",
-  "en": "",
-  "status": ""
+  "en": "...Ah! A hamburger!!",
+  "status": "reviewed"
  },
  {
   "id": "EF9C60:11",
   "kind": "msg",
   "speaker": "杏",
   "jp": "あっ、これ食べるッスか?",
-  "en": "",
-  "status": ""
+  "en": "Oh, you want to eat this, see?",
+  "status": "reviewed"
  },
  {
   "id": "EF9C60:12",
   "kind": "msg",
   "speaker": "杏",
   "jp": "あげてもいいケド、その代わりに…",
-  "en": "",
-  "status": ""
+  "en": "I could give it to you, but in exchange...",
+  "status": "reviewed"
  },
  {
   "id": "EF9C60:14",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "なに、くれるってか?",
-  "en": "",
-  "status": ""
+  "en": "What, you're handing it over?",
+  "status": "reviewed"
  },
  {
   "id": "EF9C60:15",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "悪ィな、いただくぜ！！",
-  "en": "",
-  "status": ""
+  "en": "Thanks a bunch, don't mind if I do!!",
+  "status": "reviewed"
  },
  {
   "id": "EF9C60:17",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "蛮ちゃん、ズルいよ！\nオレにも半分ちょうだいよ！！",
-  "en": "",
-  "status": ""
+  "en": "Ban, no fair! Gimme half too!!",
+  "status": "reviewed"
  },
  {
   "id": "EF9C60:20",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ガツガツガツ…",
-  "en": "",
-  "status": ""
+  "en": "Munch munch munch...",
+  "status": "reviewed"
  },
  {
   "id": "EF9C60:21",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "バクバクバク…",
-  "en": "",
-  "status": ""
+  "en": "Chomp chomp chomp...",
+  "status": "reviewed"
  },
  {
   "id": "EF9C60:22",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ゴクゴクゴク…",
-  "en": "",
-  "status": ""
+  "en": "Gulp gulp gulp...",
+  "status": "reviewed"
  },
  {
   "id": "EF9C60:24",
   "kind": "msg",
   "speaker": "杏",
   "jp": "その代わりにお願いがあるんだけど…",
-  "en": "",
-  "status": ""
+  "en": "In exchange, I've got a favor to ask...",
+  "status": "reviewed"
  },
  {
   "id": "EF9C60:25",
   "kind": "msg",
   "speaker": "杏",
   "jp": "って聞いてないッスね~…",
-  "en": "",
-  "status": ""
+  "en": "...and you're not even listening, huh...",
+  "status": "reviewed"
  },
  {
   "id": "EF9C60:28",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ガツガツガツ…",
-  "en": "",
-  "status": ""
+  "en": "Munch munch munch...",
+  "status": "reviewed"
  },
  {
   "id": "EF9C60:29",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "バクバクバク…",
-  "en": "",
-  "status": ""
+  "en": "Chomp chomp chomp...",
+  "status": "reviewed"
  },
  {
   "id": "EF9C60:30",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ゴクゴクゴク…",
-  "en": "",
-  "status": ""
+  "en": "Gulp gulp gulp...",
+  "status": "reviewed"
  },
  {
   "id": "EF9C60:32",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ごちそうさまーっ！！",
-  "en": "",
-  "status": ""
+  "en": "Thanks for the meal!!",
+  "status": "reviewed"
  },
  {
   "id": "EF9C60:34",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ま、ちっと足りねェがよしとするか！",
-  "en": "",
-  "status": ""
+  "en": "Well, it's a little short, but I'll let it slide!",
+  "status": "reviewed"
  },
  {
   "id": "EF9C60:35",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "じゃあな、通りすがりの貧乳娘よ",
-  "en": "",
-  "status": ""
+  "en": "See ya, flat-chested random passerby.",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:1",
   "kind": "msg",
   "speaker": "杏",
   "jp": "ちょ、ちょっと待つッス！",
-  "en": "",
-  "status": ""
+  "en": "H-hey, wait a sec, see!",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:2",
   "kind": "msg",
   "speaker": "杏",
   "jp": "杏(あんず)のお願いを\n聞いてもらわないと困るッスよ！！",
-  "en": "",
-  "status": ""
+  "en": "You've gotta hear Anzu's request or I'm in big trouble, see!!",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:4",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "キミ、杏ちゃんって言うんだ~",
-  "en": "",
-  "status": ""
+  "en": "Oh, so your name's Anzu?",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なになに、願い事って?",
-  "en": "",
-  "status": ""
+  "en": "So what's this favor?",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:7",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おい、銀次…\nそンなの相手にしてンじゃねーよ",
-  "en": "",
-  "status": ""
+  "en": "Hey, Ginji... Don't waste your time on her.",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:8",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "体力があるうちに次の仕事をだな…",
-  "en": "",
-  "status": ""
+  "en": "While we've still got some strength, we oughta find our next job...",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:10",
   "kind": "msg",
   "speaker": "杏",
   "jp": "その体力は誰のおかげで\n養えたと思ってるッスか！！",
-  "en": "",
-  "status": ""
+  "en": "And who do you think you owe that strength to, see?!",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:12",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "やー、杏ちゃんは命の恩人だよね~",
-  "en": "",
-  "status": ""
+  "en": "Yeah, Anzu saved our lives!",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:14",
   "kind": "msg",
   "speaker": "杏",
   "jp": "その恩人の願いを一つ位聞いてくれても\nいいじゃないッスか！！",
-  "en": "",
-  "status": ""
+  "en": "Then you could at least hear out one little request from the person who saved you, see!!",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:16",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "どォせくだらねェ頼みなんだろ?\n気が進まねーなぁ…",
-  "en": "",
-  "status": ""
+  "en": "It's gonna be something stupid, right? I'm not feeling it...",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:18",
   "kind": "msg",
   "speaker": "杏",
   "jp": "くだらなくなんてないッスよ！",
-  "en": "",
-  "status": ""
+  "en": "It is NOT stupid, see!",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:19",
   "kind": "msg",
   "speaker": "杏",
   "jp": "カメラを…\n杏のカメラを奪り還して欲しいッス！",
-  "en": "",
-  "status": ""
+  "en": "My camera... I want you to get my camera back, see!",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:21",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "買い換えりゃいいじゃねェかよ、\nンなモン",
-  "en": "",
-  "status": ""
+  "en": "So buy a new one, why don'tcha.",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:23",
   "kind": "msg",
   "speaker": "杏",
   "jp": "あれはお金じゃ買えない\n特別なカメラなんッスよ！",
-  "en": "",
-  "status": ""
+  "en": "That's a special camera that money can't buy, see!",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:24",
   "kind": "msg",
   "speaker": "杏",
   "jp": "パパが残してくれたものでもあるし…",
-  "en": "",
-  "status": ""
+  "en": "And it's something my dad left me...",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:26",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "蛮ちゃん、引き受けてあげようよ\nオレたち、奪還屋なんだしさ",
-  "en": "",
-  "status": ""
+  "en": "Come on, Ban, let's take the job. We're the GetBackers, after all.",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:28",
   "kind": "msg",
   "speaker": "杏",
   "jp": "奪還屋！?",
-  "en": "",
-  "status": ""
+  "en": "GetBackers?!",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:29",
   "kind": "msg",
   "speaker": "杏",
   "jp": "奪還屋ってなんッスか?",
-  "en": "",
-  "status": ""
+  "en": "What're GetBackers, see?",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:31",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "奪られたものを奪り還す…",
-  "en": "",
-  "status": ""
+  "en": "We get back what's been taken...",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:32",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "俺たちは成功率100%の奪還屋\nGetBackersだ！！",
-  "en": "",
-  "status": ""
+  "en": "We're the retrieval agents with a 100% success rate... the GetBackers!!",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:34",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "オレは天野　銀次(あまの　ぎんじ)、\nこっちは相棒のー…",
-  "en": "",
-  "status": ""
+  "en": "I'm Ginji Amano, and this is my partner...",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:36",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "美堂　蛮(みどう　ばん)だ",
-  "en": "",
-  "status": ""
+  "en": "Ban Mido.",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:38",
   "kind": "msg",
   "speaker": "杏",
   "jp": "じゃあ、杏のカメラ…\n奪り還してくれるッスね?",
-  "en": "",
-  "status": ""
+  "en": "So you'll get my camera back for me, see?",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:40",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "いや、ダメだ",
-  "en": "",
-  "status": ""
+  "en": "Nope, no way.",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:42",
   "kind": "msg",
   "speaker": "杏",
   "jp": "はあっ！?　意味分かんないッス！\nだって今、奪還屋だって…",
-  "en": "",
-  "status": ""
+  "en": "Huh?! That makes no sense, see! You just said you were the GetBackers...",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:44",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "あのな…俺たちゃ安かねーんだよ！",
-  "en": "",
-  "status": ""
+  "en": "Listen... We don't come cheap!",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:45",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ガキの使いじゃあるまいし、\nハンバーガー一個で仕事受けられるか！",
-  "en": "",
-  "status": ""
+  "en": "We're not errand boys. Like we'd take a job for one lousy hamburger!",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:47",
   "kind": "msg",
   "speaker": "杏",
   "jp": "その安くない命を\n誰が救ったと思ってるッスか！",
-  "en": "",
-  "status": ""
+  "en": "And who saved those \"not cheap\" lives of yours, see?!",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:49",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:51",
   "kind": "msg",
   "speaker": "杏",
   "jp": "お願いするッス！\nあのカメラは本当に大事なモノなんスよ",
-  "en": "",
-  "status": ""
+  "en": "Please, see! That camera really matters to me...",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:52",
   "kind": "msg",
   "speaker": "杏",
   "jp": "引き受けてくれないなら、\n杏ここで泣き喚くッス！！",
-  "en": "",
-  "status": ""
+  "en": "If you won't take the job, I'll start bawling right here, see!!",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:53",
   "kind": "msg",
   "speaker": "杏",
   "jp": "足にしがみついて\nワアワア泣いてやるッス！！",
-  "en": "",
-  "status": ""
+  "en": "I'll cling to your leg and wail my head off, see!!",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:55",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "…チッ、しゃーねえなあ………",
-  "en": "",
-  "status": ""
+  "en": "...Tch, fine, whatever...",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:57",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "仕方ないよ、蛮ちゃん\nだって杏ちゃんは命の恩人だもんね",
-  "en": "",
-  "status": ""
+  "en": "Can't be helped, Ban. Anzu did save our lives, after all.",
+  "status": "reviewed"
  },
  {
   "id": "EFA34C:60",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ゲットバッカーズ！\nこの依頼、確かに引き受けた！！",
-  "en": "",
-  "status": ""
+  "en": "The GetBackers! We hereby accept this job!!",
+  "status": "reviewed"
  },
  {
   "id": "EFB050:1",
@@ -1420,8 +1420,8 @@
   "kind": "msg",
   "speaker": "蛮",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "reviewed"
  },
  {
   "id": "EFD0B4:14",
@@ -1884,8 +1884,8 @@
   "kind": "msg",
   "speaker": "蛮",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "reviewed"
  },
  {
   "id": "EFE8E8:12",

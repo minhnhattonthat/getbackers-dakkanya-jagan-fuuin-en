@@ -40,6 +40,30 @@ L.on_exec(0x0804C3B4, 0x0804C3B4, function()
   L.log(string.format("SCRIPT %08X f=%d", r0, L.frame))
 end)
 
+-- map: override the first field load after NEW GAME: load_map(r0 = map table index 0x080B31DC, r1 = x tile,
+-- r2 = y tile, r3 = facing) at 0x080083C0. SCENE = "map", MAP = index, MX/MY = tiles (default: keep).
+if SCENE_KIND == "map" then
+  L.on_exec(0x080083C0, 0x080083C0, function()
+    if arrived or L.frame < GAME_FROM then return end
+    local st = { ["cpu.r0"] = MAP }
+    if MX then st["cpu.r1"] = MX end
+    if MY then st["cpu.r2"] = MY end
+    emu.setState(st)
+    L.log(string.format("MAP %d", MAP))
+    arrive()
+  end)
+end
+
+-- ENC = 1: keep the random-encounter step counter (0x02000D70, counts down per step) at 1 after arrival,
+-- so the next step in an encounter map starts a battle.
+if ENC then
+  L.on_frame(function()
+    if arrived and emu.read(0x02000D70, emu.memType.gbaMemory) > 1 then
+      emu.write(0x02000D70, 1, emu.memType.gbaMemory)
+    end
+  end)
+end
+
 -- title: logos are skipped with START; the title menu (NEW GAME / LOAD) takes A on NEW GAME.
 -- Title screen shows after ~700 frames of START presses; then A starts a new game.
 local t0 = nil

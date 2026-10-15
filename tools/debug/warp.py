@@ -35,12 +35,19 @@ def cmd_for(name, a):
     cmd += ['--var', f"SCENE='{kind}'"]
     if kind == 'script':
         cmd += ['--var', 'TARGET=0x%08X' % target_addr(a.rom, arg)]
+    if kind == 'map':
+        parts = arg.split(':')
+        cmd += ['--var', 'MAP=%d' % int(parts[0])]
+        if len(parts) == 3:
+            cmd += ['--var', 'MX=%d' % int(parts[1]), '--var', 'MY=%d' % int(parts[2])]
+    if s.get('enc'):
+        cmd += ['--var', 'ENC=1']
     if s.get('nth'):
         cmd += ['--var', 'NTH=%d' % s['nth']]
     after = a.after or s.get('after')
     if after:
         cmd += ['--var', f"AFTER='{after}'"]
-    mash = a.mash or s.get('mash', 45 if kind == 'script' else 0)
+    mash = a.mash or s.get('mash', {'script': 45, 'map': 40}.get(kind, 0))
     if mash:
         cmd += ['--mash', str(mash)]
     for x in a.script or []:

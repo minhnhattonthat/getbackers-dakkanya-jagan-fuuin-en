@@ -1,4 +1,17 @@
 {
- "title": {"spec": "title", "frames": 1000},
- "newgame": {"spec": "newgame", "frames": 3200}
+ "title": {
+  "spec": "title",
+  "frames": 1000
+ },
+ "newgame": {
+  "spec": "newgame",
+  "frames": 3200
+ },
+ "battle_act1": {
+  "spec": "map:2",
+  "enc": 1,
+  "frames": 11500,
+  "shot_every": 30,
+  "after": "20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a;20 up;6 a;20 down;6 a"
+ }
 }
