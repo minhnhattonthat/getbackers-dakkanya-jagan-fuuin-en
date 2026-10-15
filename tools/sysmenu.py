@@ -49,7 +49,21 @@ def apply_cache(rom, encoder, alloc, scr):
     old = struct.unpack_from('<I', rom, lit)[0] - 0x08000000
     k = scr.get('keep', 0)
     pre = list(struct.unpack_from('<%dH' % k, rom, old)) if k else []
+    # digit index lists (drawn by the number routine 0x0800FC88 without the cache): their glyphs become the
+    # first prefilled slots and the lists are rewritten to point at them
+    for a in scr.get('digits', []):
+        a = int(a, 16)
+        idx = struct.unpack_from('<10H', rom, a)
+        new = []
+        for i in idx:
+            c = struct.unpack_from('<H', rom, old + 2 * i)[0]
+            if c not in pre:
+                pre.append(c)
+            new.append(pre.index(c))
+        struct.pack_into('<10H', rom, a, *new)
+    k = len(pre)
     d = alloc(4 + 2 * k)
+    assert k < scr['glyphs'] // 2, 'prefill too big'
     struct.pack_into('<%dH' % (2 + k), rom, d, 0xFFFD, k, *pre)
     struct.pack_into('<I', rom, lit, 0x08000000 + d)
     for l in scr['labels']:

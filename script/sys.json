@@ -51,7 +51,6 @@
   "charset_imm": "E996",
   "glyphs": 236,
   "cache": true,
-  "keep": 10,
   "labels": [
    {
     "jp": "オプションゲーム速度",
@@ -843,6 +842,580 @@
     "jp": "エンカウント",
     "en": "Encounter",
     "lit": "B0930"
+   }
+  ],
+  "digits": [
+   "A6E60"
+  ]
+ },
+ {
+  "id": "status",
+  "note": "START > Status (charset AC1FA); names/skills tables shared with equip",
+  "charset_lit": "C658",
+  "charset_imm": "C5E4",
+  "glyphs": 236,
+  "cache": true,
+  "labels": [
+   {
+    "jp": "必殺技",
+    "en": "Skills",
+    "lit": "C65C",
+    "imm": "C5F8"
+   },
+   {
+    "jp": "美堂　蛮",
+    "en": "Ban Mido",
+    "lit": "B02F0"
+   },
+   {
+    "jp": "天野　銀次",
+    "en": "Ginji Amano",
+    "lit": "B02F4"
+   },
+   {
+    "jp": "工藤　卑弥呼",
+    "en": "Himiko Kudo",
+    "lit": "B02F8"
+   },
+   {
+    "jp": "赤屍　蔵人",
+    "en": "Kuroudo Akabane",
+    "lit": "B02FC"
+   },
+   {
+    "jp": "風鳥院　花月",
+    "en": "Kazuki Fuchoin",
+    "lit": "B0300"
+   },
+   {
+    "jp": "冬木　士度",
+    "en": "Shido Fuyuki",
+    "lit": "B0304"
+   },
+   {
+    "jp": "笑師　春樹",
+    "en": "Emishi Haruki",
+    "lit": "B0308"
+   },
+   {
+    "jp": "筧　十兵衛",
+    "en": "Juubei Kakei",
+    "lit": "B030C"
+   },
+   {
+    "jp": "雨流　俊樹",
+    "en": "Toshiki Uryu",
+    "lit": "B0310"
+   },
+   {
+    "jp": "弥勒　雪彦",
+    "en": "Yukihiko Miroku",
+    "lit": "B0314"
+   },
+   {
+    "jp": "ベノムファング",
+    "en": "Venom Fang",
+    "lit": "B0318"
+   },
+   {
+    "jp": "ヴァイスデストロイド",
+    "en": "Vice Destroid",
+    "lit": "B031C"
+   },
+   {
+    "jp": "スネークバイト",
+    "en": "Snake Bite",
+    "lit": "B0320"
+   },
+   {
+    "jp": "サイドワインダー",
+    "en": "Sidewinder",
+    "lit": "B0324"
+   },
+   {
+    "jp": "蛇遣い座解放",
+    "en": "Ophiuchus Freed",
+    "lit": "B0328"
+   },
+   {
+    "jp": "電撃",
+    "en": "Electric Shock",
+    "lit": "B032C"
+   },
+   {
+    "jp": "電磁スキャン",
+    "en": "Electro Scan",
+    "lit": "B0330"
+   },
+   {
+    "jp": "イナズマキック",
+    "en": "Lightning Kick",
+    "lit": "B0334"
+   },
+   {
+    "jp": "電磁フィールド",
+    "en": "Electro Field",
+    "lit": "B0338"
+   },
+   {
+    "jp": "雷帝降臨",
+    "en": "Raitei Descends",
+    "lit": "B033C"
+   },
+   {
+    "jp": "解毒香",
+    "en": "Antidote Perfume",
+    "lit": "B0340"
+   },
+   {
+    "jp": "傀儡香",
+    "en": "Puppet Perfume",
+    "lit": "B0344"
+   },
+   {
+    "jp": "回復香",
+    "en": "Healing Perfume",
+    "lit": "B0348"
+   },
+   {
+    "jp": "火炎香",
+    "en": "Flame Perfume",
+    "lit": "B034C"
+   },
+   {
+    "jp": "加速香",
+    "en": "Speed Perfume",
+    "lit": "B0350"
+   },
+   {
+    "jp": "赤い剣",
+    "en": "Red Sword",
+    "lit": "B0354"
+   },
+   {
+    "jp": "赤い盾",
+    "en": "Red Shield",
+    "lit": "B0358"
+   },
+   {
+    "jp": "赤い十字架",
+    "en": "Red Cross",
+    "lit": "B035C"
+   },
+   {
+    "jp": "赤い雨",
+    "en": "Red Rain",
+    "lit": "B0360"
+   },
+   {
+    "jp": "赤い暴風",
+    "en": "Red Tempest",
+    "lit": "B0364"
+   },
+   {
+    "jp": "薔玉の楯",
+    "en": "Rose Bead Shield",
+    "lit": "B0368"
+   },
+   {
+    "jp": "秋雨",
+    "en": "Autumn Rain",
+    "lit": "B036C"
+   },
+   {
+    "jp": "絃呪縛",
+    "en": "String Bind",
+    "lit": "B0370"
+   },
+   {
+    "jp": "雫",
+    "en": "Droplet",
+    "lit": "B0374"
+   },
+   {
+    "jp": "流星",
+    "en": "Shooting Star",
+    "lit": "B0378"
+   },
+   {
+    "jp": "猿擬",
+    "en": "Monkey Mimicry",
+    "lit": "B037C"
+   },
+   {
+    "jp": "鳥獣擬",
+    "en": "Bird Mimicry",
+    "lit": "B0380"
+   },
+   {
+    "jp": "虎爪擬",
+    "en": "Tiger Mimicry",
+    "lit": "B0384"
+   },
+   {
+    "jp": "影朧",
+    "en": "Shadow Haze",
+    "lit": "B0388"
+   },
+   {
+    "jp": "餓狼擬",
+    "en": "Wolf Mimicry",
+    "lit": "B038C"
+   },
+   {
+    "jp": "メラ・ノ・シオーラ",
+    "en": "Mera no Shiora",
+    "lit": "B0390"
+   },
+   {
+    "jp": "ロブ・ハ・ラトゥーマ",
+    "en": "Rob ha Ratuma",
+    "lit": "B0394"
+   },
+   {
+    "jp": "タジャカ・マ・サーヤ",
+    "en": "Tajaka ma Saya",
+    "lit": "B0398"
+   },
+   {
+    "jp": "カジャ・ノ・ア・マーヤ",
+    "en": "Kaja no a Maya",
+    "lit": "B039C"
+   },
+   {
+    "jp": "ヒジュラ・カ・サーナ",
+    "en": "Hijura ka Sana",
+    "lit": "B03A0"
+   },
+   {
+    "jp": "毒蛾",
+    "en": "Poison Moth",
+    "lit": "B03A4"
+   },
+   {
+    "jp": "孔針剛",
+    "en": "Koshingo",
+    "lit": "B03A8"
+   },
+   {
+    "jp": "鳳仙花",
+    "en": "Touch-Me-Not",
+    "lit": "B03AC"
+   },
+   {
+    "jp": "土蜘蛛",
+    "en": "Earth Spider",
+    "lit": "B03B0"
+   },
+   {
+    "jp": "地雷震",
+    "en": "Mine Quake",
+    "lit": "B03B4"
+   },
+   {
+    "jp": "遠当て",
+    "en": "Distant Strike",
+    "lit": "B03B8"
+   },
+   {
+    "jp": "降太鼓",
+    "en": "Falling Drum",
+    "lit": "B03BC"
+   },
+   {
+    "jp": "旋風掌",
+    "en": "Whirlwind Palm",
+    "lit": "B03C0"
+   },
+   {
+    "jp": "流撃波",
+    "en": "Flow Strike Wave",
+    "lit": "B03C4"
+   },
+   {
+    "jp": "錬空玉砕掌",
+    "en": "Air Shatter Palm",
+    "lit": "B03C8"
+   },
+   {
+    "jp": "円月剣",
+    "en": "Full Moon Sword",
+    "lit": "B03CC"
+   },
+   {
+    "jp": "奇羅々",
+    "en": "Kirara",
+    "lit": "B03D0"
+   },
+   {
+    "jp": "無量新月",
+    "en": "Endless New Moon",
+    "lit": "B03D4"
+   },
+   {
+    "jp": "有量円月",
+    "en": "Finite Full Moon",
+    "lit": "B03D8"
+   },
+   {
+    "jp": "みろくビーム",
+    "en": "Miroku Beam",
+    "lit": "B03DC"
+   }
+  ]
+ },
+ {
+  "id": "equip",
+  "note": "START > Equipment (charset AC792); equipment names via tools/items.py",
+  "charset_lit": "C824",
+  "charset_imm": "C7BA",
+  "glyphs": 135,
+  "cache": true,
+  "digits": [
+   "A75EE"
+  ],
+  "labels": []
+ },
+ {
+  "id": "party",
+  "note": "START > Party (charset AC3D2)",
+  "charset_lit": "D28C",
+  "charset_imm": "D220",
+  "glyphs": 49,
+  "cache": true,
+  "labels": [
+   {
+    "jp": "美堂　蛮",
+    "en": "Ban Mido",
+    "lit": "B042C"
+   },
+   {
+    "jp": "天野　銀次",
+    "en": "Ginji Amano",
+    "lit": "B0430"
+   },
+   {
+    "jp": "工藤　卑弥呼",
+    "en": "Himiko Kudo",
+    "lit": "B0434"
+   },
+   {
+    "jp": "赤屍　蔵人",
+    "en": "Kuroudo Akabane",
+    "lit": "B0438"
+   },
+   {
+    "jp": "風鳥院　花月",
+    "en": "Kazuki Fuchoin",
+    "lit": "B043C"
+   },
+   {
+    "jp": "冬木　士度",
+    "en": "Shido Fuyuki",
+    "lit": "B0440"
+   },
+   {
+    "jp": "笑師　春樹",
+    "en": "Emishi Haruki",
+    "lit": "B0444"
+   },
+   {
+    "jp": "筧　十兵衛",
+    "en": "Juubei Kakei",
+    "lit": "B0448"
+   },
+   {
+    "jp": "雨流　俊樹",
+    "en": "Toshiki Uryu",
+    "lit": "B044C"
+   },
+   {
+    "jp": "弥勒　雪彦",
+    "en": "Yukihiko Miroku",
+    "lit": "B0450"
+   }
+  ]
+ },
+ {
+  "id": "items",
+  "note": "START > Items (charset AC434); item names via tools/items.py",
+  "charset_lit": "D938",
+  "charset_imm": "D894",
+  "glyphs": 195,
+  "cache": true,
+  "digits": [
+   "A5E54"
+  ],
+  "labels": [
+   {
+    "jp": "アイテム",
+    "en": "Items",
+    "lit": "D93C",
+    "imm": "D8A6"
+   },
+   {
+    "jp": "イベント",
+    "en": "Event",
+    "lit": "D944",
+    "imm": "D8B6"
+   },
+   {
+    "jp": "カード",
+    "en": "Cards",
+    "lit": "D948",
+    "imm": "D8C6"
+   }
+  ]
+ },
+ {
+  "id": "save",
+  "note": "START > Save (charset AC8A0)",
+  "charset_lit": "F450",
+  "charset_imm": "F3FC",
+  "glyphs": 42,
+  "cache": true,
+  "digits": [
+   "A785A"
+  ],
+  "labels": [
+   {
+    "jp": "セーブ",
+    "en": "Save",
+    "lit": "F4EC",
+    "imm": "F46A"
+   },
+   {
+    "jp": "ロード",
+    "en": "Load",
+    "lit": "F458",
+    "imm": "F416"
+   },
+   {
+    "jp": "現在",
+    "en": "Now",
+    "lit": "10650"
+   },
+   {
+    "jp": "番",
+    "en": " ",
+    "lit": "107D4"
+   },
+   {
+    "jp": "NO　DATA",
+    "en": "NO DATA",
+    "lit": "107DC"
+   },
+   {
+    "jp": "ACT",
+    "en": "Act",
+    "lit": "109A4"
+   },
+   {
+    "jp": "書き込みエラーです",
+    "en": "Save error.",
+    "lit": "F6DC"
+   },
+   {
+    "jp": "　　　　　　　　　　　　　　",
+    "en": "                            ",
+    "lit": "F6D4,F718"
+   },
+   {
+    "jp": "警告！Aボタンで上書きします",
+    "en": "Warning! A: overwrite",
+    "lit": "F660"
+   }
+  ]
+ },
+ {
+  "id": "move",
+  "note": "Act select / move (charset AC8F4)",
+  "charset_lit": "F000",
+  "charset_imm": "EF7A",
+  "glyphs": 60,
+  "cache": true,
+  "digits": [
+   "A7A12"
+  ],
+  "labels": [
+   {
+    "jp": "いどう",
+    "en": "Move",
+    "lit": "F004",
+    "imm": "EF8C"
+   },
+   {
+    "jp": "ACT",
+    "en": "Act",
+    "lit": "F00C",
+    "imm": "EF9C"
+   },
+   {
+    "jp": "現在位置:",
+    "en": "Now at:",
+    "lit": "F108",
+    "imm": "F03A"
+   },
+   {
+    "jp": "移動先:",
+    "en": "Go to:",
+    "lit": "F118",
+    "imm": "F062"
+   },
+   {
+    "jp": "HONKY/TONK",
+    "en": "Honky\nTonk",
+    "lit": "B0934"
+   },
+   {
+    "jp": "ACT0",
+    "en": "Act 0",
+    "lit": "B0938"
+   },
+   {
+    "jp": "裏新宿/占い横町",
+    "en": "Fortune\nAlley",
+    "lit": "B093C"
+   },
+   {
+    "jp": "別荘",
+    "en": "Villa",
+    "lit": "B0940"
+   },
+   {
+    "jp": "湾岸倉庫",
+    "en": "Bayside\nWarehouse",
+    "lit": "B0944"
+   },
+   {
+    "jp": "蛭田/ジャパン",
+    "en": "Hiruta\nJapan",
+    "lit": "B0948"
+   },
+   {
+    "jp": "臨海パーク",
+    "en": "Seaside\nPark",
+    "lit": "B094C"
+   },
+   {
+    "jp": "神門の里",
+    "en": "Mikado\nVillage",
+    "lit": "B0950"
+   },
+   {
+    "jp": "地下洞窟",
+    "en": "Cavern",
+    "lit": "B0954"
+   },
+   {
+    "jp": "ACT8",
+    "en": "Act 8",
+    "lit": "B0958"
+   },
+   {
+    "jp": "ACT9",
+    "en": "Act 9",
+    "lit": "B095C"
    }
   ]
  }

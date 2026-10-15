@@ -58,7 +58,11 @@ def test_romdiff(rom):
     allowed.append((0x58174, 0x58178))
     allowed.append((0xFE4000, 0xFFF000))      # menu data
     import sysmenu
+    import items
+    allowed += items.allowed()
     for scr in sysmenu.load():
+        for d in scr.get('digits', []):
+            allowed.append((int(d, 16), int(d, 16) + 20))
         for k, n in (('charset_lit', 4), ('charset_imm', 1)):
             a = int(scr[k], 16)
             allowed.append((a, a + n))

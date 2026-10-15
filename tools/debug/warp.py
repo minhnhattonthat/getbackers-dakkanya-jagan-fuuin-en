@@ -52,6 +52,8 @@ def cmd_for(name, a):
         cmd += ['--mash', str(mash)]
     for x in a.script or []:
         cmd += ['--script', x]
+    for x in a.var or []:
+        cmd += ['--var', x]
     state = a.state_out or (ROOT / 'work' / 'states' / f"{name.replace(':', '_')}.mss" if a.save_state else None)
     if state:
         cmd += ['--state-out', str(state)]
@@ -82,6 +84,7 @@ def main():
     p.add_argument('--save-state', action='store_true')
     p.add_argument('--sheet', action='store_true')
     p.add_argument('--script', action='append', help='extra Lua probe(s)')
+    p.add_argument('--var', action='append', help='NAME=LUA passed to emu.py')
     a = p.parse_args()
     if a.scene == 'all':
         a.save_state, a.sheet = True, True

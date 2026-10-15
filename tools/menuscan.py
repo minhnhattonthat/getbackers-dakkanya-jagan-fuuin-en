@@ -31,6 +31,8 @@ def main():
     out = []
     for s in slots:
         p = struct.unpack_from('<I', rom, s)[0] - 0x08000000
+        if not 0 <= p < len(rom):
+            continue
         idx = []
         while len(idx) < 60:
             v = struct.unpack_from('<H', rom, p + 2 * len(idx))[0]
