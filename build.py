@@ -105,14 +105,15 @@ def plan(rom, t, mode, overrides):
         if subs:
             jobs[s] = subs
     bank_en = {}
-    for i in range(10 ** 6):
+    brecs = parse_script(rom, BANK)[0]
+    for i, (q, p) in enumerate(brecs):
         e = ents.get('B%04d' % i)
         if e is None:
             break
         en = english_for(mode, e, overrides)
         if en is not None:
             bank_en[i] = en
-            lines_all.append(en)
+            lines_all.append(bank_text(codes_of(p), en))
     return jobs, bank_en, lines_all
 
 
@@ -160,16 +161,21 @@ def bank_layout(codes):
     return lead, end - lead, codes[end:]
 
 
-def bank_codes(jp_codes, en, encoder):
+def bank_text(jp_codes, en):
     """English for a bank string, keeping the JP field layout: right-aligned fields (leading spaces) stay
-    right-aligned to where the JP text ended; trailing blank/filler codes are kept as they were."""
+    right-aligned to where the JP text ended."""
     lead, body, trail = bank_layout(jp_codes)
     if en.startswith('_'):            # translators mark a leading space (fragments after a name) with _
         en = ' ' + en[1:]
     if lead:
         width = 2 * (lead + body)
         en = ' ' * max(0, width - enc.line_halves(en)) + en
-    return encoder.encode(en) + list(trail)
+    return en
+
+
+def bank_codes(jp_codes, en, encoder):
+    """... plus the trailing blank/filler codes kept as they were."""
+    return encoder.encode(bank_text(jp_codes, en)) + list(bank_layout(jp_codes)[2])
 
 
 def build(mode, overrides=None):

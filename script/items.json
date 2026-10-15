@@ -1,0 +1,2844 @@
+[
+ {
+  "id": "item000",
+  "name_jp": "人面イカ",
+  "name_en": "Human-Face Squid",
+  "text_jp": "HP回復小(単体)",
+  "text_en": "Restore some HP (one ally)"
+ },
+ {
+  "id": "item001",
+  "name_jp": "Mオイル",
+  "name_en": "M Oil",
+  "text_jp": "HP回復大(単体)",
+  "text_en": "Restore lots of HP (one ally)"
+ },
+ {
+  "id": "item002",
+  "name_jp": "Hオオムギ粉",
+  "name_en": "Gut Barley Flour",
+  "text_jp": "戦闘不能回復(単体)",
+  "text_en": "Revive from KO (one ally)"
+ },
+ {
+  "id": "item003",
+  "name_jp": "干物イモリ",
+  "name_en": "Dried Newt",
+  "text_jp": "解毒(単体)",
+  "text_en": "Cure poison (one ally)"
+ },
+ {
+  "id": "item004",
+  "name_jp": "トカゲの尾",
+  "name_en": "Lizard Tail",
+  "text_jp": "マヒ回復(単体)",
+  "text_en": "Cure paralysis (one ally)"
+ },
+ {
+  "id": "item005",
+  "name_jp": "ヘビの抜け殻",
+  "name_en": "Shed Snakeskin",
+  "text_jp": "混乱回復(単体)",
+  "text_en": "Cure confusion (one ally)"
+ },
+ {
+  "id": "item006",
+  "name_jp": "毒キノコ",
+  "name_en": "Poison Mushroom",
+  "text_jp": "変身効果回復(単体)",
+  "text_en": "Undo transformation (one ally)"
+ },
+ {
+  "id": "item007",
+  "name_jp": "ウサギの尾",
+  "name_en": "Rabbit Tail",
+  "text_jp": "ステータス異常回復(単体)",
+  "text_en": "Cure status ailments (one ally)"
+ },
+ {
+  "id": "item008",
+  "name_jp": "マンドラゴラ",
+  "name_en": "Mandragora",
+  "text_jp": "HP全回復\nステータス異常回復(単体)",
+  "text_en": "Fully restore HP\nCure status ailments (one ally)"
+ },
+ {
+  "id": "item009",
+  "name_jp": "水晶玉",
+  "name_en": "Crystal Ball",
+  "text_jp": "戦闘不能回復、HP全回復\nステータス異常回復(単体)",
+  "text_en": "Revive from KO, fully restore HP\nCure status ailments (one ally)"
+ },
+ {
+  "id": "item010",
+  "name_jp": "インセンス",
+  "name_en": "Incense",
+  "text_jp": "戦闘不能回復、HP全回復\nステータス異常回復(全体)",
+  "text_en": "Revive from KO, fully restore HP\nCure status ailments (all allies)"
+ },
+ {
+  "id": "item011",
+  "name_jp": "天照の面",
+  "name_en": "Amaterasu Mask",
+  "text_jp": "変身効果回復(全体)\n戦闘中のみ",
+  "text_en": "Undo transformation (all allies)\nBattle only"
+ },
+ {
+  "id": "item012",
+  "name_jp": "経正の面",
+  "name_en": "Tsunemasa Mask",
+  "text_jp": "防御力アップ(単体)\n戦闘中のみ",
+  "text_en": "Defense up (one ally)\nBattle only"
+ },
+ {
+  "id": "item013",
+  "name_jp": "頼政の面",
+  "name_en": "Yorimasa Mask",
+  "text_jp": "回避率アップ(単体)\n戦闘中のみ",
+  "text_en": "Evasion up (one ally)\nBattle only"
+ },
+ {
+  "id": "item014",
+  "name_jp": "巴の面",
+  "name_en": "Tomoe Mask",
+  "text_jp": "攻撃力アップ(単体)\n戦闘中のみ",
+  "text_en": "Attack up (one ally)\nBattle only"
+ },
+ {
+  "id": "item015",
+  "name_jp": "葵上の面",
+  "name_en": "Aoi-no-Ue Mask",
+  "text_jp": "一回だけ即死効果無効化(全体)\n戦闘中のみ",
+  "text_en": "Block instant death once (all)\nBattle only"
+ },
+ {
+  "id": "item016",
+  "name_jp": "天細女の面",
+  "name_en": "Amenouzume Mask",
+  "text_jp": "HP回復小(全体)\n戦闘中のみ",
+  "text_en": "Restore some HP (all allies)\nBattle only"
+ },
+ {
+  "id": "item017",
+  "name_jp": "天狗の面",
+  "name_en": "Tengu Mask",
+  "text_jp": "すばやさアップ(単体)\n戦闘中のみ",
+  "text_en": "Speed up (one ally)\nBattle only"
+ },
+ {
+  "id": "item018",
+  "name_jp": "松風の面",
+  "name_en": "Matsukaze Mask",
+  "text_jp": "ステータス異常回復(全体)\n戦闘中のみ",
+  "text_en": "Cure status ailments (all allies)\nBattle only"
+ },
+ {
+  "id": "item019",
+  "name_jp": "コーヒー券",
+  "name_en": "Coffee Ticket",
+  "text_jp": "HP全回復(全体)\nマップ上のみ使用可",
+  "text_en": "Fully restore HP (all allies)\nUsable on the map only"
+ },
+ {
+  "id": "item020",
+  "name_jp": "ばんぎんのM",
+  "name_en": "Ban&Ginji M",
+  "text_jp": "蛮&銀次の相性値をアップ",
+  "text_en": "Raises Ban & Ginji's affinity"
+ },
+ {
+  "id": "item021",
+  "name_jp": "ばんひみのM",
+  "name_en": "Ban&Himiko M",
+  "text_jp": "蛮&卑弥呼の相性値をアップ",
+  "text_en": "Raises Ban & Himiko's affinity"
+ },
+ {
+  "id": "item022",
+  "name_jp": "ばんばねのM",
+  "name_en": "Ban&Akabane M",
+  "text_jp": "蛮&赤屍の相性値をアップ",
+  "text_en": "Raises Ban & Akabane's affinity"
+ },
+ {
+  "id": "item023",
+  "name_jp": "ばんかづのM",
+  "name_en": "Ban&Kazuki M",
+  "text_jp": "蛮&花月の相性値をアップ",
+  "text_en": "Raises Ban & Kazuki's affinity"
+ },
+ {
+  "id": "item024",
+  "name_jp": "ばんしどのM",
+  "name_en": "Ban&Shido M",
+  "text_jp": "蛮&士度の相性値をアップ",
+  "text_en": "Raises Ban & Shido's affinity"
+ },
+ {
+  "id": "item025",
+  "name_jp": "ばんえみのM",
+  "name_en": "Ban&Emishi M",
+  "text_jp": "蛮&笑師の相性値をアップ",
+  "text_en": "Raises Ban & Emishi's affinity"
+ },
+ {
+  "id": "item026",
+  "name_jp": "ばんじゅのM",
+  "name_en": "Ban&Juubei M",
+  "text_jp": "蛮&十兵衛の相性値をアップ",
+  "text_en": "Raises Ban & Juubei's affinity"
+ },
+ {
+  "id": "item027",
+  "name_jp": "ばんうりのM",
+  "name_en": "Ban&Uryu M",
+  "text_jp": "蛮&雨流の相性値をアップ",
+  "text_en": "Raises Ban & Uryu's affinity"
+ },
+ {
+  "id": "item028",
+  "name_jp": "ひみぎんのM",
+  "name_en": "Ginji&Himiko M",
+  "text_jp": "銀次&卑弥呼の相性値をアップ",
+  "text_en": "Raises Ginji & Himiko's affinity"
+ },
+ {
+  "id": "item029",
+  "name_jp": "ばねぎんのM",
+  "name_en": "Ginji&Akabane M",
+  "text_jp": "銀次&赤屍の相性値をアップ",
+  "text_en": "Raises Ginji & Akabane's affinity"
+ },
+ {
+  "id": "item030",
+  "name_jp": "かづぎんのM",
+  "name_en": "Ginji&Kazuki M",
+  "text_jp": "銀次&花月の相性値をアップ",
+  "text_en": "Raises Ginji & Kazuki's affinity"
+ },
+ {
+  "id": "item031",
+  "name_jp": "しどぎんのM",
+  "name_en": "Ginji&Shido M",
+  "text_jp": "銀次&士度の相性値をアップ",
+  "text_en": "Raises Ginji & Shido's affinity"
+ },
+ {
+  "id": "item032",
+  "name_jp": "えみぎんのM",
+  "name_en": "Ginji&Emishi M",
+  "text_jp": "銀次&笑師の相性値をアップ",
+  "text_en": "Raises Ginji & Emishi's affinity"
+ },
+ {
+  "id": "item033",
+  "name_jp": "じゅぎんのM",
+  "name_en": "Ginji&Juubei M",
+  "text_jp": "銀次&十兵衛の相性値をアップ",
+  "text_en": "Raises Ginji & Juubei's affinity"
+ },
+ {
+  "id": "item034",
+  "name_jp": "うりぎんのM",
+  "name_en": "Ginji&Uryu M",
+  "text_jp": "銀次&雨流の相性値をアップ",
+  "text_en": "Raises Ginji & Uryu's affinity"
+ },
+ {
+  "id": "item035",
+  "name_jp": "ばねひみのM",
+  "name_en": "Himiko&Akabane M",
+  "text_jp": "卑弥呼&赤屍の相性値をアップ",
+  "text_en": "Raises Himiko & Akabane's affinity"
+ },
+ {
+  "id": "item036",
+  "name_jp": "かづひみのM",
+  "name_en": "Himiko&Kazuki M",
+  "text_jp": "卑弥呼&花月の相性値をアップ",
+  "text_en": "Raises Himiko & Kazuki's affinity"
+ },
+ {
+  "id": "item037",
+  "name_jp": "しどひみのM",
+  "name_en": "Himiko&Shido M",
+  "text_jp": "卑弥呼&士度の相性値をアップ",
+  "text_en": "Raises Himiko & Shido's affinity"
+ },
+ {
+  "id": "item038",
+  "name_jp": "えみひみのM",
+  "name_en": "Himiko&Emishi M",
+  "text_jp": "卑弥呼&笑師の相性値をアップ",
+  "text_en": "Raises Himiko & Emishi's affinity"
+ },
+ {
+  "id": "item039",
+  "name_jp": "じゅひみのM",
+  "name_en": "Himiko&Juubei M",
+  "text_jp": "卑弥呼&十兵衛の相性値をアップ",
+  "text_en": "Raises Himiko & Juubei's affinity"
+ },
+ {
+  "id": "item040",
+  "name_jp": "うりひみのM",
+  "name_en": "Himiko&Uryu M",
+  "text_jp": "卑弥呼&雨流の相性値をアップ",
+  "text_en": "Raises Himiko & Uryu's affinity"
+ },
+ {
+  "id": "item041",
+  "name_jp": "ばねかづのM",
+  "name_en": "Akabane&Kazuki M",
+  "text_jp": "赤屍&花月の相性値をアップ",
+  "text_en": "Raises Akabane & Kazuki's affinity"
+ },
+ {
+  "id": "item042",
+  "name_jp": "ばねしどのM",
+  "name_en": "Akabane&Shido M",
+  "text_jp": "赤屍&士度の相性値をアップ",
+  "text_en": "Raises Akabane & Shido's affinity"
+ },
+ {
+  "id": "item043",
+  "name_jp": "ばねえみのM",
+  "name_en": "Akabane&Emishi M",
+  "text_jp": "赤屍&笑師の相性値をアップ",
+  "text_en": "Raises Akabane & Emishi's affinity"
+ },
+ {
+  "id": "item044",
+  "name_jp": "ばねじゅのM",
+  "name_en": "Akabane&Juubei M",
+  "text_jp": "赤屍&十兵衛の相性値をアップ",
+  "text_en": "Raises Akabane & Juubei's affinity"
+ },
+ {
+  "id": "item045",
+  "name_jp": "ばねうりのM",
+  "name_en": "Akabane&Uryu M",
+  "text_jp": "赤屍&雨流の相性値をアップ",
+  "text_en": "Raises Akabane & Uryu's affinity"
+ },
+ {
+  "id": "item046",
+  "name_jp": "しどかづのM",
+  "name_en": "Kazuki&Shido M",
+  "text_jp": "花月&士度の相性値をアップ",
+  "text_en": "Raises Kazuki & Shido's affinity"
+ },
+ {
+  "id": "item047",
+  "name_jp": "えみかづのM",
+  "name_en": "Kazuki&Emishi M",
+  "text_jp": "花月&笑師の相性値をアップ",
+  "text_en": "Raises Kazuki & Emishi's affinity"
+ },
+ {
+  "id": "item048",
+  "name_jp": "じゅかづのM",
+  "name_en": "Kazuki&Juubei M",
+  "text_jp": "花月&十兵衛の相性値をアップ",
+  "text_en": "Raises Kazuki & Juubei's affinity"
+ },
+ {
+  "id": "item049",
+  "name_jp": "うりかづのM",
+  "name_en": "Kazuki&Uryu M",
+  "text_jp": "花月&雨流の相性値をアップ",
+  "text_en": "Raises Kazuki & Uryu's affinity"
+ },
+ {
+  "id": "item050",
+  "name_jp": "しどえみのM",
+  "name_en": "Shido&Emishi M",
+  "text_jp": "士度&笑師の相性値をアップ",
+  "text_en": "Raises Shido & Emishi's affinity"
+ },
+ {
+  "id": "item051",
+  "name_jp": "しどじゅのM",
+  "name_en": "Shido&Juubei M",
+  "text_jp": "士度&十兵衛の相性値をアップ",
+  "text_en": "Raises Shido & Juubei's affinity"
+ },
+ {
+  "id": "item052",
+  "name_jp": "しどうりのM",
+  "name_en": "Shido&Uryu M",
+  "text_jp": "士度&雨流の相性値をアップ",
+  "text_en": "Raises Shido & Uryu's affinity"
+ },
+ {
+  "id": "item053",
+  "name_jp": "えみじゅのM",
+  "name_en": "Emishi&Juubei M",
+  "text_jp": "笑師&十兵衛の相性値をアップ",
+  "text_en": "Raises Emishi & Juubei's affinity"
+ },
+ {
+  "id": "item054",
+  "name_jp": "えみうりのM",
+  "name_en": "Emishi&Uryu M",
+  "text_jp": "笑師&雨流の相性値をアップ",
+  "text_en": "Raises Emishi & Uryu's affinity"
+ },
+ {
+  "id": "item055",
+  "name_jp": "じゅうりのM",
+  "name_en": "Juubei&Uryu M",
+  "text_jp": "十兵衛&雨流の相性値をアップ",
+  "text_en": "Raises Juubei & Uryu's affinity"
+ },
+ {
+  "id": "item056",
+  "name_jp": "蛮の本音",
+  "name_en": "Ban's Truth",
+  "text_jp": "蛮の本音",
+  "text_en": "Ban's True Voice"
+ },
+ {
+  "id": "item057",
+  "name_jp": "銀次の本音",
+  "name_en": "Ginji's Truth",
+  "text_jp": "銀次の本音",
+  "text_en": "Ginji's True Voice"
+ },
+ {
+  "id": "item058",
+  "name_jp": "卑弥呼の本音",
+  "name_en": "Himiko's Truth",
+  "text_jp": "卑弥呼の本音",
+  "text_en": "Himiko's True Voice"
+ },
+ {
+  "id": "item059",
+  "name_jp": "赤屍の本音",
+  "name_en": "Akabane's Truth",
+  "text_jp": "赤屍の本音",
+  "text_en": "Akabane's True Voice"
+ },
+ {
+  "id": "item060",
+  "name_jp": "花月の本音",
+  "name_en": "Kazuki's Truth",
+  "text_jp": "花月の本音",
+  "text_en": "Kazuki's True Voice"
+ },
+ {
+  "id": "item061",
+  "name_jp": "士度の本音",
+  "name_en": "Shido's Truth",
+  "text_jp": "士度の本音",
+  "text_en": "Shido's True Voice"
+ },
+ {
+  "id": "item062",
+  "name_jp": "笑師の本音",
+  "name_en": "Emishi's Truth",
+  "text_jp": "笑師の本音",
+  "text_en": "Emishi's True Voice"
+ },
+ {
+  "id": "item063",
+  "name_jp": "十兵衛の本音",
+  "name_en": "Juubei's Truth",
+  "text_jp": "十兵衛の本音",
+  "text_en": "Juubei's True Voice"
+ },
+ {
+  "id": "item064",
+  "name_jp": "雨流の本音",
+  "name_en": "Uryu's Truth",
+  "text_jp": "雨流の本音",
+  "text_en": "Uryu's True Voice"
+ },
+ {
+  "id": "item065",
+  "name_jp": "先生の原稿",
+  "name_en": "Manuscript",
+  "text_jp": "先生の原稿　全部で8枚",
+  "text_en": "Professor's Manuscript (8 pages)"
+ },
+ {
+  "id": "item066",
+  "name_jp": "弥勒の本音",
+  "name_en": "Miroku's Truth",
+  "text_jp": "弥勒の本音",
+  "text_en": "Miroku's True Voice"
+ },
+ {
+  "id": "item067",
+  "name_jp": "敵の本音",
+  "name_en": "Enemy's Truth",
+  "text_jp": "敵の本音",
+  "text_en": "Enemy's True Voice"
+ },
+ {
+  "id": "item068",
+  "name_jp": "カギ",
+  "name_en": "Key",
+  "text_jp": "館長室のカギ",
+  "text_en": "Director's Office Key"
+ },
+ {
+  "id": "item069",
+  "name_jp": "タヌキ",
+  "name_en": "Tanuki",
+  "text_jp": "信楽焼きの狸",
+  "text_en": "Shigaraki Ware Tanuki"
+ },
+ {
+  "id": "item070",
+  "name_jp": "一輪挿し",
+  "name_en": "Bud Vase",
+  "text_jp": "竹の一輪挿し",
+  "text_en": "Bamboo Bud Vase"
+ },
+ {
+  "id": "item071",
+  "name_jp": "酒器",
+  "name_en": "Sake Set",
+  "text_jp": "酒器",
+  "text_en": "Sake Set"
+ },
+ {
+  "id": "item072",
+  "name_jp": "漆器",
+  "name_en": "Lacquerware",
+  "text_jp": "漆器",
+  "text_en": "Lacquerware"
+ },
+ {
+  "id": "item073",
+  "name_jp": "皿",
+  "name_en": "Plate",
+  "text_jp": "有田焼の皿",
+  "text_en": "Arita Porcelain Plate"
+ },
+ {
+  "id": "item074",
+  "name_jp": "壺",
+  "name_en": "Jar",
+  "text_jp": "青磁の壺",
+  "text_en": "Celadon Jar"
+ },
+ {
+  "id": "item075",
+  "name_jp": "招き猫",
+  "name_en": "Beckoning Cat",
+  "text_jp": "招き猫",
+  "text_en": "Beckoning Cat"
+ },
+ {
+  "id": "item076",
+  "name_jp": "香炉",
+  "name_en": "Incense Burner",
+  "text_jp": "香炉",
+  "text_en": "Incense Burner"
+ },
+ {
+  "id": "item077",
+  "name_jp": "ランプ",
+  "name_en": "Lamp",
+  "text_jp": "だるまランプ",
+  "text_en": "Daruma Lamp"
+ },
+ {
+  "id": "item078",
+  "name_jp": "湯たんぽ",
+  "name_en": "Hot-Water Bottle",
+  "text_jp": "湯たんぽ",
+  "text_en": "Hot-Water Bottle"
+ },
+ {
+  "id": "item079",
+  "name_jp": "くし",
+  "name_en": "Comb",
+  "text_jp": "つげ櫛",
+  "text_en": "Boxwood Comb"
+ },
+ {
+  "id": "item080",
+  "name_jp": "給湯器",
+  "name_en": "Water Heater",
+  "text_jp": "給湯器",
+  "text_en": "Water Heater"
+ },
+ {
+  "id": "item081",
+  "name_jp": "画",
+  "name_en": "Painting",
+  "text_jp": "肖像画",
+  "text_en": "Portrait"
+ },
+ {
+  "id": "item082",
+  "name_jp": "掛け軸",
+  "name_en": "Hanging Scroll",
+  "text_jp": "掛け軸",
+  "text_en": "Hanging Scroll"
+ },
+ {
+  "id": "item083",
+  "name_jp": "写真たて",
+  "name_en": "Photo Frame",
+  "text_jp": "写真たて",
+  "text_en": "Photo Frame"
+ },
+ {
+  "id": "item084",
+  "name_jp": "のれん",
+  "name_en": "Noren Curtain",
+  "text_jp": "のれん",
+  "text_en": "Noren Curtain"
+ },
+ {
+  "id": "item085",
+  "name_jp": "座布団",
+  "name_en": "Floor Cushion",
+  "text_jp": "座布団",
+  "text_en": "Floor Cushion"
+ },
+ {
+  "id": "item086",
+  "name_jp": "時計",
+  "name_en": "Clock",
+  "text_jp": "掛け時計",
+  "text_en": "Wall Clock"
+ },
+ {
+  "id": "item087",
+  "name_jp": "カギ",
+  "name_en": "Key",
+  "text_jp": "連絡通路のカギ",
+  "text_en": "Connecting Passage Key"
+ },
+ {
+  "id": "item088",
+  "name_jp": "ロープ",
+  "name_en": "Rope",
+  "text_jp": "カギ爪ロープ",
+  "text_en": "Grappling Rope"
+ },
+ {
+  "id": "item089",
+  "name_jp": "カギ壱",
+  "name_en": "Key 1",
+  "text_jp": "地下室のカギ",
+  "text_en": "Basement Key"
+ },
+ {
+  "id": "item090",
+  "name_jp": "カギ弐",
+  "name_en": "Key 2",
+  "text_jp": "倉庫のカギ",
+  "text_en": "Storeroom Key"
+ },
+ {
+  "id": "item091",
+  "name_jp": "カギ",
+  "name_en": "Key",
+  "text_jp": "ケージのカギ",
+  "text_en": "Cage Key"
+ },
+ {
+  "id": "item092",
+  "name_jp": "パス1",
+  "name_en": "Pass 1",
+  "text_jp": "IDパス1",
+  "text_en": "ID Pass 1"
+ },
+ {
+  "id": "item093",
+  "name_jp": "卵",
+  "name_en": "Egg",
+  "text_jp": "卵",
+  "text_en": "Egg"
+ },
+ {
+  "id": "item094",
+  "name_jp": "バン",
+  "name_en": "Ban",
+  "text_jp": "白ヘビのバン",
+  "text_en": "Ban the white snake"
+ },
+ {
+  "id": "item095",
+  "name_jp": "パス2",
+  "name_en": "Pass 2",
+  "text_jp": "IDパス2",
+  "text_en": "ID Pass 2"
+ },
+ {
+  "id": "item096",
+  "name_jp": "ネズミ",
+  "name_en": "Mouse",
+  "text_jp": "ネズミ",
+  "text_en": "Mouse"
+ },
+ {
+  "id": "item097",
+  "name_jp": "パス3",
+  "name_en": "Pass 3",
+  "text_jp": "IDパス3",
+  "text_en": "ID Pass 3"
+ },
+ {
+  "id": "item098",
+  "name_jp": "コンタクト",
+  "name_en": "Contact Lens",
+  "text_jp": "コンタクト",
+  "text_en": "Contact Lens"
+ },
+ {
+  "id": "item099",
+  "name_jp": "CD",
+  "name_en": "CD",
+  "text_jp": "サンプルCD",
+  "text_en": "Sample CD"
+ },
+ {
+  "id": "item100",
+  "name_jp": "パス",
+  "name_en": "Pass",
+  "text_jp": "入場パス",
+  "text_en": "Entry Pass"
+ },
+ {
+  "id": "item101",
+  "name_jp": "カギ1",
+  "name_en": "Key 1",
+  "text_jp": "入り口のカギ1",
+  "text_en": "Entrance Key 1"
+ },
+ {
+  "id": "item102",
+  "name_jp": "カギ2",
+  "name_en": "Key 2",
+  "text_jp": "入り口のカギ2",
+  "text_en": "Entrance Key 2"
+ },
+ {
+  "id": "item103",
+  "name_jp": "キー1",
+  "name_en": "Key 1",
+  "text_jp": "スタッフルームキー1",
+  "text_en": "Staff Room Key 1"
+ },
+ {
+  "id": "item104",
+  "name_jp": "キー2",
+  "name_en": "Key 2",
+  "text_jp": "スタッフルームキー2",
+  "text_en": "Staff Room Key 2"
+ },
+ {
+  "id": "item105",
+  "name_jp": "キー3",
+  "name_en": "Key 3",
+  "text_jp": "スタッフルームキー3",
+  "text_en": "Staff Room Key 3"
+ },
+ {
+  "id": "item106",
+  "name_jp": "キー4",
+  "name_en": "Key 4",
+  "text_jp": "スタッフルームキー4",
+  "text_en": "Staff Room Key 4"
+ },
+ {
+  "id": "item107",
+  "name_jp": "キー5",
+  "name_en": "Key 5",
+  "text_jp": "スタッフルームキー5",
+  "text_en": "Staff Room Key 5"
+ },
+ {
+  "id": "item108",
+  "name_jp": "キー6",
+  "name_en": "Key 6",
+  "text_jp": "スタッフルームキー6",
+  "text_en": "Staff Room Key 6"
+ },
+ {
+  "id": "item109",
+  "name_jp": "勾玉1",
+  "name_en": "Magatama 1",
+  "text_jp": "赤の勾玉",
+  "text_en": "Red Magatama"
+ },
+ {
+  "id": "item110",
+  "name_jp": "勾玉2",
+  "name_en": "Magatama 2",
+  "text_jp": "青の勾玉",
+  "text_en": "Blue Magatama"
+ },
+ {
+  "id": "item111",
+  "name_jp": "勾玉3",
+  "name_en": "Magatama 3",
+  "text_jp": "黒の勾玉",
+  "text_en": "Black Magatama"
+ },
+ {
+  "id": "item112",
+  "name_jp": "勾玉4",
+  "name_en": "Magatama 4",
+  "text_jp": "白の勾玉",
+  "text_en": "White Magatama"
+ },
+ {
+  "id": "item113",
+  "name_jp": "勾玉5",
+  "name_en": "Magatama 5",
+  "text_jp": "緑の勾玉",
+  "text_en": "Green Magatama"
+ },
+ {
+  "id": "item114",
+  "name_jp": "勾玉6",
+  "name_en": "Magatama 6",
+  "text_jp": "黄の勾玉",
+  "text_en": "Yellow Magatama"
+ },
+ {
+  "id": "item115",
+  "name_jp": "スズキ",
+  "name_en": "Sea Bass",
+  "text_jp": "スズキ",
+  "text_en": "Sea Bass"
+ },
+ {
+  "id": "item116",
+  "name_jp": "フグ",
+  "name_en": "Pufferfish",
+  "text_jp": "フグ",
+  "text_en": "Pufferfish"
+ },
+ {
+  "id": "item117",
+  "name_jp": "ミノカサゴ",
+  "name_en": "Lionfish",
+  "text_jp": "ミノカサゴ",
+  "text_en": "Lionfish"
+ },
+ {
+  "id": "item118",
+  "name_jp": "コイ",
+  "name_en": "Carp",
+  "text_jp": "コイ",
+  "text_en": "Carp"
+ },
+ {
+  "id": "item119",
+  "name_jp": "アユ",
+  "name_en": "Sweetfish",
+  "text_jp": "アユ",
+  "text_en": "Sweetfish"
+ },
+ {
+  "id": "item120",
+  "name_jp": "ニジマス",
+  "name_en": "Rainbow Trout",
+  "text_jp": "ニジマス",
+  "text_en": "Rainbow Trout"
+ },
+ {
+  "id": "item121",
+  "name_jp": "マグロ",
+  "name_en": "Tuna",
+  "text_jp": "マグロ",
+  "text_en": "Tuna"
+ },
+ {
+  "id": "item122",
+  "name_jp": "アジ",
+  "name_en": "Horse Mackerel",
+  "text_jp": "アジ",
+  "text_en": "Horse Mackerel"
+ },
+ {
+  "id": "item123",
+  "name_jp": "イワシ",
+  "name_en": "Sardine",
+  "text_jp": "イワシ",
+  "text_en": "Sardine"
+ },
+ {
+  "id": "item124",
+  "name_jp": "クラゲ",
+  "name_en": "Jellyfish",
+  "text_jp": "クラゲ",
+  "text_en": "Jellyfish"
+ },
+ {
+  "id": "item125",
+  "name_jp": "イソギン",
+  "name_en": "Sea Anemone",
+  "text_jp": "イソギン",
+  "text_en": "Sea Anemone"
+ },
+ {
+  "id": "item126",
+  "name_jp": "ヒドラ",
+  "name_en": "Hydra",
+  "text_jp": "ヒドラ",
+  "text_en": "Hydra"
+ },
+ {
+  "id": "item127",
+  "name_jp": "エビ",
+  "name_en": "Shrimp",
+  "text_jp": "エビ",
+  "text_en": "Shrimp"
+ },
+ {
+  "id": "item128",
+  "name_jp": "カニ",
+  "name_en": "Crab",
+  "text_jp": "カニ",
+  "text_en": "Crab"
+ },
+ {
+  "id": "item129",
+  "name_jp": "ヤドカリ",
+  "name_en": "Hermit Crab",
+  "text_jp": "ヤドカリ",
+  "text_en": "Hermit Crab"
+ },
+ {
+  "id": "item130",
+  "name_jp": "タコ",
+  "name_en": "Octopus",
+  "text_jp": "タコ",
+  "text_en": "Octopus"
+ },
+ {
+  "id": "item131",
+  "name_jp": "イカ",
+  "name_en": "Squid",
+  "text_jp": "イカ",
+  "text_en": "Squid"
+ },
+ {
+  "id": "item132",
+  "name_jp": "サザエ",
+  "name_en": "Turban Shell",
+  "text_jp": "サザエ",
+  "text_en": "Turban Shell"
+ },
+ {
+  "id": "item133",
+  "name_jp": "ウニ",
+  "name_en": "Sea Urchin",
+  "text_jp": "ウニ",
+  "text_en": "Sea Urchin"
+ },
+ {
+  "id": "item134",
+  "name_jp": "ヒトデ",
+  "name_en": "Starfish",
+  "text_jp": "ヒトデ",
+  "text_en": "Starfish"
+ },
+ {
+  "id": "item135",
+  "name_jp": "ナマコ",
+  "name_en": "Sea Cucumber",
+  "text_jp": "ナマコ",
+  "text_en": "Sea Cucumber"
+ },
+ {
+  "id": "item136",
+  "name_jp": "カード",
+  "name_en": "Card",
+  "text_jp": "カード",
+  "text_en": "Card"
+ },
+ {
+  "id": "item137",
+  "name_jp": "カギ",
+  "name_en": "Key",
+  "text_jp": "倉庫のカギ2",
+  "text_en": "Storeroom Key 2"
+ },
+ {
+  "id": "item138",
+  "name_jp": "スペアキー",
+  "name_en": "Spare Key",
+  "text_jp": "スペアキー",
+  "text_en": "Spare Key"
+ },
+ {
+  "id": "item139",
+  "name_jp": "画",
+  "name_en": "Painting",
+  "text_jp": "画",
+  "text_en": "Painting"
+ },
+ {
+  "id": "item140",
+  "name_jp": "社員証",
+  "name_en": "Employee ID",
+  "text_jp": "社員証",
+  "text_en": "Employee ID"
+ },
+ {
+  "id": "item141",
+  "name_jp": "ジャケット",
+  "name_en": "Jacket",
+  "text_jp": "ジャケット",
+  "text_en": "Jacket"
+ },
+ {
+  "id": "item142",
+  "name_jp": "カード1",
+  "name_en": "Card 1",
+  "text_jp": "蛮&銀次ACT2",
+  "text_en": "Ban & Ginji Act 2"
+ },
+ {
+  "id": "item143",
+  "name_jp": "カード2",
+  "name_en": "Card 2",
+  "text_jp": "蛮&銀次ACT3",
+  "text_en": "Ban & Ginji Act 3"
+ },
+ {
+  "id": "item144",
+  "name_jp": "カード3",
+  "name_en": "Card 3",
+  "text_jp": "蛮&銀次ACT4",
+  "text_en": "Ban & Ginji Act 4"
+ },
+ {
+  "id": "item145",
+  "name_jp": "カード4",
+  "name_en": "Card 4",
+  "text_jp": "蛮&銀次ACT5",
+  "text_en": "Ban & Ginji Act 5"
+ },
+ {
+  "id": "item146",
+  "name_jp": "カード5",
+  "name_en": "Card 5",
+  "text_jp": "蛮&銀次ACT6",
+  "text_en": "Ban & Ginji Act 6"
+ },
+ {
+  "id": "item147",
+  "name_jp": "カード6",
+  "name_en": "Card 6",
+  "text_jp": "蛮&銀次ACT7",
+  "text_en": "Ban & Ginji Act 7"
+ },
+ {
+  "id": "item148",
+  "name_jp": "カード7",
+  "name_en": "Card 7",
+  "text_jp": "蛮&銀次ACT8",
+  "text_en": "Ban & Ginji Act 8"
+ },
+ {
+  "id": "item149",
+  "name_jp": "カード8",
+  "name_en": "Card 8",
+  "text_jp": "蛮&卑弥呼ACT2",
+  "text_en": "Ban & Himiko Act 2"
+ },
+ {
+  "id": "item150",
+  "name_jp": "カード9",
+  "name_en": "Card 9",
+  "text_jp": "蛮&卑弥呼ACT3",
+  "text_en": "Ban & Himiko Act 3"
+ },
+ {
+  "id": "item151",
+  "name_jp": "カード10",
+  "name_en": "Card 10",
+  "text_jp": "蛮&卑弥呼ACT4",
+  "text_en": "Ban & Himiko Act 4"
+ },
+ {
+  "id": "item152",
+  "name_jp": "カード11",
+  "name_en": "Card 11",
+  "text_jp": "蛮&卑弥呼ACT6",
+  "text_en": "Ban & Himiko Act 6"
+ },
+ {
+  "id": "item153",
+  "name_jp": "カード12",
+  "name_en": "Card 12",
+  "text_jp": "蛮&卑弥呼ACT7",
+  "text_en": "Ban & Himiko Act 7"
+ },
+ {
+  "id": "item154",
+  "name_jp": "カード13",
+  "name_en": "Card 13",
+  "text_jp": "蛮&卑弥呼ACT8",
+  "text_en": "Ban & Himiko Act 8"
+ },
+ {
+  "id": "item155",
+  "name_jp": "カード14",
+  "name_en": "Card 14",
+  "text_jp": "蛮&赤屍ACT6",
+  "text_en": "Ban & Akabane Act 6"
+ },
+ {
+  "id": "item156",
+  "name_jp": "カード15",
+  "name_en": "Card 15",
+  "text_jp": "蛮&赤屍ACT7",
+  "text_en": "Ban & Akabane Act 7"
+ },
+ {
+  "id": "item157",
+  "name_jp": "カード16",
+  "name_en": "Card 16",
+  "text_jp": "蛮&赤屍ACT8",
+  "text_en": "Ban & Akabane Act 8"
+ },
+ {
+  "id": "item158",
+  "name_jp": "カード17",
+  "name_en": "Card 17",
+  "text_jp": "蛮&花月ACT2",
+  "text_en": "Ban & Kazuki Act 2"
+ },
+ {
+  "id": "item159",
+  "name_jp": "カード18",
+  "name_en": "Card 18",
+  "text_jp": "蛮&花月ACT3",
+  "text_en": "Ban & Kazuki Act 3"
+ },
+ {
+  "id": "item160",
+  "name_jp": "カード19",
+  "name_en": "Card 19",
+  "text_jp": "蛮&花月ACT4",
+  "text_en": "Ban & Kazuki Act 4"
+ },
+ {
+  "id": "item161",
+  "name_jp": "カード20",
+  "name_en": "Card 20",
+  "text_jp": "蛮&花月ACT6",
+  "text_en": "Ban & Kazuki Act 6"
+ },
+ {
+  "id": "item162",
+  "name_jp": "カード21",
+  "name_en": "Card 21",
+  "text_jp": "蛮&花月ACT7",
+  "text_en": "Ban & Kazuki Act 7"
+ },
+ {
+  "id": "item163",
+  "name_jp": "カード22",
+  "name_en": "Card 22",
+  "text_jp": "蛮&花月ACT8",
+  "text_en": "Ban & Kazuki Act 8"
+ },
+ {
+  "id": "item164",
+  "name_jp": "カード23",
+  "name_en": "Card 23",
+  "text_jp": "蛮&士度ACT4",
+  "text_en": "Ban & Shido Act 4"
+ },
+ {
+  "id": "item165",
+  "name_jp": "カード24",
+  "name_en": "Card 24",
+  "text_jp": "蛮&士度ACT5",
+  "text_en": "Ban & Shido Act 5"
+ },
+ {
+  "id": "item166",
+  "name_jp": "カード25",
+  "name_en": "Card 25",
+  "text_jp": "蛮&士度ACT6",
+  "text_en": "Ban & Shido Act 6"
+ },
+ {
+  "id": "item167",
+  "name_jp": "カード26",
+  "name_en": "Card 26",
+  "text_jp": "蛮&士度ACT7",
+  "text_en": "Ban & Shido Act 7"
+ },
+ {
+  "id": "item168",
+  "name_jp": "カード27",
+  "name_en": "Card 27",
+  "text_jp": "蛮&士度ACT8",
+  "text_en": "Ban & Shido Act 8"
+ },
+ {
+  "id": "item169",
+  "name_jp": "カード28",
+  "name_en": "Card 28",
+  "text_jp": "蛮&笑師ACT4",
+  "text_en": "Ban & Emishi Act 4"
+ },
+ {
+  "id": "item170",
+  "name_jp": "カード29",
+  "name_en": "Card 29",
+  "text_jp": "蛮&笑師ACT5",
+  "text_en": "Ban & Emishi Act 5"
+ },
+ {
+  "id": "item171",
+  "name_jp": "カード30",
+  "name_en": "Card 30",
+  "text_jp": "蛮&笑師ACT6",
+  "text_en": "Ban & Emishi Act 6"
+ },
+ {
+  "id": "item172",
+  "name_jp": "カード31",
+  "name_en": "Card 31",
+  "text_jp": "蛮&笑師ACT7",
+  "text_en": "Ban & Emishi Act 7"
+ },
+ {
+  "id": "item173",
+  "name_jp": "カード32",
+  "name_en": "Card 32",
+  "text_jp": "蛮&笑師ACT8",
+  "text_en": "Ban & Emishi Act 8"
+ },
+ {
+  "id": "item174",
+  "name_jp": "カード33",
+  "name_en": "Card 33",
+  "text_jp": "蛮&十兵衛ACT5",
+  "text_en": "Ban & Juubei Act 5"
+ },
+ {
+  "id": "item175",
+  "name_jp": "カード34",
+  "name_en": "Card 34",
+  "text_jp": "蛮&十兵衛ACT6",
+  "text_en": "Ban & Juubei Act 6"
+ },
+ {
+  "id": "item176",
+  "name_jp": "カード35",
+  "name_en": "Card 35",
+  "text_jp": "蛮&十兵衛ACT7",
+  "text_en": "Ban & Juubei Act 7"
+ },
+ {
+  "id": "item177",
+  "name_jp": "カード36",
+  "name_en": "Card 36",
+  "text_jp": "蛮&十兵衛ACT8",
+  "text_en": "Ban & Juubei Act 8"
+ },
+ {
+  "id": "item178",
+  "name_jp": "カード37",
+  "name_en": "Card 37",
+  "text_jp": "蛮&雨流ACT5",
+  "text_en": "Ban & Uryu Act 5"
+ },
+ {
+  "id": "item179",
+  "name_jp": "カード38",
+  "name_en": "Card 38",
+  "text_jp": "蛮&雨流ACT6",
+  "text_en": "Ban & Uryu Act 6"
+ },
+ {
+  "id": "item180",
+  "name_jp": "カード39",
+  "name_en": "Card 39",
+  "text_jp": "蛮&雨流ACT7",
+  "text_en": "Ban & Uryu Act 7"
+ },
+ {
+  "id": "item181",
+  "name_jp": "カード40",
+  "name_en": "Card 40",
+  "text_jp": "蛮&雨流ACT8",
+  "text_en": "Ban & Uryu Act 8"
+ },
+ {
+  "id": "item182",
+  "name_jp": "カード41",
+  "name_en": "Card 41",
+  "text_jp": "銀次&卑弥呼ACT2",
+  "text_en": "Ginji & Himiko Act 2"
+ },
+ {
+  "id": "item183",
+  "name_jp": "カード42",
+  "name_en": "Card 42",
+  "text_jp": "銀次&卑弥呼ACT3",
+  "text_en": "Ginji & Himiko Act 3"
+ },
+ {
+  "id": "item184",
+  "name_jp": "カード43",
+  "name_en": "Card 43",
+  "text_jp": "銀次&卑弥呼ACT4",
+  "text_en": "Ginji & Himiko Act 4"
+ },
+ {
+  "id": "item185",
+  "name_jp": "カード44",
+  "name_en": "Card 44",
+  "text_jp": "銀次&卑弥呼ACT6",
+  "text_en": "Ginji & Himiko Act 6"
+ },
+ {
+  "id": "item186",
+  "name_jp": "カード45",
+  "name_en": "Card 45",
+  "text_jp": "銀次&卑弥呼ACT7",
+  "text_en": "Ginji & Himiko Act 7"
+ },
+ {
+  "id": "item187",
+  "name_jp": "カード46",
+  "name_en": "Card 46",
+  "text_jp": "銀次&卑弥呼ACT8",
+  "text_en": "Ginji & Himiko Act 8"
+ },
+ {
+  "id": "item188",
+  "name_jp": "カード47",
+  "name_en": "Card 47",
+  "text_jp": "銀次&赤屍ACT6",
+  "text_en": "Ginji & Akabane Act 6"
+ },
+ {
+  "id": "item189",
+  "name_jp": "カード48",
+  "name_en": "Card 48",
+  "text_jp": "銀次&赤屍ACT7",
+  "text_en": "Ginji & Akabane Act 7"
+ },
+ {
+  "id": "item190",
+  "name_jp": "カード49",
+  "name_en": "Card 49",
+  "text_jp": "銀次&赤屍ACT8",
+  "text_en": "Ginji & Akabane Act 8"
+ },
+ {
+  "id": "item191",
+  "name_jp": "カード50",
+  "name_en": "Card 50",
+  "text_jp": "銀次&花月ACT2",
+  "text_en": "Ginji & Kazuki Act 2"
+ },
+ {
+  "id": "item192",
+  "name_jp": "カード51",
+  "name_en": "Card 51",
+  "text_jp": "銀次&花月ACT3",
+  "text_en": "Ginji & Kazuki Act 3"
+ },
+ {
+  "id": "item193",
+  "name_jp": "カード52",
+  "name_en": "Card 52",
+  "text_jp": "銀次&花月ACT4",
+  "text_en": "Ginji & Kazuki Act 4"
+ },
+ {
+  "id": "item194",
+  "name_jp": "カード53",
+  "name_en": "Card 53",
+  "text_jp": "銀次&花月ACT6",
+  "text_en": "Ginji & Kazuki Act 6"
+ },
+ {
+  "id": "item195",
+  "name_jp": "カード54",
+  "name_en": "Card 54",
+  "text_jp": "銀次&花月ACT7",
+  "text_en": "Ginji & Kazuki Act 7"
+ },
+ {
+  "id": "item196",
+  "name_jp": "カード55",
+  "name_en": "Card 55",
+  "text_jp": "銀次&花月ACT8",
+  "text_en": "Ginji & Kazuki Act 8"
+ },
+ {
+  "id": "item197",
+  "name_jp": "カード56",
+  "name_en": "Card 56",
+  "text_jp": "銀次&士度ACT4",
+  "text_en": "Ginji & Shido Act 4"
+ },
+ {
+  "id": "item198",
+  "name_jp": "カード57",
+  "name_en": "Card 57",
+  "text_jp": "銀次&士度ACT5",
+  "text_en": "Ginji & Shido Act 5"
+ },
+ {
+  "id": "item199",
+  "name_jp": "カード58",
+  "name_en": "Card 58",
+  "text_jp": "銀次&士度ACT6",
+  "text_en": "Ginji & Shido Act 6"
+ },
+ {
+  "id": "item200",
+  "name_jp": "カード59",
+  "name_en": "Card 59",
+  "text_jp": "銀次&士度ACT7",
+  "text_en": "Ginji & Shido Act 7"
+ },
+ {
+  "id": "item201",
+  "name_jp": "カード60",
+  "name_en": "Card 60",
+  "text_jp": "銀次&士度ACT8",
+  "text_en": "Ginji & Shido Act 8"
+ },
+ {
+  "id": "item202",
+  "name_jp": "カード61",
+  "name_en": "Card 61",
+  "text_jp": "銀次&笑師ACT4",
+  "text_en": "Ginji & Emishi Act 4"
+ },
+ {
+  "id": "item203",
+  "name_jp": "カード62",
+  "name_en": "Card 62",
+  "text_jp": "銀次&笑師ACT5",
+  "text_en": "Ginji & Emishi Act 5"
+ },
+ {
+  "id": "item204",
+  "name_jp": "カード63",
+  "name_en": "Card 63",
+  "text_jp": "銀次&笑師ACT6",
+  "text_en": "Ginji & Emishi Act 6"
+ },
+ {
+  "id": "item205",
+  "name_jp": "カード64",
+  "name_en": "Card 64",
+  "text_jp": "銀次&笑師ACT7",
+  "text_en": "Ginji & Emishi Act 7"
+ },
+ {
+  "id": "item206",
+  "name_jp": "カード65",
+  "name_en": "Card 65",
+  "text_jp": "銀次&笑師ACT8",
+  "text_en": "Ginji & Emishi Act 8"
+ },
+ {
+  "id": "item207",
+  "name_jp": "カード66",
+  "name_en": "Card 66",
+  "text_jp": "銀次&十兵衛ACT5",
+  "text_en": "Ginji & Juubei Act 5"
+ },
+ {
+  "id": "item208",
+  "name_jp": "カード67",
+  "name_en": "Card 67",
+  "text_jp": "銀次&十兵衛ACT6",
+  "text_en": "Ginji & Juubei Act 6"
+ },
+ {
+  "id": "item209",
+  "name_jp": "カード68",
+  "name_en": "Card 68",
+  "text_jp": "銀次&十兵衛ACT7",
+  "text_en": "Ginji & Juubei Act 7"
+ },
+ {
+  "id": "item210",
+  "name_jp": "カード69",
+  "name_en": "Card 69",
+  "text_jp": "銀次&十兵衛ACT8",
+  "text_en": "Ginji & Juubei Act 8"
+ },
+ {
+  "id": "item211",
+  "name_jp": "カード70",
+  "name_en": "Card 70",
+  "text_jp": "銀次&雨流ACT5",
+  "text_en": "Ginji & Uryu Act 5"
+ },
+ {
+  "id": "item212",
+  "name_jp": "カード71",
+  "name_en": "Card 71",
+  "text_jp": "銀次&雨流ACT6",
+  "text_en": "Ginji & Uryu Act 6"
+ },
+ {
+  "id": "item213",
+  "name_jp": "カード72",
+  "name_en": "Card 72",
+  "text_jp": "銀次&雨流ACT7",
+  "text_en": "Ginji & Uryu Act 7"
+ },
+ {
+  "id": "item214",
+  "name_jp": "カード73",
+  "name_en": "Card 73",
+  "text_jp": "銀次&雨流ACT8",
+  "text_en": "Ginji & Uryu Act 8"
+ },
+ {
+  "id": "item215",
+  "name_jp": "カード74",
+  "name_en": "Card 74",
+  "text_jp": "銀次&弥勒ACT6",
+  "text_en": "Ginji & Miroku Act 6"
+ },
+ {
+  "id": "item216",
+  "name_jp": "カード75",
+  "name_en": "Card 75",
+  "text_jp": "銀次&弥勒ACT7",
+  "text_en": "Ginji & Miroku Act 7"
+ },
+ {
+  "id": "item217",
+  "name_jp": "カード76",
+  "name_en": "Card 76",
+  "text_jp": "卑弥呼&赤屍ACT6",
+  "text_en": "Himiko & Akabane Act 6"
+ },
+ {
+  "id": "item218",
+  "name_jp": "カード77",
+  "name_en": "Card 77",
+  "text_jp": "卑弥呼&赤屍ACT7",
+  "text_en": "Himiko & Akabane Act 7"
+ },
+ {
+  "id": "item219",
+  "name_jp": "カード78",
+  "name_en": "Card 78",
+  "text_jp": "卑弥呼&赤屍ACT8",
+  "text_en": "Himiko & Akabane Act 8"
+ },
+ {
+  "id": "item220",
+  "name_jp": "カード79",
+  "name_en": "Card 79",
+  "text_jp": "卑弥呼&花月ACT2",
+  "text_en": "Himiko & Kazuki Act 2"
+ },
+ {
+  "id": "item221",
+  "name_jp": "カード80",
+  "name_en": "Card 80",
+  "text_jp": "卑弥呼&花月ACT3",
+  "text_en": "Himiko & Kazuki Act 3"
+ },
+ {
+  "id": "item222",
+  "name_jp": "カード81",
+  "name_en": "Card 81",
+  "text_jp": "卑弥呼&花月ACT4",
+  "text_en": "Himiko & Kazuki Act 4"
+ },
+ {
+  "id": "item223",
+  "name_jp": "カード82",
+  "name_en": "Card 82",
+  "text_jp": "卑弥呼&花月ACT6",
+  "text_en": "Himiko & Kazuki Act 6"
+ },
+ {
+  "id": "item224",
+  "name_jp": "カード83",
+  "name_en": "Card 83",
+  "text_jp": "卑弥呼&花月ACT7",
+  "text_en": "Himiko & Kazuki Act 7"
+ },
+ {
+  "id": "item225",
+  "name_jp": "カード84",
+  "name_en": "Card 84",
+  "text_jp": "卑弥呼&花月ACT8",
+  "text_en": "Himiko & Kazuki Act 8"
+ },
+ {
+  "id": "item226",
+  "name_jp": "カード85",
+  "name_en": "Card 85",
+  "text_jp": "卑弥呼&士度ACT4",
+  "text_en": "Himiko & Shido Act 4"
+ },
+ {
+  "id": "item227",
+  "name_jp": "カード86",
+  "name_en": "Card 86",
+  "text_jp": "卑弥呼&士度ACT6",
+  "text_en": "Himiko & Shido Act 6"
+ },
+ {
+  "id": "item228",
+  "name_jp": "カード87",
+  "name_en": "Card 87",
+  "text_jp": "卑弥呼&士度ACT7",
+  "text_en": "Himiko & Shido Act 7"
+ },
+ {
+  "id": "item229",
+  "name_jp": "カード88",
+  "name_en": "Card 88",
+  "text_jp": "卑弥呼&士度ACT8",
+  "text_en": "Himiko & Shido Act 8"
+ },
+ {
+  "id": "item230",
+  "name_jp": "カード89",
+  "name_en": "Card 89",
+  "text_jp": "卑弥呼&笑師ACT4",
+  "text_en": "Himiko & Emishi Act 4"
+ },
+ {
+  "id": "item231",
+  "name_jp": "カード90",
+  "name_en": "Card 90",
+  "text_jp": "卑弥呼&笑師ACT6",
+  "text_en": "Himiko & Emishi Act 6"
+ },
+ {
+  "id": "item232",
+  "name_jp": "カード91",
+  "name_en": "Card 91",
+  "text_jp": "卑弥呼&笑師ACT7",
+  "text_en": "Himiko & Emishi Act 7"
+ },
+ {
+  "id": "item233",
+  "name_jp": "カード92",
+  "name_en": "Card 92",
+  "text_jp": "卑弥呼&笑師ACT8",
+  "text_en": "Himiko & Emishi Act 8"
+ },
+ {
+  "id": "item234",
+  "name_jp": "カード93",
+  "name_en": "Card 93",
+  "text_jp": "卑弥呼&十兵衛ACT6",
+  "text_en": "Himiko & Juubei Act 6"
+ },
+ {
+  "id": "item235",
+  "name_jp": "カード94",
+  "name_en": "Card 94",
+  "text_jp": "卑弥呼&十兵衛ACT7",
+  "text_en": "Himiko & Juubei Act 7"
+ },
+ {
+  "id": "item236",
+  "name_jp": "カード95",
+  "name_en": "Card 95",
+  "text_jp": "卑弥呼&十兵衛ACT8",
+  "text_en": "Himiko & Juubei Act 8"
+ },
+ {
+  "id": "item237",
+  "name_jp": "カード96",
+  "name_en": "Card 96",
+  "text_jp": "卑弥呼&雨流ACT6",
+  "text_en": "Himiko & Uryu Act 6"
+ },
+ {
+  "id": "item238",
+  "name_jp": "カード97",
+  "name_en": "Card 97",
+  "text_jp": "卑弥呼&雨流ACT7",
+  "text_en": "Himiko & Uryu Act 7"
+ },
+ {
+  "id": "item239",
+  "name_jp": "カード98",
+  "name_en": "Card 98",
+  "text_jp": "卑弥呼&雨流ACT8",
+  "text_en": "Himiko & Uryu Act 8"
+ },
+ {
+  "id": "item240",
+  "name_jp": "カード99",
+  "name_en": "Card 99",
+  "text_jp": "赤屍&花月ACT6",
+  "text_en": "Akabane & Kazuki Act 6"
+ },
+ {
+  "id": "item241",
+  "name_jp": "カード100",
+  "name_en": "Card 100",
+  "text_jp": "赤屍&花月ACT7",
+  "text_en": "Akabane & Kazuki Act 7"
+ },
+ {
+  "id": "item242",
+  "name_jp": "カード101",
+  "name_en": "Card 101",
+  "text_jp": "赤屍&花月ACT8",
+  "text_en": "Akabane & Kazuki Act 8"
+ },
+ {
+  "id": "item243",
+  "name_jp": "カード102",
+  "name_en": "Card 102",
+  "text_jp": "赤屍&士度ACT6",
+  "text_en": "Akabane & Shido Act 6"
+ },
+ {
+  "id": "item244",
+  "name_jp": "カード103",
+  "name_en": "Card 103",
+  "text_jp": "赤屍&士度ACT7",
+  "text_en": "Akabane & Shido Act 7"
+ },
+ {
+  "id": "item245",
+  "name_jp": "カード104",
+  "name_en": "Card 104",
+  "text_jp": "赤屍&士度ACT8",
+  "text_en": "Akabane & Shido Act 8"
+ },
+ {
+  "id": "item246",
+  "name_jp": "カード105",
+  "name_en": "Card 105",
+  "text_jp": "赤屍&笑師ACT6",
+  "text_en": "Akabane & Emishi Act 6"
+ },
+ {
+  "id": "item247",
+  "name_jp": "カード106",
+  "name_en": "Card 106",
+  "text_jp": "赤屍&笑師ACT7",
+  "text_en": "Akabane & Emishi Act 7"
+ },
+ {
+  "id": "item248",
+  "name_jp": "カード107",
+  "name_en": "Card 107",
+  "text_jp": "赤屍&笑師ACT8",
+  "text_en": "Akabane & Emishi Act 8"
+ },
+ {
+  "id": "item249",
+  "name_jp": "カード108",
+  "name_en": "Card 108",
+  "text_jp": "赤屍&十兵衛ACT6",
+  "text_en": "Akabane & Juubei Act 6"
+ },
+ {
+  "id": "item250",
+  "name_jp": "カード109",
+  "name_en": "Card 109",
+  "text_jp": "赤屍&十兵衛ACT7",
+  "text_en": "Akabane & Juubei Act 7"
+ },
+ {
+  "id": "item251",
+  "name_jp": "カード110",
+  "name_en": "Card 110",
+  "text_jp": "赤屍&十兵衛ACT8",
+  "text_en": "Akabane & Juubei Act 8"
+ },
+ {
+  "id": "item252",
+  "name_jp": "カード111",
+  "name_en": "Card 111",
+  "text_jp": "赤屍&雨流ACT6",
+  "text_en": "Akabane & Uryu Act 6"
+ },
+ {
+  "id": "item253",
+  "name_jp": "カード112",
+  "name_en": "Card 112",
+  "text_jp": "赤屍&雨流ACT7",
+  "text_en": "Akabane & Uryu Act 7"
+ },
+ {
+  "id": "item254",
+  "name_jp": "カード113",
+  "name_en": "Card 113",
+  "text_jp": "赤屍&雨流ACT8",
+  "text_en": "Akabane & Uryu Act 8"
+ },
+ {
+  "id": "item255",
+  "name_jp": "カード114",
+  "name_en": "Card 114",
+  "text_jp": "赤屍&弥勒ACT6",
+  "text_en": "Akabane & Miroku Act 6"
+ },
+ {
+  "id": "item256",
+  "name_jp": "カード115",
+  "name_en": "Card 115",
+  "text_jp": "赤屍&弥勒ACT7",
+  "text_en": "Akabane & Miroku Act 7"
+ },
+ {
+  "id": "item257",
+  "name_jp": "カード116",
+  "name_en": "Card 116",
+  "text_jp": "花月&士度ACT4",
+  "text_en": "Kazuki & Shido Act 4"
+ },
+ {
+  "id": "item258",
+  "name_jp": "カード117",
+  "name_en": "Card 117",
+  "text_jp": "花月&士度ACT6",
+  "text_en": "Kazuki & Shido Act 6"
+ },
+ {
+  "id": "item259",
+  "name_jp": "カード118",
+  "name_en": "Card 118",
+  "text_jp": "花月&士度ACT7",
+  "text_en": "Kazuki & Shido Act 7"
+ },
+ {
+  "id": "item260",
+  "name_jp": "カード119",
+  "name_en": "Card 119",
+  "text_jp": "花月&士度ACT8",
+  "text_en": "Kazuki & Shido Act 8"
+ },
+ {
+  "id": "item261",
+  "name_jp": "カード120",
+  "name_en": "Card 120",
+  "text_jp": "花月&笑師ACT4",
+  "text_en": "Kazuki & Emishi Act 4"
+ },
+ {
+  "id": "item262",
+  "name_jp": "カード121",
+  "name_en": "Card 121",
+  "text_jp": "花月&笑師ACT6",
+  "text_en": "Kazuki & Emishi Act 6"
+ },
+ {
+  "id": "item263",
+  "name_jp": "カード122",
+  "name_en": "Card 122",
+  "text_jp": "花月&笑師ACT7",
+  "text_en": "Kazuki & Emishi Act 7"
+ },
+ {
+  "id": "item264",
+  "name_jp": "カード123",
+  "name_en": "Card 123",
+  "text_jp": "花月&笑師ACT8",
+  "text_en": "Kazuki & Emishi Act 8"
+ },
+ {
+  "id": "item265",
+  "name_jp": "カード124",
+  "name_en": "Card 124",
+  "text_jp": "花月&十兵衛ACT6",
+  "text_en": "Kazuki & Juubei Act 6"
+ },
+ {
+  "id": "item266",
+  "name_jp": "カード125",
+  "name_en": "Card 125",
+  "text_jp": "花月&十兵衛ACT7",
+  "text_en": "Kazuki & Juubei Act 7"
+ },
+ {
+  "id": "item267",
+  "name_jp": "カード126",
+  "name_en": "Card 126",
+  "text_jp": "花月&十兵衛ACT8",
+  "text_en": "Kazuki & Juubei Act 8"
+ },
+ {
+  "id": "item268",
+  "name_jp": "カード127",
+  "name_en": "Card 127",
+  "text_jp": "花月&雨流ACT6",
+  "text_en": "Kazuki & Uryu Act 6"
+ },
+ {
+  "id": "item269",
+  "name_jp": "カード128",
+  "name_en": "Card 128",
+  "text_jp": "花月&雨流ACT7",
+  "text_en": "Kazuki & Uryu Act 7"
+ },
+ {
+  "id": "item270",
+  "name_jp": "カード129",
+  "name_en": "Card 129",
+  "text_jp": "花月&雨流ACT8",
+  "text_en": "Kazuki & Uryu Act 8"
+ },
+ {
+  "id": "item271",
+  "name_jp": "カード130",
+  "name_en": "Card 130",
+  "text_jp": "士度&笑師ACT4",
+  "text_en": "Shido & Emishi Act 4"
+ },
+ {
+  "id": "item272",
+  "name_jp": "カード131",
+  "name_en": "Card 131",
+  "text_jp": "士度&笑師ACT5",
+  "text_en": "Shido & Emishi Act 5"
+ },
+ {
+  "id": "item273",
+  "name_jp": "カード132",
+  "name_en": "Card 132",
+  "text_jp": "士度&笑師ACT6",
+  "text_en": "Shido & Emishi Act 6"
+ },
+ {
+  "id": "item274",
+  "name_jp": "カード133",
+  "name_en": "Card 133",
+  "text_jp": "士度&笑師ACT7",
+  "text_en": "Shido & Emishi Act 7"
+ },
+ {
+  "id": "item275",
+  "name_jp": "カード134",
+  "name_en": "Card 134",
+  "text_jp": "士度&笑師ACT8",
+  "text_en": "Shido & Emishi Act 8"
+ },
+ {
+  "id": "item276",
+  "name_jp": "カード135",
+  "name_en": "Card 135",
+  "text_jp": "士度&十兵衛ACT5",
+  "text_en": "Shido & Juubei Act 5"
+ },
+ {
+  "id": "item277",
+  "name_jp": "カード136",
+  "name_en": "Card 136",
+  "text_jp": "士度&十兵衛ACT6",
+  "text_en": "Shido & Juubei Act 6"
+ },
+ {
+  "id": "item278",
+  "name_jp": "カード137",
+  "name_en": "Card 137",
+  "text_jp": "士度&十兵衛ACT7",
+  "text_en": "Shido & Juubei Act 7"
+ },
+ {
+  "id": "item279",
+  "name_jp": "カード138",
+  "name_en": "Card 138",
+  "text_jp": "士度&十兵衛ACT8",
+  "text_en": "Shido & Juubei Act 8"
+ },
+ {
+  "id": "item280",
+  "name_jp": "カード139",
+  "name_en": "Card 139",
+  "text_jp": "士度&雨流ACT5",
+  "text_en": "Shido & Uryu Act 5"
+ },
+ {
+  "id": "item281",
+  "name_jp": "カード140",
+  "name_en": "Card 140",
+  "text_jp": "士度&雨流ACT6",
+  "text_en": "Shido & Uryu Act 6"
+ },
+ {
+  "id": "item282",
+  "name_jp": "カード141",
+  "name_en": "Card 141",
+  "text_jp": "士度&雨流ACT7",
+  "text_en": "Shido & Uryu Act 7"
+ },
+ {
+  "id": "item283",
+  "name_jp": "カード142",
+  "name_en": "Card 142",
+  "text_jp": "士度&雨流ACT8",
+  "text_en": "Shido & Uryu Act 8"
+ },
+ {
+  "id": "item284",
+  "name_jp": "カード143",
+  "name_en": "Card 143",
+  "text_jp": "笑師&十兵衛ACT5",
+  "text_en": "Emishi & Juubei Act 5"
+ },
+ {
+  "id": "item285",
+  "name_jp": "カード144",
+  "name_en": "Card 144",
+  "text_jp": "笑師&十兵衛ACT6",
+  "text_en": "Emishi & Juubei Act 6"
+ },
+ {
+  "id": "item286",
+  "name_jp": "カード145",
+  "name_en": "Card 145",
+  "text_jp": "笑師&十兵衛ACT7",
+  "text_en": "Emishi & Juubei Act 7"
+ },
+ {
+  "id": "item287",
+  "name_jp": "カード146",
+  "name_en": "Card 146",
+  "text_jp": "笑師&十兵衛ACT8",
+  "text_en": "Emishi & Juubei Act 8"
+ },
+ {
+  "id": "item288",
+  "name_jp": "カード147",
+  "name_en": "Card 147",
+  "text_jp": "笑師&雨流ACT5",
+  "text_en": "Emishi & Uryu Act 5"
+ },
+ {
+  "id": "item289",
+  "name_jp": "カード148",
+  "name_en": "Card 148",
+  "text_jp": "笑師&雨流ACT6",
+  "text_en": "Emishi & Uryu Act 6"
+ },
+ {
+  "id": "item290",
+  "name_jp": "カード149",
+  "name_en": "Card 149",
+  "text_jp": "笑師&雨流ACT7",
+  "text_en": "Emishi & Uryu Act 7"
+ },
+ {
+  "id": "item291",
+  "name_jp": "カード150",
+  "name_en": "Card 150",
+  "text_jp": "笑師&雨流ACT8",
+  "text_en": "Emishi & Uryu Act 8"
+ },
+ {
+  "id": "item292",
+  "name_jp": "カード151",
+  "name_en": "Card 151",
+  "text_jp": "十兵衛&雨流ACT5",
+  "text_en": "Juubei & Uryu Act 5"
+ },
+ {
+  "id": "item293",
+  "name_jp": "カード152",
+  "name_en": "Card 152",
+  "text_jp": "十兵衛&雨流ACT6",
+  "text_en": "Juubei & Uryu Act 6"
+ },
+ {
+  "id": "item294",
+  "name_jp": "カード153",
+  "name_en": "Card 153",
+  "text_jp": "十兵衛&雨流ACT7",
+  "text_en": "Juubei & Uryu Act 7"
+ },
+ {
+  "id": "item295",
+  "name_jp": "カード154",
+  "name_en": "Card 154",
+  "text_jp": "十兵衛&雨流ACT8",
+  "text_en": "Juubei & Uryu Act 8"
+ },
+ {
+  "id": "item296",
+  "name_jp": "カード155",
+  "name_en": "Card 155",
+  "text_jp": "ホンキートンクにて",
+  "text_en": "At the Honky Tonk"
+ },
+ {
+  "id": "item297",
+  "name_jp": "カード156",
+  "name_en": "Card 156",
+  "text_jp": "バン&蛮",
+  "text_en": "Snake Ban & Ban"
+ },
+ {
+  "id": "item298",
+  "name_jp": "カード157",
+  "name_en": "Card 157",
+  "text_jp": "バン&ぎんじ",
+  "text_en": "Snake Ban & Dolphin Ginji"
+ },
+ {
+  "id": "item299",
+  "name_jp": "カード158",
+  "name_en": "Card 158",
+  "text_jp": "ぎんじ&銀次",
+  "text_en": "Dolphin Ginji & Ginji"
+ },
+ {
+  "id": "item300",
+  "name_jp": "カード159",
+  "name_en": "Card 159",
+  "text_jp": "卑弥呼&馬車",
+  "text_en": "Himiko & Basha"
+ },
+ {
+  "id": "item301",
+  "name_jp": "カード160",
+  "name_en": "Card 160",
+  "text_jp": "赤屍&馬車",
+  "text_en": "Akabane & Basha"
+ },
+ {
+  "id": "item302",
+  "name_jp": "カード161",
+  "name_en": "Card 161",
+  "text_jp": "マリーア&蛮",
+  "text_en": "Maria & Ban"
+ },
+ {
+  "id": "item303",
+  "name_jp": "カード162",
+  "name_en": "Card 162",
+  "text_jp": "マリーア&銀次",
+  "text_en": "Maria & Ginji"
+ },
+ {
+  "id": "item304",
+  "name_jp": "カード163",
+  "name_en": "Card 163",
+  "text_jp": "夏実&レナ",
+  "text_en": "Natsumi & Rena"
+ },
+ {
+  "id": "item305",
+  "name_jp": "カード164",
+  "name_en": "Card 164",
+  "text_jp": "夏実&波児",
+  "text_en": "Natsumi & Paul"
+ },
+ {
+  "id": "item306",
+  "name_jp": "カード165",
+  "name_en": "Card 165",
+  "text_jp": "レナ&波児",
+  "text_en": "Rena & Paul"
+ },
+ {
+  "id": "item307",
+  "name_jp": "カード166",
+  "name_en": "Card 166",
+  "text_jp": "ヘヴン&波児",
+  "text_en": "Hevn & Paul"
+ },
+ {
+  "id": "item308",
+  "name_jp": "カード167",
+  "name_en": "Card 167",
+  "text_jp": "ヘヴン&蛮",
+  "text_en": "Hevn & Ban"
+ },
+ {
+  "id": "item309",
+  "name_jp": "カード168",
+  "name_en": "Card 168",
+  "text_jp": "ヘヴン&銀次",
+  "text_en": "Hevn & Ginji"
+ },
+ {
+  "id": "item310",
+  "name_jp": "カード169",
+  "name_en": "Card 169",
+  "text_jp": "蛮&クレイマン",
+  "text_en": "Ban & Clayman"
+ },
+ {
+  "id": "item311",
+  "name_jp": "カード170",
+  "name_en": "Card 170",
+  "text_jp": "銀次&クレイマン",
+  "text_en": "Ginji & Clayman"
+ },
+ {
+  "id": "item312",
+  "name_jp": "カード171",
+  "name_en": "Card 171",
+  "text_jp": "MAI&まどか",
+  "text_en": "MAI & Madoka"
+ },
+ {
+  "id": "item313",
+  "name_jp": "カード172",
+  "name_en": "Card 172",
+  "text_jp": "弥勒&蛮",
+  "text_en": "Miroku & Ban"
+ },
+ {
+  "id": "item314",
+  "name_jp": "カード173",
+  "name_en": "Card 173",
+  "text_jp": "銀次&MAKUBEX",
+  "text_en": "Ginji & MakubeX"
+ },
+ {
+  "id": "item315",
+  "name_jp": "カード174",
+  "name_en": "Card 174",
+  "text_jp": "十兵衛&MAKUBEX",
+  "text_en": "Juubei & MakubeX"
+ },
+ {
+  "id": "item316",
+  "name_jp": "カード175",
+  "name_en": "Card 175",
+  "text_jp": "鏡&蛮",
+  "text_en": "Kagami & Ban"
+ },
+ {
+  "id": "item317",
+  "name_jp": "カード176",
+  "name_en": "Card 176",
+  "text_jp": "鏡&卑弥呼",
+  "text_en": "Kagami & Himiko"
+ },
+ {
+  "id": "item318",
+  "name_jp": "カード177",
+  "name_en": "Card 177",
+  "text_jp": "士度&マドカ",
+  "text_en": "Shido & Madoka"
+ },
+ {
+  "id": "item319",
+  "name_jp": "カード178",
+  "name_en": "Card 178",
+  "text_jp": "士度&蛭田",
+  "text_en": "Shido & Hiruta"
+ },
+ {
+  "id": "item320",
+  "name_jp": "カード179",
+  "name_en": "Card 179",
+  "text_jp": "京介&大介",
+  "text_en": "Kyosuke & Daisuke"
+ },
+ {
+  "id": "item321",
+  "name_jp": "カード180",
+  "name_en": "Card 180",
+  "text_jp": "京介&窪田",
+  "text_en": "Kyosuke & Kubota"
+ },
+ {
+  "id": "item322",
+  "name_jp": "カード181",
+  "name_en": "Card 181",
+  "text_jp": "京介&K",
+  "text_en": "Kyosuke & K"
+ },
+ {
+  "id": "item323",
+  "name_jp": "カード182",
+  "name_en": "Card 182",
+  "text_jp": "京介&瑠璃",
+  "text_en": "Kyosuke & Ruri"
+ },
+ {
+  "id": "item324",
+  "name_jp": "カード183",
+  "name_en": "Card 183",
+  "text_jp": "蛮&鬼夜叉",
+  "text_en": "Ban & Oniyasha"
+ },
+ {
+  "id": "item325",
+  "name_jp": "カード184",
+  "name_en": "Card 184",
+  "text_jp": "鬼夜叉&K",
+  "text_en": "Oniyasha & K"
+ },
+ {
+  "id": "item326",
+  "name_jp": "カード185",
+  "name_en": "Card 185",
+  "text_jp": "鬼夜叉&RETA",
+  "text_en": "Oniyasha & RETA"
+ },
+ {
+  "id": "item327",
+  "name_jp": "カード186",
+  "name_en": "Card 186",
+  "text_jp": "杏&蛮",
+  "text_en": "Anzu & Ban"
+ },
+ {
+  "id": "item328",
+  "name_jp": "カード187",
+  "name_en": "Card 187",
+  "text_jp": "杏&銀次",
+  "text_en": "Anzu & Ginji"
+ },
+ {
+  "id": "item329",
+  "name_jp": "カード188",
+  "name_en": "Card 188",
+  "text_jp": "アル&蛮",
+  "text_en": "Al & Ban"
+ },
+ {
+  "id": "item330",
+  "name_jp": "カード189",
+  "name_en": "Card 189",
+  "text_jp": "アル&銀次",
+  "text_en": "Al & Ginji"
+ },
+ {
+  "id": "item331",
+  "name_jp": "カード190",
+  "name_en": "Card 190",
+  "text_jp": "アル&ジェンド",
+  "text_en": "Al & Jendo"
+ },
+ {
+  "id": "item332",
+  "name_jp": "カード191",
+  "name_en": "Card 191",
+  "text_jp": "ジェンド&RETA",
+  "text_en": "Jendo & RETA"
+ },
+ {
+  "id": "item333",
+  "name_jp": "カード192",
+  "name_en": "Card 192",
+  "text_jp": "RETA&たれ銀次",
+  "text_en": "RETA & Tare-Ginji"
+ },
+ {
+  "id": "item334",
+  "name_jp": "カード193",
+  "name_en": "Card 193",
+  "text_jp": "蛮&ぎんじ",
+  "text_en": "Ban & Dolphin Ginji"
+ },
+ {
+  "id": "item335",
+  "name_jp": "カード194",
+  "name_en": "Card 194",
+  "text_jp": "西園寺&銀次",
+  "text_en": "Saionji & Ginji"
+ },
+ {
+  "id": "item336",
+  "name_jp": "カード195",
+  "name_en": "Card 195",
+  "text_jp": "西園寺&花月",
+  "text_en": "Saionji & Kazuki"
+ },
+ {
+  "id": "item337",
+  "name_jp": "カード196",
+  "name_en": "Card 196",
+  "text_jp": "ツルコ&MAI",
+  "text_en": "Tsuruko & MAI"
+ },
+ {
+  "id": "item338",
+  "name_jp": "カード197",
+  "name_en": "Card 197",
+  "text_jp": "青樹&綾峰",
+  "text_en": "Aoki & Ayamine"
+ },
+ {
+  "id": "item339",
+  "name_jp": "カード198",
+  "name_en": "Card 198",
+  "text_jp": "蛭田&MAI",
+  "text_en": "Hiruta & MAI"
+ },
+ {
+  "id": "item340",
+  "name_jp": "カード199",
+  "name_en": "Card 199",
+  "text_jp": "蛭田&メカ蛭田",
+  "text_en": "Hiruta & Mecha Hiruta"
+ },
+ {
+  "id": "item341",
+  "name_jp": "カード200",
+  "name_en": "Card 200",
+  "text_jp": "風雅チーム",
+  "text_en": "Team Fuga"
+ },
+ {
+  "id": "item342",
+  "name_jp": "カード201",
+  "name_en": "Card 201",
+  "text_jp": "動物チーム",
+  "text_en": "Team Animal"
+ },
+ {
+  "id": "item343",
+  "name_jp": "カード202",
+  "name_en": "Card 202",
+  "text_jp": "蛮&銀次&羨木",
+  "text_en": "Ban & Ginji & Hishiki"
+ },
+ {
+  "id": "item344",
+  "name_jp": "カード203",
+  "name_en": "Card 203",
+  "text_jp": "THE☆カラマワリ",
+  "text_en": "THE☆Karamawari"
+ },
+ {
+  "id": "item345",
+  "name_jp": "カード204",
+  "name_en": "Card 204",
+  "text_jp": "きぐるミルミル",
+  "text_en": "Kiguru-Mirumiru"
+ },
+ {
+  "id": "equip000",
+  "name_jp": "ばんグラ",
+  "name_en": "Ban Shades",
+  "text_jp": "蛮のサングラス\nアイテム取得率上昇(大)",
+  "text_en": "Ban's Sunglasses\nItem drop rate up (large)"
+ },
+ {
+  "id": "equip001",
+  "name_jp": "ばんカフ",
+  "name_en": "Ban Cuffs",
+  "text_jp": "蛮のカフス\n打属性ダメージ半減",
+  "text_en": "Ban's Cuffs\nHalves Strike damage"
+ },
+ {
+  "id": "equip002",
+  "name_jp": "ぎんダナ",
+  "name_en": "Ginji Band",
+  "text_jp": "銀次のバンダナ\n雷属性ダメージ半減",
+  "text_en": "Ginji's Bandana\nHalves Lightning damage"
+ },
+ {
+  "id": "equip003",
+  "name_jp": "ぎんグロ",
+  "name_en": "GinjiGlove",
+  "text_jp": "銀次のグローブ\n所得経験値上昇(小)",
+  "text_en": "Ginji's Gloves\nEXP gained up (small)"
+ },
+ {
+  "id": "equip004",
+  "name_jp": "しどペン",
+  "name_en": "ShidoPndnt",
+  "text_jp": "士度のペンダント\n裂属性ダメージ半減",
+  "text_en": "Shido's Pendant\nHalves Rend damage"
+ },
+ {
+  "id": "equip005",
+  "name_jp": "しどダナ",
+  "name_en": "Shido Band",
+  "text_jp": "士度のバンダナ\nHP上昇(小)",
+  "text_en": "Shido's Bandana\nHP up (small)"
+ },
+ {
+  "id": "equip006",
+  "name_jp": "かづどめ",
+  "name_en": "Kazuki Tie",
+  "text_jp": "花月の髪どめ\n絃属性ダメージ半減",
+  "text_en": "Kazuki's Hair Tie\nHalves String damage"
+ },
+ {
+  "id": "equip007",
+  "name_jp": "かづいと",
+  "name_en": "KazukiCord",
+  "text_jp": "花月の絃\n全能力上昇(小)。十兵衛専用",
+  "text_en": "Kazuki's Strings\nAll stats up (small). Juubei only"
+ },
+ {
+  "id": "equip008",
+  "name_jp": "えみグラ",
+  "name_en": "EmishiShds",
+  "text_jp": "笑師のサングラス\n籠属性ダメージ半減",
+  "text_en": "Emishi's Sunglasses\nHalves Cage damage"
+ },
+ {
+  "id": "equip009",
+  "name_jp": "ぽーグラ",
+  "name_en": "PaulShades",
+  "text_jp": "波児のサングラス\n毒耐性上昇(小)",
+  "text_en": "Paul's Sunglasses\nPoison resist up (small)"
+ },
+ {
+  "id": "equip010",
+  "name_jp": "ぽーダナ",
+  "name_en": "Paul Band",
+  "text_jp": "波児のバンダナ\n混乱耐性上昇(小)",
+  "text_en": "Paul's Bandana\nConfusion resist up (small)"
+ },
+ {
+  "id": "equip011",
+  "name_jp": "ひみピア",
+  "name_en": "HimikoStud",
+  "text_jp": "卑弥呼のピアス\n香属性ダメージ半減",
+  "text_en": "Himiko's Earrings\nHalves Scent damage"
+ },
+ {
+  "id": "equip012",
+  "name_jp": "なつリボ",
+  "name_en": "NatsumiBow",
+  "text_jp": "夏実のリボン\n変身無効",
+  "text_en": "Natsumi's Ribbon\nImmune to transformation"
+ },
+ {
+  "id": "equip013",
+  "name_jp": "まりブレ",
+  "name_en": "Maria Cuff",
+  "text_jp": "マリーアのブレスレット\n麻痺耐性上昇(小)",
+  "text_en": "Maria's Bracelet\nParalysis resist up (small)"
+ },
+ {
+  "id": "equip014",
+  "name_jp": "まりピア",
+  "name_en": "Maria Stud",
+  "text_jp": "マリーアのピアス\n変身耐性上昇(小)",
+  "text_en": "Maria's Earrings\nTransform resist up (small)"
+ },
+ {
+  "id": "equip015",
+  "name_jp": "マクダナ",
+  "name_en": "MakubeXBnd",
+  "text_jp": "MAKUBEXのバンダナ\n回避率上昇(小)",
+  "text_en": "MakubeX's Bandana\nEvasion up (small)"
+ },
+ {
+  "id": "equip016",
+  "name_jp": "マクグル",
+  "name_en": "MakubeXGgl",
+  "text_jp": "MAKUBEXのゴーグル\n命中率上昇(小)",
+  "text_en": "MakubeX's Goggles\nAccuracy up (small)"
+ },
+ {
+  "id": "equip017",
+  "name_jp": "まぐダナ",
+  "name_en": "Basha Band",
+  "text_jp": "馬車のバンダナ\n防御力上昇(小)",
+  "text_en": "Basha's Bandana\nDefense up (small)"
+ },
+ {
+  "id": "equip018",
+  "name_jp": "あかぼう",
+  "name_en": "AkabaneHat",
+  "text_jp": "赤屍の帽子\n斬属性ダメージ半減",
+  "text_en": "Akabane's Hat\nHalves Slash damage"
+ },
+ {
+  "id": "equip019",
+  "name_jp": "ひしグラ",
+  "name_en": "HishikiShd",
+  "text_jp": "羨木のサングラス\nHP上昇(中)",
+  "text_en": "Hishiki's Sunglasses\nHP up (medium)"
+ },
+ {
+  "id": "equip020",
+  "name_jp": "ひしピア",
+  "name_en": "HishikiStd",
+  "text_jp": "羨木のピアス\n防御力上昇(中)",
+  "text_en": "Hishiki's Earrings\nDefense up (medium)"
+ },
+ {
+  "id": "equip021",
+  "name_jp": "かがピア",
+  "name_en": "KagamiStud",
+  "text_jp": "鏡のピアス\n通常攻撃2回",
+  "text_en": "Kagami's Earrings\nNormal attacks hit twice"
+ },
+ {
+  "id": "equip022",
+  "name_jp": "ゆきメガ",
+  "name_en": "YukihikoSp",
+  "text_jp": "雪彦のメガネ\n全属性ダメージ半減",
+  "text_en": "Yukihiko's Glasses\nHalves damage of all elements"
+ },
+ {
+  "id": "equip023",
+  "name_jp": "てしピア",
+  "name_en": "Teshi Stud",
+  "text_jp": "天子峰のピアス\n防御力上昇(大)",
+  "text_en": "Teshimine's Earrings\nDefense up (large)"
+ },
+ {
+  "id": "equip024",
+  "name_jp": "じゅグル",
+  "name_en": "JuubeiGgls",
+  "text_jp": "十兵衛のゴーグル\n刺属性ダメージ半減",
+  "text_en": "Juubei's Goggles\nHalves Pierce damage"
+ },
+ {
+  "id": "equip025",
+  "name_jp": "じゅグロ",
+  "name_en": "JuubeiGlov",
+  "text_jp": "十兵衛のグローブ\n命中率上昇(小)",
+  "text_en": "Juubei's Gloves\nAccuracy up (small)"
+ },
+ {
+  "id": "equip026",
+  "name_jp": "れなエプ",
+  "name_en": "Rena Apron",
+  "text_jp": "レナのエプロン\n防御力上昇(小)",
+  "text_en": "Rena's Apron\nDefense up (small)"
+ },
+ {
+  "id": "equip027",
+  "name_jp": "なつエプ",
+  "name_en": "NatsumiApr",
+  "text_jp": "夏実のエプロン\n即死耐性上昇(小)",
+  "text_en": "Natsumi's Apron\nInstant death resist up (small)"
+ },
+ {
+  "id": "equip028",
+  "name_jp": "クレかみ",
+  "name_en": "ClaymanPin",
+  "text_jp": "クレイマンの髪どめ\n混乱無効",
+  "text_en": "Clayman's Hair Clip\nImmune to confusion"
+ },
+ {
+  "id": "equip029",
+  "name_jp": "うりリス",
+  "name_en": "Uryu Wrist",
+  "text_jp": "雨流のリストバンド\n衝属性ダメージ半減",
+  "text_en": "Uryu's Wristband\nHalves Shock damage"
+ },
+ {
+  "id": "equip030",
+  "name_jp": "あおグラ",
+  "name_en": "Aoki Shade",
+  "text_jp": "青樹先生のサングラス\n全ステータス異常無効",
+  "text_en": "Professor Aoki's Sunglasses\nImmune to all status ailments"
+ },
+ {
+  "id": "equip031",
+  "name_jp": "あやメガ",
+  "name_en": "AyamineSpc",
+  "text_jp": "綾峰先生のメガネ\n全能力上昇(小)",
+  "text_en": "Professor Ayamine's Glasses\nAll stats up (small)"
+ },
+ {
+  "id": "equip032",
+  "name_jp": "ヘヴピア",
+  "name_en": "Hevn Stud",
+  "text_jp": "ヘヴンのピアス\nすばやさ上昇(小)",
+  "text_en": "Hevn's Earrings\nSpeed up (small)"
+ },
+ {
+  "id": "equip033",
+  "name_jp": "ロンピア",
+  "name_en": "Ronka Stud",
+  "text_jp": "龍華のピアス\n全能力上昇(小)。銀次専用",
+  "text_en": "Ronka's Earrings\nAll stats up (small). Ginji only"
+ },
+ {
+  "id": "equip034",
+  "name_jp": "きらグロ",
+  "name_en": "Kira Glove",
+  "text_jp": "奇羅々のグローブ\nHP上昇(中)",
+  "text_en": "Kirara's Gloves\nHP up (medium)"
+ },
+ {
+  "id": "equip035",
+  "name_jp": "しどリス",
+  "name_en": "ShidoWrist",
+  "text_jp": "士度のリストバンド\n攻撃力上昇(小)",
+  "text_en": "Shido's Wristband\nAttack up (small)"
+ },
+ {
+  "id": "equip036",
+  "name_jp": "さくぬの",
+  "name_en": "SakuraRobe",
+  "text_jp": "朔羅の衣\n防御力上昇(中)",
+  "text_en": "Sakura's Robe\nDefense up (medium)"
+ },
+ {
+  "id": "equip037",
+  "name_jp": "ふどがん",
+  "name_en": "Fudo Patch",
+  "text_jp": "不動の眼帯\n回避率上昇(中)",
+  "text_en": "Fudo's Eyepatch\nEvasion up (medium)"
+ },
+ {
+  "id": "equip038",
+  "name_jp": "ふどアン",
+  "name_en": "FudoAnklet",
+  "text_jp": "不動のアンクレット\n命中率上昇(中)",
+  "text_en": "Fudo's Anklet\nAccuracy up (medium)"
+ },
+ {
+  "id": "equip039",
+  "name_jp": "あかてぶ",
+  "name_en": "AkabaneGlv",
+  "text_jp": "赤屍の手袋\n即死無効",
+  "text_en": "Akabane's Gloves\nImmune to instant death"
+ },
+ {
+  "id": "equip040",
+  "name_jp": "きょめん",
+  "name_en": "KyosukeMsk",
+  "text_jp": "京介の面\n攻撃力上昇(大)",
+  "text_en": "Kyosuke's Mask\nAttack up (large)"
+ },
+ {
+  "id": "equip041",
+  "name_jp": "だいせん",
+  "name_en": "DaisukeFan",
+  "text_jp": "大介の扇子\n防御力上昇(大)",
+  "text_en": "Daisuke's Folding Fan\nDefense up (large)"
+ },
+ {
+  "id": "equip042",
+  "name_jp": "Kめん　",
+  "name_en": "K Mask",
+  "text_jp": "Kの面\n消費気力下降(大)",
+  "text_en": "K's Mask\nSpirit cost down (large)"
+ },
+ {
+  "id": "equip043",
+  "name_jp": "あんかみ",
+  "name_en": "Anzu Clip",
+  "text_jp": "杏の髪どめ\nインタラクティブ発生率上昇(小)",
+  "text_en": "Anzu's Hair Clip\nInteractive rate up (small)"
+ },
+ {
+  "id": "equip044",
+  "name_jp": "るりかみ",
+  "name_en": "Ruri Clip",
+  "text_jp": "瑠璃の髪どめ\n消費気力下降(中)",
+  "text_en": "Ruri's Hair Clip\nSpirit cost down (medium)"
+ },
+ {
+  "id": "equip045",
+  "name_jp": "おにパン",
+  "name_en": "OniyashaPt",
+  "text_jp": "鬼夜叉のパンツ\nインタラクティブ発生率上昇(大)",
+  "text_en": "Oniyasha's Underpants\nInteractive rate up (large)"
+ },
+ {
+  "id": "equip046",
+  "name_jp": "ひるサン",
+  "name_en": "HirutaShds",
+  "text_jp": "蛭田のサングラス\n毒耐性(小)",
+  "text_en": "Hiruta's Sunglasses\nPoison resist (small)"
+ },
+ {
+  "id": "equip047",
+  "name_jp": "ひるネッ",
+  "name_en": "HirutaNeck",
+  "text_jp": "蛭田のネックレス\n戦闘時必ず変身",
+  "text_en": "Hiruta's Necklace\nAlways transform in battle"
+ },
+ {
+  "id": "equip048",
+  "name_jp": "くぼちょ",
+  "name_en": "Kubota Bow",
+  "text_jp": "窪田の蝶ネクタイ\nアイテム所得率上昇(中)",
+  "text_en": "Kubota's Bow Tie\nItem drop rate up (medium)"
+ },
+ {
+  "id": "equip049",
+  "name_jp": "きらかた",
+  "name_en": "KiraMonocl",
+  "text_jp": "吉良の片メガネ\n麻痺耐性(中)",
+  "text_en": "Kira's Monocle\nParalysis resist (medium)"
+ },
+ {
+  "id": "equip050",
+  "name_jp": "MAブレ",
+  "name_en": "MAI Bangle",
+  "text_jp": "MAIのブレスレット\n消費気力下降(小)",
+  "text_en": "MAI's Bracelet\nSpirit cost down (small)"
+ },
+ {
+  "id": "equip051",
+  "name_jp": "よこハン",
+  "name_en": "SnatchHamr",
+  "text_jp": "横取り屋のハンマー\nHP上昇(小)攻撃力下降(小)",
+  "text_en": "Snatcher's Hammer\nHP up (small), Attack down (small)"
+ },
+ {
+  "id": "equip052",
+  "name_jp": "よこヘル",
+  "name_en": "SnatchHelm",
+  "text_jp": "横取り屋のヘルメット。防御力上昇(小)すばやさ、回避率下降(小)",
+  "text_en": "Snatcher's Helmet. Defense up (S)\nSpeed and Evasion down (small)"
+ },
+ {
+  "id": "equip053",
+  "name_jp": "げんぼう",
+  "name_en": "Gen's Hat",
+  "text_jp": "源ジイのぼうし\n命中率上昇(中)",
+  "text_en": "Old Man Gen's Hat\nAccuracy up (medium)"
+ },
+ {
+  "id": "equip054",
+  "name_jp": "マドリボ",
+  "name_en": "Madoka Bow",
+  "text_jp": "マドカのリボン。士度専用\n全能力上昇(小)",
+  "text_en": "Madoka's Ribbon. Shido only\nAll stats up (small)"
+ },
+ {
+  "id": "equip055",
+  "name_jp": "みろゆび",
+  "name_en": "MirokuRing",
+  "text_jp": "夏彦の指輪\n防御力上昇(小)",
+  "text_en": "Natsuhiko's Ring\nDefense up (small)"
+ },
+ {
+  "id": "equip056",
+  "name_jp": "ときグロ",
+  "name_en": "TokisadaGl",
+  "text_jp": "時貞のグローブ\n素早さ上昇(中)",
+  "text_en": "Tokisada's Gloves\nSpeed up (medium)"
+ },
+ {
+  "id": "equip057",
+  "name_jp": "つばグロ",
+  "name_en": "TsubakiGlv",
+  "text_jp": "椿のグローブ\n攻撃力上昇(小)",
+  "text_en": "Tsubaki's Gloves\nAttack up (small)"
+ },
+ {
+  "id": "equip058",
+  "name_jp": "ひかグロ",
+  "name_en": "HikageGlov",
+  "text_jp": "緋影のグローブ\n素早さ上昇(小)",
+  "text_en": "Hikage's Gloves\nSpeed up (small)"
+ },
+ {
+  "id": "equip059",
+  "name_jp": "うきグロ",
+  "name_en": "Ukyo Glove",
+  "text_jp": "右狂のグローブ\n攻撃力上昇(中)",
+  "text_en": "Ukyo's Gloves\nAttack up (medium)"
+ }
+]
