@@ -1,3 +1,5 @@
 0FA2E-0FA32  # menu cache hook
 0FAE0-0FAE6
 0FB9A-0FBA0
+8505C-8A75C  # title logo tiles (tools/gfx.py)
+1B51A8-1B5928  # title copyright sprites

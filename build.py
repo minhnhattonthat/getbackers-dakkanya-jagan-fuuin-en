@@ -17,6 +17,7 @@ import layout  # noqa: E402
 import sysmenu  # noqa: E402
 import menuasm  # noqa: E402
 import items  # noqa: E402
+import gfx  # noqa: E402
 
 OUT = {'identity': 'getbackers_identity.gba', 'marker': 'getbackers_marker.gba', 'build': 'getbackers_en.gba',
        'qa': 'getbackers_qa.gba'}
@@ -203,6 +204,7 @@ def build(mode, overrides=None):
             alloc = Alloc(SYS_START + 0x400, SYS_END)
             sysmenu.apply(rom, encoder, alloc)
             items.apply(rom, encoder, alloc)
+            gfx.apply(rom)
     # repack scripts contiguously in ROM order (4 zero bytes after each, like the original: some scripts
     # are reached only by walking on from the previous one, so order and spacing must not change)
     scripts = sorted(s for s in find_scripts(orig) if s != BANK)
