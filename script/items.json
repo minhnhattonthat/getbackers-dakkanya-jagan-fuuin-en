@@ -2424,371 +2424,371 @@
  {
   "id": "equip000",
   "name_jp": "ばんグラ",
-  "name_en": "Ban Shades",
+  "name_en": "Ban's Shades",
   "text_jp": "蛮のサングラス\nアイテム取得率上昇(大)",
   "text_en": "Ban's Sunglasses\nItem drop rate up (large)"
  },
  {
   "id": "equip001",
   "name_jp": "ばんカフ",
-  "name_en": "Ban Cuffs",
+  "name_en": "Ban's Cuffs",
   "text_jp": "蛮のカフス\n打属性ダメージ半減",
   "text_en": "Ban's Cuffs\nHalves Strike damage"
  },
  {
   "id": "equip002",
   "name_jp": "ぎんダナ",
-  "name_en": "Ginji Band",
+  "name_en": "Ginji's Bandana",
   "text_jp": "銀次のバンダナ\n雷属性ダメージ半減",
   "text_en": "Ginji's Bandana\nHalves Lightning damage"
  },
  {
   "id": "equip003",
   "name_jp": "ぎんグロ",
-  "name_en": "GinjiGlove",
+  "name_en": "Ginji's Gloves",
   "text_jp": "銀次のグローブ\n所得経験値上昇(小)",
   "text_en": "Ginji's Gloves\nEXP gained up (small)"
  },
  {
   "id": "equip004",
   "name_jp": "しどペン",
-  "name_en": "ShidoPndnt",
+  "name_en": "Shido's Pendant",
   "text_jp": "士度のペンダント\n裂属性ダメージ半減",
   "text_en": "Shido's Pendant\nHalves Rend damage"
  },
  {
   "id": "equip005",
   "name_jp": "しどダナ",
-  "name_en": "Shido Band",
+  "name_en": "Shido's Bandana",
   "text_jp": "士度のバンダナ\nHP上昇(小)",
   "text_en": "Shido's Bandana\nHP up (small)"
  },
  {
   "id": "equip006",
   "name_jp": "かづどめ",
-  "name_en": "Kazuki Tie",
+  "name_en": "Kazuki Hair Tie",
   "text_jp": "花月の髪どめ\n絃属性ダメージ半減",
   "text_en": "Kazuki's Hair Tie\nHalves String damage"
  },
  {
   "id": "equip007",
   "name_jp": "かづいと",
-  "name_en": "KazukiCord",
+  "name_en": "Kazuki's Strings",
   "text_jp": "花月の絃\n全能力上昇(小)。十兵衛専用",
   "text_en": "Kazuki's Strings\nAll stats up (small). Juubei only"
  },
  {
   "id": "equip008",
   "name_jp": "えみグラ",
-  "name_en": "EmishiShds",
+  "name_en": "Emishi's Shades",
   "text_jp": "笑師のサングラス\n籠属性ダメージ半減",
   "text_en": "Emishi's Sunglasses\nHalves Cage damage"
  },
  {
   "id": "equip009",
   "name_jp": "ぽーグラ",
-  "name_en": "PaulShades",
+  "name_en": "Paul's Shades",
   "text_jp": "波児のサングラス\n毒耐性上昇(小)",
   "text_en": "Paul's Sunglasses\nPoison resist up (small)"
  },
  {
   "id": "equip010",
   "name_jp": "ぽーダナ",
-  "name_en": "Paul Band",
+  "name_en": "Paul's Bandana",
   "text_jp": "波児のバンダナ\n混乱耐性上昇(小)",
   "text_en": "Paul's Bandana\nConfusion resist up (small)"
  },
  {
   "id": "equip011",
   "name_jp": "ひみピア",
-  "name_en": "HimikoStud",
+  "name_en": "Himiko Earrings",
   "text_jp": "卑弥呼のピアス\n香属性ダメージ半減",
   "text_en": "Himiko's Earrings\nHalves Scent damage"
  },
  {
   "id": "equip012",
   "name_jp": "なつリボ",
-  "name_en": "NatsumiBow",
+  "name_en": "Natsumi's Ribbon",
   "text_jp": "夏実のリボン\n変身無効",
   "text_en": "Natsumi's Ribbon\nImmune to transformation"
  },
  {
   "id": "equip013",
   "name_jp": "まりブレ",
-  "name_en": "Maria Cuff",
+  "name_en": "Maria's Bracelet",
   "text_jp": "マリーアのブレスレット\n麻痺耐性上昇(小)",
   "text_en": "Maria's Bracelet\nParalysis resist up (small)"
  },
  {
   "id": "equip014",
   "name_jp": "まりピア",
-  "name_en": "Maria Stud",
+  "name_en": "Maria's Earrings",
   "text_jp": "マリーアのピアス\n変身耐性上昇(小)",
   "text_en": "Maria's Earrings\nTransform resist up (small)"
  },
  {
   "id": "equip015",
   "name_jp": "マクダナ",
-  "name_en": "MakubeXBnd",
+  "name_en": "MakubeX Bandana",
   "text_jp": "MAKUBEXのバンダナ\n回避率上昇(小)",
   "text_en": "MakubeX's Bandana\nEvasion up (small)"
  },
  {
   "id": "equip016",
   "name_jp": "マクグル",
-  "name_en": "MakubeXGgl",
+  "name_en": "MakubeX Goggles",
   "text_jp": "MAKUBEXのゴーグル\n命中率上昇(小)",
   "text_en": "MakubeX's Goggles\nAccuracy up (small)"
  },
  {
   "id": "equip017",
   "name_jp": "まぐダナ",
-  "name_en": "Basha Band",
+  "name_en": "Basha's Bandana",
   "text_jp": "馬車のバンダナ\n防御力上昇(小)",
   "text_en": "Basha's Bandana\nDefense up (small)"
  },
  {
   "id": "equip018",
   "name_jp": "あかぼう",
-  "name_en": "AkabaneHat",
+  "name_en": "Akabane's Hat",
   "text_jp": "赤屍の帽子\n斬属性ダメージ半減",
   "text_en": "Akabane's Hat\nHalves Slash damage"
  },
  {
   "id": "equip019",
   "name_jp": "ひしグラ",
-  "name_en": "HishikiShd",
+  "name_en": "Hishiki's Shades",
   "text_jp": "羨木のサングラス\nHP上昇(中)",
   "text_en": "Hishiki's Sunglasses\nHP up (medium)"
  },
  {
   "id": "equip020",
   "name_jp": "ひしピア",
-  "name_en": "HishikiStd",
+  "name_en": "Hishiki Earrings",
   "text_jp": "羨木のピアス\n防御力上昇(中)",
   "text_en": "Hishiki's Earrings\nDefense up (medium)"
  },
  {
   "id": "equip021",
   "name_jp": "かがピア",
-  "name_en": "KagamiStud",
+  "name_en": "Kagami Earrings",
   "text_jp": "鏡のピアス\n通常攻撃2回",
   "text_en": "Kagami's Earrings\nNormal attacks hit twice"
  },
  {
   "id": "equip022",
   "name_jp": "ゆきメガ",
-  "name_en": "YukihikoSp",
+  "name_en": "Yukihiko Glasses",
   "text_jp": "雪彦のメガネ\n全属性ダメージ半減",
   "text_en": "Yukihiko's Glasses\nHalves damage of all elements"
  },
  {
   "id": "equip023",
   "name_jp": "てしピア",
-  "name_en": "Teshi Stud",
+  "name_en": "Teshimine Studs",
   "text_jp": "天子峰のピアス\n防御力上昇(大)",
   "text_en": "Teshimine's Earrings\nDefense up (large)"
  },
  {
   "id": "equip024",
   "name_jp": "じゅグル",
-  "name_en": "JuubeiGgls",
+  "name_en": "Juubei's Goggles",
   "text_jp": "十兵衛のゴーグル\n刺属性ダメージ半減",
   "text_en": "Juubei's Goggles\nHalves Pierce damage"
  },
  {
   "id": "equip025",
   "name_jp": "じゅグロ",
-  "name_en": "JuubeiGlov",
+  "name_en": "Juubei's Gloves",
   "text_jp": "十兵衛のグローブ\n命中率上昇(小)",
   "text_en": "Juubei's Gloves\nAccuracy up (small)"
  },
  {
   "id": "equip026",
   "name_jp": "れなエプ",
-  "name_en": "Rena Apron",
+  "name_en": "Rena's Apron",
   "text_jp": "レナのエプロン\n防御力上昇(小)",
   "text_en": "Rena's Apron\nDefense up (small)"
  },
  {
   "id": "equip027",
   "name_jp": "なつエプ",
-  "name_en": "NatsumiApr",
+  "name_en": "Natsumi's Apron",
   "text_jp": "夏実のエプロン\n即死耐性上昇(小)",
   "text_en": "Natsumi's Apron\nInstant death resist up (small)"
  },
  {
   "id": "equip028",
   "name_jp": "クレかみ",
-  "name_en": "ClaymanPin",
+  "name_en": "Clayman Hairclip",
   "text_jp": "クレイマンの髪どめ\n混乱無効",
   "text_en": "Clayman's Hair Clip\nImmune to confusion"
  },
  {
   "id": "equip029",
   "name_jp": "うりリス",
-  "name_en": "Uryu Wrist",
+  "name_en": "Uryu's Band",
   "text_jp": "雨流のリストバンド\n衝属性ダメージ半減",
   "text_en": "Uryu's Wristband\nHalves Shock damage"
  },
  {
   "id": "equip030",
   "name_jp": "あおグラ",
-  "name_en": "Aoki Shade",
+  "name_en": "Aoki's Shades",
   "text_jp": "青樹先生のサングラス\n全ステータス異常無効",
   "text_en": "Professor Aoki's Sunglasses\nImmune to all status ailments"
  },
  {
   "id": "equip031",
   "name_jp": "あやメガ",
-  "name_en": "AyamineSpc",
+  "name_en": "Ayamine Glasses",
   "text_jp": "綾峰先生のメガネ\n全能力上昇(小)",
   "text_en": "Professor Ayamine's Glasses\nAll stats up (small)"
  },
  {
   "id": "equip032",
   "name_jp": "ヘヴピア",
-  "name_en": "Hevn Stud",
+  "name_en": "Hevn's Earrings",
   "text_jp": "ヘヴンのピアス\nすばやさ上昇(小)",
   "text_en": "Hevn's Earrings\nSpeed up (small)"
  },
  {
   "id": "equip033",
   "name_jp": "ロンピア",
-  "name_en": "Ronka Stud",
+  "name_en": "Ronka's Earrings",
   "text_jp": "龍華のピアス\n全能力上昇(小)。銀次専用",
   "text_en": "Ronka's Earrings\nAll stats up (small). Ginji only"
  },
  {
   "id": "equip034",
   "name_jp": "きらグロ",
-  "name_en": "Kira Glove",
+  "name_en": "Kirara's Gloves",
   "text_jp": "奇羅々のグローブ\nHP上昇(中)",
   "text_en": "Kirara's Gloves\nHP up (medium)"
  },
  {
   "id": "equip035",
   "name_jp": "しどリス",
-  "name_en": "ShidoWrist",
+  "name_en": "Shido's Band",
   "text_jp": "士度のリストバンド\n攻撃力上昇(小)",
   "text_en": "Shido's Wristband\nAttack up (small)"
  },
  {
   "id": "equip036",
   "name_jp": "さくぬの",
-  "name_en": "SakuraRobe",
+  "name_en": "Sakura's Robe",
   "text_jp": "朔羅の衣\n防御力上昇(中)",
   "text_en": "Sakura's Robe\nDefense up (medium)"
  },
  {
   "id": "equip037",
   "name_jp": "ふどがん",
-  "name_en": "Fudo Patch",
+  "name_en": "Fudo's Eyepatch",
   "text_jp": "不動の眼帯\n回避率上昇(中)",
   "text_en": "Fudo's Eyepatch\nEvasion up (medium)"
  },
  {
   "id": "equip038",
   "name_jp": "ふどアン",
-  "name_en": "FudoAnklet",
+  "name_en": "Fudo's Anklet",
   "text_jp": "不動のアンクレット\n命中率上昇(中)",
   "text_en": "Fudo's Anklet\nAccuracy up (medium)"
  },
  {
   "id": "equip039",
   "name_jp": "あかてぶ",
-  "name_en": "AkabaneGlv",
+  "name_en": "Akabane's Gloves",
   "text_jp": "赤屍の手袋\n即死無効",
   "text_en": "Akabane's Gloves\nImmune to instant death"
  },
  {
   "id": "equip040",
   "name_jp": "きょめん",
-  "name_en": "KyosukeMsk",
+  "name_en": "Kyosuke's Mask",
   "text_jp": "京介の面\n攻撃力上昇(大)",
   "text_en": "Kyosuke's Mask\nAttack up (large)"
  },
  {
   "id": "equip041",
   "name_jp": "だいせん",
-  "name_en": "DaisukeFan",
+  "name_en": "Daisuke's Fan",
   "text_jp": "大介の扇子\n防御力上昇(大)",
   "text_en": "Daisuke's Folding Fan\nDefense up (large)"
  },
  {
   "id": "equip042",
   "name_jp": "Kめん　",
-  "name_en": "K Mask",
+  "name_en": "K's Mask",
   "text_jp": "Kの面\n消費気力下降(大)",
   "text_en": "K's Mask\nSpirit cost down (large)"
  },
  {
   "id": "equip043",
   "name_jp": "あんかみ",
-  "name_en": "Anzu Clip",
+  "name_en": "Anzu's Hairclip",
   "text_jp": "杏の髪どめ\nインタラクティブ発生率上昇(小)",
   "text_en": "Anzu's Hair Clip\nInteractive rate up (small)"
  },
  {
   "id": "equip044",
   "name_jp": "るりかみ",
-  "name_en": "Ruri Clip",
+  "name_en": "Ruri's Hairclip",
   "text_jp": "瑠璃の髪どめ\n消費気力下降(中)",
   "text_en": "Ruri's Hair Clip\nSpirit cost down (medium)"
  },
  {
   "id": "equip045",
   "name_jp": "おにパン",
-  "name_en": "OniyashaPt",
+  "name_en": "Oniyasha Undies",
   "text_jp": "鬼夜叉のパンツ\nインタラクティブ発生率上昇(大)",
   "text_en": "Oniyasha's Underpants\nInteractive rate up (large)"
  },
  {
   "id": "equip046",
   "name_jp": "ひるサン",
-  "name_en": "HirutaShds",
+  "name_en": "Hiruta's Shades",
   "text_jp": "蛭田のサングラス\n毒耐性(小)",
   "text_en": "Hiruta's Sunglasses\nPoison resist (small)"
  },
  {
   "id": "equip047",
   "name_jp": "ひるネッ",
-  "name_en": "HirutaNeck",
+  "name_en": "Hiruta Necklace",
   "text_jp": "蛭田のネックレス\n戦闘時必ず変身",
   "text_en": "Hiruta's Necklace\nAlways transform in battle"
  },
  {
   "id": "equip048",
   "name_jp": "くぼちょ",
-  "name_en": "Kubota Bow",
+  "name_en": "Kubota's Bow Tie",
   "text_jp": "窪田の蝶ネクタイ\nアイテム所得率上昇(中)",
   "text_en": "Kubota's Bow Tie\nItem drop rate up (medium)"
  },
  {
   "id": "equip049",
   "name_jp": "きらかた",
-  "name_en": "KiraMonocl",
+  "name_en": "Kira's Monocle",
   "text_jp": "吉良の片メガネ\n麻痺耐性(中)",
   "text_en": "Kira's Monocle\nParalysis resist (medium)"
  },
  {
   "id": "equip050",
   "name_jp": "MAブレ",
-  "name_en": "MAI Bangle",
+  "name_en": "MAI's Bracelet",
   "text_jp": "MAIのブレスレット\n消費気力下降(小)",
   "text_en": "MAI's Bracelet\nSpirit cost down (small)"
  },
  {
   "id": "equip051",
   "name_jp": "よこハン",
-  "name_en": "SnatchHamr",
+  "name_en": "Snatcher Hammer",
   "text_jp": "横取り屋のハンマー\nHP上昇(小)攻撃力下降(小)",
   "text_en": "Snatcher's Hammer\nHP up (small), Attack down (small)"
  },
  {
   "id": "equip052",
   "name_jp": "よこヘル",
-  "name_en": "SnatchHelm",
+  "name_en": "Snatcher Helmet",
   "text_jp": "横取り屋のヘルメット。防御力上昇(小)すばやさ、回避率下降(小)",
   "text_en": "Snatcher's Helmet. Defense up (S)\nSpeed and Evasion down (small)"
  },
@@ -2802,42 +2802,42 @@
  {
   "id": "equip054",
   "name_jp": "マドリボ",
-  "name_en": "Madoka Bow",
+  "name_en": "Madoka's Ribbon",
   "text_jp": "マドカのリボン。士度専用\n全能力上昇(小)",
   "text_en": "Madoka's Ribbon. Shido only\nAll stats up (small)"
  },
  {
   "id": "equip055",
   "name_jp": "みろゆび",
-  "name_en": "MirokuRing",
+  "name_en": "Miroku's Ring",
   "text_jp": "夏彦の指輪\n防御力上昇(小)",
   "text_en": "Natsuhiko's Ring\nDefense up (small)"
  },
  {
   "id": "equip056",
   "name_jp": "ときグロ",
-  "name_en": "TokisadaGl",
+  "name_en": "Tokisada Gloves",
   "text_jp": "時貞のグローブ\n素早さ上昇(中)",
   "text_en": "Tokisada's Gloves\nSpeed up (medium)"
  },
  {
   "id": "equip057",
   "name_jp": "つばグロ",
-  "name_en": "TsubakiGlv",
+  "name_en": "Tsubaki's Gloves",
   "text_jp": "椿のグローブ\n攻撃力上昇(小)",
   "text_en": "Tsubaki's Gloves\nAttack up (small)"
  },
  {
   "id": "equip058",
   "name_jp": "ひかグロ",
-  "name_en": "HikageGlov",
+  "name_en": "Hikage's Gloves",
   "text_jp": "緋影のグローブ\n素早さ上昇(小)",
   "text_en": "Hikage's Gloves\nSpeed up (small)"
  },
  {
   "id": "equip059",
   "name_jp": "うきグロ",
-  "name_en": "Ukyo Glove",
+  "name_en": "Ukyo's Gloves",
   "text_jp": "右狂のグローブ\n攻撃力上昇(中)",
   "text_en": "Ukyo's Gloves\nAttack up (medium)"
  }

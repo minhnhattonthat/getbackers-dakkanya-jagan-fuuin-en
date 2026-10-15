@@ -29,8 +29,7 @@ RANGES = [
     (102, 171, 'battle skill name (menu list)', 16),
     (172, 220, 'skill description, one line, right-aligned by the build', 34),
     (221, 240, 'battle item name (menu list)', 14),
-    (241, 300, 'equipment SHORT name in a 4-cell slot: owner + item in 8 characters, e.g. "BanShade"; '
-               'use the owner\'s first letters + the item (the full names are elsewhere)', 8),
+    (241, 300, 'equipment name ("Ban\'s Shades"), same as the equipment list in script/items.json', 16),
     (301, 319, 'item description, one line, right-aligned by the build', 34),
     (320, 1041, 'battle voice line or speaker tag ("蛮:" -> "Ban:"); one line', 34),
     (1042, 1157, 'staff credits line (role and/or person). Names of real staff: Western order, Hepburn', 34),

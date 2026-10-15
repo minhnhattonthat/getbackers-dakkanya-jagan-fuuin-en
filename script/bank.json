@@ -829,35 +829,35 @@
   "id": "B0118",
   "kind": "bank",
   "jp": "解毒香　",
-  "en": "Antidote Perfume",
+  "en": "Antidote Incense",
   "status": "tl"
  },
  {
   "id": "B0119",
   "kind": "bank",
   "jp": "傀儡香　",
-  "en": "Puppet Perfume",
+  "en": "Puppet Incense",
   "status": "tl"
  },
  {
   "id": "B0120",
   "kind": "bank",
   "jp": "回復香　",
-  "en": "Healing Perfume",
+  "en": "Healing Incense",
   "status": "tl"
  },
  {
   "id": "B0121",
   "kind": "bank",
   "jp": "火炎香　",
-  "en": "Flame Perfume",
+  "en": "Flame Incense",
   "status": "tl"
  },
  {
   "id": "B0122",
   "kind": "bank",
   "jp": "加速香　",
-  "en": "Speed Perfume",
+  "en": "Speed Incense",
   "status": "tl"
  },
  {
@@ -1690,420 +1690,420 @@
   "id": "B0241",
   "kind": "bank",
   "jp": "ばんグラ",
-  "en": "BanShade",
+  "en": "Ban's Shades",
   "status": "tl"
  },
  {
   "id": "B0242",
   "kind": "bank",
   "jp": "ばんカフ",
-  "en": "BanCuff",
+  "en": "Ban's Cuffs",
   "status": "tl"
  },
  {
   "id": "B0243",
   "kind": "bank",
   "jp": "ぎんダナ",
-  "en": "GinBndna",
+  "en": "Ginji's Bandana",
   "status": "tl"
  },
  {
   "id": "B0244",
   "kind": "bank",
   "jp": "ぎんグロ",
-  "en": "GinGlove",
+  "en": "Ginji's Gloves",
   "status": "tl"
  },
  {
   "id": "B0245",
   "kind": "bank",
   "jp": "しどペン",
-  "en": "ShiPndnt",
+  "en": "Shido's Pendant",
   "status": "tl"
  },
  {
   "id": "B0246",
   "kind": "bank",
   "jp": "しどダナ",
-  "en": "ShiBndna",
+  "en": "Shido's Bandana",
   "status": "tl"
  },
  {
   "id": "B0247",
   "kind": "bank",
   "jp": "かづどめ",
-  "en": "KazHrTie",
+  "en": "Kazuki Hair Tie",
   "status": "tl"
  },
  {
   "id": "B0248",
   "kind": "bank",
   "jp": "かづいと",
-  "en": "KazStrng",
+  "en": "Kazuki's Strings",
   "status": "tl"
  },
  {
   "id": "B0249",
   "kind": "bank",
   "jp": "えみグラ",
-  "en": "EmiShade",
+  "en": "Emishi's Shades",
   "status": "tl"
  },
  {
   "id": "B0250",
   "kind": "bank",
   "jp": "ポーグラ",
-  "en": "PauShade",
+  "en": "Paul's Shades",
   "status": "tl"
  },
  {
   "id": "B0251",
   "kind": "bank",
   "jp": "ポーダナ",
-  "en": "PauBndna",
+  "en": "Paul's Bandana",
   "status": "tl"
  },
  {
   "id": "B0252",
   "kind": "bank",
   "jp": "ひみピア",
-  "en": "HimEarng",
+  "en": "Himiko Earrings",
   "status": "tl"
  },
  {
   "id": "B0253",
   "kind": "bank",
   "jp": "なつリボ",
-  "en": "NatRibbn",
+  "en": "Natsumi's Ribbon",
   "status": "tl"
  },
  {
   "id": "B0254",
   "kind": "bank",
   "jp": "マリブレ",
-  "en": "MarBrace",
+  "en": "Maria's Bracelet",
   "status": "tl"
  },
  {
   "id": "B0255",
   "kind": "bank",
   "jp": "マリピア",
-  "en": "MarEarng",
+  "en": "Maria's Earrings",
   "status": "tl"
  },
  {
   "id": "B0256",
   "kind": "bank",
   "jp": "MAダナ",
-  "en": "MABndna",
+  "en": "MakubeX Bandana",
   "status": "tl"
  },
  {
   "id": "B0257",
   "kind": "bank",
   "jp": "MAグル",
-  "en": "MAGoggle",
+  "en": "MakubeX Goggles",
   "status": "tl"
  },
  {
   "id": "B0258",
   "kind": "bank",
   "jp": "まぐダナ",
-  "en": "MagBndna",
+  "en": "Basha's Bandana",
   "status": "tl"
  },
  {
   "id": "B0259",
   "kind": "bank",
   "jp": "あかぼう",
-  "en": "AkaHat",
+  "en": "Akabane's Hat",
   "status": "tl"
  },
  {
   "id": "B0260",
   "kind": "bank",
   "jp": "ひしグラ",
-  "en": "HisShade",
+  "en": "Hishiki's Shades",
   "status": "tl"
  },
  {
   "id": "B0261",
   "kind": "bank",
   "jp": "ひしピア",
-  "en": "HisEarng",
+  "en": "Hishiki Earrings",
   "status": "tl"
  },
  {
   "id": "B0262",
   "kind": "bank",
   "jp": "かがピア",
-  "en": "KagEarng",
+  "en": "Kagami Earrings",
   "status": "tl"
  },
  {
   "id": "B0263",
   "kind": "bank",
   "jp": "ゆきメガ",
-  "en": "YukSpecs",
+  "en": "Yukihiko Glasses",
   "status": "tl"
  },
  {
   "id": "B0264",
   "kind": "bank",
   "jp": "てしピア",
-  "en": "TesEarng",
+  "en": "Teshimine Studs",
   "status": "tl"
  },
  {
   "id": "B0265",
   "kind": "bank",
   "jp": "じゅグル",
-  "en": "JuGoggle",
+  "en": "Juubei's Goggles",
   "status": "tl"
  },
  {
   "id": "B0266",
   "kind": "bank",
   "jp": "じゅグロ",
-  "en": "JuuGlove",
+  "en": "Juubei's Gloves",
   "status": "tl"
  },
  {
   "id": "B0267",
   "kind": "bank",
   "jp": "レナエプ",
-  "en": "RenApron",
+  "en": "Rena's Apron",
   "status": "tl"
  },
  {
   "id": "B0268",
   "kind": "bank",
   "jp": "なつエプ",
-  "en": "NatApron",
+  "en": "Natsumi's Apron",
   "status": "tl"
  },
  {
   "id": "B0269",
   "kind": "bank",
   "jp": "クレかみ",
-  "en": "ClaHrpin",
+  "en": "Clayman Hairclip",
   "status": "tl"
  },
  {
   "id": "B0270",
   "kind": "bank",
   "jp": "うりリス",
-  "en": "UryWrist",
+  "en": "Uryu's Band",
   "status": "tl"
  },
  {
   "id": "B0271",
   "kind": "bank",
   "jp": "あおグラ",
-  "en": "AokShade",
+  "en": "Aoki's Shades",
   "status": "tl"
  },
  {
   "id": "B0272",
   "kind": "bank",
   "jp": "あやメガ",
-  "en": "AyaSpecs",
+  "en": "Ayamine Glasses",
   "status": "tl"
  },
  {
   "id": "B0273",
   "kind": "bank",
   "jp": "ヘヴピア",
-  "en": "HevEarng",
+  "en": "Hevn's Earrings",
   "status": "tl"
  },
  {
   "id": "B0274",
   "kind": "bank",
   "jp": "ロンピア",
-  "en": "RonEarng",
+  "en": "Ronka's Earrings",
   "status": "tl"
  },
  {
   "id": "B0275",
   "kind": "bank",
   "jp": "きらグロ",
-  "en": "KirGlove",
+  "en": "Kirara's Gloves",
   "status": "tl"
  },
  {
   "id": "B0276",
   "kind": "bank",
   "jp": "しどリス",
-  "en": "ShiWrist",
+  "en": "Shido's Band",
   "status": "tl"
  },
  {
   "id": "B0277",
   "kind": "bank",
   "jp": "さくぬの",
-  "en": "SakCloth",
+  "en": "Sakura's Robe",
   "status": "tl"
  },
  {
   "id": "B0278",
   "kind": "bank",
   "jp": "ふどがん",
-  "en": "FudPatch",
+  "en": "Fudo's Eyepatch",
   "status": "tl"
  },
  {
   "id": "B0279",
   "kind": "bank",
   "jp": "ふどアン",
-  "en": "FudAnklt",
+  "en": "Fudo's Anklet",
   "status": "tl"
  },
  {
   "id": "B0280",
   "kind": "bank",
   "jp": "あかてぶ",
-  "en": "AkaGlove",
+  "en": "Akabane's Gloves",
   "status": "tl"
  },
  {
   "id": "B0281",
   "kind": "bank",
   "jp": "きょめん",
-  "en": "KyoMask",
+  "en": "Kyosuke's Mask",
   "status": "tl"
  },
  {
   "id": "B0282",
   "kind": "bank",
   "jp": "だいせん",
-  "en": "DaiFan",
+  "en": "Daisuke's Fan",
   "status": "tl"
  },
  {
   "id": "B0283",
   "kind": "bank",
   "jp": "Kめん　",
-  "en": "KMask",
+  "en": "K's Mask",
   "status": "tl"
  },
  {
   "id": "B0284",
   "kind": "bank",
   "jp": "あんかみ",
-  "en": "AnzHrpin",
+  "en": "Anzu's Hairclip",
   "status": "tl"
  },
  {
   "id": "B0285",
   "kind": "bank",
   "jp": "るりかみ",
-  "en": "RurHrpin",
+  "en": "Ruri's Hairclip",
   "status": "tl"
  },
  {
   "id": "B0286",
   "kind": "bank",
   "jp": "おにパン",
-  "en": "OniPants",
+  "en": "Oniyasha Undies",
   "status": "tl"
  },
  {
   "id": "B0287",
   "kind": "bank",
   "jp": "ひるサン",
-  "en": "HirSandl",
+  "en": "Hiruta's Shades",
   "status": "tl"
  },
  {
   "id": "B0288",
   "kind": "bank",
   "jp": "ひるネッ",
-  "en": "HirNeckl",
+  "en": "Hiruta Necklace",
   "status": "tl"
  },
  {
   "id": "B0289",
   "kind": "bank",
   "jp": "くぼちょ",
-  "en": "KubBwTie",
+  "en": "Kubota's Bow Tie",
   "status": "tl"
  },
  {
   "id": "B0290",
   "kind": "bank",
   "jp": "きらかた",
-  "en": "KirShPad",
+  "en": "Kira's Monocle",
   "status": "tl"
  },
  {
   "id": "B0291",
   "kind": "bank",
   "jp": "MAブレ",
-  "en": "MABrace",
+  "en": "MAI's Bracelet",
   "status": "tl"
  },
  {
   "id": "B0292",
   "kind": "bank",
   "jp": "よこハン",
-  "en": "YokHanky",
+  "en": "Snatcher Hammer",
   "status": "tl"
  },
  {
   "id": "B0293",
   "kind": "bank",
   "jp": "よこヘル",
-  "en": "YokHelmt",
+  "en": "Snatcher Helmet",
   "status": "tl"
  },
  {
   "id": "B0294",
   "kind": "bank",
   "jp": "げんぼう",
-  "en": "GenHat",
+  "en": "Gen's Hat",
   "status": "tl"
  },
  {
   "id": "B0295",
   "kind": "bank",
   "jp": "マドリボ",
-  "en": "MadRibbn",
+  "en": "Madoka's Ribbon",
   "status": "tl"
  },
  {
   "id": "B0296",
   "kind": "bank",
   "jp": "みろゆび",
-  "en": "MirRing",
+  "en": "Miroku's Ring",
   "status": "tl"
  },
  {
   "id": "B0297",
   "kind": "bank",
   "jp": "ときグロ",
-  "en": "TokGlove",
+  "en": "Tokisada Gloves",
   "status": "tl"
  },
  {
   "id": "B0298",
   "kind": "bank",
   "jp": "つばグロ",
-  "en": "TsuGlove",
+  "en": "Tsubaki's Gloves",
   "status": "tl"
  },
  {
   "id": "B0299",
   "kind": "bank",
   "jp": "ひかグロ",
-  "en": "HikGlove",
+  "en": "Hikage's Gloves",
   "status": "tl"
  },
  {
   "id": "B0300",
   "kind": "bank",
   "jp": "うきグロ",
-  "en": "UkiGlove",
+  "en": "Ukyo's Gloves",
   "status": "tl"
  },
  {
@@ -5281,7 +5281,7 @@
   "id": "B0754",
   "kind": "bank",
   "jp": "大丈夫、カヅっちゃん?　",
-  "en": "You okay, Kazu?",
+  "en": "You okay, Kazuki?",
   "status": "tl"
  },
  {
@@ -5351,7 +5351,7 @@
   "id": "B0764",
   "kind": "bank",
   "jp": "今だよ、カヅっちゃん！　",
-  "en": "Now, Kazu!",
+  "en": "Now, Kazuki!",
   "status": "tl"
  },
  {
@@ -5421,7 +5421,7 @@
   "id": "B0774",
   "kind": "bank",
   "jp": "よし行こう、カヅッちゃん！　",
-  "en": "All right, let's go, Kazu!",
+  "en": "All right, let's go, Kazuki!",
   "status": "tl"
  },
  {
@@ -7276,7 +7276,7 @@
   "id": "B1039",
   "kind": "bank",
   "jp": "士度、カヅっちゃん、行くよ！",
-  "en": "Shido, Kazu, let's go!",
+  "en": "Shido, Kazuki, let's go!",
   "status": "tl"
  },
  {
@@ -8256,14 +8256,14 @@
   "id": "B1179",
   "kind": "bank",
   "jp": "ガードマン　",
-  "en": "Guardman",
+  "en": "Security Guard",
   "status": "tl"
  },
  {
   "id": "B1180",
   "kind": "bank",
   "jp": "上級ガードマン　",
-  "en": "Senior Guardman",
+  "en": "Senior Guard",
   "status": "tl"
  },
  {
@@ -8872,14 +8872,14 @@
   "id": "B1267",
   "kind": "bank",
   "jp": "ガードマン　",
-  "en": "Guardman",
+  "en": "Security Guard",
   "status": "tl"
  },
  {
   "id": "B1268",
   "kind": "bank",
   "jp": "上級ガードマン　",
-  "en": "Senior Guardman",
+  "en": "Senior Guard",
   "status": "tl"
  },
  {
@@ -9446,7 +9446,7 @@
   "id": "B1349",
   "kind": "bank",
   "jp": "ガードマン　",
-  "en": "Guardman",
+  "en": "Security Guard",
   "status": "tl"
  },
  {
@@ -11385,14 +11385,14 @@
   "id": "B1626",
   "kind": "bank",
   "jp": "ガードマン　",
-  "en": "Guardman",
+  "en": "Security Guard",
   "status": "tl"
  },
  {
   "id": "B1627",
   "kind": "bank",
   "jp": "じょうきゅうガードマン　",
-  "en": "Senior Guardman",
+  "en": "Senior Guard",
   "status": "tl"
  },
  {
@@ -12001,14 +12001,14 @@
   "id": "B1714",
   "kind": "bank",
   "jp": "ガードマン　",
-  "en": "Guardman",
+  "en": "Security Guard",
   "status": "tl"
  },
  {
   "id": "B1715",
   "kind": "bank",
   "jp": "じょうきゅうガードマン　",
-  "en": "Senior Guardman",
+  "en": "Senior Guard",
   "status": "tl"
  },
  {
@@ -13009,7 +13009,7 @@
   "id": "B1858",
   "kind": "bank",
   "jp": "カヅっちゃん?　",
-  "en": "Kazu?",
+  "en": "Kazuki?",
   "status": "tl"
  },
  {
@@ -13093,7 +13093,7 @@
   "id": "B1870",
   "kind": "bank",
   "jp": "カヅっちゃん",
-  "en": "Kazu",
+  "en": "Kazuki",
   "status": "tl"
  },
  {
@@ -13205,7 +13205,7 @@
   "id": "B1886",
   "kind": "bank",
   "jp": "カヅっちゃん！　",
-  "en": "Kazu!",
+  "en": "Kazuki!",
   "status": "tl"
  },
  {

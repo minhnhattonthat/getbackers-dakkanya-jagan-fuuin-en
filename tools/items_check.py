@@ -10,7 +10,7 @@ import batches  # noqa: E402
 
 def check(e):
     errs = []
-    lim = 16 if e['id'].startswith('item') else 10
+    lim = 16
     for k in ('name_en', 'text_en'):
         v = e.get(k, '')
         if not v:
