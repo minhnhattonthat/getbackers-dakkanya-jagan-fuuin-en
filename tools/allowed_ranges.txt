@@ -11,3 +11,6 @@ A6062C-A60680  # battle label resource entries (tile sheet pointers)
 5B0B8-5B0BC
 5B530-5B534
 3008B8-3008E0  # label number tile offsets (tools/labels.py)
+A5FED8-A60178  # opening caption entries (tools/captions.py)
+5A4968-5A4E68  # small 邪眼封印 tiles, redrawn in place
+5A3F28-5A4848  # 邪眼封印 logo strip tiles, redrawn in place

@@ -174,6 +174,8 @@ def title_job(rom):
 TITLE_EDITS = [
     {'rect': (176, 71, 216, 83), 'bg': 220, 'ink': 151, 'text': 'DAKKANYA', 'micro': True, 'dy': 4},
     {'rect': (93, 92, 200, 106), 'bg': 151, 'ink': 239, 'outline': 101, 'text': 'EVIL EYE SEALED!', 'dy': 3},
+    # katakana reading ゲットバッカーズ above "Backers": painted out (the English logo says it already)
+    {'rect': (131, 18, 224, 42), 'bg': 0, 'ink': 0, 'text': ''},
 ]
 def title_copyright(rom):
     """Copyright line under the title menu: OBJ strip y 136, 7 sprites 32x16 + one 16x16, tiles 60-119 (1D),
