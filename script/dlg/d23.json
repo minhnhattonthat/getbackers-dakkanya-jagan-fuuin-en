@@ -4,256 +4,256 @@
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あ、あれ?\nこんなとこに人面イカが飾ってあるよ",
-  "en": "",
-  "status": ""
+  "en": "Huh? There's a Human-Face Squid on display here.",
+  "status": "tl"
  },
  {
   "id": "F462E8:1",
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "あら、この変なイカ…\n確かマリーアさんのところにあったヤツ",
-  "en": "",
-  "status": ""
+  "en": "Hey, this weird squid... Wasn't it the one at Maria's place?",
+  "status": "tl"
  },
  {
   "id": "F46360:1",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "人面のイカですか、\nなかなか興味深いですね",
-  "en": "",
-  "status": ""
+  "en": "A squid with a human face... How very intriguing.",
+  "status": "tl"
  },
  {
   "id": "F463C8:1",
   "kind": "msg",
   "speaker": "花月",
   "jp": "なぜこんなところに\n人面イカが飾ってあるんだろう?",
-  "en": "",
-  "status": ""
+  "en": "Why would a Human-Face Squid be on display in a place like this?",
+  "status": "tl"
  },
  {
   "id": "F46438:1",
   "kind": "msg",
   "speaker": "士度",
   "jp": "なんだ、この変なイカは?",
-  "en": "",
-  "status": ""
+  "en": "What's with this weird squid?",
+  "status": "tl"
  },
  {
   "id": "F46488:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "なんや、これ?　人面のイカやん！\n…宇宙人ちゃうんかな~",
-  "en": "",
-  "status": ""
+  "en": "What's this? A squid with a human face! ...Ain't it some kinda alien?",
+  "status": "tl"
  },
  {
   "id": "F464FC:1",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "なかなか神秘的なイカだな…",
-  "en": "",
-  "status": ""
+  "en": "A rather mystical squid...",
+  "status": "tl"
  },
  {
   "id": "F46554:1",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "人面のイカだと?\nなぜこのようなものが水族館に！?",
-  "en": "",
-  "status": ""
+  "en": "A squid with a human face? Why is such a thing in an aquarium!?",
+  "status": "tl"
  },
  {
   "id": "F465C0:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "この軟体動物が…\nこれでもくらえ~~~っ！！",
-  "en": "",
-  "status": ""
+  "en": "You stinkin' mollusk... Eat thiiis!!",
+  "status": "tl"
  },
  {
   "id": "F46628:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ブハハハハ！\n悪夢は見れたかよ！！",
-  "en": "",
-  "status": ""
+  "en": "Bwahahaha! Hope ya enjoyed the nightmare!!",
+  "status": "tl"
  },
  {
   "id": "F46628:2",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "このターコ！！",
-  "en": "",
-  "status": ""
+  "en": "Ya dumb octopus!!",
+  "status": "tl"
  },
  {
   "id": "F466A0:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "クソッ、こンなとこで軟体動物なんぞに\n捕まるわけにはいかねえってのによ！",
-  "en": "",
-  "status": ""
+  "en": "Dammit, I can't get caught by some lousy mollusk in a place like this!",
+  "status": "tl"
  },
  {
   "id": "F466A0:2",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "邪眼も使い果たした…ここまでか…",
-  "en": "",
-  "status": ""
+  "en": "My Evil Eye's all used up... Is this it...?",
+  "status": "tl"
  },
  {
   "id": "F46750:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "この俺様がタコなんぞに捕まるとはな…\nったく、嫌な夢見ちまったぜ…",
-  "en": "",
-  "status": ""
+  "en": "The great Ban, caught by an octopus... Man, what a lousy dream that was...",
+  "status": "tl"
  },
  {
   "id": "F46750:2",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "気ィ取り直していかねーとな！",
-  "en": "",
-  "status": ""
+  "en": "Gotta pull myself together and keep goin'!",
+  "status": "tl"
  },
  {
   "id": "F46750:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "つっても、残る邪眼は後二回…",
-  "en": "",
-  "status": ""
+  "en": "Still, I've only got two more Evil Eyes left...",
+  "status": "tl"
  },
  {
   "id": "F46750:4",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "使いどころを考えねぇとな…",
-  "en": "",
-  "status": ""
+  "en": "Better think hard about when to use 'em...",
+  "status": "tl"
  },
  {
   "id": "F46844:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "『ゲットイットオン！　奪還BABY』",
-  "en": "",
-  "status": ""
+  "en": "\"Get It On! Get-Back Baby\"",
+  "status": "tl"
  },
  {
   "id": "F468A4:1",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "ありがとうございました♥",
-  "en": "",
-  "status": ""
+  "en": "Thank you very much♥",
+  "status": "tl"
  },
  {
   "id": "F468F8:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ここの部屋を仕切ってる\nトビラって電動式になってるね",
-  "en": "",
-  "status": ""
+  "en": "The doors dividing these rooms are electric.",
+  "status": "tl"
  },
  {
   "id": "F468F8:2",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "オレの電撃でどうにかできるかも！",
-  "en": "",
-  "status": ""
+  "en": "Maybe my electricity can do something about them!",
+  "status": "tl"
  },
  {
   "id": "F46994:1",
   "kind": "msg",
   "speaker": "クレイマン",
   "jp": "機会があったらまたお会いしよう…",
-  "en": "",
-  "status": ""
+  "en": "Should the chance arise, let us meet again...",
+  "status": "tl"
  },
  {
   "id": "F469F4:1",
   "kind": "msg",
   "speaker": "MAI",
   "jp": "またお世話になっちゃったのね…\nいつもいつもゴメンなさい",
-  "en": "",
-  "status": ""
+  "en": "You've helped me out again... I'm always causing you trouble. Sorry.",
+  "status": "tl"
  },
  {
   "id": "F46A6C:1",
   "kind": "choice",
   "speaker": "士度",
   "jp": "分かりません…",
-  "en": "",
-  "status": ""
+  "en": "I don't get it...",
+  "status": "tl"
  },
  {
   "id": "F46A6C:2",
   "kind": "choice",
   "speaker": "士度",
   "jp": "分かったよ！",
-  "en": "",
-  "status": ""
+  "en": "Got it!",
+  "status": "tl"
  },
  {
   "id": "F46A6C:3",
   "kind": "prompt",
   "speaker": "士度",
   "jp": "分かったか?",
-  "en": "",
-  "status": ""
+  "en": "Got it?",
+  "status": "tl"
  },
  {
   "id": "F46AF8:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "やれやれ…まァた\nタコツボを使うはめになるとはな…",
-  "en": "",
-  "status": ""
+  "en": "Jeez... Never thought I'd have to use the octopus pots again...",
+  "status": "tl"
  },
  {
   "id": "F46AF8:2",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "しかし前よりもツボの\n数が少なくなってやがンな…",
-  "en": "",
-  "status": ""
+  "en": "But there's fewer pots than last time...",
+  "status": "tl"
  },
  {
   "id": "F46AF8:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "前回以上に使い所を考えねえとな…",
-  "en": "",
-  "status": ""
+  "en": "Gotta think even harder about when to use 'em...",
+  "status": "tl"
  },
  {
   "id": "F46AF8:4",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "とりあえず、ツボを水中に入れると\n近くにいるタコを封じることができる",
-  "en": "",
-  "status": ""
+  "en": "Anyway, drop a pot in the water and it'll seal up any octopus nearby.",
+  "status": "tl"
  },
  {
   "id": "F46AF8:5",
   "kind": "msg",
   "speaker": "蛮",
-  "jp": "タコを封じている間に移動…\nカギの場所まで汕り着くのが目的だ",
-  "en": "",
-  "status": ""
+  "jp": "タコを封じている間に移動…\nカギの場所まで辿り着くのが目的だ",
+  "en": "Move while they're sealed... The goal's to reach the key.",
+  "status": "tl"
  },
  {
   "id": "F46AF8:6",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "よし…行くぞ！！",
-  "en": "",
-  "status": ""
+  "en": "Alright... let's go!!",
+  "status": "tl"
  },
  {
   "id": "F46C8C:1",
@@ -284,167 +284,167 @@
   "kind": "prompt",
   "speaker": "",
   "jp": "ごきげんいかが　マイ・ベイビー",
-  "en": "",
-  "status": ""
+  "en": "How ya doin', my baby?",
+  "status": "tl"
  },
  {
   "id": "F46D6C:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "これでいいのさ！　トゥルー・ラブ",
-  "en": "",
-  "status": ""
+  "en": "This is how it should be! True love",
+  "status": "tl"
  },
  {
   "id": "F46DBC:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "やるせないのに　ロンリーウルフ",
-  "en": "",
-  "status": ""
+  "en": "So down and out, lonely wolf",
+  "status": "tl"
  },
  {
   "id": "F46E0C:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "こそばゆいから　ヘルプミー",
-  "en": "",
-  "status": ""
+  "en": "It tickles so much, help me!",
+  "status": "tl"
  },
  {
   "id": "F46E58:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "走り出せ！　俺たちの明日へ",
-  "en": "",
-  "status": ""
+  "en": "Start running! Toward our tomorrow",
+  "status": "tl"
  },
  {
   "id": "F46EA4:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "燃え上がる魂を感じて欲しいのさ",
-  "en": "",
-  "status": ""
+  "en": "I want you to feel my burning soul",
+  "status": "tl"
  },
  {
   "id": "F46EF4:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "ノンストップな　恋の炎を",
-  "en": "",
-  "status": ""
+  "en": "The nonstop flames of love",
+  "status": "tl"
  },
  {
   "id": "F46F3C:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "転んでも　ただでは起きないぜ",
-  "en": "",
-  "status": ""
+  "en": "Every fall, I rise with a prize",
+  "status": "tl"
  },
  {
   "id": "F46F88:1",
   "kind": "bline",
   "speaker": "気絶しちゃうなよ",
   "jp": "レット・イット・ライド　",
-  "en": "",
-  "status": ""
+  "en": "Let It Ride",
+  "status": "tl"
  },
  {
   "id": "F46FE4:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "ブレーキかけたら青春はジ・エンド",
-  "en": "",
-  "status": ""
+  "en": "Hit the brakes and youth is The End",
+  "status": "tl"
  },
  {
   "id": "F47034:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "ステーキ食べたら空腹はジ・エンド",
-  "en": "",
-  "status": ""
+  "en": "Eat a steak and hunger is The End",
+  "status": "tl"
  },
  {
   "id": "F47084:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "雑草のように生き延びてやる",
-  "en": "",
-  "status": ""
+  "en": "I'll survive just like a weed",
+  "status": "tl"
  },
  {
   "id": "F470D0:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "ゴールは見えなくてもOK！",
-  "en": "",
-  "status": ""
+  "en": "Can't see the goal? That's OK!",
+  "status": "tl"
  },
  {
   "id": "F4711C:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "ハグしてキスしてシェイキン×2",
-  "en": "",
-  "status": ""
+  "en": "Hug me, kiss me, shakin' shakin'",
+  "status": "tl"
  },
  {
   "id": "F4716C:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "恋する魔法はマジカルスネーク",
-  "en": "",
-  "status": ""
+  "en": "Love's magic is a Magical Snake",
+  "status": "tl"
  },
  {
   "id": "F471B8:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "ハッとしてグッときてパンチ×3",
-  "en": "",
-  "status": ""
+  "en": "Gasp, get hooked, punch punch punch",
+  "status": "tl"
  },
  {
   "id": "F47208:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "奪還ベイビー　だって好きなんだもん！",
-  "en": "",
-  "status": ""
+  "en": "Get-Back Baby, 'cause I love you!",
+  "status": "tl"
  },
  {
   "id": "F4725C:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "ゲットバッカーズ！",
-  "en": "",
-  "status": ""
+  "en": "GetBackers!",
+  "status": "tl"
  },
  {
   "id": "F4725C:1",
   "kind": "prompt",
   "speaker": "",
   "jp": "この依頼、確かに引き受けた！！",
-  "en": "",
-  "status": ""
+  "en": "We hereby accept this job!!",
+  "status": "tl"
  },
  {
   "id": "F472E4:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "はじけているの?　スィート・ハート",
-  "en": "",
-  "status": ""
+  "en": "Bustin' loose? Sweetheart",
+  "status": "tl"
  },
  {
   "id": "F47338:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "今夜はゼッタイ！　オールナイト",
-  "en": "",
-  "status": ""
+  "en": "Tonight for sure! All night",
+  "status": "tl"
  }
 ]

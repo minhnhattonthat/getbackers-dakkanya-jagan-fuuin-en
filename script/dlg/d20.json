@@ -236,152 +236,152 @@
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "俺も辞退させてもらおうか…",
-  "en": "",
-  "status": ""
+  "en": "I'll decline as well, then...",
+  "status": "tl"
  },
  {
   "id": "F3A778:29",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "なんだ、一体なにがあったんだ！?",
-  "en": "",
-  "status": ""
+  "en": "What? What on earth happened here?!",
+  "status": "tl"
  },
  {
   "id": "F3A778:31",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "いいからテメーは黙ってろ！",
-  "en": "",
-  "status": ""
+  "en": "Never mind, you just shut your trap!",
+  "status": "tl"
  },
  {
   "id": "F3A778:33",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "あらあら、混乱させちゃったみたいね♥",
-  "en": "",
-  "status": ""
+  "en": "Oh my, looks like I've gotten you all confused♥",
+  "status": "tl"
  },
  {
   "id": "F3A778:34",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "あなたたちに情報あげるから\nそれで許していただけないかしら?",
-  "en": "",
-  "status": ""
+  "en": "I'll give you some info, so how about letting me off the hook?",
+  "status": "tl"
  },
  {
   "id": "F3A778:36",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "情報だァ?",
-  "en": "",
-  "status": ""
+  "en": "Information?",
+  "status": "tl"
  },
  {
   "id": "F3A778:38",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "お探しものについてね♥",
-  "en": "",
-  "status": ""
+  "en": "About the thing you're looking for♥",
+  "status": "tl"
  },
  {
   "id": "F3A778:39",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "ヒントはプール…そして屋外…",
-  "en": "",
-  "status": ""
+  "en": "The hint is: a pool... and outdoors...",
+  "status": "tl"
  },
  {
   "id": "F3A778:41",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "屋外のプールになにかあるんですか?",
-  "en": "",
-  "status": ""
+  "en": "Something's at the outdoor pool?",
+  "status": "tl"
  },
  {
   "id": "F3A778:43",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "それは行ってみれば分かるわよ",
-  "en": "",
-  "status": ""
+  "en": "You'll find out if you go and see.",
+  "status": "tl"
  },
  {
   "id": "F3A778:44",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "それじゃ、\nまたお店の方に遊びにいらっしゃいね♥",
-  "en": "",
-  "status": ""
+  "en": "Well then, come by the shop and play again sometime♥",
+  "status": "tl"
  },
  {
   "id": "F3B178:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あれ、クレイマンさん?\nどうしてこんなところに！?",
-  "en": "",
-  "status": ""
+  "en": "Huh, Clayman? What are you doing in a place like this?!",
+  "status": "tl"
  },
  {
   "id": "F3B178:3",
   "kind": "msg",
   "speaker": "クレイマン",
   "jp": "この水族館に飾る\n美術品の展示を任されていてね…",
-  "en": "",
-  "status": ""
+  "en": "I was put in charge of the art exhibit on display in this aquarium...",
+  "status": "tl"
  },
  {
   "id": "F3B178:4",
   "kind": "msg",
   "speaker": "クレイマン",
   "jp": "それでここに来ていたんだよ",
-  "en": "",
-  "status": ""
+  "en": "That's why I came here.",
+  "status": "tl"
  },
  {
   "id": "F3B178:6",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "そうなんですか~",
-  "en": "",
-  "status": ""
+  "en": "Oh, I see~",
+  "status": "tl"
  },
  {
   "id": "F3B178:8",
   "kind": "msg",
   "speaker": "クレイマン",
   "jp": "助けてくれた礼にこれをあげよう",
-  "en": "",
-  "status": ""
+  "en": "Take this as thanks for saving me.",
+  "status": "tl"
  },
  {
   "id": "F3B178:9",
   "kind": "msg",
   "speaker": "クレイマン",
   "jp": "クレかみをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got Clayman's Hairpin!",
+  "status": "tl"
  },
  {
   "id": "F3B178:11",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "わーい、ありがとうございます！",
-  "en": "",
-  "status": ""
+  "en": "Yay, thank you very much!",
+  "status": "tl"
  },
  {
   "id": "F3B178:13",
   "kind": "msg",
   "speaker": "クレイマン",
   "jp": "それでは失礼するよ\n機会があったらまたお会いしよう…",
-  "en": "",
-  "status": ""
+  "en": "I'll take my leave now. Let's meet again if we get the chance...",
+  "status": "tl"
  },
  {
   "id": "F3B450:1",
@@ -396,112 +396,112 @@
   "kind": "msg",
   "speaker": "MAI",
   "jp": "あっ、士度さん…マドカは?\nマドカは無事なの！?",
-  "en": "",
-  "status": ""
+  "en": "Ah, Shido... What about Madoka? Is Madoka safe?!",
+  "status": "tl"
  },
  {
   "id": "F3B450:5",
   "kind": "msg",
   "speaker": "士度",
   "jp": "ああ、無事だ…\nアンタも早くここから逃げた方がいい",
-  "en": "",
-  "status": ""
+  "en": "Yeah, she's safe... You'd better get out of here too, quick.",
+  "status": "tl"
  },
  {
   "id": "F3B450:7",
   "kind": "msg",
   "speaker": "MAI",
   "jp": "そう、良かった…",
-  "en": "",
-  "status": ""
+  "en": "I see. Thank goodness...",
+  "status": "tl"
  },
  {
   "id": "F3B450:9",
   "kind": "msg",
   "speaker": "士度",
   "jp": "CDも奪還しておいた…\n後でHONKYTONKに来てくれ",
-  "en": "",
-  "status": ""
+  "en": "I got the CD back, too... Come to the Honky Tonk later.",
+  "status": "tl"
  },
  {
   "id": "F3B450:11",
   "kind": "msg",
   "speaker": "MAI",
   "jp": "ありがとう、士度さん\nじゃ、後で…",
-  "en": "",
-  "status": ""
+  "en": "Thank you, Shido. See you later, then...",
+  "status": "tl"
  },
  {
   "id": "F3B670:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "夏実ちゃん！?\n良かった~、ブジだったね！",
-  "en": "",
-  "status": ""
+  "en": "Natsumi?! Phew~, you're safe!",
+  "status": "tl"
  },
  {
   "id": "F3B670:3",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "あれ?　蛮さん、銀次さん！?\nどうしたんですかぁ?",
-  "en": "",
-  "status": ""
+  "en": "Huh? Ban, Ginji?! What's going on?",
+  "status": "tl"
  },
  {
   "id": "F3B670:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "なんかって…\nみんなさらわれちまったんだぜ?",
-  "en": "",
-  "status": ""
+  "en": "\"What's going on\"? Everybody got kidnapped, y'know!",
+  "status": "tl"
  },
  {
   "id": "F3B670:7",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "みんな！?\nみんなってレナちゃんやヘヴンさんが?",
-  "en": "",
-  "status": ""
+  "en": "Everybody?! You mean Rena and Hevn?",
+  "status": "tl"
  },
  {
   "id": "F3B670:9",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "うん、ヘヴンさんとマドカちゃんは\nなんとか助けたんだけどね…",
-  "en": "",
-  "status": ""
+  "en": "Yeah, we managed to save Hevn and Madoka, but...",
+  "status": "tl"
  },
  {
   "id": "F3B670:10",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "他の人たちは水族館の中にいるみたい",
-  "en": "",
-  "status": ""
+  "en": "Looks like everybody else is inside the aquarium.",
+  "status": "tl"
  },
  {
   "id": "F3B670:12",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "そうなんですか…",
-  "en": "",
-  "status": ""
+  "en": "Is that so...",
+  "status": "tl"
  },
  {
   "id": "F3B670:14",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "夏実ちゃんはどうしてここにいるの?",
-  "en": "",
-  "status": ""
+  "en": "Natsumi, how come you're here?",
+  "status": "tl"
  },
  {
   "id": "F3B670:16",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "みんなの飲み物買いに行こうとして\n迷っちゃったんです~エヘヘ♥",
-  "en": "",
-  "status": ""
+  "en": "I went to buy drinks for everybody and got lost~ Ehehe♥",
+  "status": "tl"
  },
  {
   "id": "F3B670:18",
@@ -516,656 +516,656 @@
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ま、まあブジで良かったよね~",
-  "en": "",
-  "status": ""
+  "en": "W-Well, it's good you're safe~",
+  "status": "tl"
  },
  {
   "id": "F3B670:21",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "じゃあ\n夏実ちゃんは安全なトコに避難しててよ",
-  "en": "",
-  "status": ""
+  "en": "So, Natsumi, go take shelter somewhere safe, okay?",
+  "status": "tl"
  },
  {
   "id": "F3B670:23",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "は~い！",
-  "en": "",
-  "status": ""
+  "en": "Okaaay!",
+  "status": "tl"
  },
  {
   "id": "F3B670:24",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "あっ、そうだ！　なにかの役に立つかも\n知れないから、コレ持ってって下さい♥",
-  "en": "",
-  "status": ""
+  "en": "Oh, I know! This might come in handy, so please take it with you♥",
+  "status": "tl"
  },
  {
   "id": "F3B670:25",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "なつリボをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got Natsumi's Ribbon!",
+  "status": "tl"
  },
  {
   "id": "F3B670:27",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "気を付けてね♥",
-  "en": "",
-  "status": ""
+  "en": "Be careful♥",
+  "status": "tl"
  },
  {
   "id": "F3BC90:1",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "みんなブジでいますよね…きっと",
-  "en": "",
-  "status": ""
+  "en": "Everybody's safe... I'm sure of it.",
+  "status": "tl"
  },
  {
   "id": "F3BCE8:1",
   "kind": "msg",
   "speaker": "ヘヴン",
   "jp": "みんなのこと、よろしく頼むわよ！",
-  "en": "",
-  "status": ""
+  "en": "I'm counting on you to take care of everyone!",
+  "status": "tl"
  },
  {
   "id": "F3BD44:1",
   "kind": "msg",
   "speaker": "マドカ",
   "jp": "士度さん、気をつけて…",
-  "en": "",
-  "status": ""
+  "en": "Shido, please be careful...",
+  "status": "tl"
  },
  {
   "id": "F3BD98:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "おおっ、イルカやんか~\nん~、つぶらな目がめっさ可愛いなあ♥",
-  "en": "",
-  "status": ""
+  "en": "Whoa, it's a dolphin~ Mmm, those big round eyes are cute as heck♥",
+  "status": "tl"
  },
  {
   "id": "F3BD98:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "見ろ、向こう側にカギがあるぞ",
-  "en": "",
-  "status": ""
+  "en": "Look, there's a key over on the other side.",
+  "status": "tl"
  },
  {
   "id": "F3BE4C:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "う~ん、ワイの籠で\n向こうへ渡るわけにもいかんしな~…",
-  "en": "",
-  "status": ""
+  "en": "Hmmm, can't exactly cross over there in my basket, now can I~...",
+  "status": "tl"
  },
  {
   "id": "F3BE4C:3",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "どうしたものか…",
-  "en": "",
-  "status": ""
+  "en": "What shall we do...",
+  "status": "tl"
  },
  {
   "id": "F3BE4C:5",
   "kind": "msg",
   "speaker": "士度",
   "jp": "…この場合、\nイルカに取ってきてもらうしかねえな",
-  "en": "",
-  "status": ""
+  "en": "...In this case, we'll just have to get the dolphin to fetch it.",
+  "status": "tl"
  },
  {
   "id": "F3BE4C:7",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "せやな！　頼みますわ、士度はん",
-  "en": "",
-  "status": ""
+  "en": "Right on! It's all yours, Shido.",
+  "status": "tl"
  },
  {
   "id": "F3BF84:1",
   "kind": "msg",
   "speaker": "士度",
   "jp": "操作説明をするぞ",
-  "en": "",
-  "status": ""
+  "en": "I'll explain the controls.",
+  "status": "tl"
  },
  {
   "id": "F3BF84:2",
   "kind": "msg",
   "speaker": "士度",
   "jp": "イルカは十字ボタンで移動",
-  "en": "",
-  "status": ""
+  "en": "Use the +Control Pad to move the dolphin.",
+  "status": "tl"
  },
  {
   "id": "F3BF84:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "Aボタンでボールを飛ばす",
-  "en": "",
-  "status": ""
+  "en": "The A Button sends the ball flying.",
+  "status": "tl"
  },
  {
   "id": "F3BF84:4",
   "kind": "msg",
   "speaker": "士度",
   "jp": "Bボタンで水中に潜り、\n一定の距離を移動…",
-  "en": "",
-  "status": ""
+  "en": "The B Button makes it dive underwater and travel a set distance...",
+  "status": "tl"
  },
  {
   "id": "F3BF84:5",
   "kind": "msg",
   "speaker": "士度",
   "jp": "水中に潜っている時に\nもう一度Bボタンで水中からジャンプ",
-  "en": "",
-  "status": ""
+  "en": "While it's underwater, press the B Button again to jump out of the water.",
+  "status": "tl"
  },
  {
   "id": "F3BF84:6",
   "kind": "msg",
   "speaker": "士度",
   "jp": "LもしくはRで立ち上がる",
-  "en": "",
-  "status": ""
+  "en": "L or R makes it stand up.",
+  "status": "tl"
  },
  {
   "id": "F3BF84:7",
   "kind": "msg",
   "speaker": "士度",
   "jp": "…というアクションをしてくれる",
-  "en": "",
-  "status": ""
+  "en": "...That's what it'll do for you.",
+  "status": "tl"
  },
  {
   "id": "F3BF84:8",
   "kind": "msg",
   "speaker": "士度",
   "jp": "これらのアクションを使ってプールに\nある障害物を越えていくってワケだ",
-  "en": "",
-  "status": ""
+  "en": "The idea is to use those moves to get past the obstacles in the pool.",
+  "status": "tl"
  },
  {
   "id": "F3BF84:9",
   "kind": "msg",
   "speaker": "士度",
   "jp": "プールに浮いてる板は潜って抜けても\nいいし、ジャンプして越えてもいい",
-  "en": "",
-  "status": ""
+  "en": "Boards floating in the pool can be dived under or jumped over.",
+  "status": "tl"
  },
  {
   "id": "F3BF84:10",
   "kind": "msg",
   "speaker": "士度",
   "jp": "又、浅瀬の場所は\n立ち上がることで通ることができる",
-  "en": "",
-  "status": ""
+  "en": "Also, shallow spots can be passed by standing up.",
+  "status": "tl"
  },
  {
   "id": "F3BF84:11",
   "kind": "msg",
   "speaker": "士度",
   "jp": "そうやって障害物を越え、ボールを\nカギの場所まで運べばいいってことだ",
-  "en": "",
-  "status": ""
+  "en": "Get past the obstacles like that and carry the ball to where the key is.",
+  "status": "tl"
  },
  {
   "id": "F3BF84:12",
   "kind": "msg",
   "speaker": "士度",
   "jp": "それと一つ注意しとくが、",
-  "en": "",
-  "status": ""
+  "en": "One more word of warning, though:",
+  "status": "tl"
  },
  {
   "id": "F3BF84:13",
   "kind": "msg",
   "speaker": "士度",
   "jp": "ジャンプする時や着水する時に\nボールに触れると遠方にボールが飛ぶぞ",
-  "en": "",
-  "status": ""
+  "en": "touch the ball while jumping or landing and it'll go flying far off.",
+  "status": "tl"
  },
  {
   "id": "F3C298:0",
   "kind": "msg",
   "speaker": "",
   "jp": "入り口の鍵2をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got Entrance Key 2!",
+  "status": "tl"
  },
  {
   "id": "F3C298:2",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "やったやん！\n見事、カギゲットやで！！",
-  "en": "",
-  "status": ""
+  "en": "Ya did it! Bagged the key, nice!!",
+  "status": "tl"
  },
  {
   "id": "F3C298:4",
   "kind": "msg",
   "speaker": "士度",
   "jp": "よし…\nこれで水族館内に入ることができるな",
-  "en": "",
-  "status": ""
+  "en": "Good... Now we can get inside the aquarium.",
+  "status": "tl"
  },
  {
   "id": "F3C384:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "なんだ?\nトビラが閉まりやがっただと！?",
-  "en": "",
-  "status": ""
+  "en": "What? The door closed on me?!",
+  "status": "tl"
  },
  {
   "id": "F3C384:2",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おい、銀次！\n…クソッ、開きゃしねえ",
-  "en": "",
-  "status": ""
+  "en": "Hey, Ginji! ...Damn, it won't budge.",
+  "status": "tl"
  },
  {
   "id": "F3C384:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "こン中からどうにかするしかねえ…か?",
-  "en": "",
-  "status": ""
+  "en": "Guess I gotta figure somethin' out from in here... huh?",
+  "status": "tl"
  },
  {
   "id": "F3C44C:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ン、向こう側にカギがあるな…\n取りに行ってみるとするか",
-  "en": "",
-  "status": ""
+  "en": "Hm, there's a key on the other side... Guess I'll go grab it.",
+  "status": "tl"
  },
  {
   "id": "F3C44C:2",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "…つーか、\nタコがウジャウジャいやがンな…",
-  "en": "",
-  "status": ""
+  "en": "...Then again, the place is crawlin' with octopuses...",
+  "status": "tl"
  },
  {
   "id": "F3C44C:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "あいつらには\n昔世話ンなったイヤな思い出が…",
-  "en": "",
-  "status": ""
+  "en": "I got some nasty memories of those guys from way back...",
+  "status": "tl"
  },
  {
   "id": "F3C44C:4",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "…大人しくしてろよ、タコども\n騒いだら邪眼かけてやるからな！",
-  "en": "",
-  "status": ""
+  "en": "...Quiet, octopuses. Make a fuss and I'll hit ya with the Evil Eye!",
+  "status": "tl"
  },
  {
   "id": "F3C580:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "なンだ、コリャ",
-  "en": "",
-  "status": ""
+  "en": "What the heck is this?",
+  "status": "tl"
  },
  {
   "id": "F3C580:2",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "タコツボか…",
-  "en": "",
-  "status": ""
+  "en": "Octopus pot, huh...",
+  "status": "tl"
  },
  {
   "id": "F3C580:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ま、タコは狭くて暗いトコが好きだから\nこれでおびき寄せられっかもな…",
-  "en": "",
-  "status": ""
+  "en": "Well, octopuses like tight, dark places, so I might be able to lure 'em in with this...",
+  "status": "tl"
  },
  {
   "id": "F3C580:4",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "つってもツボに入るタコは一匹だけだし\nあんま遠いと入らねえかも知れねえな",
-  "en": "",
-  "status": ""
+  "en": "Then again, only one octopus fits in a pot, and if it's too far off it might not go in.",
+  "status": "tl"
  },
  {
   "id": "F3C580:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "しかもツボは数が少ねえし、全部を\n封じるってワケにもいかなそうだな?",
-  "en": "",
-  "status": ""
+  "en": "Plus there ain't many pots, so I can't seal 'em all up, can I?",
+  "status": "tl"
  },
  {
   "id": "F3C580:6",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "使い所を考えねえとな…",
-  "en": "",
-  "status": ""
+  "en": "Gotta think about where to use 'em...",
+  "status": "tl"
  },
  {
   "id": "F3C580:7",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "とりあえず、ツボを水中に入れると\n近くにいるタコを封じることができる",
-  "en": "",
-  "status": ""
+  "en": "Anyway, drop a pot in the water and it'll seal up any octopus nearby.",
+  "status": "tl"
  },
  {
   "id": "F3C580:8",
   "kind": "msg",
   "speaker": "蛮",
-  "jp": "タコを封じている間に移動…\nカギの場所まで汕り着くのが目的だ",
-  "en": "",
-  "status": ""
+  "jp": "タコを封じている間に移動…\nカギの場所まで辿り着くのが目的だ",
+  "en": "Move while they're sealed... The goal's to reach the key.",
+  "status": "tl"
  },
  {
   "id": "F3C580:9",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ま、とりあえず試してみるしか\nなさそうだな…ったく、やれやれだぜ",
-  "en": "",
-  "status": ""
+  "en": "Well, guess I'll just have to give it a shot... Geez, what a pain.",
+  "status": "tl"
  },
  {
   "id": "F3C7F4:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "軟体動物なんぞに負けてられっかよ！",
-  "en": "",
-  "status": ""
+  "en": "Like I'm gonna lose to some mollusks!",
+  "status": "tl"
  },
  {
   "id": "F3C7F4:2",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "入り口の鍵1をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got Entrance Key 1!",
+  "status": "tl"
  },
  {
   "id": "F3C88C:1",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "筧十兵衛、\nマクベスの命により参上！",
-  "en": "",
-  "status": ""
+  "en": "Juubei Kakei, here on MakubeX's orders!",
+  "status": "tl"
  },
  {
   "id": "F3C88C:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あれっ、十兵衛！?\n珍しいね、こんなトコに来るなんて",
-  "en": "",
-  "status": ""
+  "en": "Huh, Juubei?! That's rare, you coming to a place like this.",
+  "status": "tl"
  },
  {
   "id": "F3C88C:5",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "雷帝、マクベスから伝言が…",
-  "en": "",
-  "status": ""
+  "en": "Raitei, I have a message from MakubeX...",
+  "status": "tl"
  },
  {
   "id": "F3C88C:7",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ンなこたいいから早く歌詞覚えろ、\n銀次！",
-  "en": "",
-  "status": ""
+  "en": "Never mind that, just hurry up and learn the lyrics, Ginji!",
+  "status": "tl"
  },
  {
   "id": "F3C88C:9",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あの~、なんでオレたちが前座イベント\nやんなきゃならないんでしょう…",
-  "en": "",
-  "status": ""
+  "en": "Umm~, why do we have to do the opening act anyway...",
+  "status": "tl"
  },
  {
   "id": "F3C88C:11",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "よく考えてみろっての\nMAIのライブ前のイベントだぞ?",
-  "en": "",
-  "status": ""
+  "en": "Think about it, will ya? It's an event before MAI's concert!",
+  "status": "tl"
  },
  {
   "id": "F3C88C:12",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "サンプルCD奪ったヤツも\nここに来てるはずだろうが！",
-  "en": "",
-  "status": ""
+  "en": "The guy who stole the sample CD's gotta be here too!",
+  "status": "tl"
  },
  {
   "id": "F3C88C:14",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "そ、そうなの?",
-  "en": "",
-  "status": ""
+  "en": "R-Really?",
+  "status": "tl"
  },
  {
   "id": "F3C88C:16",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "発売前の新譜を奪うなんてヤツぁ\nファン以外の何者でもねえだろうが！",
-  "en": "",
-  "status": ""
+  "en": "Anybody who'd steal a new album before it's out has gotta be a fan!",
+  "status": "tl"
  },
  {
   "id": "F3C88C:17",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "近くをウロついてるその犯人を\n俺たちの美声でおびき寄せんだよ！",
-  "en": "",
-  "status": ""
+  "en": "We lure the culprit lurkin' around here with our beautiful voices!",
+  "status": "tl"
  },
  {
   "id": "F3C88C:19",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "美声…",
-  "en": "",
-  "status": ""
+  "en": "Beautiful voices...",
+  "status": "tl"
  },
  {
   "id": "F3C88C:20",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "う~ん、\nでも歌詞なんて覚えられるかなあ…",
-  "en": "",
-  "status": ""
+  "en": "Hmmm, but I dunno if I can remember the lyrics...",
+  "status": "tl"
  },
  {
   "id": "F3C88C:21",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "どうでもいいけどさ~、\nこの衣装…古くない?",
-  "en": "",
-  "status": ""
+  "en": "Not that it matters, but~ ...aren't these costumes kinda old?",
+  "status": "tl"
  },
  {
   "id": "F3C88C:23",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "これしかなかったんだよ！\nガマンしろ、ガマン！！",
-  "en": "",
-  "status": ""
+  "en": "These were all they had! Suck it up, suck it up!!",
+  "status": "tl"
  },
  {
   "id": "F3C88C:25",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "雷帝、マクベスから伝言が…",
-  "en": "",
-  "status": ""
+  "en": "Raitei, I have a message from MakubeX...",
+  "status": "tl"
  },
  {
   "id": "F3C88C:27",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おっと、サムライ君にも\n手伝ってもらうとするか！",
-  "en": "",
-  "status": ""
+  "en": "Oh yeah, let's get Samurai Boy to help out too!",
+  "status": "tl"
  },
  {
   "id": "F3C88C:28",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ちょうど衣装余ってたしな！",
-  "en": "",
-  "status": ""
+  "en": "We just happen to have a spare costume!",
+  "status": "tl"
  },
  {
   "id": "F3C88C:30",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "それよりもマクベスから伝言が…",
-  "en": "",
-  "status": ""
+  "en": "More importantly, there's a message from MakubeX...",
+  "status": "tl"
  },
  {
   "id": "F3C88C:32",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "うるせぇな、ちっと黙ってろや！",
-  "en": "",
-  "status": ""
+  "en": "Shaddap, just keep quiet for a sec!",
+  "status": "tl"
  },
  {
   "id": "F3CF10:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "なんや、雨流はんやないか\nどないしたん?",
-  "en": "",
-  "status": ""
+  "en": "Well, if it ain't Uryu. What's up?",
+  "status": "tl"
  },
  {
   "id": "F3CF10:3",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "いや、\nマクベスの伝言を伝えに来たんだが…",
-  "en": "",
-  "status": ""
+  "en": "Well, I came to deliver a message from MakubeX, but...",
+  "status": "tl"
  },
  {
   "id": "F3CF10:4",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "しかし…\nなんという格好をしているんだ！?",
-  "en": "",
-  "status": ""
+  "en": "But... what on earth are you wearing?!",
+  "status": "tl"
  },
  {
   "id": "F3CF10:6",
   "kind": "msg",
   "speaker": "士度",
   "jp": "知らねえよ…笑師に聞け、笑師に！",
-  "en": "",
-  "status": ""
+  "en": "How should I know... Ask Emishi, ask Emishi!",
+  "status": "tl"
  },
  {
   "id": "F3CF10:8",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "なにって仕事やから仕方ないやんか~",
-  "en": "",
-  "status": ""
+  "en": "Whaddaya mean? It's work, so it can't be helped~",
+  "status": "tl"
  },
  {
   "id": "F3CF10:9",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ワイはMAIちゃんのサンプルCDを\n奪ったんはファンやと睨んだんや！",
-  "en": "",
-  "status": ""
+  "en": "I figured the one who stole MAI's sample CD was a fan!",
+  "status": "tl"
  },
  {
   "id": "F3CF10:10",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "そこで目ェつけたんが\nこの前座イベントや！！",
-  "en": "",
-  "status": ""
+  "en": "So what caught my eye was this here openin' act!!",
+  "status": "tl"
  },
  {
   "id": "F3CF10:11",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ぎょうさん集めた客ン中からCDを\n奪った犯人捕まえるっちゅー寸法やな",
-  "en": "",
-  "status": ""
+  "en": "We nab the CD thief outta the huge crowd we pull in, see?",
+  "status": "tl"
  },
  {
   "id": "F3CF10:12",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "我ながら完璧な作戦やな~",
-  "en": "",
-  "status": ""
+  "en": "Even if I say so myself, it's a perfect plan~",
+  "status": "tl"
  },
  {
   "id": "F3CF10:14",
   "kind": "msg",
   "speaker": "士度",
   "jp": "で、なんでキグルミ着て\nフォーク歌わなきゃなんねーんだよ",
-  "en": "",
-  "status": ""
+  "en": "So why do we gotta wear mascot suits and sing folk songs?",
+  "status": "tl"
  },
  {
   "id": "F3CF10:16",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "このシュールな組み合わせが\nたまらんっちゅー話ですわ！",
-  "en": "",
-  "status": ""
+  "en": "It's this surreal combo that makes it irresistible, lemme tell ya!",
+  "status": "tl"
  },
  {
   "id": "F3CF10:17",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "せや、雨流はんもヒマなら手伝ってや！",
-  "en": "",
-  "status": ""
+  "en": "Oh yeah, Uryu, if you got time, lend us a hand!",
+  "status": "tl"
  },
  {
   "id": "F3CF10:19",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "いや、辞退しよう\n俺はそんなものは着たくない",
-  "en": "",
-  "status": ""
+  "en": "No, I'll decline. I have no desire to wear such a thing.",
+  "status": "tl"
  },
  {
   "id": "F3CF10:21",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "そないに照れなくてもエエやん！\nささ、早よう、早よう！！",
-  "en": "",
-  "status": ""
+  "en": "Aw, no need to be shy! C'mon, hurry, hurry!!",
+  "status": "tl"
  },
  {
   "id": "F3D450:1",
@@ -1180,432 +1180,432 @@
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おう、なかなか似合ってンぜ！",
-  "en": "",
-  "status": ""
+  "en": "Heh, lookin' good in that!",
+  "status": "tl"
  },
  {
   "id": "F3D450:4",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ブハハハハハハ！！",
-  "en": "",
-  "status": ""
+  "en": "Bwahahahahaha!!",
+  "status": "tl"
  },
  {
   "id": "F3D450:6",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あ、ホントだ！",
-  "en": "",
-  "status": ""
+  "en": "Oh, it's true!",
+  "status": "tl"
  },
  {
   "id": "F3D450:7",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なんか近未来のヒトみたいだよ、\n十兵衛！",
-  "en": "",
-  "status": ""
+  "en": "You look kinda like a guy from the near future, Juubei!",
+  "status": "tl"
  },
  {
   "id": "F3D450:9",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "近未来とは…一体………",
-  "en": "",
-  "status": ""
+  "en": "The near future... What does that even...",
+  "status": "tl"
  },
  {
   "id": "F3D450:11",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "後はユニット名をどうするかだな…",
-  "en": "",
-  "status": ""
+  "en": "All that's left is what to call our group...",
+  "status": "tl"
  },
  {
   "id": "F3D450:12",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "なんかあるかよ、銀次?",
-  "en": "",
-  "status": ""
+  "en": "Got any ideas, Ginji?",
+  "status": "tl"
  },
  {
   "id": "F3D450:14",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ええっ?\nう、う~ん………",
-  "en": "",
-  "status": ""
+  "en": "Huh? U-Ummm...",
+  "status": "tl"
  },
  {
   "id": "F3D450:16",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "サムライ君は?",
-  "en": "",
-  "status": ""
+  "en": "How 'bout you, Samurai Boy?",
+  "status": "tl"
  },
  {
   "id": "F3D450:18",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "そうだな…アイドルらしく\nフレッシュに『新鮮組』ではどうだ?",
-  "en": "",
-  "status": ""
+  "en": "Let me see... Something fresh, as befits idols: how about \"Shinsengumi Fresh\"?",
+  "status": "tl"
  },
  {
   "id": "F3D450:20",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "却下だ！",
-  "en": "",
-  "status": ""
+  "en": "Rejected!",
+  "status": "tl"
  },
  {
   "id": "F3D450:22",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あっ、じゃあ\n『THE☆カラマワリ』は?",
-  "en": "",
-  "status": ""
+  "en": "Oh, then how about \"THE☆Spinning Wheels\"?",
+  "status": "tl"
  },
  {
   "id": "F3D450:24",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "カラマワリだァ?",
-  "en": "",
-  "status": ""
+  "en": "Spinning Wheels?",
+  "status": "tl"
  },
  {
   "id": "F3D450:26",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "俺たちに合ってるじゃん！\nそれにしようよ！！",
-  "en": "",
-  "status": ""
+  "en": "It suits us perfectly! Let's go with that!!",
+  "status": "tl"
  },
  {
   "id": "F3D450:28",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "そうだな…俺もそれでいいと思う",
-  "en": "",
-  "status": ""
+  "en": "Indeed... I think that's fine too.",
+  "status": "tl"
  },
  {
   "id": "F3D450:30",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ンじゃま、それでいくとするか…",
-  "en": "",
-  "status": ""
+  "en": "Well then, guess we'll go with that...",
+  "status": "tl"
  },
  {
   "id": "F3D450:31",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おっと、それよりも歌詞のことだ！",
-  "en": "",
-  "status": ""
+  "en": "Oh right, more importantly, the lyrics!",
+  "status": "tl"
  },
  {
   "id": "F3D450:32",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "いいか、銀次…今から一度だけ\n通しで歌詞の確認すっかんな",
-  "en": "",
-  "status": ""
+  "en": "Listen up, Ginji... We're gonna run through the lyrics once, start to finish.",
+  "status": "tl"
  },
  {
   "id": "F3D450:33",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "お前ントコのパート歌ってみろや",
-  "en": "",
-  "status": ""
+  "en": "Sing your part for me.",
+  "status": "tl"
  },
  {
   "id": "F3D450:34",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "まずは俺様が歌詞を全部言ってやっから\nちゃんと覚えンだぞ?",
-  "en": "",
-  "status": ""
+  "en": "First the great Ban'll recite all the lyrics, so make sure ya memorize 'em, got it?",
+  "status": "tl"
  },
  {
   "id": "F3D450:35",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ごきげんいかが　マイ・ベイビー",
-  "en": "",
-  "status": ""
+  "en": "How ya doin', my baby",
+  "status": "tl"
  },
  {
   "id": "F3D450:36",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "これでいいのさ！　トゥルー・ラブ",
-  "en": "",
-  "status": ""
+  "en": "It's all good! True love",
+  "status": "tl"
  },
  {
   "id": "F3D450:37",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "走り出せ！　俺たちの明日へ",
-  "en": "",
-  "status": ""
+  "en": "Start runnin'! Toward our tomorrow",
+  "status": "tl"
  },
  {
   "id": "F3D450:38",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "燃え上がる魂を感じて欲しいのさ",
-  "en": "",
-  "status": ""
+  "en": "I want ya to feel my blazing soul",
+  "status": "tl"
  },
  {
   "id": "F3D450:39",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "気絶しちゃうなよ\nレット・イット・ライド",
-  "en": "",
-  "status": ""
+  "en": "Don't faint on me, let it ride",
+  "status": "tl"
  },
  {
   "id": "F3D450:40",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ブレーキかけたら青春はジ・エンド",
-  "en": "",
-  "status": ""
+  "en": "Hit the brakes and youth's The End",
+  "status": "tl"
  },
  {
   "id": "F3D450:41",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ゴールは見えなくてもOK！",
-  "en": "",
-  "status": ""
+  "en": "Can't see the goal? That's OK!",
+  "status": "tl"
  },
  {
   "id": "F3D450:42",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ハグしてキスしてシェイキン×2",
-  "en": "",
-  "status": ""
+  "en": "Hug me, kiss me, shakin' x2",
+  "status": "tl"
  },
  {
   "id": "F3D450:43",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "奪還ベイビー　だって好きなんだもん！",
-  "en": "",
-  "status": ""
+  "en": "Get-Back Baby, 'cause I love ya!",
+  "status": "tl"
  },
  {
   "id": "F3D450:44",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "はじけているの?　スィート・ハート",
-  "en": "",
-  "status": ""
+  "en": "Are ya poppin'? Sweetheart",
+  "status": "tl"
  },
  {
   "id": "F3D450:45",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "今夜はゼッタイ！　オールナイト",
-  "en": "",
-  "status": ""
+  "en": "Tonight for sure! All night",
+  "status": "tl"
  },
  {
   "id": "F3D450:46",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "胸がすく　俺たちの未来へ",
-  "en": "",
-  "status": ""
+  "en": "Feelin' fine, on to our future",
+  "status": "tl"
  },
  {
   "id": "F3D450:47",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "こみあげる力を　受け止めてくれよな",
-  "en": "",
-  "status": ""
+  "en": "Catch this power welling up in me",
+  "status": "tl"
  },
  {
   "id": "F3D450:48",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "揺さぶられるなよ\nノック・イット・ダウン",
-  "en": "",
-  "status": ""
+  "en": "Don't get shaken, knock it down",
+  "status": "tl"
  },
  {
   "id": "F3D450:49",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "カウント9で恋はクリンチ",
-  "en": "",
-  "status": ""
+  "en": "On the count of 9, love's a clinch",
+  "status": "tl"
  },
  {
   "id": "F3D450:50",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "Aから始めようトゥナイト",
-  "en": "",
-  "status": ""
+  "en": "Let's start from A tonight",
+  "status": "tl"
  },
  {
   "id": "F3D450:51",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "そこまでやったらノン・ストッパー",
-  "en": "",
-  "status": ""
+  "en": "Go that far and it's non-stop",
+  "status": "tl"
  },
  {
   "id": "F3D450:52",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "圧巻ベイビー　誰にも止められないぜ！",
-  "en": "",
-  "status": ""
+  "en": "Knockout Baby, nobody can stop us!",
+  "status": "tl"
  },
  {
   "id": "F3D450:53",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "シェイキン&シェイキン",
-  "en": "",
-  "status": ""
+  "en": "Shakin' & shakin'",
+  "status": "tl"
  },
  {
   "id": "F3D450:54",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "シェイキン&シェイキン",
-  "en": "",
-  "status": ""
+  "en": "Shakin' & shakin'",
+  "status": "tl"
  },
  {
   "id": "F3D450:55",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "シェイキン&シェイキン",
-  "en": "",
-  "status": ""
+  "en": "Shakin' & shakin'",
+  "status": "tl"
  },
  {
   "id": "F3D450:56",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "シェイキン&シェイキン",
-  "en": "",
-  "status": ""
+  "en": "Shakin' & shakin'",
+  "status": "tl"
  },
  {
   "id": "F3D450:57",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "歌詞はこれで全部だ\nよし、確認いってみるぞ?",
-  "en": "",
-  "status": ""
+  "en": "That's all the lyrics. Okay, let's run the check!",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:1",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "なぜだ…なぜこんなことに………",
-  "en": "",
-  "status": ""
+  "en": "Why... Why has it come to this...",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:3",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "似合うや~ん、雨流はん！\n哀れな子羊ゆう感じやわ！！",
-  "en": "",
-  "status": ""
+  "en": "Lookin' good, Uryu! Ya look just like a poor little lamb!!",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:5",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "哀れ…！?",
-  "en": "",
-  "status": ""
+  "en": "Poor...?!",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:7",
   "kind": "msg",
   "speaker": "士度",
   "jp": "こんなものが似合ってもな…",
-  "en": "",
-  "status": ""
+  "en": "Not that looking good in this means much...",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:9",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "せや、ユニット名どないしよ?",
-  "en": "",
-  "status": ""
+  "en": "Oh yeah, what're we gonna call our group?",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:11",
   "kind": "msg",
   "speaker": "士度",
   "jp": "あ?　知らねーよ、そんなモン",
-  "en": "",
-  "status": ""
+  "en": "Huh? How should I know?",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:13",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "いやいや、ユニット名は大事ですて！\nなあ、雨流はん?",
-  "en": "",
-  "status": ""
+  "en": "Nah, nah, the group name's important! Right, Uryu?",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:15",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "別にどうでもいいと思うが…",
-  "en": "",
-  "status": ""
+  "en": "I don't think it matters much at all...",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:17",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "なんでですのん！\nもっとやる気出して行こうや！！",
-  "en": "",
-  "status": ""
+  "en": "Why not?! C'mon, let's get some pep in our step!!",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:18",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "はい、雨流はん！\nなんかいいモン考えてぇや！！",
-  "en": "",
-  "status": ""
+  "en": "Okay, Uryu! Think up somethin' good for us!!",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:20",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "そうだな…では\n『三角定規』ではどうだ?",
-  "en": "",
-  "status": ""
+  "en": "Very well... Then how about \"Triangle Ruler\"?",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:22",
@@ -1620,32 +1620,32 @@
   "kind": "msg",
   "speaker": "雨流",
   "jp": "このユニット名の意味はー…",
-  "en": "",
-  "status": ""
+  "en": "The meaning of this group name is...",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:26",
   "kind": "msg",
   "speaker": "士度",
   "jp": "いや、意味はいい…雨流",
-  "en": "",
-  "status": ""
+  "en": "No, skip the meaning... Uryu.",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:28",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "士度はんはどんなんがエエと思うん?",
-  "en": "",
-  "status": ""
+  "en": "Shido, what kinda name d'ya think'd be good?",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:30",
   "kind": "msg",
   "speaker": "士度",
   "jp": "俺かよ?　そうだな…じゃあ\n『きぐるミルミル』でどうだよ?",
-  "en": "",
-  "status": ""
+  "en": "Me? Let's see... Then how about \"Kigurumi Mirumiru\"?",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:32",
@@ -1660,631 +1660,631 @@
   "kind": "msg",
   "speaker": "士度",
   "jp": "今の俺たちにはこれ位、\n直球勝負なのがお似合いだ…",
-  "en": "",
-  "status": ""
+  "en": "Somethin' this straightforward is about right for us as we are now...",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:36",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "そうだな…合っているかも知れん",
-  "en": "",
-  "status": ""
+  "en": "I suppose... It may suit us.",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:38",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ホンマ?　ならそれにしとこか！",
-  "en": "",
-  "status": ""
+  "en": "For real? Then let's go with that!",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:39",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "せやせや、ところで士度はん、\nもう歌詞は覚えられたんか?",
-  "en": "",
-  "status": ""
+  "en": "Oh yeah, by the way, Shido, ya got the lyrics memorized yet?",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:40",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "最後に一度だけ確認してみましょか?",
-  "en": "",
-  "status": ""
+  "en": "How 'bout one last check?",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:41",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "まずはワイが全部歌うんで、\nちゃんと覚えてぇな！！",
-  "en": "",
-  "status": ""
+  "en": "I'll sing the whole thing first, so make sure ya memorize it!!",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:42",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "たそがれの摩天楼",
-  "en": "",
-  "status": ""
+  "en": "Skyscrapers in the twilight",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:43",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "差し込む夕日が目に焼き付く",
-  "en": "",
-  "status": ""
+  "en": "The sinking sun sears my eyes",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:44",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "オレンジ色に照らされた俺",
-  "en": "",
-  "status": ""
+  "en": "Me, bathed in orange light",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:45",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "まだ貴女(キミ)のこと　探してる",
-  "en": "",
-  "status": ""
+  "en": "Still searchin' for you",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:46",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "うしろ姿　見送った",
-  "en": "",
-  "status": ""
+  "en": "Watched you walk away",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:47",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "かしぐ思い　もう追いつけない",
-  "en": "",
-  "status": ""
+  "en": "My tilted heart can't catch up now",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:48",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "迷わなくなるまで",
-  "en": "",
-  "status": ""
+  "en": "Until I stop losin' my way",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:49",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "時間どれほど必要(いるの)か",
-  "en": "",
-  "status": ""
+  "en": "How much time is it gonna take",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:50",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "裏新宿　もう一度　会いたい",
-  "en": "",
-  "status": ""
+  "en": "Ura-Shinjuku, I wanna see you again",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:51",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "さ迷って　歌舞伎町",
-  "en": "",
-  "status": ""
+  "en": "Wanderin' through Kabukicho",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:52",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ネオンに気持ちが躍らされそうさ",
-  "en": "",
-  "status": ""
+  "en": "The neon's got my heart dancin'",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:53",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "眠らない町のちっぽけな俺",
-  "en": "",
-  "status": ""
+  "en": "Me, so small in the sleepless town",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:54",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "まだ貴女(キミ)のこと　願ってる",
-  "en": "",
-  "status": ""
+  "en": "Still wishin' for you",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:55",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "うしろ姿　見失った",
-  "en": "",
-  "status": ""
+  "en": "Lost sight of you walkin' away",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:56",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "俺の想い　もう信じられない",
-  "en": "",
-  "status": ""
+  "en": "I can't trust my feelings anymore",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:57",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "乱れなくなるまで",
-  "en": "",
-  "status": ""
+  "en": "Until my heart stops racin'",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:58",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "もう一度探してみるのさ",
-  "en": "",
-  "status": ""
+  "en": "I'll go searchin' one more time",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:59",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "裏新宿　いつまでも　さすらう",
-  "en": "",
-  "status": ""
+  "en": "Ura-Shinjuku, forever I'll roam",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:60",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "歌詞はこれで全部でっせ！\nほな、確認いきまっせ！！",
-  "en": "",
-  "status": ""
+  "en": "That's all the lyrics! Now, let's run the check!!",
+  "status": "tl"
  },
  {
   "id": "F3E994:2",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "『ゲットイットオン！　奪還BABY』",
-  "en": "",
-  "status": ""
+  "en": "\"Get It On! Get-Back Baby\"",
+  "status": "tl"
  },
  {
   "id": "F3EA04:1",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "これでいいのさ！　トゥルー・ラブ",
-  "en": "",
-  "status": ""
+  "en": "It's all good! True love",
+  "status": "tl"
  },
  {
   "id": "F3EA04:2",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "こそばゆいから　ヘルプミー",
-  "en": "",
-  "status": ""
+  "en": "It tickles, so help me",
+  "status": "tl"
  },
  {
   "id": "F3EA04:3",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "やるせないのに　ロンリーウルフ",
-  "en": "",
-  "status": ""
+  "en": "Feelin' blue, yet a lone wolf",
+  "status": "tl"
  },
  {
   "id": "F3EA04:4",
   "kind": "prompt",
   "speaker": "銀次",
   "jp": "え~っと…",
-  "en": "",
-  "status": ""
+  "en": "Ummm...",
+  "status": "tl"
  },
  {
   "id": "F3EAD4:1",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "転んでも　ただでは起きないぜ",
-  "en": "",
-  "status": ""
+  "en": "Fall down? I'll get up richer",
+  "status": "tl"
  },
  {
   "id": "F3EAD4:2",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "燃え上がる魂を感じて欲しいのさ",
-  "en": "",
-  "status": ""
+  "en": "I want ya to feel my blazing soul",
+  "status": "tl"
  },
  {
   "id": "F3EAD4:3",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "ノンストップな　恋の炎を",
-  "en": "",
-  "status": ""
+  "en": "A non-stop flame of love",
+  "status": "tl"
  },
  {
   "id": "F3EAD4:4",
   "kind": "prompt",
   "speaker": "銀次",
   "jp": "なんだったっけな~…",
-  "en": "",
-  "status": ""
+  "en": "How'd it go again~...",
+  "status": "tl"
  },
  {
   "id": "F3EBA4:1",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "ステーキ食べたら空腹はジ・エンド",
-  "en": "",
-  "status": ""
+  "en": "Eat a steak and hunger's The End",
+  "status": "tl"
  },
  {
   "id": "F3EBA4:2",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "雑草のように生き延びてやる",
-  "en": "",
-  "status": ""
+  "en": "I'll survive just like a weed",
+  "status": "tl"
  },
  {
   "id": "F3EBA4:3",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "ブレーキかけたら青春はジ・エンド",
-  "en": "",
-  "status": ""
+  "en": "Hit the brakes and youth's The End",
+  "status": "tl"
  },
  {
   "id": "F3EBA4:4",
   "kind": "prompt",
   "speaker": "銀次",
   "jp": "うーん、確か…",
-  "en": "",
-  "status": ""
+  "en": "Hmm, I think it was...",
+  "status": "tl"
  },
  {
   "id": "F3EC78:1",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "恋する魔法はマジカルスネーク",
-  "en": "",
-  "status": ""
+  "en": "Love's magic spell: Magical Snake",
+  "status": "tl"
  },
  {
   "id": "F3EC78:2",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "ハグしてキスしてシェイキン×2",
-  "en": "",
-  "status": ""
+  "en": "Hug me, kiss me, shakin' x2",
+  "status": "tl"
  },
  {
   "id": "F3EC78:3",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "ハッとしてグッときてパンチ×3",
-  "en": "",
-  "status": ""
+  "en": "Startled, smitten, then punch x3",
+  "status": "tl"
  },
  {
   "id": "F3EC78:4",
   "kind": "prompt",
   "speaker": "銀次",
   "jp": "う、う~ん…",
-  "en": "",
-  "status": ""
+  "en": "U-Ummm...",
+  "status": "tl"
  },
  {
   "id": "F3ED48:2",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "奪還ベイビー　だって好きなんだもん！",
-  "en": "",
-  "status": ""
+  "en": "Get-Back Baby, 'cause I love ya!",
+  "status": "tl"
  },
  {
   "id": "F3EDAC:1",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "今夜はゼッタイ！　オールナイト",
-  "en": "",
-  "status": ""
+  "en": "Tonight for sure! All night",
+  "status": "tl"
  },
  {
   "id": "F3EDAC:2",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "深夜はトーゼン！　オールナイト",
-  "en": "",
-  "status": ""
+  "en": "Late night, of course! All night",
+  "status": "tl"
  },
  {
   "id": "F3EDAC:3",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "はじけとぶのは青春の証",
-  "en": "",
-  "status": ""
+  "en": "Bursting out is proof of youth",
+  "status": "tl"
  },
  {
   "id": "F3EDAC:4",
   "kind": "prompt",
   "speaker": "銀次",
   "jp": "なんだったっけ…",
-  "en": "",
-  "status": ""
+  "en": "How'd it go...",
+  "status": "tl"
  },
  {
   "id": "F3EE7C:1",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "しなやかな仕草で　かきわけてくれよな",
-  "en": "",
-  "status": ""
+  "en": "Part the way with a graceful move",
+  "status": "tl"
  },
  {
   "id": "F3EE7C:2",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "はたからみたら　俺たちはなんだろうな",
-  "en": "",
-  "status": ""
+  "en": "To onlookers, what are we, anyway?",
+  "status": "tl"
  },
  {
   "id": "F3EE7C:3",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "こみあげる力を　受け止めてくれよな",
-  "en": "",
-  "status": ""
+  "en": "Catch this power welling up in me",
+  "status": "tl"
  },
  {
   "id": "F3EE7C:4",
   "kind": "prompt",
   "speaker": "銀次",
   "jp": "んあ~、分かんないよ~…",
-  "en": "",
-  "status": ""
+  "en": "Nnah~, I dunno~...",
+  "status": "tl"
  },
  {
   "id": "F3EF68:1",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "もっと近くによせてあげて",
-  "en": "",
-  "status": ""
+  "en": "Bring 'em in closer for me",
+  "status": "tl"
  },
  {
   "id": "F3EF68:2",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "ボール4つで恋は出塁",
-  "en": "",
-  "status": ""
+  "en": "Four balls: love takes first base",
+  "status": "tl"
  },
  {
   "id": "F3EF68:3",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "カウント9で恋はクリンチ",
-  "en": "",
-  "status": ""
+  "en": "On the count of 9, love's a clinch",
+  "status": "tl"
  },
  {
   "id": "F3EF68:4",
   "kind": "prompt",
   "speaker": "銀次",
   "jp": "そろそろツライな~…",
-  "en": "",
-  "status": ""
+  "en": "This is gettin' rough~...",
+  "status": "tl"
  },
  {
   "id": "F3F028:1",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "いまの気分はドントコベッシャリ",
-  "en": "",
-  "status": ""
+  "en": "My mood right now is squishy-splat",
+  "status": "tl"
  },
  {
   "id": "F3F028:2",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "気持ちあずけてドント・トラスト",
-  "en": "",
-  "status": ""
+  "en": "Leave me your heart, don't trust",
+  "status": "tl"
  },
  {
   "id": "F3F028:3",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "そこまでやったらノン・ストッパー",
-  "en": "",
-  "status": ""
+  "en": "Go that far and it's non-stop",
+  "status": "tl"
  },
  {
   "id": "F3F028:4",
   "kind": "prompt",
   "speaker": "銀次",
   "jp": "後少し…！！",
-  "en": "",
-  "status": ""
+  "en": "Just a little more...!!",
+  "status": "tl"
  },
  {
   "id": "F3F0FC:2",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "圧巻ベイビー　誰にも止められないぜ！",
-  "en": "",
-  "status": ""
+  "en": "Knockout Baby, nobody can stop us!",
+  "status": "tl"
  },
  {
   "id": "F3F160:2",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "シェイキン&シェイキン",
-  "en": "",
-  "status": ""
+  "en": "Shakin' & shakin'",
+  "status": "tl"
  },
  {
   "id": "F3F160:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "シェイキン&シェイキン",
-  "en": "",
-  "status": ""
+  "en": "Shakin' & shakin'",
+  "status": "tl"
  },
  {
   "id": "F3F160:8",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "シェイキン&シェイキン",
-  "en": "",
-  "status": ""
+  "en": "Shakin' & shakin'",
+  "status": "tl"
  },
  {
   "id": "F3F160:11",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "シェイキン&シェイキン",
-  "en": "",
-  "status": ""
+  "en": "Shakin' & shakin'",
+  "status": "tl"
  },
  {
   "id": "F3F278:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "よっしゃ！\n銀次ィ、気合入れてけよ！！",
-  "en": "",
-  "status": ""
+  "en": "Awright! Ginji, get fired up!!",
+  "status": "tl"
  },
  {
   "id": "F3F278:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "う、う~ん…大丈夫かなあ…",
-  "en": "",
-  "status": ""
+  "en": "U-Ummm... I hope this goes okay...",
+  "status": "tl"
  },
  {
   "id": "F3F278:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "サムライ君もシャキっとしろや！！",
-  "en": "",
-  "status": ""
+  "en": "Samurai Boy, you straighten up too!!",
+  "status": "tl"
  },
  {
   "id": "F3F278:7",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "俺は…一体どうすれば………",
-  "en": "",
-  "status": ""
+  "en": "What... What am I supposed to do...",
+  "status": "tl"
  },
  {
   "id": "F3F278:9",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "後ろでテキトーに踊ってりゃイイって！",
-  "en": "",
-  "status": ""
+  "en": "Just dance around in the back, whatever!",
+  "status": "tl"
  },
  {
   "id": "F3F278:10",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "よし『THE☆カラマワリ』、\nはりきって行ってみようや！！",
-  "en": "",
-  "status": ""
+  "en": "Okay, \"THE☆Spinning Wheels,\" let's give it all we got!!",
+  "status": "tl"
  },
  {
   "id": "F3F4B8:2",
   "kind": "msg",
   "speaker": "士度",
   "jp": "『裏新宿……みれん』",
-  "en": "",
-  "status": ""
+  "en": "\"Ura-Shinjuku... Lingering Love\"",
+  "status": "tl"
  },
  {
   "id": "F3F518:1",
   "kind": "choice",
   "speaker": "士度",
   "jp": "差し込む夕日が目に焼き付く",
-  "en": "",
-  "status": ""
+  "en": "The sinking sun sears my eyes",
+  "status": "tl"
  },
  {
   "id": "F3F518:2",
   "kind": "choice",
   "speaker": "士度",
   "jp": "この良き日に二人幸あれ",
-  "en": "",
-  "status": ""
+  "en": "On this fine day, bless you two",
+  "status": "tl"
  },
  {
   "id": "F3F518:3",
   "kind": "choice",
   "speaker": "士度",
   "jp": "差し込む痛みで腹を押さえる",
-  "en": "",
-  "status": ""
+  "en": "A sinking pain, I clutch my gut",
+  "status": "tl"
  },
  {
   "id": "F3F518:4",
   "kind": "prompt",
   "speaker": "士度",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F3F5D8:1",
   "kind": "choice",
   "speaker": "士度",
   "jp": "もう貴女(キミ)なんか　どうでもいい",
-  "en": "",
-  "status": ""
+  "en": "I don't care about you anymore",
+  "status": "tl"
  },
  {
   "id": "F3F5D8:2",
   "kind": "choice",
   "speaker": "士度",
   "jp": "また黄身ばかり　残してる",
-  "en": "",
-  "status": ""
+  "en": "Still leavin' all the yolk",
+  "status": "tl"
  },
  {
   "id": "F3F5D8:3",
   "kind": "choice",
   "speaker": "士度",
   "jp": "まだ貴女(キミ)のこと　探してる",
-  "en": "",
-  "status": ""
+  "en": "Still searchin' for you",
+  "status": "tl"
  },
  {
   "id": "F3F5D8:4",
   "kind": "prompt",
   "speaker": "士度",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  }
 ]

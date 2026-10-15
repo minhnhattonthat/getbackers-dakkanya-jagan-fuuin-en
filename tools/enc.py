@@ -10,7 +10,7 @@ import re
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SPACE_CODE = 0x5C3
-FULL = {'…': 0xAF, '♪': 0x60, '♥': 0xB1, '☆': 0xF0}
+FULL = {'…': 0xAF, '♪': 0x60, '♥': 0xB1, '☆': 0xF0, '・': 0x85}
 FIRST, LAST = 0x100, 0x7FF
 Y_OFF = 2          # font_en rows 0-10 -> glyph rows 2-12 (JP glyphs use rows 0-14)
 INK = 3

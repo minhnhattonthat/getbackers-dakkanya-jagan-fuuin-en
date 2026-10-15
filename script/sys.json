@@ -2,14 +2,848 @@
  {
   "id": "main_menu",
   "note": "field START menu; window inner width 5 cells",
-  "charset_lit": "BC9C", "charset_imm": "BB86", "glyphs": 21,
+  "charset_lit": "BC9C",
+  "charset_imm": "BB86",
+  "glyphs": 21,
   "labels": [
-   {"jp": "ステータス", "en": "Status", "lit": "BCA0", "imm": "BB98"},
-   {"jp": "パーティー", "en": "Party", "lit": "BCA8", "imm": "BBA8"},
-   {"jp": "アイテム", "en": "Items", "lit": "BCAC", "imm": "BBB8"},
-   {"jp": "装備", "en": "Equipment", "lit": "BCB0", "imm": "BBC8"},
-   {"jp": "オプション", "en": "Options", "lit": "BCB4", "imm": "BBD8"},
-   {"jp": "セーブ", "en": "Save", "lit": "BCB8", "imm": "BBE8"}
+   {
+    "jp": "ステータス",
+    "en": "Status",
+    "lit": "BCA0",
+    "imm": "BB98"
+   },
+   {
+    "jp": "パーティー",
+    "en": "Party",
+    "lit": "BCA8",
+    "imm": "BBA8"
+   },
+   {
+    "jp": "アイテム",
+    "en": "Items",
+    "lit": "BCAC",
+    "imm": "BBB8"
+   },
+   {
+    "jp": "装備",
+    "en": "Equipment",
+    "lit": "BCB0",
+    "imm": "BBC8"
+   },
+   {
+    "jp": "オプション",
+    "en": "Options",
+    "lit": "BCB4",
+    "imm": "BBD8"
+   },
+   {
+    "jp": "セーブ",
+    "en": "Save",
+    "lit": "BCB8",
+    "imm": "BBE8"
+   }
+  ]
+ },
+ {
+  "id": "options",
+  "note": "options + sound test (BGM/SE names via tables 0xB0494/0xB05DC)",
+  "charset_lit": "EA94",
+  "charset_imm": "E996",
+  "glyphs": 236,
+  "cache": true,
+  "keep": 10,
+  "labels": [
+   {
+    "jp": "オプションゲーム速度",
+    "en": "Options",
+    "lit": "EA98",
+    "imm": "E9AA"
+   },
+   {
+    "jp": "ゲーム速度",
+    "en": "Game Speed",
+    "lit": "EAA0"
+   },
+   {
+    "jp": "BGM",
+    "en": "Music",
+    "lit": "EAA8"
+   },
+   {
+    "jp": "SE　",
+    "en": "Sounds",
+    "lit": "EAAC"
+   },
+   {
+    "jp": "速・・・・・・・・遅",
+    "en": "Hi・・・・・・・・Lo",
+    "lit": "EAB0"
+   },
+   {
+    "jp": "　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
+    "en": "                                                                        ",
+    "lit": "E820"
+   },
+   {
+    "jp": "　　　　　　　　　　　",
+    "en": "                      ",
+    "lit": "E8A4,E928"
+   },
+   {
+    "jp": "ゲーム速度の設定",
+    "en": "Set the game speed",
+    "lit": "B0488"
+   },
+   {
+    "jp": "BGM。左右で変更。\nAボタンでリクエスト。Rボタンで停止",
+    "en": "Music: Left/Right to change.\nA: request  R: stop",
+    "lit": "B048C"
+   },
+   {
+    "jp": "SE。左右で変更。\nAボタンでリクエスト。Rボタンで停止",
+    "en": "Sounds: Left/Right to change.\nA: request  R: stop",
+    "lit": "B0490"
+   },
+   {
+    "jp": "オープニング",
+    "en": "Opening",
+    "lit": "B0498"
+   },
+   {
+    "jp": "GBのテーマ",
+    "en": "GetBackers Theme",
+    "lit": "B04A0"
+   },
+   {
+    "jp": "裏新宿",
+    "en": "Ura-Shinjuku",
+    "lit": "B04A8"
+   },
+   {
+    "jp": "敵地",
+    "en": "Enemy Ground",
+    "lit": "B04B0"
+   },
+   {
+    "jp": "神門の里",
+    "en": "Mikado Village",
+    "lit": "B04B8"
+   },
+   {
+    "jp": "ホンキートンク",
+    "en": "Honky Tonk",
+    "lit": "B04C0"
+   },
+   {
+    "jp": "京介と大介のテーマ",
+    "en": "Kyosuke & Daisuke",
+    "lit": "B04C8"
+   },
+   {
+    "jp": "Kのテーマ",
+    "en": "K's Theme",
+    "lit": "B04D0"
+   },
+   {
+    "jp": "緊迫",
+    "en": "Tension",
+    "lit": "B04D8"
+   },
+   {
+    "jp": "悲しみ",
+    "en": "Sorrow",
+    "lit": "B04E0"
+   },
+   {
+    "jp": "占い屋",
+    "en": "Fortune Teller",
+    "lit": "B04E8"
+   },
+   {
+    "jp": "奪還BABY",
+    "en": "Get-Back Baby",
+    "lit": "B04F0"
+   },
+   {
+    "jp": "裏新宿…みれん",
+    "en": "Lingering Love",
+    "lit": "B04F8"
+   },
+   {
+    "jp": "邪眼のテーマ",
+    "en": "Evil Eye Theme",
+    "lit": "B0500"
+   },
+   {
+    "jp": "ノーマルバトル",
+    "en": "Normal Battle",
+    "lit": "B0508"
+   },
+   {
+    "jp": "能面バトル",
+    "en": "Noh Mask Battle",
+    "lit": "B0510"
+   },
+   {
+    "jp": "中ボスバトル",
+    "en": "Sub-Boss Battle",
+    "lit": "B0518"
+   },
+   {
+    "jp": "ラストバトル",
+    "en": "Final Battle",
+    "lit": "B0520"
+   },
+   {
+    "jp": "ゲームオーバー",
+    "en": "Game Over",
+    "lit": "B0528"
+   },
+   {
+    "jp": "還らないこと",
+    "en": "Never Coming Back",
+    "lit": "B0530"
+   },
+   {
+    "jp": "サブタイトル",
+    "en": "Subtitle",
+    "lit": "B0538"
+   },
+   {
+    "jp": "裏・還らないこと",
+    "en": "Never Coming Back B",
+    "lit": "B0540"
+   },
+   {
+    "jp": "コント",
+    "en": "Comedy Skit",
+    "lit": "B0548"
+   },
+   {
+    "jp": "カーチェイス",
+    "en": "Car Chase",
+    "lit": "B0550"
+   },
+   {
+    "jp": "儀式",
+    "en": "Ritual",
+    "lit": "B0558"
+   },
+   {
+    "jp": "蛭田ジャパン",
+    "en": "Hiruta Japan",
+    "lit": "B0560"
+   },
+   {
+    "jp": "神門の森",
+    "en": "Mikado Forest",
+    "lit": "B0568"
+   },
+   {
+    "jp": "ミニゲーム",
+    "en": "Minigame",
+    "lit": "B0570"
+   },
+   {
+    "jp": "MAIの歌1",
+    "en": "MAI's Song 1",
+    "lit": "B0578"
+   },
+   {
+    "jp": "MAIの歌2",
+    "en": "MAI's Song 2",
+    "lit": "B0580"
+   },
+   {
+    "jp": "ツルコの歌",
+    "en": "Tsuruko's Song",
+    "lit": "B0588"
+   },
+   {
+    "jp": "アルのテーマ",
+    "en": "Al's Theme",
+    "lit": "B0590"
+   },
+   {
+    "jp": "MAIの歌3",
+    "en": "MAI's Song 3",
+    "lit": "B0598"
+   },
+   {
+    "jp": "マリオネットバトル",
+    "en": "Marionette Battle",
+    "lit": "B05A0"
+   },
+   {
+    "jp": "Kバトル",
+    "en": "K Battle",
+    "lit": "B05A8"
+   },
+   {
+    "jp": "戦闘勝利",
+    "en": "Victory",
+    "lit": "B05B0"
+   },
+   {
+    "jp": "レベルアップ",
+    "en": "Level Up",
+    "lit": "B05B8"
+   },
+   {
+    "jp": "バトルシンク成功1",
+    "en": "Battle Sync 1",
+    "lit": "B05C0"
+   },
+   {
+    "jp": "バトルシンク成功2",
+    "en": "Battle Sync 2",
+    "lit": "B05C8"
+   },
+   {
+    "jp": "バトルシンク成功3",
+    "en": "Battle Sync 3",
+    "lit": "B05D0"
+   },
+   {
+    "jp": "3人合体成功",
+    "en": "Trio Combo",
+    "lit": "B05D8"
+   },
+   {
+    "jp": "放電",
+    "en": "Discharge",
+    "lit": "B05E0"
+   },
+   {
+    "jp": "濁流",
+    "en": "Torrent",
+    "lit": "B05E8"
+   },
+   {
+    "jp": "叩く",
+    "en": "Smack",
+    "lit": "B05F0"
+   },
+   {
+    "jp": "斬る",
+    "en": "Slash",
+    "lit": "B05F8"
+   },
+   {
+    "jp": "砕く",
+    "en": "Crush",
+    "lit": "B0600"
+   },
+   {
+    "jp": "絃",
+    "en": "String",
+    "lit": "B0608"
+   },
+   {
+    "jp": "電撃",
+    "en": "Shock",
+    "lit": "B0610"
+   },
+   {
+    "jp": "音波",
+    "en": "Sound Wave",
+    "lit": "B0618"
+   },
+   {
+    "jp": "風切",
+    "en": "Wind Cut",
+    "lit": "B0620"
+   },
+   {
+    "jp": "ステータスアップ",
+    "en": "Status Up",
+    "lit": "B0628"
+   },
+   {
+    "jp": "拳銃",
+    "en": "Pistol",
+    "lit": "B0630"
+   },
+   {
+    "jp": "毒",
+    "en": "Poison",
+    "lit": "B0638"
+   },
+   {
+    "jp": "マヒ",
+    "en": "Paralysis",
+    "lit": "B0640"
+   },
+   {
+    "jp": "混乱",
+    "en": "Confusion",
+    "lit": "B0648"
+   },
+   {
+    "jp": "ヒット1",
+    "en": "Hit 1",
+    "lit": "B0650"
+   },
+   {
+    "jp": "ヒット2",
+    "en": "Hit 2",
+    "lit": "B0658"
+   },
+   {
+    "jp": "ヒット3",
+    "en": "Hit 3",
+    "lit": "B0660"
+   },
+   {
+    "jp": "刺す",
+    "en": "Stab",
+    "lit": "B0668"
+   },
+   {
+    "jp": "籠",
+    "en": "Cage",
+    "lit": "B0670"
+   },
+   {
+    "jp": "金属",
+    "en": "Metal",
+    "lit": "B0678"
+   },
+   {
+    "jp": "爆発",
+    "en": "Explosion",
+    "lit": "B0680"
+   },
+   {
+    "jp": "暴風",
+    "en": "Gale",
+    "lit": "B0688"
+   },
+   {
+    "jp": "溜め",
+    "en": "Charge",
+    "lit": "B0690"
+   },
+   {
+    "jp": "振動",
+    "en": "Vibration",
+    "lit": "B0698"
+   },
+   {
+    "jp": "狼",
+    "en": "Wolf",
+    "lit": "B06A0"
+   },
+   {
+    "jp": "回復1",
+    "en": "Heal 1",
+    "lit": "B06A8"
+   },
+   {
+    "jp": "回復2",
+    "en": "Heal 2",
+    "lit": "B06B0"
+   },
+   {
+    "jp": "ガラス1",
+    "en": "Glass 1",
+    "lit": "B06B8"
+   },
+   {
+    "jp": "ガラス2",
+    "en": "Glass 2",
+    "lit": "B06C0"
+   },
+   {
+    "jp": "決定",
+    "en": "Confirm",
+    "lit": "B06C8"
+   },
+   {
+    "jp": "キャンセル",
+    "en": "Cancel",
+    "lit": "B06D0"
+   },
+   {
+    "jp": "カーソル",
+    "en": "Cursor",
+    "lit": "B06D8"
+   },
+   {
+    "jp": "バトルシンク1",
+    "en": "Sync 1",
+    "lit": "B06E0"
+   },
+   {
+    "jp": "バトルシンク2",
+    "en": "Sync 2",
+    "lit": "B06E8"
+   },
+   {
+    "jp": "バトルシンク3",
+    "en": "Sync 3",
+    "lit": "B06F0"
+   },
+   {
+    "jp": "アイテムゲット1",
+    "en": "Item Get 1",
+    "lit": "B06F8"
+   },
+   {
+    "jp": "アイテムゲット2",
+    "en": "Item Get 2",
+    "lit": "B0700"
+   },
+   {
+    "jp": "エラー",
+    "en": "Error",
+    "lit": "B0708"
+   },
+   {
+    "jp": "機械",
+    "en": "Machine",
+    "lit": "B0710"
+   },
+   {
+    "jp": "お腹",
+    "en": "Tummy",
+    "lit": "B0718"
+   },
+   {
+    "jp": "凍りつく",
+    "en": "Freeze",
+    "lit": "B0720"
+   },
+   {
+    "jp": "水に飛び込む",
+    "en": "Splash Dive",
+    "lit": "B0728"
+   },
+   {
+    "jp": "ドア1",
+    "en": "Door 1",
+    "lit": "B0730"
+   },
+   {
+    "jp": "動物",
+    "en": "Animal",
+    "lit": "B0738"
+   },
+   {
+    "jp": "ワープ",
+    "en": "Warp",
+    "lit": "B0740"
+   },
+   {
+    "jp": "加速1",
+    "en": "Speed Up 1",
+    "lit": "B0748"
+   },
+   {
+    "jp": "加速2",
+    "en": "Speed Up 2",
+    "lit": "B0750"
+   },
+   {
+    "jp": "ブレーキ",
+    "en": "Brake",
+    "lit": "B0758"
+   },
+   {
+    "jp": "ドア2",
+    "en": "Door 2",
+    "lit": "B0760"
+   },
+   {
+    "jp": "落ちる",
+    "en": "Fall",
+    "lit": "B0768"
+   },
+   {
+    "jp": "電撃2",
+    "en": "Shock 2",
+    "lit": "B0770"
+   },
+   {
+    "jp": "殴る",
+    "en": "Punch",
+    "lit": "B0778"
+   },
+   {
+    "jp": "カギ",
+    "en": "Key",
+    "lit": "B0780"
+   },
+   {
+    "jp": "千里眼",
+    "en": "Clairvoyance",
+    "lit": "B0788"
+   },
+   {
+    "jp": "スイッチ",
+    "en": "Switch",
+    "lit": "B0790"
+   },
+   {
+    "jp": "エレベータ1",
+    "en": "Elevator 1",
+    "lit": "B0798"
+   },
+   {
+    "jp": "エレベータ2",
+    "en": "Elevator 2",
+    "lit": "B07A0"
+   },
+   {
+    "jp": "エレベータ3",
+    "en": "Elevator 3",
+    "lit": "B07A8"
+   },
+   {
+    "jp": "操獣術",
+    "en": "Beast Control",
+    "lit": "B07B0"
+   },
+   {
+    "jp": "モニター",
+    "en": "Monitor",
+    "lit": "B07B8"
+   },
+   {
+    "jp": "シンクカウンター",
+    "en": "Sync Counter",
+    "lit": "B07C0"
+   },
+   {
+    "jp": "携帯1",
+    "en": "Phone 1",
+    "lit": "B07C8"
+   },
+   {
+    "jp": "笑い",
+    "en": "Laugh",
+    "lit": "B07D0"
+   },
+   {
+    "jp": "鈴",
+    "en": "Bell",
+    "lit": "B07D8"
+   },
+   {
+    "jp": "鐘",
+    "en": "Gong",
+    "lit": "B07E0"
+   },
+   {
+    "jp": "スイッチ2",
+    "en": "Switch 2",
+    "lit": "B07E8"
+   },
+   {
+    "jp": "バリア",
+    "en": "Barrier",
+    "lit": "B07F0"
+   },
+   {
+    "jp": "携帯2",
+    "en": "Phone 2",
+    "lit": "B07F8"
+   },
+   {
+    "jp": "携帯3",
+    "en": "Phone 3",
+    "lit": "B0800"
+   },
+   {
+    "jp": "ホワイトアウト",
+    "en": "Whiteout",
+    "lit": "B0808"
+   },
+   {
+    "jp": "波",
+    "en": "Wave",
+    "lit": "B0810"
+   },
+   {
+    "jp": "怒り",
+    "en": "Anger",
+    "lit": "B0818"
+   },
+   {
+    "jp": "汗1",
+    "en": "Sweat 1",
+    "lit": "B0820"
+   },
+   {
+    "jp": "汗2",
+    "en": "Sweat 2",
+    "lit": "B0828"
+   },
+   {
+    "jp": "喜び",
+    "en": "Joy",
+    "lit": "B0830"
+   },
+   {
+    "jp": "輝き",
+    "en": "Sparkle",
+    "lit": "B0838"
+   },
+   {
+    "jp": "ハート",
+    "en": "Heart",
+    "lit": "B0840"
+   },
+   {
+    "jp": "涙",
+    "en": "Tears",
+    "lit": "B0848"
+   },
+   {
+    "jp": "ハテナ",
+    "en": "Question",
+    "lit": "B0850"
+   },
+   {
+    "jp": "気付く",
+    "en": "Notice",
+    "lit": "B0858"
+   },
+   {
+    "jp": "ビックリ",
+    "en": "Surprise",
+    "lit": "B0860"
+   },
+   {
+    "jp": "驚き",
+    "en": "Shock!",
+    "lit": "B0868"
+   },
+   {
+    "jp": "どんより",
+    "en": "Gloom",
+    "lit": "B0870"
+   },
+   {
+    "jp": "メーター",
+    "en": "Meter",
+    "lit": "B0878"
+   },
+   {
+    "jp": "入力成功音",
+    "en": "Input OK",
+    "lit": "B0880"
+   },
+   {
+    "jp": "毒香水",
+    "en": "Poison Perfume",
+    "lit": "B0888"
+   },
+   {
+    "jp": "鳥獣擬",
+    "en": "Bird Mimicry",
+    "lit": "B0890"
+   },
+   {
+    "jp": "燃える",
+    "en": "Burn",
+    "lit": "B0898"
+   },
+   {
+    "jp": "変身",
+    "en": "Transform",
+    "lit": "B08A0"
+   },
+   {
+    "jp": "無効化",
+    "en": "Nullify",
+    "lit": "B08A8"
+   },
+   {
+    "jp": "電磁スキャン",
+    "en": "Scan",
+    "lit": "B08B0"
+   },
+   {
+    "jp": "うぐいす",
+    "en": "Nightingale",
+    "lit": "B08B8"
+   },
+   {
+    "jp": "ヘビ",
+    "en": "Snake",
+    "lit": "B08C0"
+   },
+   {
+    "jp": "警報",
+    "en": "Alarm",
+    "lit": "B08C8"
+   },
+   {
+    "jp": "ネズミ",
+    "en": "Mouse",
+    "lit": "B08D0"
+   },
+   {
+    "jp": "メカビーム",
+    "en": "Mecha Beam",
+    "lit": "B08D8"
+   },
+   {
+    "jp": "メカパンチ",
+    "en": "Mecha Punch",
+    "lit": "B08E0"
+   },
+   {
+    "jp": "能楽器1",
+    "en": "Noh Drum 1",
+    "lit": "B08E8"
+   },
+   {
+    "jp": "能楽器2",
+    "en": "Noh Drum 2",
+    "lit": "B08F0"
+   },
+   {
+    "jp": "能楽器3",
+    "en": "Noh Drum 3",
+    "lit": "B08F8"
+   },
+   {
+    "jp": "能楽器4",
+    "en": "Noh Drum 4",
+    "lit": "B0900"
+   },
+   {
+    "jp": "TARE1",
+    "en": "TARE 1",
+    "lit": "B0908"
+   },
+   {
+    "jp": "TARE2",
+    "en": "TARE 2",
+    "lit": "B0910"
+   },
+   {
+    "jp": "TARE3",
+    "en": "TARE 3",
+    "lit": "B0918"
+   },
+   {
+    "jp": "TARE4",
+    "en": "TARE 4",
+    "lit": "B0920"
+   },
+   {
+    "jp": "破壊",
+    "en": "Destroy",
+    "lit": "B0928"
+   },
+   {
+    "jp": "エンカウント",
+    "en": "Encounter",
+    "lit": "B0930"
+   }
   ]
  }
 ]

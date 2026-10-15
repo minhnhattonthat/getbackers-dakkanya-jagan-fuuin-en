@@ -64,9 +64,10 @@ def test_romdiff(rom):
             allowed.append((a, a + n))
         for lab in scr['labels']:
             for k, n in (('lit', 4), ('imm', 1)):
-                if lab.get(k):
-                    a = int(lab[k], 16)
-                    allowed.append((a, a + n))
+                for x in str(lab.get(k) or '').split(','):
+                    if x:
+                        a = int(x, 16)
+                        allowed.append((a, a + n))
     extra = os.path.join(ROOT, 'tools', 'allowed_ranges.txt')
     if os.path.exists(extra):
         for line in open(extra, encoding='utf-8'):

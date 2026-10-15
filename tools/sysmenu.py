@@ -27,7 +27,7 @@ def lines():
     for scr in load():
         for lab in scr['labels']:
             if lab.get('en'):
-                out.append(lab['en'])
+                out += lab['en'].split('\n')
     return out
 
 
@@ -38,11 +38,44 @@ def patch_imm(rom, addr, value):
     rom[addr] = value
 
 
+def uses_cache():
+    return any(s.get('cache') for s in load())
+
+
+def apply_cache(rom, encoder, alloc, scr):
+    """Cache-mode screen (tools/menuasm.py): charset literal -> descriptor FFFD,k,first k original codes (glyphs
+    the game draws by index, e.g. digits); labels -> glyph-code lists (FFFF-terminated)."""
+    lit = int(scr['charset_lit'], 16)
+    old = struct.unpack_from('<I', rom, lit)[0] - 0x08000000
+    k = scr.get('keep', 0)
+    pre = list(struct.unpack_from('<%dH' % k, rom, old)) if k else []
+    d = alloc(4 + 2 * k)
+    struct.pack_into('<%dH' % (2 + k), rom, d, 0xFFFD, k, *pre)
+    struct.pack_into('<I', rom, lit, 0x08000000 + d)
+    for l in scr['labels']:
+        if not l.get('lit') or not l.get('en'):
+            continue
+        codes = []
+        for i, line in enumerate(l['en'].split('\n')):     # FFFE = line break (draw_label_ff)
+            codes += ([0xFFFE] if i else []) + encoder.encode(line)
+        off = alloc(2 * len(codes) + 2)
+        struct.pack_into('<%dH' % (len(codes) + 1), rom, off, *(codes + [0xFFFF]))
+        for a in str(l['lit']).split(','):
+            struct.pack_into('<I', rom, int(a, 16), 0x08000000 + off)
+        if l.get('imm'):
+            patch_imm(rom, int(l['imm'], 16), 2 * len(codes))
+
+
 def apply(rom, encoder, alloc):
     """Write every screen whose labels all have English. alloc(nbytes) -> ROM offset (4-aligned)."""
     done = 0
     for scr in load():
         labs = scr['labels']
+        if scr.get('cache'):
+            if any(l.get('en') for l in labs):
+                apply_cache(rom, encoder, alloc, scr)
+                done += 1
+            continue
         if not labs or not all(l.get('en') for l in labs):
             continue
         cells = []

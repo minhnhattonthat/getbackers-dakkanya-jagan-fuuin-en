@@ -15,6 +15,7 @@ import enc  # noqa: E402
 import fontlib  # noqa: E402
 import layout  # noqa: E402
 import sysmenu  # noqa: E402
+import menuasm  # noqa: E402
 
 OUT = {'identity': 'getbackers_identity.gba', 'marker': 'getbackers_marker.gba', 'build': 'getbackers_en.gba',
        'qa': 'getbackers_qa.gba'}
@@ -179,7 +180,8 @@ def build(mode, overrides=None):
     jobs, bank_en, lines_all = plan(orig, t, mode, overrides)
     encoder = None
     if mode != 'identity':
-        encoder = enc.Encoder(reserved={0x6AE})   # 0x6AE = blank filler glyph used by bank strings
+        # 0x6AE = blank filler glyph used by bank strings; 0x7FF holds the menu-cache trampolines
+        encoder = enc.Encoder(reserved={0x6AE, 0x7FF})
         if mode in ('build', 'qa'):
             lines_all += sysmenu.lines()
         for ln in lines_all:
@@ -189,7 +191,9 @@ def build(mode, overrides=None):
             o = fontlib.glyph_off(code)
             rom[o:o + 0x80] = fontlib.encode_glyph(px)
         if mode in ('build', 'qa'):
-            sysmenu.apply(rom, encoder, Alloc(SYS_START, SYS_END))
+            if sysmenu.uses_cache():
+                menuasm.apply(rom, SYS_START, fontlib.glyph_off(menuasm.TRAMP_CODE))
+            sysmenu.apply(rom, encoder, Alloc(SYS_START + 0x400, SYS_END))
     # repack scripts contiguously in ROM order (4 zero bytes after each, like the original: some scripts
     # are reached only by walking on from the previous one, so order and spacing must not change)
     scripts = sorted(s for s in find_scripts(orig) if s != BANK)

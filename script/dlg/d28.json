@@ -4,16 +4,16 @@
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "俺は下だと思う\nお前はどう思う、雨流?",
-  "en": "",
-  "status": ""
+  "en": "I believe it's down. What do you think, Uryu?",
+  "status": "tl"
  },
  {
   "id": "F51C3C:3",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "俺は上だと思う…",
-  "en": "",
-  "status": ""
+  "en": "I believe it's up...",
+  "status": "tl"
  },
  {
   "id": "F51C3C:6",
@@ -28,16 +28,16 @@
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "俺は右だと思う\nお前はどう思う、雨流?",
-  "en": "",
-  "status": ""
+  "en": "I believe it's right. What do you think, Uryu?",
+  "status": "tl"
  },
  {
   "id": "F51D08:3",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "俺は左だと思う…",
-  "en": "",
-  "status": ""
+  "en": "I believe it's left...",
+  "status": "tl"
  },
  {
   "id": "F51D08:6",
@@ -52,16 +52,16 @@
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "俺は上だと思う\nお前はどう思う、雨流?",
-  "en": "",
-  "status": ""
+  "en": "I believe it's up. What do you think, Uryu?",
+  "status": "tl"
  },
  {
   "id": "F51DD4:3",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "俺も上だと思う…",
-  "en": "",
-  "status": ""
+  "en": "I believe it's up too...",
+  "status": "tl"
  },
  {
   "id": "F51DD4:6",
@@ -76,152 +76,152 @@
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "いたぞ、花月だ！！",
-  "en": "",
-  "status": ""
+  "en": "There he is, it's Kazuki!!",
+  "status": "tl"
  },
  {
   "id": "F51EF0:1",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "花月、無事か?",
-  "en": "",
-  "status": ""
+  "en": "Kazuki, are you alright?",
+  "status": "tl"
  },
  {
   "id": "F51EF0:3",
   "kind": "msg",
   "speaker": "花月",
   "jp": "十兵衛…俊樹…\n銀次さんたちは！?",
-  "en": "",
-  "status": ""
+  "en": "Juubei... Toshiki... What about Ginji and the others?!",
+  "status": "tl"
  },
  {
   "id": "F51EF0:5",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "はぐれてしまったらしい…\n辺りには見当たらなかった",
-  "en": "",
-  "status": ""
+  "en": "It seems we got separated... We saw no sign of them around here.",
+  "status": "tl"
  },
  {
   "id": "F51EF0:7",
   "kind": "msg",
   "speaker": "花月",
   "jp": "そうか…早く探さないと…",
-  "en": "",
-  "status": ""
+  "en": "I see... We must find them quickly...",
+  "status": "tl"
  },
  {
   "id": "F51EF0:9",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "無理をするな、花月",
-  "en": "",
-  "status": ""
+  "en": "Don't push yourself, Kazuki.",
+  "status": "tl"
  },
  {
   "id": "F51EF0:10",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "まだ面に操られていた時の\n疲労が残っているのだろう?",
-  "en": "",
-  "status": ""
+  "en": "You're still worn out from when the mask was controlling you, aren't you?",
+  "status": "tl"
  },
  {
   "id": "F51EF0:12",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "(花月がその顔に現さずとも\n気付いていたのか…さすがだな、筧…",
-  "en": "",
-  "status": ""
+  "en": "(He noticed, even though Kazuki didn't let it show on his face... Impressive, Kakei...",
+  "status": "tl"
  },
  {
   "id": "F51EF0:13",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "俺は気付かなかった…)",
-  "en": "",
-  "status": ""
+  "en": "I didn't notice at all...)",
+  "status": "tl"
  },
  {
   "id": "F51EF0:15",
   "kind": "msg",
   "speaker": "花月",
   "jp": "すまない…でも僕は大丈夫だよ\nさあ、急ごう！",
-  "en": "",
-  "status": ""
+  "en": "I'm sorry... But I'm fine. Now, let's hurry!",
+  "status": "tl"
  },
  {
   "id": "F52270:1",
   "kind": "msg",
   "speaker": "花月",
   "jp": "ここは…さっき僕がいた場所だね",
-  "en": "",
-  "status": ""
+  "en": "This is... where I was earlier.",
+  "status": "tl"
  },
  {
   "id": "F52270:3",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "筧…お前、花月のことを\n考えすぎなんじゃないのか?",
-  "en": "",
-  "status": ""
+  "en": "Kakei... Don't you think you worry about Kazuki too much?",
+  "status": "tl"
  },
  {
   "id": "F52270:5",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "ム………スマン",
-  "en": "",
-  "status": ""
+  "en": "Hm......... Sorry.",
+  "status": "tl"
  },
  {
   "id": "F52354:1",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "なんだ、この森は…磁場が\n狂っているせいか、方角が掴みにくいな",
-  "en": "",
-  "status": ""
+  "en": "What is with this forest... The magnetic field is warped, so it's hard to get my bearings.",
+  "status": "tl"
  },
  {
   "id": "F52354:3",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "しかもここに来て分かれ道だ…",
-  "en": "",
-  "status": ""
+  "en": "And now we've hit a fork in the road...",
+  "status": "tl"
  },
  {
   "id": "F52354:4",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "この中から正解の道を\n探すというのも難しい話だな",
-  "en": "",
-  "status": ""
+  "en": "Finding the right path among these won't be easy.",
+  "status": "tl"
  },
  {
   "id": "F52354:6",
   "kind": "msg",
   "speaker": "十兵衛",
-  "jp": "だがなんとしても\n花月のいる場所に汕り着かねばならん",
-  "en": "",
-  "status": ""
+  "jp": "だがなんとしても\n花月のいる場所に辿り着かねばならん",
+  "en": "But no matter what, we must reach the place where Kazuki is.",
+  "status": "tl"
  },
  {
   "id": "F52354:7",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "いいか…雨流、俺を信じるんだ",
-  "en": "",
-  "status": ""
+  "en": "Listen... Uryu, trust in me.",
+  "status": "tl"
  },
  {
   "id": "F52354:8",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "俺の指し示した道を\n選び続けたならば、必ず道が開けよう",
-  "en": "",
-  "status": ""
+  "en": "If you keep choosing the path I point to, the way will surely open.",
+  "status": "tl"
  },
  {
   "id": "F52354:10",
@@ -236,8 +236,8 @@
   "kind": "msg",
   "speaker": "雨流",
   "jp": "いや、むしろ俺が指し示した道を\n選び続けた方が道が開ける気がするが…",
-  "en": "",
-  "status": ""
+  "en": "No, I rather feel the way will open if we keep choosing the path I point to...",
+  "status": "tl"
  },
  {
   "id": "F52354:13",
@@ -260,24 +260,24 @@
   "kind": "msg",
   "speaker": "雨流",
   "jp": "…ところで貴様は\nどの道が正解だと思うのだ、筧?",
-  "en": "",
-  "status": ""
+  "en": "...So which path do you think is correct, Kakei?",
+  "status": "tl"
  },
  {
   "id": "F5270C:1",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "俺は下だと思う\nお前はどう思う、雨流?",
-  "en": "",
-  "status": ""
+  "en": "I believe it's down. What do you think, Uryu?",
+  "status": "tl"
  },
  {
   "id": "F5270C:3",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "俺は右だと思う…",
-  "en": "",
-  "status": ""
+  "en": "I believe it's right...",
+  "status": "tl"
  },
  {
   "id": "F5270C:6",
@@ -292,416 +292,416 @@
   "kind": "msg",
   "speaker": "雨流",
   "jp": "どうやら元の道に戻ってきたようだな?",
-  "en": "",
-  "status": ""
+  "en": "Looks like we've come back to where we started.",
+  "status": "tl"
  },
  {
   "id": "F527D8:3",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "道を間違えたか…",
-  "en": "",
-  "status": ""
+  "en": "Did I choose the wrong path...",
+  "status": "tl"
  },
  {
   "id": "F52868:1",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "森を抜けることができたな…",
-  "en": "",
-  "status": ""
+  "en": "We made it out of the forest...",
+  "status": "tl"
  },
  {
   "id": "F52868:3",
   "kind": "msg",
   "speaker": "花月",
   "jp": "よし！　先に進もう、二人共",
-  "en": "",
-  "status": ""
+  "en": "Alright! Let's press on, you two.",
+  "status": "tl"
  },
  {
   "id": "F528FC:1",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "待ち伏せか…\n花月、ここは下がっていろ",
-  "en": "",
-  "status": ""
+  "en": "Ambush... Kazuki, stay back.",
+  "status": "tl"
  },
  {
   "id": "F528FC:3",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "この程度の敵、俺たち二人だけで十分だ",
-  "en": "",
-  "status": ""
+  "en": "Enemies of this caliber are no match for the two of us.",
+  "status": "tl"
  },
  {
   "id": "F528FC:5",
   "kind": "msg",
   "speaker": "花月",
   "jp": "いや…僕も戦うよ\n行くぞ、二人共！！",
-  "en": "",
-  "status": ""
+  "en": "No... I'll fight too. Let's go, you two!!",
+  "status": "tl"
  },
  {
   "id": "F529EC:1",
   "kind": "msg",
   "speaker": "花月",
   "jp": "…この人たちは\nただ面に操られているだけだ",
-  "en": "",
-  "status": ""
+  "en": "...These people are just being controlled by the masks.",
+  "status": "tl"
  },
  {
   "id": "F529EC:2",
   "kind": "msg",
   "speaker": "花月",
   "jp": "あの時の僕と同じように…",
-  "en": "",
-  "status": ""
+  "en": "Just like I was back then...",
+  "status": "tl"
  },
  {
   "id": "F529EC:4",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "これもあのKとやらの仕業なのか?",
-  "en": "",
-  "status": ""
+  "en": "Is this that K person's doing too?",
+  "status": "tl"
  },
  {
   "id": "F529EC:6",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "恐らくはな…",
-  "en": "",
-  "status": ""
+  "en": "Most likely...",
+  "status": "tl"
  },
  {
   "id": "F529EC:7",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "しかし、花月はともかく常人が面を\n付けただけでこうも力が増すものか?",
-  "en": "",
-  "status": ""
+  "en": "Kazuki aside, can an ordinary person really get this much stronger just by wearing a mask?",
+  "status": "tl"
  },
  {
   "id": "F529EC:9",
   "kind": "msg",
   "speaker": "花月",
   "jp": "これはただの面じゃない\n呪力を持つとされる巫面…そのコピーだ",
-  "en": "",
-  "status": ""
+  "en": "These aren't ordinary masks. They're copies... of the Kannagi masks, said to hold cursed power.",
+  "status": "tl"
  },
  {
   "id": "F529EC:10",
   "kind": "msg",
   "speaker": "花月",
   "jp": "巫面は脳にある作用を与え、\nリミッターを解除させてしまう",
-  "en": "",
-  "status": ""
+  "en": "The Kannagi masks act on the brain and remove its limiters.",
+  "status": "tl"
  },
  {
   "id": "F529EC:11",
   "kind": "msg",
   "speaker": "花月",
   "jp": "ゆえに通常の何倍もの力が\n出せるというわけだ…",
-  "en": "",
-  "status": ""
+  "en": "That's why the wearer can draw out many times their normal strength...",
+  "status": "tl"
  },
  {
   "id": "F529EC:13",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "脳の活動限界突破とは…\n危険なことをさせるものだ",
-  "en": "",
-  "status": ""
+  "en": "Pushing the brain past its limits... What a dangerous thing to make them do.",
+  "status": "tl"
  },
  {
   "id": "F529EC:14",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "そんなことを続ければ\nいずれは死に至るかも知れんのだぞ?",
-  "en": "",
-  "status": ""
+  "en": "Keep that up, and it could eventually kill them, couldn't it?",
+  "status": "tl"
  },
  {
   "id": "F529EC:16",
   "kind": "msg",
   "speaker": "花月",
   "jp": "そう…だからこそこんなことは\n一刻も早くやめさせなくてはならない",
-  "en": "",
-  "status": ""
+  "en": "Yes... That's exactly why we have to put a stop to this as soon as possible.",
+  "status": "tl"
  },
  {
   "id": "F529EC:17",
   "kind": "msg",
   "speaker": "花月",
   "jp": "そうだろう、二人共?",
-  "en": "",
-  "status": ""
+  "en": "Isn't that right, you two?",
+  "status": "tl"
  },
  {
   "id": "F529EC:19",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "同感だな",
-  "en": "",
-  "status": ""
+  "en": "Agreed.",
+  "status": "tl"
  },
  {
   "id": "F529EC:21",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "右に同じだ",
-  "en": "",
-  "status": ""
+  "en": "Same here.",
+  "status": "tl"
  },
  {
   "id": "F529EC:23",
   "kind": "msg",
   "speaker": "花月",
   "jp": "では銀次さんたちとの合流を急ごう！",
-  "en": "",
-  "status": ""
+  "en": "Then let's hurry and regroup with Ginji and the others!",
+  "status": "tl"
  },
  {
   "id": "F52F10:1",
   "kind": "msg",
   "speaker": "花月",
   "jp": "これがその木か…",
-  "en": "",
-  "status": ""
+  "en": "So this is the tree...",
+  "status": "tl"
  },
  {
   "id": "F52F10:3",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "よし、下がっていろ二人共",
-  "en": "",
-  "status": ""
+  "en": "Alright, stand back, you two.",
+  "status": "tl"
  },
  {
   "id": "F52F90:1",
   "kind": "msg",
   "speaker": "花月",
   "jp": "ようやく\nお会いすることができましたね…",
-  "en": "",
-  "status": ""
+  "en": "At last, we meet again...",
+  "status": "tl"
  },
  {
   "id": "F52F90:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ン?　お前らの方にも\n銀次のヤツはいなかったのかよ?",
-  "en": "",
-  "status": ""
+  "en": "Hm? Ginji wasn't with you guys either?",
+  "status": "tl"
  },
  {
   "id": "F52F90:5",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "ああ、俺たちの通ってきた道には\n雷帝の姿は見当たらなかった",
-  "en": "",
-  "status": ""
+  "en": "No. We saw no sign of the Raitei along the way we came.",
+  "status": "tl"
  },
  {
   "id": "F52F90:7",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ったく、\nあのヤロー…どこ行きやがったンだ?",
-  "en": "",
-  "status": ""
+  "en": "Geez, that idiot... Where the hell'd he go?",
+  "status": "tl"
  },
  {
   "id": "F52F90:9",
   "kind": "msg",
   "speaker": "花月",
   "jp": "どうかしたんですか、美堂クン",
-  "en": "",
-  "status": ""
+  "en": "What's wrong, Mido?",
+  "status": "tl"
  },
  {
   "id": "F52F90:10",
   "kind": "msg",
   "speaker": "花月",
-  "jp": "銀次さんなら必ずこの場所に汕り着く…\nあなたもそう信じているはずです",
-  "en": "",
-  "status": ""
+  "jp": "銀次さんなら必ずこの場所に辿り着く…\nあなたもそう信じているはずです",
+  "en": "Ginji is sure to make it here... You must believe that too.",
+  "status": "tl"
  },
  {
   "id": "F52F90:11",
   "kind": "msg",
   "speaker": "花月",
   "jp": "なにをそんなに心配してるんですか?",
-  "en": "",
-  "status": ""
+  "en": "What are you so worried about?",
+  "status": "tl"
  },
  {
   "id": "F52F90:13",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "別に………",
-  "en": "",
-  "status": ""
+  "en": "Nothin'.........",
+  "status": "tl"
  },
  {
   "id": "F52F90:14",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "(ヤベェ気配がお前に近づいてる…\n油断するんじゃねーぞ、銀次！！)",
-  "en": "",
-  "status": ""
+  "en": "(Somethin' nasty is closin' in on you... Don't let your guard down, Ginji!!)",
+  "status": "tl"
  },
  {
   "id": "F5331C:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "蛮ちゃ~ん、士度~、カヅっちゃ~ん！",
-  "en": "",
-  "status": ""
+  "en": "Baaan! Shidooo! Kazuuu!",
+  "status": "tl"
  },
  {
   "id": "F5331C:2",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "…あれ、はぐれちゃったのかな………",
-  "en": "",
-  "status": ""
+  "en": "...Huh, did we get separated...?",
+  "status": "tl"
  },
  {
   "id": "F5331C:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "しかもここ…ドコなんだろ?",
-  "en": "",
-  "status": ""
+  "en": "And where... is this, anyway?",
+  "status": "tl"
  },
  {
   "id": "F5331C:4",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "んあ~、心細いなあ…",
-  "en": "",
-  "status": ""
+  "en": "Nngh... I'm kinda scared all alone...",
+  "status": "tl"
  },
  {
   "id": "F533F0:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "！！",
-  "en": "",
-  "status": ""
+  "en": "!!",
+  "status": "tl"
  },
  {
   "id": "F5342C:1",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "大丈夫ですよ、銀次クン\n私は敵ではありませんよ…今はね",
-  "en": "",
-  "status": ""
+  "en": "It's alright, Ginji. I'm not your enemy... for now, that is.",
+  "status": "tl"
  },
  {
   "id": "F5342C:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "て、敵じゃない?",
-  "en": "",
-  "status": ""
+  "en": "N-not my enemy?",
+  "status": "tl"
  },
  {
   "id": "F5342C:5",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "前回の仕事はもう終わりましたからね…",
-  "en": "",
-  "status": ""
+  "en": "After all, my previous job is already finished...",
+  "status": "tl"
  },
  {
   "id": "F5342C:6",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "それに次はあなたたちが奪還した面を\n運ぶ…という仕事を依頼されております",
-  "en": "",
-  "status": ""
+  "en": "Besides, my next job is to transport the masks you got back.",
+  "status": "tl"
  },
  {
   "id": "F5342C:8",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "えっ、誰にですか?",
-  "en": "",
-  "status": ""
+  "en": "Huh? Who hired you?",
+  "status": "tl"
  },
  {
   "id": "F5342C:10",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "神門京介クンにですよ",
-  "en": "",
-  "status": ""
+  "en": "Kyosuke Mikado.",
+  "status": "tl"
  },
  {
   "id": "F5342C:12",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "京介さんが?\n大介さんの方じゃなく…ですか?",
-  "en": "",
-  "status": ""
+  "en": "Kyosuke? Not Daisuke...?",
+  "status": "tl"
  },
  {
   "id": "F5342C:14",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "ええ…間違いありません",
-  "en": "",
-  "status": ""
+  "en": "Yes... There's no mistake.",
+  "status": "tl"
  },
  {
   "id": "F5342C:16",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "…じゃあ、\n赤屍さんとは戦わなくていいんですね?",
-  "en": "",
-  "status": ""
+  "en": "...So, I don't have to fight you, Akabane?",
+  "status": "tl"
  },
  {
   "id": "F5342C:18",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "はい…ですが、あなたが\nどうしてもとおっしゃるのであれば…",
-  "en": "",
-  "status": ""
+  "en": "No... Though if you absolutely insist...",
+  "status": "tl"
  },
  {
   "id": "F5342C:19",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "喜んでお相手させていただきますが?",
-  "en": "",
-  "status": ""
+  "en": "I would be delighted to oblige you.",
+  "status": "tl"
  },
  {
   "id": "F5342C:21",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "い、いえ…あの…辞退します",
-  "en": "",
-  "status": ""
+  "en": "N-no... Um... I'll pass.",
+  "status": "tl"
  },
  {
   "id": "F5342C:23",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "そうですか?　残念ですね…",
-  "en": "",
-  "status": ""
+  "en": "Is that so? What a pity...",
+  "status": "tl"
  },
  {
   "id": "F5342C:24",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "しかしあなたといると\n退屈せずに済みそうですよ…",
-  "en": "",
-  "status": ""
+  "en": "Still, it seems I won't be bored with you around...",
+  "status": "tl"
  },
  {
   "id": "F5342C:26",
@@ -716,448 +716,448 @@
   "kind": "msg",
   "speaker": "銀次",
   "jp": "…で、あの…雪彦君は?",
-  "en": "",
-  "status": ""
+  "en": "...So, um... where's Yukihiko?",
+  "status": "tl"
  },
  {
   "id": "F5342C:29",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "僕も前回の仕事は終了しているから、\n君と戦う理由はないよ",
-  "en": "",
-  "status": ""
+  "en": "My previous job is over too, so I have no reason to fight you.",
+  "status": "tl"
  },
  {
   "id": "F5342C:31",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "そっか…",
-  "en": "",
-  "status": ""
+  "en": "I see...",
+  "status": "tl"
  },
  {
   "id": "F5342C:33",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "じゃあ、僕はここで…\nさよなら、銀次君",
-  "en": "",
-  "status": ""
+  "en": "Well, I'll be going... Goodbye, Ginji.",
+  "status": "tl"
  },
  {
   "id": "F53A5C:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "待ってよ、雪彦君！",
-  "en": "",
-  "status": ""
+  "en": "Wait, Yukihiko!",
+  "status": "tl"
  },
  {
   "id": "F53A5C:3",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "どうかしたの、銀次君?",
-  "en": "",
-  "status": ""
+  "en": "What is it, Ginji?",
+  "status": "tl"
  },
  {
   "id": "F53A5C:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "途中まで一緒に行こうよ！\nこの辺はなにが起こるか分からないしさ",
-  "en": "",
-  "status": ""
+  "en": "Let's go together for a while! Who knows what could happen around here.",
+  "status": "tl"
  },
  {
   "id": "F53A5C:7",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "そうだね、今だけなら…",
-  "en": "",
-  "status": ""
+  "en": "Sure, just for now...",
+  "status": "tl"
  },
  {
   "id": "F53A5C:8",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "…あなたはそれでいいんですか、\nドクター・ジャッカル?",
-  "en": "",
-  "status": ""
+  "en": "...Is that alright with you, Dr. Jackal?",
+  "status": "tl"
  },
  {
   "id": "F53A5C:10",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "ええ…構いませんよ",
-  "en": "",
-  "status": ""
+  "en": "Yes... I don't mind at all.",
+  "status": "tl"
  },
  {
   "id": "F53A5C:12",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "(よ、良かった~…赤屍さんと\n二人っきりっていうのも怖いしね~…)",
-  "en": "",
-  "status": ""
+  "en": "(Ph-phew... Being all alone with Akabane would be way too scary...)",
+  "status": "tl"
  },
  {
   "id": "F53CEC:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "うわっ、ワープした！?",
-  "en": "",
-  "status": ""
+  "en": "Whoa, we warped?!",
+  "status": "tl"
  },
  {
   "id": "F53CEC:3",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "ということは、あの水晶が\nワープゾーンの発生装置なんだろうね",
-  "en": "",
-  "status": ""
+  "en": "Which means that crystal must be what generates the warp zones.",
+  "status": "tl"
  },
  {
   "id": "F53CEC:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "そっかあ、さっすが雪彦君！",
-  "en": "",
-  "status": ""
+  "en": "Oh, I get it! You're so smart, Yukihiko!",
+  "status": "tl"
  },
  {
   "id": "F53CEC:7",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "えっ…\n今のは誰にでも分かると思うんだけど…",
-  "en": "",
-  "status": ""
+  "en": "Huh... I think anyone could have figured that out...",
+  "status": "tl"
  },
  {
   "id": "F53CEC:9",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "そ、そうなの?　ゴメ~ン…",
-  "en": "",
-  "status": ""
+  "en": "R-really? Sorryyy...",
+  "status": "tl"
  },
  {
   "id": "F53CEC:11",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "クス…いいよ、別に",
-  "en": "",
-  "status": ""
+  "en": "Heh... It's fine, really.",
+  "status": "tl"
  },
  {
   "id": "F53CEC:12",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "それより、あの水晶には\n他の効果もあるかも知れない",
-  "en": "",
-  "status": ""
+  "en": "More importantly, that crystal might have other effects too.",
+  "status": "tl"
  },
  {
   "id": "F53CEC:13",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "特に色には注意した方が良さそうだね",
-  "en": "",
-  "status": ""
+  "en": "We'd better pay special attention to the colors.",
+  "status": "tl"
  },
  {
   "id": "F53F0C:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "うわっ、ワープした！?",
-  "en": "",
-  "status": ""
+  "en": "Whoa, we warped?!",
+  "status": "tl"
  },
  {
   "id": "F53F0C:3",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "どうやらあの水晶が\nワープゾーンの発生装置のようですね?",
-  "en": "",
-  "status": ""
+  "en": "It appears that crystal is what generates the warp zones.",
+  "status": "tl"
  },
  {
   "id": "F53F0C:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なるほど~\nそれだけ分かれば楽勝、楽勝！！",
-  "en": "",
-  "status": ""
+  "en": "I see~ If that's all there is to it, it's a piece of cake!!",
+  "status": "tl"
  },
  {
   "id": "F53F0C:7",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "ただし、それだけのものとも思えません\n注意が必要ですよ、銀次クン?",
-  "en": "",
-  "status": ""
+  "en": "However, I doubt that's all it does. Do be careful, Ginji.",
+  "status": "tl"
  },
  {
   "id": "F53F0C:8",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "特に水晶とワープゾーンの色…\nそれに注意した方が良さそうですね",
-  "en": "",
-  "status": ""
+  "en": "Especially the colors of the crystals and the warp zones... Best to keep an eye on those.",
+  "status": "tl"
  },
  {
   "id": "F53F0C:10",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あ、は…はい~…",
-  "en": "",
-  "status": ""
+  "en": "Oh, y-yes, sir...",
+  "status": "tl"
  },
  {
   "id": "F540E8:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "て、敵だ！\nでも三人なら問題な…",
-  "en": "",
-  "status": ""
+  "en": "E-enemies! But with three of us, it's no prob--",
+  "status": "tl"
  },
  {
   "id": "F540E8:2",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "(はっ！　この二人っていつオレの\n敵に変わるか分からないんだっけ！)",
-  "en": "",
-  "status": ""
+  "en": "(Wait! I never know when these two might turn into my enemies!)",
+  "status": "tl"
  },
  {
   "id": "F540E8:4",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "どうかしたの、銀次君?",
-  "en": "",
-  "status": ""
+  "en": "What is it, Ginji?",
+  "status": "tl"
  },
  {
   "id": "F540E8:6",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ゆ、雪彦君…\nキミはオレの味方だよね！?",
-  "en": "",
-  "status": ""
+  "en": "Y-Yukihiko... You're on my side, right?!",
+  "status": "tl"
  },
  {
   "id": "F540E8:8",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "僕自身はね\nただ兄たちが出てくるとちょっと…",
-  "en": "",
-  "status": ""
+  "en": "I am, personally. But if my older siblings show up, well...",
+  "status": "tl"
  },
  {
   "id": "F540E8:10",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "う、ううっ…",
-  "en": "",
-  "status": ""
+  "en": "Uh, uhhh...",
+  "status": "tl"
  },
  {
   "id": "F540E8:11",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あ、赤屍さんはパートナーで\nある以上は味方なんですよね?",
-  "en": "",
-  "status": ""
+  "en": "A-Akabane, as long as we're partners, you're on my side, right?",
+  "status": "tl"
  },
  {
   "id": "F540E8:13",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "はい♥\n今のところは…ですが",
-  "en": "",
-  "status": ""
+  "en": "Yes♥ For the time being, that is.",
+  "status": "tl"
  },
  {
   "id": "F540E8:15",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "(…あ、怪しい………)",
-  "en": "",
-  "status": ""
+  "en": "(...S-sooo shady...)",
+  "status": "tl"
  },
  {
   "id": "F540E8:17",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "銀次君、敵がくるよ！！",
-  "en": "",
-  "status": ""
+  "en": "Ginji, here they come!!",
+  "status": "tl"
  },
  {
   "id": "F544EC:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ま、待ち伏せされてた！?",
-  "en": "",
-  "status": ""
+  "en": "Th-they ambushed us?!",
+  "status": "tl"
  },
  {
   "id": "F544EC:3",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "そのようですね…",
-  "en": "",
-  "status": ""
+  "en": "So it would seem...",
+  "status": "tl"
  },
  {
   "id": "F544EC:4",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "いずれにせよ、面白いことに\nなってきましたね…銀次クン?",
-  "en": "",
-  "status": ""
+  "en": "In any case, things are getting interesting... wouldn't you say, Ginji?",
+  "status": "tl"
  },
  {
   "id": "F544EC:6",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "う、う~ん、それほどでも…",
-  "en": "",
-  "status": ""
+  "en": "Uh, umm, not really...",
+  "status": "tl"
  },
  {
   "id": "F544EC:8",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "私も少々退屈していたところですからね",
-  "en": "",
-  "status": ""
+  "en": "I was getting a little bored myself, you see.",
+  "status": "tl"
  },
  {
   "id": "F544EC:9",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "そろそろあなたの本気を\n見せていただきたいのですよ",
-  "en": "",
-  "status": ""
+  "en": "It's about time you showed me what you can really do.",
+  "status": "tl"
  },
  {
   "id": "F544EC:11",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "う…",
-  "en": "",
-  "status": ""
+  "en": "Ugh...",
+  "status": "tl"
  },
  {
   "id": "F544EC:13",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "でないと私があなたを攻撃する…\nという事態も発生しかねませんからね",
-  "en": "",
-  "status": ""
+  "en": "Otherwise, I might just end up attacking you myself...",
+  "status": "tl"
  },
  {
   "id": "F544EC:14",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "そうならないためにも\nがんばって下さいね、銀次クン?",
-  "en": "",
-  "status": ""
+  "en": "So to keep that from happening, do your best, Ginji.",
+  "status": "tl"
  },
  {
   "id": "F544EC:16",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "は、は~い、がんばりま~っす！！",
-  "en": "",
-  "status": ""
+  "en": "O-okaaay, I'll do my beeest!!",
+  "status": "tl"
  },
  {
   "id": "F5486C:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ふう…",
-  "en": "",
-  "status": ""
+  "en": "Phew...",
+  "status": "tl"
  },
  {
   "id": "F5486C:3",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "ところで銀次クン、あなたは弥勒クンと\n戦ったことがありましたね?",
-  "en": "",
-  "status": ""
+  "en": "By the way, Ginji, you once fought Miroku, didn't you?",
+  "status": "tl"
  },
  {
   "id": "F5486C:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ええまあ…成り行き上…",
-  "en": "",
-  "status": ""
+  "en": "Well, yeah... It kinda just happened...",
+  "status": "tl"
  },
  {
   "id": "F5486C:7",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "その時、あなたは勝った…\nそうでしたね?",
-  "en": "",
-  "status": ""
+  "en": "And you won that fight... Isn't that right?",
+  "status": "tl"
  },
  {
   "id": "F5486C:9",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "いや、勝ったというか…なんというか…",
-  "en": "",
-  "status": ""
+  "en": "Well, I wouldn't say I won... More like...",
+  "status": "tl"
  },
  {
   "id": "F5486C:11",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "そして、あなたは\n私との戦いにも一度勝利している…",
-  "en": "",
-  "status": ""
+  "en": "And you've also defeated me in battle once...",
+  "status": "tl"
  },
  {
   "id": "F5486C:13",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "は、はあ…ずいぶん昔のことですが…",
-  "en": "",
-  "status": ""
+  "en": "Uh, yeah... That was a long time ago, though...",
+  "status": "tl"
  },
  {
   "id": "F5486C:15",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "いかがですか、我々二人を同時に\n相手にしても勝つ自信がありますか?",
-  "en": "",
-  "status": ""
+  "en": "Tell me, are you confident you could win against both of us at once?",
+  "status": "tl"
  },
  {
   "id": "F5486C:17",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あの…\n勝ち負けにあまり興味がないんで…",
-  "en": "",
-  "status": ""
+  "en": "Um... I'm not really into winning and losing...",
+  "status": "tl"
  },
  {
   "id": "F5486C:19",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "戦いは常に勝つか負けるか…\nそれで決着をつけるしかないのですよ",
-  "en": "",
-  "status": ""
+  "en": "A battle is always win or lose... That is the only way to settle it.",
+  "status": "tl"
  },
  {
   "id": "F5486C:20",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "例えあなたがそれを望まなくとも…",
-  "en": "",
-  "status": ""
+  "en": "Even if that's not what you want...",
+  "status": "tl"
  },
  {
   "id": "F5486C:22",
@@ -1172,24 +1172,24 @@
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "そして、\n今ここで決着をつけることも可能だ…",
-  "en": "",
-  "status": ""
+  "en": "And we could settle it right here and now...",
+  "status": "tl"
  },
  {
   "id": "F5486C:26",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "！！",
-  "en": "",
-  "status": ""
+  "en": "!!",
+  "status": "tl"
  },
  {
   "id": "F5486C:28",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "やめろ、銀次君に手を出すな！！",
-  "en": "",
-  "status": ""
+  "en": "Stop! Keep your hands off Ginji!!",
+  "status": "tl"
  },
  {
   "id": "F5486C:30",
@@ -1212,112 +1212,112 @@
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "クス…冗談ですよ",
-  "en": "",
-  "status": ""
+  "en": "Heh... I was only joking.",
+  "status": "tl"
  },
  {
   "id": "F5486C:36",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "そういう冗談はやめて下さいね、\nドクター・ジャッカル",
-  "en": "",
-  "status": ""
+  "en": "Please refrain from jokes like that, Dr. Jackal.",
+  "status": "tl"
  },
  {
   "id": "F5486C:38",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "(二人からものすごい殺気が…\nこ、怖ッ！！！！)",
-  "en": "",
-  "status": ""
+  "en": "(The killing intent coming off these two... S-scaaary!!!!)",
+  "status": "tl"
  },
  {
   "id": "F54F90:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "(赤屍さんが敵にトドメを\n刺さなかった…！?)",
-  "en": "",
-  "status": ""
+  "en": "(Akabane didn't finish the enemy off...?!)",
+  "status": "tl"
  },
  {
   "id": "F54F90:2",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "…珍しいですね?",
-  "en": "",
-  "status": ""
+  "en": "...That's unusual for you.",
+  "status": "tl"
  },
  {
   "id": "F54F90:4",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "止めを刺さないことが…ですか?",
-  "en": "",
-  "status": ""
+  "en": "Not finishing them off, you mean?",
+  "status": "tl"
  },
  {
   "id": "F54F90:5",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "そうすることを\nあなたが嫌いますからね…",
-  "en": "",
-  "status": ""
+  "en": "You dislike it when I do that, after all...",
+  "status": "tl"
  },
  {
   "id": "F54F90:6",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "最も、敵に止めを刺すことで\nあなたの怒りを誘発し、",
-  "en": "",
-  "status": ""
+  "en": "Of course, I could finish off an enemy to provoke your anger,",
+  "status": "tl"
  },
  {
   "id": "F54F90:7",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "雷帝化に導くという手もありますが…",
-  "en": "",
-  "status": ""
+  "en": "and draw out the Raitei that way...",
+  "status": "tl"
  },
  {
   "id": "F54F90:9",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "…！！",
-  "en": "",
-  "status": ""
+  "en": "...!!",
+  "status": "tl"
  },
  {
   "id": "F54F90:11",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "雷帝化したあなたとは\nまだ決着がついていませんからね…",
-  "en": "",
-  "status": ""
+  "en": "After all, you and I have yet to settle things while you're the Raitei...",
+  "status": "tl"
  },
  {
   "id": "F54F90:12",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "いずれその決着はつけなければならない\n…そうは思いませんか?",
-  "en": "",
-  "status": ""
+  "en": "That's a score we'll have to settle someday... Don't you agree?",
+  "status": "tl"
  },
  {
   "id": "F54F90:14",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "いえ…思いません………",
-  "en": "",
-  "status": ""
+  "en": "No... I don't...",
+  "status": "tl"
  },
  {
   "id": "F54F90:16",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "クス…では楽しみは最後まで\nとっておくことに致しましょう…",
-  "en": "",
-  "status": ""
+  "en": "Heh... Then let us save the fun for the very end...",
+  "status": "tl"
  },
  {
   "id": "F54F90:18",
@@ -1332,56 +1332,56 @@
   "kind": "msg",
   "speaker": "銀次",
   "jp": "どうしたの、雪彦君?\n急に立ち止まったりして…",
-  "en": "",
-  "status": ""
+  "en": "What's wrong, Yukihiko? Why'd you stop all of a sudden?",
+  "status": "tl"
  },
  {
   "id": "F55370:3",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "…この先に君の仲間がいるみたいだよ",
-  "en": "",
-  "status": ""
+  "en": "...It seems your friends are up ahead.",
+  "status": "tl"
  },
  {
   "id": "F55370:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "えっ、本当！?",
-  "en": "",
-  "status": ""
+  "en": "Huh, really?!",
+  "status": "tl"
  },
  {
   "id": "F55370:7",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "うん、気配がするからね…\nだからここでお別れだよ、銀次君",
-  "en": "",
-  "status": ""
+  "en": "Yes, I can sense them... So this is where we part, Ginji.",
+  "status": "tl"
  },
  {
   "id": "F55370:9",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "…そこに蛮ちゃんがいるから?",
-  "en": "",
-  "status": ""
+  "en": "...Because Ban is there?",
+  "status": "tl"
  },
  {
   "id": "F55370:11",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "そう…美堂蛮がいるからだよ",
-  "en": "",
-  "status": ""
+  "en": "Yes... Because Ban Mido is there.",
+  "status": "tl"
  },
  {
   "id": "F55370:12",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "あの男は僕たち\n弥勒一族にとっては天敵だからね…",
-  "en": "",
-  "status": ""
+  "en": "That man is the natural enemy of us, the Miroku clan...",
+  "status": "tl"
  },
  {
   "id": "F55370:14",
@@ -1396,128 +1396,128 @@
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "もし、君があの男の\nパートナーじゃなかったら…",
-  "en": "",
-  "status": ""
+  "en": "If only you weren't that man's partner...",
+  "status": "tl"
  },
  {
   "id": "F55370:17",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "なんてことを言っても仕方ないよね\n…さよなら、銀次君",
-  "en": "",
-  "status": ""
+  "en": "But there's no point in saying that, is there... Goodbye, Ginji.",
+  "status": "tl"
  },
  {
   "id": "F556B4:1",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "そうだ、これ…なにかの\n役に立つかも知れないから渡しておくね",
-  "en": "",
-  "status": ""
+  "en": "Oh, right, take this... It might come in handy.",
+  "status": "tl"
  },
  {
   "id": "F556B4:2",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "きらグロをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Kira Glove!",
+  "status": "tl"
  },
  {
   "id": "F556B4:4",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ありがとう、雪彦君…ゴメンね",
-  "en": "",
-  "status": ""
+  "en": "Thanks, Yukihiko... I'm sorry.",
+  "status": "tl"
  },
  {
   "id": "F556B4:6",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "…大丈夫、きっとまた会えるよ",
-  "en": "",
-  "status": ""
+  "en": "...It's okay. I'm sure we'll meet again.",
+  "status": "tl"
  },
  {
   "id": "F556B4:8",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "そうだね…そうだよね、きっと",
-  "en": "",
-  "status": ""
+  "en": "Yeah... Yeah, I'm sure we will.",
+  "status": "tl"
  },
  {
   "id": "F556B4:10",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "それじゃ、また…",
-  "en": "",
-  "status": ""
+  "en": "See you, then...",
+  "status": "tl"
  },
  {
   "id": "F55848:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ば、蛮ちゃ~~~~ん！\nやっと…やっと会えたよ~~~~っ！！",
-  "en": "",
-  "status": ""
+  "en": "B-Baaaaaan! I finally... I finally found youuuu!!",
+  "status": "tl"
  },
  {
   "id": "F55848:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ったく、遅ェんだよ！\n…ン、ジャッカルも一緒だったのかよ?",
-  "en": "",
-  "status": ""
+  "en": "Geez, you're late! ...Huh, you were with the Jackal?",
+  "status": "tl"
  },
  {
   "id": "F55848:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あ、うん…",
-  "en": "",
-  "status": ""
+  "en": "Oh, yeah...",
+  "status": "tl"
  },
  {
   "id": "F55848:6",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "京介さんが仕事の依頼をしたみたいだよ\n俺たちが奪還した面を運ぶようにって",
-  "en": "",
-  "status": ""
+  "en": "Kyosuke hired him for a job. To transport the masks we got back.",
+  "status": "tl"
  },
  {
   "id": "F55848:8",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "あの面ヤローが?\n大介の方じゃなくてかよ?",
-  "en": "",
-  "status": ""
+  "en": "Mask Boy did? Not Daisuke?",
+  "status": "tl"
  },
  {
   "id": "F55848:10",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "う、う~ん、\nオレもよく分かんないんだけどさ…",
-  "en": "",
-  "status": ""
+  "en": "Uh, umm... I don't really get it either...",
+  "status": "tl"
  },
  {
   "id": "F55848:12",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "なんだか知らねェが、\nそういうことなら仕方ねえ…か",
-  "en": "",
-  "status": ""
+  "en": "Dunno what's goin' on, but if that's how it is, guess there's no helpin' it...",
+  "status": "tl"
  },
  {
   "id": "F55848:14",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "クス…\nよろしくお願いしますよ、美堂クン",
-  "en": "",
-  "status": ""
+  "en": "Heh... I look forward to working with you, Mido.",
+  "status": "tl"
  },
  {
   "id": "F55848:16",
@@ -1532,208 +1532,208 @@
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あっ、大介さん！?",
-  "en": "",
-  "status": ""
+  "en": "Ah, Daisuke?!",
+  "status": "tl"
  },
  {
   "id": "F55C34:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "大丈夫ですか、大介さん！?",
-  "en": "",
-  "status": ""
+  "en": "Are you okay, Daisuke?!",
+  "status": "tl"
  },
  {
   "id": "F55C34:3",
   "kind": "msg",
   "speaker": "大介",
   "jp": "ええ…\nここへ落ちた時に足をくじいただけです",
-  "en": "",
-  "status": ""
+  "en": "Yes... I just twisted my ankle when I fell down here.",
+  "status": "tl"
  },
  {
   "id": "F55C34:4",
   "kind": "msg",
   "speaker": "大介",
   "jp": "これくらいはなんともありません",
-  "en": "",
-  "status": ""
+  "en": "This much is nothing.",
+  "status": "tl"
  },
  {
   "id": "F55C34:6",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "え…でもこれ、すごい重傷に\n見えますけど痛くないんですか?",
-  "en": "",
-  "status": ""
+  "en": "Huh... But it looks like a really bad injury. Doesn't it hurt?",
+  "status": "tl"
  },
  {
   "id": "F55C34:8",
   "kind": "msg",
   "speaker": "大介",
   "jp": "ええ、別に痛くはないんです\n大丈夫、すぐに治りますよ",
-  "en": "",
-  "status": ""
+  "en": "No, it doesn't really hurt. Don't worry, it'll heal soon.",
+  "status": "tl"
  },
  {
   "id": "F55C34:10",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "痛くない…！?",
-  "en": "",
-  "status": ""
+  "en": "It doesn't hurt...?!",
+  "status": "tl"
  },
  {
   "id": "F55C34:11",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "(すごい傷なのに…)",
-  "en": "",
-  "status": ""
+  "en": "(Even though it's such a bad wound...)",
+  "status": "tl"
  },
  {
   "id": "F55C34:13",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ところで、\nここの出口ってのはどこにあンだよ?",
-  "en": "",
-  "status": ""
+  "en": "So anyway, where's the exit outta here?",
+  "status": "tl"
  },
  {
   "id": "F55C34:15",
   "kind": "msg",
   "speaker": "大介",
   "jp": "ここから出るには\nまず結界を破らなくてはなりません",
-  "en": "",
-  "status": ""
+  "en": "To get out of here, we first have to break the barrier.",
+  "status": "tl"
  },
  {
   "id": "F55C34:17",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ってことはここは\nやっぱ結界内ってことかよ…",
-  "en": "",
-  "status": ""
+  "en": "So we really are inside a barrier...",
+  "status": "tl"
  },
  {
   "id": "F55C34:19",
   "kind": "msg",
   "speaker": "大介",
   "jp": "ええ…ここは神門の里へ迷い込んだ人が\n送られる出口のない森なんです",
-  "en": "",
-  "status": ""
+  "en": "Yes... This is a forest with no exit, where those who stray into Mikado Village are sent.",
+  "status": "tl"
  },
  {
   "id": "F55C34:20",
   "kind": "msg",
   "speaker": "大介",
   "jp": "さっきまで結界はなかったのですが…\n恐らく、Kが結界を張ったんでしょう",
-  "en": "",
-  "status": ""
+  "en": "There was no barrier here until just now... K must have put it up.",
+  "status": "tl"
  },
  {
   "id": "F55C34:22",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "で、その結界から出る方法ってのは?",
-  "en": "",
-  "status": ""
+  "en": "So how do we get out of this barrier?",
+  "status": "tl"
  },
  {
   "id": "F55C34:24",
   "kind": "msg",
   "speaker": "大介",
   "jp": "この森に結界を作り出している力の源は\n色の異なる六つの勾玉です",
-  "en": "",
-  "status": ""
+  "en": "The source of the power creating the barrier in this forest is six magatama of different colors.",
+  "status": "tl"
  },
  {
   "id": "F55C34:25",
   "kind": "msg",
   "speaker": "大介",
   "jp": "それを全て探し出し僕のところへ、\n持ってきていただきたいんです",
-  "en": "",
-  "status": ""
+  "en": "I'd like you to find all of them and bring them to me.",
+  "status": "tl"
  },
  {
   "id": "F55C34:27",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "その勾玉はどこにあるの?",
-  "en": "",
-  "status": ""
+  "en": "Where are those magatama?",
+  "status": "tl"
  },
  {
   "id": "F55C34:29",
   "kind": "msg",
   "speaker": "大介",
   "jp": "それは僕にも分かりません…",
-  "en": "",
-  "status": ""
+  "en": "I don't know that either...",
+  "status": "tl"
  },
  {
   "id": "F55C34:30",
   "kind": "msg",
   "speaker": "大介",
   "jp": "それともう一つ…\n勾玉はそこにある石版にはめるのですが",
-  "en": "",
-  "status": ""
+  "en": "And one more thing... The magatama go into the stone tablet over there,",
+  "status": "tl"
  },
  {
   "id": "F55C34:31",
   "kind": "msg",
   "speaker": "大介",
-  "jp": "それをはめる晒番を\n正確に知らなくてはなりません",
-  "en": "",
-  "status": ""
+  "jp": "それをはめる順番を\n正確に知らなくてはなりません",
+  "en": "but you need to know the exact order to set them in.",
+  "status": "tl"
  },
  {
   "id": "F55C34:32",
   "kind": "msg",
   "speaker": "大介",
-  "jp": "その晒番は森の中にある石版に\n記されているはずなんです",
-  "en": "",
-  "status": ""
+  "jp": "その順番は森の中にある石版に\n記されているはずなんです",
+  "en": "That order should be written on stone tablets somewhere in the forest.",
+  "status": "tl"
  },
  {
   "id": "F55C34:33",
   "kind": "msg",
   "speaker": "大介",
   "jp": "すみませんが、よろしくお願いします",
-  "en": "",
-  "status": ""
+  "en": "I'm sorry to ask, but I'm counting on you.",
+  "status": "tl"
  },
  {
   "id": "F55C34:35",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ま、しゃーねえな…",
-  "en": "",
-  "status": ""
+  "en": "Well, can't be helped...",
+  "status": "tl"
  },
  {
   "id": "F55C34:37",
   "kind": "msg",
   "speaker": "大介",
   "jp": "それと体力を回復させたい時は\nここへ戻って来て下さい",
-  "en": "",
-  "status": ""
+  "en": "Also, if you need to recover your strength, come back here.",
+  "status": "tl"
  },
  {
   "id": "F55C34:38",
   "kind": "msg",
   "speaker": "大介",
   "jp": "僕にもそれ位のことはできますので…",
-  "en": "",
-  "status": ""
+  "en": "That much, at least, I can still do...",
+  "status": "tl"
  },
  {
   "id": "F5640C:1",
   "kind": "msg",
   "speaker": "大介",
   "jp": "京介…",
-  "en": "",
-  "status": ""
+  "en": "Kyosuke...",
+  "status": "tl"
  },
  {
   "id": "F5640C:3",
@@ -1748,16 +1748,16 @@
   "kind": "msg",
   "speaker": "大介",
   "jp": "どうしてもKに従うんだね…",
-  "en": "",
-  "status": ""
+  "en": "So you're set on following K no matter what...",
+  "status": "tl"
  },
  {
   "id": "F5640C:6",
   "kind": "msg",
   "speaker": "大介",
   "jp": "だったら僕は\n辛い選択をしなくてはならなくなる",
-  "en": "",
-  "status": ""
+  "en": "Then I'll have to make a painful choice.",
+  "status": "tl"
  },
  {
   "id": "F5640C:8",
@@ -1772,24 +1772,24 @@
   "kind": "msg",
   "speaker": "大介",
   "jp": "瑠璃さんは君が僕にとって\nなくてはならない存在だと言う",
-  "en": "",
-  "status": ""
+  "en": "Ruri says you're someone I can't do without.",
+  "status": "tl"
  },
  {
   "id": "F5640C:11",
   "kind": "msg",
   "speaker": "大介",
   "jp": "けど、僕には\nその言葉の意味がよく分からないんだ",
-  "en": "",
-  "status": ""
+  "en": "But I don't really understand what she means.",
+  "status": "tl"
  },
  {
   "id": "F5640C:12",
   "kind": "msg",
   "speaker": "大介",
   "jp": "君は一体、僕のなんなんだろう?",
-  "en": "",
-  "status": ""
+  "en": "What on earth are you to me?",
+  "status": "tl"
  },
  {
   "id": "F5640C:14",
@@ -1804,16 +1804,16 @@
   "kind": "msg",
   "speaker": "大介",
   "jp": "思い出せないんだよ、\n君といた頃の記憶が…",
-  "en": "",
-  "status": ""
+  "en": "I can't remember... my memories of the time I spent with you...",
+  "status": "tl"
  },
  {
   "id": "F5640C:17",
   "kind": "msg",
   "speaker": "大介",
   "jp": "僕たちは本当に二人で\n過ごしたことがあるんだろうか?",
-  "en": "",
-  "status": ""
+  "en": "Did the two of us really spend time together?",
+  "status": "tl"
  },
  {
   "id": "F5640C:19",
@@ -1828,368 +1828,368 @@
   "kind": "msg",
   "speaker": "大介",
   "jp": "どうしてなにも言ってくれないんだ?\n僕らは話し合うこともできないのかな?",
-  "en": "",
-  "status": ""
+  "en": "Why won't you say anything? Can't we even talk this over?",
+  "status": "tl"
  },
  {
   "id": "F5640C:23",
   "kind": "msg",
   "speaker": "鬼夜叉",
   "jp": "…ダメだよ、大介\n今の京介にそんなことを望んでもサ…",
-  "en": "",
-  "status": ""
+  "en": "...It's no use, Daisuke. You can't expect that from Kyosuke now...",
+  "status": "tl"
  },
  {
   "id": "F5640C:24",
   "kind": "msg",
   "speaker": "鬼夜叉",
   "jp": "悪いケド、もうあまり時間がないんだ\n早くしないとKが…",
-  "en": "",
-  "status": ""
+  "en": "Sorry, but we're almost out of time. If we don't hurry, K will...",
+  "status": "tl"
  },
  {
   "id": "F5640C:26",
   "kind": "msg",
   "speaker": "京介",
   "jp": "…巫面の命により、\n貴様等の存在を抹消する",
-  "en": "",
-  "status": ""
+  "en": "...By order of the Kannagi masks, I shall erase your existence.",
+  "status": "tl"
  },
  {
   "id": "F5640C:28",
   "kind": "msg",
   "speaker": "鬼夜叉",
   "jp": "…京介！?",
-  "en": "",
-  "status": ""
+  "en": "...Kyosuke?!",
+  "status": "tl"
  },
  {
   "id": "F5640C:30",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ヤツはやる気だぜ…\nどうすンだよ、大介ちゃんよォ?",
-  "en": "",
-  "status": ""
+  "en": "He's out for blood... So what's it gonna be, Daisuke, pal?",
+  "status": "tl"
  },
  {
   "id": "F5640C:32",
   "kind": "msg",
   "speaker": "大介",
   "jp": "やはり避けられぬ道なのでしょうか…\nならば兄とはいえ、容赦は致しません",
-  "en": "",
-  "status": ""
+  "en": "So this path truly can't be avoided... Then brother or not, I'll show no mercy.",
+  "status": "tl"
  },
  {
   "id": "F5640C:34",
   "kind": "msg",
   "speaker": "鬼夜叉",
   "jp": "ダメだよ、大介！",
-  "en": "",
-  "status": ""
+  "en": "Don't, Daisuke!",
+  "status": "tl"
  },
  {
   "id": "F5640C:35",
   "kind": "msg",
   "speaker": "鬼夜叉",
   "jp": "コイツは…ただ…",
-  "en": "",
-  "status": ""
+  "en": "He's... only...",
+  "status": "tl"
  },
  {
   "id": "F5640C:37",
   "kind": "msg",
   "speaker": "京介",
   "jp": "邪魔立てをするならば貴様も消す",
-  "en": "",
-  "status": ""
+  "en": "If you stand in my way, I'll erase you as well.",
+  "status": "tl"
  },
  {
   "id": "F5640C:39",
   "kind": "msg",
   "speaker": "鬼夜叉",
   "jp": "そ、そんな…",
-  "en": "",
-  "status": ""
+  "en": "N-no way...",
+  "status": "tl"
  },
  {
   "id": "F5640C:41",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "京介さん、あなたはただ\nそのお面に操られているだけなんだ！",
-  "en": "",
-  "status": ""
+  "en": "Kyosuke, you're just being controlled by that mask!",
+  "status": "tl"
  },
  {
   "id": "F5640C:43",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "よせ、銀次…どうせ通じやしねェよ\n面を外さねえ限りはな…行くぞ！！",
-  "en": "",
-  "status": ""
+  "en": "Drop it, Ginji... It won't get through to him. Not unless that mask comes off... Let's go!!",
+  "status": "tl"
  },
  {
   "id": "F56C90:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "面が…外れない！?",
-  "en": "",
-  "status": ""
+  "en": "The mask... won't come off?!",
+  "status": "tl"
  },
  {
   "id": "F56C90:3",
   "kind": "msg",
   "speaker": "大介",
   "jp": "巫面に完全に\n取り込まれてしまったのか！?",
-  "en": "",
-  "status": ""
+  "en": "Has he been completely consumed by the Kannagi mask?!",
+  "status": "tl"
  },
  {
   "id": "F56C90:5",
   "kind": "msg",
   "speaker": "???",
   "jp": "そういうことになるな",
-  "en": "",
-  "status": ""
+  "en": "So it would seem.",
+  "status": "tl"
  },
  {
   "id": "F56D60:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あれは…窪田さん！?\nそれに瑠璃さんも…",
-  "en": "",
-  "status": ""
+  "en": "That's... Kubota?! And Ruri too...",
+  "status": "tl"
  },
  {
   "id": "F56D60:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "なンでか知らねえが、\n蛭田のヤローも捕まってるみてぇだな?",
-  "en": "",
-  "status": ""
+  "en": "Dunno why, but looks like that Hiruta jerk got nabbed too, huh?",
+  "status": "tl"
  },
  {
   "id": "F56D60:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "もう一人のヒトって、\nもしかして杏ちゃんのお父さんかな?",
-  "en": "",
-  "status": ""
+  "en": "The other person... Could that be Anzu's dad?",
+  "status": "tl"
  },
  {
   "id": "F56D60:7",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "かもな…",
-  "en": "",
-  "status": ""
+  "en": "Could be...",
+  "status": "tl"
  },
  {
   "id": "F56EA4:1",
   "kind": "msg",
   "speaker": "大介",
   "jp": "K…その人たちを使って\n黄泉の扉を開こうというのか?",
-  "en": "",
-  "status": ""
+  "en": "K... Are you trying to open the Gate of Yomi using those people?",
+  "status": "tl"
  },
  {
   "id": "F56EA4:3",
   "kind": "msg",
   "speaker": "K",
   "jp": "だったらどうした?",
-  "en": "",
-  "status": ""
+  "en": "And if I am?",
+  "status": "tl"
  },
  {
   "id": "F56EA4:5",
   "kind": "msg",
   "speaker": "大介",
   "jp": "そんなことはさせない",
-  "en": "",
-  "status": ""
+  "en": "I won't let you do that.",
+  "status": "tl"
  },
  {
   "id": "F56EA4:6",
   "kind": "msg",
   "speaker": "大介",
   "jp": "巫面も京介も瑠璃さんも…\nみんな還してもらおう！",
-  "en": "",
-  "status": ""
+  "en": "The Kannagi masks, Kyosuke, Ruri... I'll have you give them all back!",
+  "status": "tl"
  },
  {
   "id": "F56EA4:8",
   "kind": "msg",
   "speaker": "K",
   "jp": "フン…お前になにができる?",
-  "en": "",
-  "status": ""
+  "en": "Hmph... What can you do?",
+  "status": "tl"
  },
  {
   "id": "F56EA4:9",
   "kind": "msg",
   "speaker": "K",
   "jp": "京介と違って呪力を持たないお前は\n生贄としての価値もない",
-  "en": "",
-  "status": ""
+  "en": "Unlike Kyosuke, you have no curse power. You're not even worth anything as a sacrifice.",
+  "status": "tl"
  },
  {
   "id": "F56EA4:10",
   "kind": "msg",
   "speaker": "K",
   "jp": "失せろ",
-  "en": "",
-  "status": ""
+  "en": "Get lost.",
+  "status": "tl"
  },
  {
   "id": "F56EA4:12",
   "kind": "msg",
   "speaker": "大介",
   "jp": "確かに僕は京介と違って呪力を持たない",
-  "en": "",
-  "status": ""
+  "en": "It's true that, unlike Kyosuke, I have no curse power.",
+  "status": "tl"
  },
  {
   "id": "F56EA4:13",
   "kind": "msg",
   "speaker": "大介",
   "jp": "なぜなら僕が持つはずだった呪力は\n全て京介の側に移行しているからだ！",
-  "en": "",
-  "status": ""
+  "en": "Because all the curse power that should have been mine went over to Kyosuke's side!",
+  "status": "tl"
  },
  {
   "id": "F56EA4:15",
   "kind": "msg",
   "speaker": "K",
   "jp": "今さらながら記憶が蘇ったか…",
-  "en": "",
-  "status": ""
+  "en": "So your memories have finally come back...",
+  "status": "tl"
  },
  {
   "id": "F56EA4:17",
   "kind": "msg",
   "speaker": "大介",
   "jp": "そう…やっと思い出すことができたよ",
-  "en": "",
-  "status": ""
+  "en": "Yes... At last I've been able to remember.",
+  "status": "tl"
  },
  {
   "id": "F56EA4:18",
   "kind": "msg",
   "speaker": "大介",
   "jp": "京介は僕自身だ",
-  "en": "",
-  "status": ""
+  "en": "Kyosuke is me.",
+  "status": "tl"
  },
  {
   "id": "F56EA4:19",
   "kind": "msg",
   "speaker": "大介",
   "jp": "京介が僕の肉体であり、\n僕が京介の心だったんだ",
-  "en": "",
-  "status": ""
+  "en": "Kyosuke was my body, and I was Kyosuke's heart.",
+  "status": "tl"
  },
  {
   "id": "F56EA4:20",
   "kind": "msg",
   "speaker": "大介",
   "jp": "それをお前たちが引き離した！",
-  "en": "",
-  "status": ""
+  "en": "And you people tore us apart!",
+  "status": "tl"
  },
  {
   "id": "F56EA4:22",
   "kind": "msg",
   "speaker": "K",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F56EA4:24",
   "kind": "msg",
   "speaker": "大介",
   "jp": "瑠璃さんが言うように、京介は\n僕にとってとても大事な存在だったんだ",
-  "en": "",
-  "status": ""
+  "en": "Just as Ruri said, Kyosuke was someone very precious to me.",
+  "status": "tl"
  },
  {
   "id": "F56EA4:25",
   "kind": "msg",
   "speaker": "大介",
   "jp": "それは奪われるべきじゃなかった…\n奪われてはならないものだったんだ！",
-  "en": "",
-  "status": ""
+  "en": "He should never have been taken... He was something that must never be taken!",
+  "status": "tl"
  },
  {
   "id": "F56EA4:26",
   "kind": "msg",
   "speaker": "大介",
   "jp": "還してもらおう！！",
-  "en": "",
-  "status": ""
+  "en": "I'll have him back!!",
+  "status": "tl"
  },
  {
   "id": "F57334:1",
   "kind": "msg",
   "speaker": "K",
   "jp": "大介…悪いがお前には消滅してもらう",
-  "en": "",
-  "status": ""
+  "en": "Daisuke... Sorry, but you're going to vanish.",
+  "status": "tl"
  },
  {
   "id": "F57334:2",
   "kind": "msg",
   "speaker": "K",
   "jp": "そうすれば京介は完全な操り人形だ…",
-  "en": "",
-  "status": ""
+  "en": "Then Kyosuke will be my perfect puppet...",
+  "status": "tl"
  },
  {
   "id": "F57334:3",
   "kind": "msg",
   "speaker": "K",
   "jp": "消えろ！",
-  "en": "",
-  "status": ""
+  "en": "Disappear!",
+  "status": "tl"
  },
  {
   "id": "F573D4:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "！！！！",
-  "en": "",
-  "status": ""
+  "en": "!!!!",
+  "status": "tl"
  },
  {
   "id": "F57414:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "よせ、銀次ィ！！",
-  "en": "",
-  "status": ""
+  "en": "Stop it, Ginjiii!!",
+  "status": "tl"
  },
  {
   "id": "F57414:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ダメだよ、蛮ちゃん！\n止められない…止められないんだ！！",
-  "en": "",
-  "status": ""
+  "en": "It's no use, Ban! I can't stop it... I can't stop it!!",
+  "status": "tl"
  },
  {
   "id": "F57414:4",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "大介さんがオレの中に入り込んで…",
-  "en": "",
-  "status": ""
+  "en": "Daisuke's gotten inside me...",
+  "status": "tl"
  },
  {
   "id": "F57414:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "怒りが…抑えられない………！！",
-  "en": "",
-  "status": ""
+  "en": "I can't... hold back this anger...!!",
+  "status": "tl"
  },
  {
   "id": "F57510:1",
@@ -2204,56 +2204,56 @@
   "kind": "msg",
   "speaker": "K",
   "jp": "これがウワサに聞く無限城の雷帝か…",
-  "en": "",
-  "status": ""
+  "en": "So this is the Raitei of the Infinity Fortress I've heard so much about...",
+  "status": "tl"
  },
  {
   "id": "F57510:4",
   "kind": "msg",
   "speaker": "K",
   "jp": "巫面が揃ったことでこの場所に\n強力な磁場が生じ、雷帝を呼び寄せたか",
-  "en": "",
-  "status": ""
+  "en": "With the Kannagi masks gathered, a strong magnetic field formed here and drew out the Raitei?",
+  "status": "tl"
  },
  {
   "id": "F57510:6",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "…お前のようなやつは\nこの世界から消えろ………",
-  "en": "",
-  "status": ""
+  "en": "...Someone like you should vanish from this world...",
+  "status": "tl"
  },
  {
   "id": "F57510:8",
   "kind": "msg",
   "speaker": "K",
   "jp": "消せるものなら消してみろ",
-  "en": "",
-  "status": ""
+  "en": "Make me vanish, if you can.",
+  "status": "tl"
  },
  {
   "id": "F57510:10",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "うおおおぉぉぉおおおおぉぉっ！！",
-  "en": "",
-  "status": ""
+  "en": "Raaaaaaaaaaaaaaah!!",
+  "status": "tl"
  },
  {
   "id": "F576F0:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おい、大丈夫かよ?",
-  "en": "",
-  "status": ""
+  "en": "Hey, you okay?",
+  "status": "tl"
  },
  {
   "id": "F576F0:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "蛮ちゃん…\n大介さんの心が消えちゃったよ…",
-  "en": "",
-  "status": ""
+  "en": "Ban... Daisuke's heart is gone...",
+  "status": "tl"
  },
  {
   "id": "F576F0:5",
@@ -2268,64 +2268,64 @@
   "kind": "msg",
   "speaker": "銀次",
   "jp": "…Kは?",
-  "en": "",
-  "status": ""
+  "en": "...What about K?",
+  "status": "tl"
  },
  {
   "id": "F576F0:9",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "逃げられちまったようだな…",
-  "en": "",
-  "status": ""
+  "en": "Looks like he got away...",
+  "status": "tl"
  },
  {
   "id": "F576F0:11",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "そっか…",
-  "en": "",
-  "status": ""
+  "en": "I see...",
+  "status": "tl"
  },
  {
   "id": "F576F0:12",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ねえ、蛮ちゃん…\n巫面は絶対に奪還しようね",
-  "en": "",
-  "status": ""
+  "en": "Hey, Ban... Let's get the Kannagi masks back, no matter what.",
+  "status": "tl"
  },
  {
   "id": "F576F0:13",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "大介さんのためにも…",
-  "en": "",
-  "status": ""
+  "en": "For Daisuke's sake, too...",
+  "status": "tl"
  },
  {
   "id": "F576F0:15",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "当たり前ェだ！",
-  "en": "",
-  "status": ""
+  "en": "Damn straight!",
+  "status": "tl"
  },
  {
   "id": "F576F0:16",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "奪われたものは奪り還す…",
-  "en": "",
-  "status": ""
+  "en": "We get back what's been taken...",
+  "status": "tl"
  },
  {
   "id": "F576F0:17",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "俺たちは成功率100%の奪還屋、\nゲットバッカーズだぞ",
-  "en": "",
-  "status": ""
+  "en": "We're the retrieval agents with a 100% success rate, the GetBackers!",
+  "status": "tl"
  },
  {
   "id": "F576F0:19",
@@ -2340,352 +2340,352 @@
   "kind": "msg",
   "speaker": "銀次",
   "jp": "負けられないね、この戦いは！！",
-  "en": "",
-  "status": ""
+  "en": "We can't lose this fight!!",
+  "status": "tl"
  },
  {
   "id": "F57A18:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "わ~い\nやっぱり天然の温泉だ~っ！",
-  "en": "",
-  "status": ""
+  "en": "Yaaay! It really is a natural hot spring!",
+  "status": "tl"
  },
  {
   "id": "F57A18:2",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "入ろうよー、蛮ちゃん！",
-  "en": "",
-  "status": ""
+  "en": "Let's get in, Ban!",
+  "status": "tl"
  },
  {
   "id": "F57A18:4",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "なに気楽なコト言ってやがんだ、\nテメーは…",
-  "en": "",
-  "status": ""
+  "en": "What kinda carefree crap are you spouting...?",
+  "status": "tl"
  },
  {
   "id": "F57A18:6",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "エエやんか、疲労回復には温泉でっせ！",
-  "en": "",
-  "status": ""
+  "en": "Aw, c'mon, nothin' beats a hot spring for gettin' over bein' tired!",
+  "status": "tl"
  },
  {
   "id": "F57A18:8",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "でしょ、でしょ！",
-  "en": "",
-  "status": ""
+  "en": "Right, right!",
+  "status": "tl"
  },
  {
   "id": "F57A18:9",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ちょっとくらいいいじゃん、\n戦ってばっかじゃ疲れちゃうよ~",
-  "en": "",
-  "status": ""
+  "en": "Just a little bit's okay, right? All we ever do is fight, I'm wiped out...",
+  "status": "tl"
  },
  {
   "id": "F57A18:11",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ったく、しゃーねえな…\nちっとだけだぞ！",
-  "en": "",
-  "status": ""
+  "en": "Geez, fine... Just for a bit!",
+  "status": "tl"
  },
  {
   "id": "F57A18:13",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ワーイ！！",
-  "en": "",
-  "status": ""
+  "en": "Yaaay!!",
+  "status": "tl"
  },
  {
   "id": "F57A18:15",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "士度はんも早よう！",
-  "en": "",
-  "status": ""
+  "en": "Shido, you hurry up too!",
+  "status": "tl"
  },
  {
   "id": "F57A18:17",
   "kind": "msg",
   "speaker": "士度",
   "jp": "俺は別に…",
-  "en": "",
-  "status": ""
+  "en": "I'm fine...",
+  "status": "tl"
  },
  {
   "id": "F57A18:19",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "エエやん、エエやん！\nたまには休息も必要でっせ！！",
-  "en": "",
-  "status": ""
+  "en": "Aw, c'mon, c'mon! Ya gotta take a break once in a while!!",
+  "status": "tl"
  },
  {
   "id": "F57A18:21",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "俺たちはどうする?",
-  "en": "",
-  "status": ""
+  "en": "What do we do?",
+  "status": "tl"
  },
  {
   "id": "F57A18:23",
   "kind": "msg",
   "speaker": "花月",
   "jp": "そうだね…入っておこうか",
-  "en": "",
-  "status": ""
+  "en": "Let's see... I suppose we'll go in.",
+  "status": "tl"
  },
  {
   "id": "F57A18:25",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "いいのか、そんなことをしていて?",
-  "en": "",
-  "status": ""
+  "en": "Is this really the time for that?",
+  "status": "tl"
  },
  {
   "id": "F57A18:27",
   "kind": "msg",
   "speaker": "花月",
   "jp": "疲れはとれる時にとっておくと\nいうことも大事なことだからね…",
-  "en": "",
-  "status": ""
+  "en": "It's important to rest while you still have the chance, after all...",
+  "status": "tl"
  },
  {
   "id": "F57F94:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ねえねえ、\n卑弥呼ちゃんは入らないの~?",
-  "en": "",
-  "status": ""
+  "en": "Hey, hey, Himiko, aren't you getting in?",
+  "status": "tl"
  },
  {
   "id": "F57F94:3",
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "ちょっと、なに言ってんのよ！\n入るわけないじゃない！！",
-  "en": "",
-  "status": ""
+  "en": "Hey, what are you saying?! Of course I'm not!!",
+  "status": "tl"
  },
  {
   "id": "F57F94:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "貧乳だから\n入りたくても入れねえってか?",
-  "en": "",
-  "status": ""
+  "en": "What, 'cause you're flat-chested, you couldn't go in even if you wanted to?",
+  "status": "tl"
  },
  {
   "id": "F57F94:7",
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "…覚えてなさいよ、蛮",
-  "en": "",
-  "status": ""
+  "en": "...You'll pay for that, Ban.",
+  "status": "tl"
  },
  {
   "id": "F57F94:9",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "なんや~、\n卑弥呼ちゃんも入ったらエエのにぃ",
-  "en": "",
-  "status": ""
+  "en": "Aww, Himiko oughta just hop in too...",
+  "status": "tl"
  },
  {
   "id": "F57F94:10",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "女の子と温泉なんて最高や~ん",
-  "en": "",
-  "status": ""
+  "en": "A hot spring with a girl, ain't nothin' better...",
+  "status": "tl"
  },
  {
   "id": "F57F94:12",
   "kind": "msg",
   "speaker": "士度",
   "jp": "…そうか?",
-  "en": "",
-  "status": ""
+  "en": "...Is that so?",
+  "status": "tl"
  },
  {
   "id": "F57F94:14",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "士度はんもマドカちゃん\n誘って温泉いったらええやんか?",
-  "en": "",
-  "status": ""
+  "en": "Shido, why don'tcha invite Madoka out to a hot spring?",
+  "status": "tl"
  },
  {
   "id": "F57F94:16",
   "kind": "msg",
   "speaker": "士度",
   "jp": "興味ねーよ",
-  "en": "",
-  "status": ""
+  "en": "Not interested.",
+  "status": "tl"
  },
  {
   "id": "F57F94:18",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "はっ、まさかいっつも混浴なんか！?\nホンマやらしぃなあ、士度はんはぁ",
-  "en": "",
-  "status": ""
+  "en": "Wait, don't tell me ya two always bathe together?! Man, you're such a perv, Shido...",
+  "status": "tl"
  },
  {
   "id": "F57F94:20",
   "kind": "msg",
   "speaker": "士度",
   "jp": "してねーっつーの！！",
-  "en": "",
-  "status": ""
+  "en": "We do NOT!!",
+  "status": "tl"
  },
  {
   "id": "F57F94:22",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "いつも嬢ちゃんと混浴だァ?\nチッ、生意気な…",
-  "en": "",
-  "status": ""
+  "en": "You always bathe with the little lady? Tch, cheeky bastard...",
+  "status": "tl"
  },
  {
   "id": "F57F94:24",
   "kind": "msg",
   "speaker": "士度",
   "jp": "だから、\nしてねーって言ってんだろうが！！",
-  "en": "",
-  "status": ""
+  "en": "I'm telling you, we don't!!",
+  "status": "tl"
  },
  {
   "id": "F57F94:26",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "いいなあ、士度…",
-  "en": "",
-  "status": ""
+  "en": "Lucky, Shido...",
+  "status": "tl"
  },
  {
   "id": "F57F94:27",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ところでさ、\nあっちはあっちで混浴っぽいんだけど",
-  "en": "",
-  "status": ""
+  "en": "By the way, it kinda looks like it's mixed bathing over there, too.",
+  "status": "tl"
  },
  {
   "id": "F57F94:29",
   "kind": "msg",
   "speaker": "花月",
   "jp": "?　僕たちがですか?",
-  "en": "",
-  "status": ""
+  "en": "? You mean us?",
+  "status": "tl"
  },
  {
   "id": "F57F94:31",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "確かに…\nやけに女っぽく見えるヤツがいるからな",
-  "en": "",
-  "status": ""
+  "en": "True enough... There's one guy who looks awful girly.",
+  "status": "tl"
  },
  {
   "id": "F57F94:33",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "カヅっちゃんって、そういう教育を\n受けてるせいかすっごく女っぽいしね~",
-  "en": "",
-  "status": ""
+  "en": "Kazu's super girly, maybe 'cause of how he was raised and all.",
+  "status": "tl"
  },
  {
   "id": "F57F94:35",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "むしろ本物の女の子やったらエエのにぃ",
-  "en": "",
-  "status": ""
+  "en": "Honestly, I'd rather he was a real girl...",
+  "status": "tl"
  },
  {
   "id": "F57F94:37",
   "kind": "msg",
   "speaker": "花月",
   "jp": "そういわれても…",
-  "en": "",
-  "status": ""
+  "en": "Even if you say that...",
+  "status": "tl"
  },
  {
   "id": "F57F94:39",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "サムライ君たちはそれでいいのかよ?",
-  "en": "",
-  "status": ""
+  "en": "You samurai boys okay with that?",
+  "status": "tl"
  },
  {
   "id": "F57F94:40",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "チームのリーダーっつったら\n筋肉バリバリの方がいーんじゃねえの?",
-  "en": "",
-  "status": ""
+  "en": "When it comes to a team leader, wouldn't a guy with bulging muscles be better?",
+  "status": "tl"
  },
  {
   "id": "F57F94:42",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "人を見かけだけで判断するな",
-  "en": "",
-  "status": ""
+  "en": "Don't judge people by appearances alone.",
+  "status": "tl"
  },
  {
   "id": "F57F94:43",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "花月にはチームを率いる\nリーダーとしての才覚がある",
-  "en": "",
-  "status": ""
+  "en": "Kazuki has the talent to be a leader and lead a team.",
+  "status": "tl"
  },
  {
   "id": "F57F94:45",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "そういうことだ",
-  "en": "",
-  "status": ""
+  "en": "That's right.",
+  "status": "tl"
  },
  {
   "id": "F57F94:46",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "俺たちは花月の\nその才能に惹かれ、集ったのだ",
-  "en": "",
-  "status": ""
+  "en": "We were drawn by that talent of Kazuki's and gathered around him.",
+  "status": "tl"
  },
  {
   "id": "F57F94:48",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "そういうワリにはオメーら二人共\n絃巻きを裏切ってなかったかよ?",
-  "en": "",
-  "status": ""
+  "en": "Big talk, but didn't you two betray Spool Boy?",
+  "status": "tl"
  },
  {
   "id": "F57F94:51",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "！！",
-  "en": "",
-  "status": ""
+  "en": "!!",
+  "status": "tl"
  },
  {
   "id": "F57F94:53",
@@ -2708,63 +2708,63 @@
   "kind": "msg",
   "speaker": "花月",
   "jp": "い、いいんだよ、二人とも…\n僕は別に気にしてないから…",
-  "en": "",
-  "status": ""
+  "en": "I-It's fine, you two... It doesn't bother me...",
+  "status": "tl"
  },
  {
   "id": "F57F94:60",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "スマン…花月",
-  "en": "",
-  "status": ""
+  "en": "Sorry... Kazuki.",
+  "status": "tl"
  },
  {
   "id": "F57F94:62",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "カヅっちゃんが風雅を解散させたことに\nスネてただけなんだろうね~、きっと",
-  "en": "",
-  "status": ""
+  "en": "I bet they were just sulking 'cause Kazu broke up the Fuga.",
+  "status": "tl"
  },
  {
   "id": "F57F94:64",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ああ見えて子供っぽいっつーか、\nなんつーか…",
-  "en": "",
-  "status": ""
+  "en": "They look tough, but they're kinda childish, or, like...",
+  "status": "tl"
  },
  {
   "id": "F57F94:66",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "…あっ、そういえば\n赤屍さんは温泉入らないんですか?",
-  "en": "",
-  "status": ""
+  "en": "...Oh, that reminds me, Akabane, aren't you getting in the hot spring?",
+  "status": "tl"
  },
  {
   "id": "F57F94:68",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "ええ、遠慮させていただきます",
-  "en": "",
-  "status": ""
+  "en": "No, I'll respectfully decline.",
+  "status": "tl"
  },
  {
   "id": "F57F94:69",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "ですが、あなたがどうしてもと\nおっしゃるのであれば入りますが…",
-  "en": "",
-  "status": ""
+  "en": "However, if you absolutely insist, then I will get in...",
+  "status": "tl"
  },
  {
   "id": "F57F94:71",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "いえ、別に…\nムリして入ることないと思いますよ…",
-  "en": "",
-  "status": ""
+  "en": "No, that's okay... I don't think you need to force yourself...",
+  "status": "tl"
  }
 ]

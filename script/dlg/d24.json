@@ -4,511 +4,511 @@
   "kind": "prompt",
   "speaker": "",
   "jp": "はじけとぶのは青春の証",
-  "en": "",
-  "status": ""
+  "en": "Bustin' out is the proof of youth",
+  "status": "tl"
  },
  {
   "id": "F473D0:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "深夜はトーゼン！　オールナイト",
-  "en": "",
-  "status": ""
+  "en": "Late night? Of course! All night",
+  "status": "tl"
  },
  {
   "id": "F47420:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "胸がすく　俺たちの未来へ",
-  "en": "",
-  "status": ""
+  "en": "On to our bright, breezy future",
+  "status": "tl"
  },
  {
   "id": "F47468:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "こみあげる力を　受け止めてくれよな",
-  "en": "",
-  "status": ""
+  "en": "Catch the power welling up in me",
+  "status": "tl"
  },
  {
   "id": "F474BC:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "しなやかな仕草で　かきわけてくれよな",
-  "en": "",
-  "status": ""
+  "en": "Part the way with graceful moves",
+  "status": "tl"
  },
  {
   "id": "F47510:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "はたからみたら　俺たちはなんだろうな",
-  "en": "",
-  "status": ""
+  "en": "What do we look like to others?",
+  "status": "tl"
  },
  {
   "id": "F47564:1",
   "kind": "bline",
   "speaker": "揺さぶられるなよ",
   "jp": "ノック・イット・ダウン　",
-  "en": "",
-  "status": ""
+  "en": "Knock It Down",
+  "status": "tl"
  },
  {
   "id": "F475C0:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "カウント9で恋はクリンチ",
-  "en": "",
-  "status": ""
+  "en": "At a count of 9, love's in a clinch",
+  "status": "tl"
  },
  {
   "id": "F47608:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "もっと近くによせてあげて",
-  "en": "",
-  "status": ""
+  "en": "Push 'em up and closer together",
+  "status": "tl"
  },
  {
   "id": "F47650:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "ボール4つで恋は出塁",
-  "en": "",
-  "status": ""
+  "en": "Four balls and love takes first base",
+  "status": "tl"
  },
  {
   "id": "F47694:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "Aから始めようトゥナイト",
-  "en": "",
-  "status": ""
+  "en": "Let's start with A tonight",
+  "status": "tl"
  },
  {
   "id": "F476DC:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "そこまでやったらノン・ストッパー",
-  "en": "",
-  "status": ""
+  "en": "Go that far and there's no stopping",
+  "status": "tl"
  },
  {
   "id": "F4772C:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "気持ちあずけてドント・トラスト",
-  "en": "",
-  "status": ""
+  "en": "Leave your heart to me, don't trust",
+  "status": "tl"
  },
  {
   "id": "F4777C:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "いまの気分はドントコベッシャリ",
-  "en": "",
-  "status": ""
+  "en": "Right now I'm feeling splat-tastic",
+  "status": "tl"
  },
  {
   "id": "F477CC:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "圧巻ベイビー　誰にも止められないぜ！",
-  "en": "",
-  "status": ""
+  "en": "Smash-Hit Baby, no one can stop us!",
+  "status": "tl"
  },
  {
   "id": "F47820:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "まいどあり！！",
-  "en": "",
-  "status": ""
+  "en": "Thanks for your business!!",
+  "status": "tl"
  },
  {
   "id": "F4786C:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "シェイキン&シェイキン",
-  "en": "",
-  "status": ""
+  "en": "Shakin' & Shakin'",
+  "status": "tl"
  },
  {
   "id": "F478B4:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "シェイキン&シェイキン",
-  "en": "",
-  "status": ""
+  "en": "Shakin' & Shakin'",
+  "status": "tl"
  },
  {
   "id": "F478FC:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "シェイキン&シェイキン",
-  "en": "",
-  "status": ""
+  "en": "Shakin' & Shakin'",
+  "status": "tl"
  },
  {
   "id": "F47944:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "シェイキン&シェイキン",
-  "en": "",
-  "status": ""
+  "en": "Shakin' & Shakin'",
+  "status": "tl"
  },
  {
   "id": "F4798C:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "夢は見れたかよ?",
-  "en": "",
-  "status": ""
+  "en": "Did ya enjoy the dream?",
+  "status": "tl"
  },
  {
   "id": "F479D8:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ごきげんいかが　マイ・ベイビー",
-  "en": "",
-  "status": ""
+  "en": "How ya doin', my baby",
+  "status": "tl"
  },
  {
   "id": "F47A30:1",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "こそばゆいから　ヘルプミー",
-  "en": "",
-  "status": ""
+  "en": "It tickles, so help me",
+  "status": "tl"
  },
  {
   "id": "F47A30:2",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "やるせないのに　ロンリーウルフ",
-  "en": "",
-  "status": ""
+  "en": "Feelin' blue, yet a lone wolf",
+  "status": "tl"
  },
  {
   "id": "F47A30:3",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "これでいいのさ！　トゥルー・ラブ",
-  "en": "",
-  "status": ""
+  "en": "It's all good! True love",
+  "status": "tl"
  },
  {
   "id": "F47A30:4",
   "kind": "prompt",
   "speaker": "銀次",
   "jp": "え~っと…",
-  "en": "",
-  "status": ""
+  "en": "Ummm...",
+  "status": "tl"
  },
  {
   "id": "F47B00:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "走り出せ！　俺たちの明日へ",
-  "en": "",
-  "status": ""
+  "en": "Start runnin'! Toward our tomorrow",
+  "status": "tl"
  },
  {
   "id": "F47B54:1",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "転んでも　ただでは起きないぜ",
-  "en": "",
-  "status": ""
+  "en": "Fall down? I'll get up richer",
+  "status": "tl"
  },
  {
   "id": "F47B54:2",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "ノンストップな　恋の炎を",
-  "en": "",
-  "status": ""
+  "en": "A non-stop flame of love",
+  "status": "tl"
  },
  {
   "id": "F47B54:3",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "燃え上がる魂を感じて欲しいのさ",
-  "en": "",
-  "status": ""
+  "en": "I want ya to feel my blazing soul",
+  "status": "tl"
  },
  {
   "id": "F47B54:4",
   "kind": "prompt",
   "speaker": "銀次",
   "jp": "なんだったっけな~…",
-  "en": "",
-  "status": ""
+  "en": "How'd it go again~...",
+  "status": "tl"
  },
  {
   "id": "F47C24:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "気絶しちゃうなよ\nレット・イット・ライド",
-  "en": "",
-  "status": ""
+  "en": "Don't faint on me, let it ride",
+  "status": "tl"
  },
  {
   "id": "F47C88:1",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "雑草のように生き延びてやる",
-  "en": "",
-  "status": ""
+  "en": "I'll survive just like a weed",
+  "status": "tl"
  },
  {
   "id": "F47C88:2",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "ステーキ食べたら空腹はジ・エンド",
-  "en": "",
-  "status": ""
+  "en": "Eat a steak and hunger's The End",
+  "status": "tl"
  },
  {
   "id": "F47C88:3",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "ブレーキかけたら青春はジ・エンド",
-  "en": "",
-  "status": ""
+  "en": "Hit the brakes and youth's The End",
+  "status": "tl"
  },
  {
   "id": "F47C88:4",
   "kind": "prompt",
   "speaker": "銀次",
   "jp": "うーん、確か…",
-  "en": "",
-  "status": ""
+  "en": "Hmm, I think it was...",
+  "status": "tl"
  },
  {
   "id": "F47D5C:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ゴールは見えなくてもOK！",
-  "en": "",
-  "status": ""
+  "en": "Can't see the goal? That's OK!",
+  "status": "tl"
  },
  {
   "id": "F47DB0:1",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "ハッとしてグッときてパンチ×3",
-  "en": "",
-  "status": ""
+  "en": "Startled, smitten, then punch x3",
+  "status": "tl"
  },
  {
   "id": "F47DB0:2",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "恋する魔法はマジカルスネーク",
-  "en": "",
-  "status": ""
+  "en": "Love's magic spell: Magical Snake",
+  "status": "tl"
  },
  {
   "id": "F47DB0:3",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "ハグしてキスしてシェイキン×2",
-  "en": "",
-  "status": ""
+  "en": "Hug me, kiss me, shakin' x2",
+  "status": "tl"
  },
  {
   "id": "F47DB0:4",
   "kind": "prompt",
   "speaker": "銀次",
   "jp": "う、う~ん…",
-  "en": "",
-  "status": ""
+  "en": "U-Ummm...",
+  "status": "tl"
  },
  {
   "id": "F47E80:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "はじけているの?　スィート・ハート",
-  "en": "",
-  "status": ""
+  "en": "Are ya poppin'? Sweetheart",
+  "status": "tl"
  },
  {
   "id": "F47EDC:1",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "深夜はトーゼン！　オールナイト",
-  "en": "",
-  "status": ""
+  "en": "Late night, of course! All night",
+  "status": "tl"
  },
  {
   "id": "F47EDC:2",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "はじけとぶのは青春の証",
-  "en": "",
-  "status": ""
+  "en": "Bursting out is proof of youth",
+  "status": "tl"
  },
  {
   "id": "F47EDC:3",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "今夜はゼッタイ！　オールナイト",
-  "en": "",
-  "status": ""
+  "en": "Tonight for sure! All night",
+  "status": "tl"
  },
  {
   "id": "F47EDC:4",
   "kind": "prompt",
   "speaker": "銀次",
   "jp": "なんだったっけ…",
-  "en": "",
-  "status": ""
+  "en": "How'd it go...",
+  "status": "tl"
  },
  {
   "id": "F47FAC:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "胸がすく　俺たちの未来へ",
-  "en": "",
-  "status": ""
+  "en": "Feelin' fine, on to our future",
+  "status": "tl"
  },
  {
   "id": "F47FFC:1",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "こみあげる力を　受け止めてくれよな",
-  "en": "",
-  "status": ""
+  "en": "Catch this power welling up in me",
+  "status": "tl"
  },
  {
   "id": "F47FFC:2",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "しなやかな仕草で　かきわけてくれよな",
-  "en": "",
-  "status": ""
+  "en": "Part the way with a graceful move",
+  "status": "tl"
  },
  {
   "id": "F47FFC:3",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "はたからみたら　俺たちはなんだろうな",
-  "en": "",
-  "status": ""
+  "en": "To onlookers, what are we, anyway?",
+  "status": "tl"
  },
  {
   "id": "F47FFC:4",
   "kind": "prompt",
   "speaker": "銀次",
   "jp": "んあ~、分かんないよ~…",
-  "en": "",
-  "status": ""
+  "en": "Nnah~, I dunno~...",
+  "status": "tl"
  },
  {
   "id": "F480E8:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "揺さぶられるなよ\nノック・イット・ダウン",
-  "en": "",
-  "status": ""
+  "en": "Don't get shaken, knock it down",
+  "status": "tl"
  },
  {
   "id": "F4814C:1",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "ボール4つで恋は出塁",
-  "en": "",
-  "status": ""
+  "en": "Four balls: love takes first base",
+  "status": "tl"
  },
  {
   "id": "F4814C:2",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "もっと近くによせてあげて",
-  "en": "",
-  "status": ""
+  "en": "Bring 'em in closer for me",
+  "status": "tl"
  },
  {
   "id": "F4814C:3",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "カウント9で恋はクリンチ",
-  "en": "",
-  "status": ""
+  "en": "On the count of 9, love's a clinch",
+  "status": "tl"
  },
  {
   "id": "F4814C:4",
   "kind": "prompt",
   "speaker": "銀次",
   "jp": "そろそろツライな~…",
-  "en": "",
-  "status": ""
+  "en": "This is gettin' rough~...",
+  "status": "tl"
  },
  {
   "id": "F4820C:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "Aから始めようトゥナイト",
-  "en": "",
-  "status": ""
+  "en": "Let's start from A tonight",
+  "status": "tl"
  },
  {
   "id": "F4825C:1",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "気持ちあずけてドント・トラスト",
-  "en": "",
-  "status": ""
+  "en": "Leave me your heart, don't trust",
+  "status": "tl"
  },
  {
   "id": "F4825C:2",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "いまの気分はドントコベッシャリ",
-  "en": "",
-  "status": ""
+  "en": "My mood right now is squishy-splat",
+  "status": "tl"
  },
  {
   "id": "F4825C:3",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "そこまでやったらノン・ストッパー",
-  "en": "",
-  "status": ""
+  "en": "Go that far and it's non-stop",
+  "status": "tl"
  },
  {
   "id": "F4825C:4",
   "kind": "prompt",
   "speaker": "銀次",
   "jp": "後少し…！！",
-  "en": "",
-  "status": ""
+  "en": "Just a little more...!!",
+  "status": "tl"
  },
  {
   "id": "F48330:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "『裏新宿……みれん』",
-  "en": "",
-  "status": ""
+  "en": "\"Ura-Shinjuku... Lingering Love\"",
+  "status": "tl"
  },
  {
   "id": "F48380:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "たそがれの摩天楼",
-  "en": "",
-  "status": ""
+  "en": "Skyscrapers in the twilight",
+  "status": "tl"
  },
  {
   "id": "F483C0:0",
   "kind": "prompt",
   "speaker": "",
   "jp": "差し込む夕日が目に焼き付く",
-  "en": "",
-  "status": ""
+  "en": "The setting sun burns into my eyes",
+  "status": "tl"
  }
 ]
