@@ -876,7 +876,7 @@
   "kind": "msg",
   "speaker": "マドカ",
   "jp": "しどペンをゲット！",
-  "en": "Got the Shido Pendant!",
+  "en": "Got Shido's Pendant!",
   "status": "tl"
  },
  {
@@ -2196,7 +2196,7 @@
   "kind": "msg",
   "speaker": "蛮",
   "jp": "かづいとをゲット！",
-  "en": "Got the Kazuki String!",
+  "en": "Got Kazuki's Strings!",
   "status": "tl"
  },
  {
@@ -2364,7 +2364,7 @@
   "kind": "msg",
   "speaker": "笑師",
   "jp": "えみグラをゲット！",
-  "en": "Got the Emishi Shades!",
+  "en": "Got Emishi's Shades!",
   "status": "tl"
  },
  {

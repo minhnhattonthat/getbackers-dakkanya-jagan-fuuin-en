@@ -324,7 +324,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "あやメガをゲット！",
-  "en": "Got the Ayamine Specs!",
+  "en": "Got the Ayamine Glasses!",
   "status": "tl"
  },
  {
@@ -332,7 +332,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "ヘヴピアをゲット！",
-  "en": "Got Hevn's Earring!",
+  "en": "Got Hevn's Earrings!",
   "status": "tl"
  },
  {
@@ -340,7 +340,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "ロンピアをゲット！",
-  "en": "Got Ron's Earring!",
+  "en": "Got Ronka's Earrings!",
   "status": "tl"
  },
  {
@@ -348,7 +348,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "きらグロをゲット！",
-  "en": "Got the Kira Glove!",
+  "en": "Got Kirara's Gloves!",
   "status": "tl"
  },
  {
@@ -356,7 +356,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "しどリスをゲット！",
-  "en": "Got the Shido Wristband!",
+  "en": "Got Shido's Band!",
   "status": "tl"
  },
  {
@@ -364,7 +364,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "さくぬのをゲット！",
-  "en": "Got the Sakura Cloth!",
+  "en": "Got Sakura's Robe!",
   "status": "tl"
  }
 ]

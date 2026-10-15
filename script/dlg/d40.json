@@ -4,7 +4,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "じゅグロをゲット！",
-  "en": "Got the Juubei Glove!",
+  "en": "Got Juubei's Gloves!",
   "status": "tl"
  },
  {
@@ -20,7 +20,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "なつエプをゲット！",
-  "en": "Got the Natsumi Apron!",
+  "en": "Got Natsumi's Apron!",
   "status": "tl"
  },
  {
@@ -28,7 +28,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "クレかみをゲット！",
-  "en": "Got Clayman's Hairpin!",
+  "en": "Got the Clayman Hairclip!",
   "status": "tl"
  },
  {
@@ -36,7 +36,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "うりリスをゲット！",
-  "en": "Got the Uryu Wristband!",
+  "en": "Got Uryu's Band!",
   "status": "tl"
  },
  {
@@ -44,7 +44,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "あおグラをゲット！",
-  "en": "Got the Aoki Shades!",
+  "en": "Got Aoki's Shades!",
   "status": "tl"
  },
  {

@@ -172,7 +172,7 @@
   "kind": "msg",
   "speaker": "アル",
   "jp": "ひしグラをゲット！",
-  "en": "Got the Hishi Shades!",
+  "en": "Got Hishiki's Shades!",
   "status": "tl"
  },
  {
@@ -268,7 +268,7 @@
   "kind": "msg",
   "speaker": "アル",
   "jp": "あかぼうをゲット！",
-  "en": "Got the Akabane Hat!",
+  "en": "Got Akabane's Hat!",
   "status": "tl"
  },
  {
@@ -324,7 +324,7 @@
   "kind": "msg",
   "speaker": "ジェンド",
   "jp": "あかてぶをゲット！",
-  "en": "Got the Akabane Gloves!",
+  "en": "Got Akabane's Gloves!",
   "status": "tl"
  },
  {
@@ -1068,7 +1068,7 @@
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "ゆきメガをゲット！",
-  "en": "Got the Yukihiko Specs!",
+  "en": "Got the Yukihiko Glasses!",
   "status": "tl"
  },
  {
@@ -1420,7 +1420,7 @@
   "kind": "msg",
   "speaker": "京介",
   "jp": "じゅグルをゲット！",
-  "en": "Got the Juubei Goggles!",
+  "en": "Got Juubei's Goggles!",
   "status": "tl"
  },
  {
@@ -1508,7 +1508,7 @@
   "kind": "msg",
   "speaker": "瑠璃",
   "jp": "しどリスをゲット！",
-  "en": "Got the Shido Wristband!",
+  "en": "Got Shido's Band!",
   "status": "tl"
  },
  {
@@ -1564,7 +1564,7 @@
   "kind": "msg",
   "speaker": "窪田",
   "jp": "さくぬのをゲット！",
-  "en": "Got the Sakura Cloth!",
+  "en": "Got Sakura's Robe!",
   "status": "tl"
  },
  {

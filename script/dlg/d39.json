@@ -124,7 +124,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "ばんグラをゲット！",
-  "en": "Got the Ban Shades!",
+  "en": "Got Ban's Shades!",
   "status": "tl"
  },
  {
@@ -132,7 +132,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "ばんカフをゲット！",
-  "en": "Got Ban's Ear Cuff!",
+  "en": "Got Ban's Cuffs!",
   "status": "tl"
  },
  {
@@ -140,7 +140,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "ぎんダナをゲット！",
-  "en": "Got the Ginji Bandana!",
+  "en": "Got Ginji's Bandana!",
   "status": "tl"
  },
  {
@@ -148,7 +148,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "ぎんグロをゲット！",
-  "en": "Got the Ginji Glove!",
+  "en": "Got Ginji's Gloves!",
   "status": "tl"
  },
  {
@@ -156,7 +156,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "しどペンをゲット！",
-  "en": "Got the Shido Pen!",
+  "en": "Got Shido's Pendant!",
   "status": "tl"
  },
  {
@@ -164,7 +164,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "しどダナをゲット！",
-  "en": "Got the Shido Bandana!",
+  "en": "Got Shido's Bandana!",
   "status": "tl"
  },
  {
@@ -180,7 +180,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "かづいとをゲット！",
-  "en": "Got the Kazuki String!",
+  "en": "Got Kazuki's Strings!",
   "status": "tl"
  },
  {
@@ -188,7 +188,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "えみグラをゲット！",
-  "en": "Got the Emishi Shades!",
+  "en": "Got Emishi's Shades!",
   "status": "tl"
  },
  {
@@ -212,7 +212,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "ひみピアをゲット！",
-  "en": "Got Himiko's Earring!",
+  "en": "Got the Himiko Earrings!",
   "status": "tl"
  },
  {
@@ -244,7 +244,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "マクダナをゲット！",
-  "en": "Got MakubeX's Bandana!",
+  "en": "Got the MakubeX Bandana!",
   "status": "tl"
  },
  {
@@ -260,7 +260,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "まぐダナをゲット！",
-  "en": "Got the Magdana!",
+  "en": "Got Basha's Bandana!",
   "status": "tl"
  },
  {
@@ -268,7 +268,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "あかぼうをゲット！",
-  "en": "Got the Akabane Hat!",
+  "en": "Got Akabane's Hat!",
   "status": "tl"
  },
  {
@@ -276,7 +276,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "ひしグラをゲット！",
-  "en": "Got the Hishiki Shades!",
+  "en": "Got Hishiki's Shades!",
   "status": "tl"
  },
  {
@@ -284,7 +284,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "ひしピアをゲット！",
-  "en": "Got Hishiki's Earring!",
+  "en": "Got the Hishiki Earrings!",
   "status": "tl"
  },
  {
@@ -292,7 +292,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "かがピアをゲット！",
-  "en": "Got Kagami's Earring!",
+  "en": "Got the Kagami Earrings!",
   "status": "tl"
  },
  {
@@ -300,7 +300,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "ゆきメガをゲット！",
-  "en": "Got the Yukihiko Specs!",
+  "en": "Got the Yukihiko Glasses!",
   "status": "tl"
  },
  {
@@ -308,7 +308,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "てしピアをゲット！",
-  "en": "Got Teshi's Earring!",
+  "en": "Got the Teshimine Studs!",
   "status": "tl"
  },
  {
@@ -316,7 +316,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "じゅグルをゲット！",
-  "en": "Got the Juubei Goggles!",
+  "en": "Got Juubei's Goggles!",
   "status": "tl"
  }
 ]

@@ -16,8 +16,17 @@ OP_MSG1, OP_MSG2 = 0x8000000A, 0x8000000B
 
 
 def pages(kind, en):
+    """Wrap into pages of n lines. When the text needs more than one page, the wrap width is narrowed to the
+    smallest that still gives the same number of lines, so the lines even out instead of leaving a one-word
+    widow box."""
     w, n = LIMITS[kind]
     lines = enc.wrap(en, w)
+    if len(lines) > n:
+        for w2 in range(w * 2 // 3, w):
+            cand = enc.wrap(en, w2)
+            if len(cand) <= len(lines) and max(enc.line_halves(x) for x in cand) <= w2:
+                lines = cand
+                break
     return [lines[i:i + n] for i in range(0, len(lines), n)]
 
 

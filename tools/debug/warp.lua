@@ -30,7 +30,7 @@ L.on_exec(0x0804C3B4, 0x0804C3B4, function()
     return
   end
   starts = starts + 1
-  if SCENE_KIND == "chain" and TARGETS and CHAIN_END then
+  if TARGETS and CHAIN_END then   -- also with map: (+ NTH = first battle script start) for battle-script tours
     if starts == nth then
       emu.setState({ ["cpu.r0"] = TARGETS[1] })
       chain_k = 1

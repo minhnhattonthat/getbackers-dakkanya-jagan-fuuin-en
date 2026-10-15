@@ -39,7 +39,8 @@ def hashes(path):
 def text_ranges():
     m = json.load(open(BUILT + '.map.json', encoding='utf-8'))
     lo = min(m['scripts'].values()) - 0x08000000
-    return ['%X-%X' % (lo, 0xFE0000), 'FE4000-FFF000']
+    # the sys area (0xFE4000+) holds menu glyph-index lists (small u16 = kana codes) -> only false positives
+    return ['%X-%X' % (lo, 0xFE0000)]
 
 
 def main():

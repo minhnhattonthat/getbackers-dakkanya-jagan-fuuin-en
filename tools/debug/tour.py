@@ -51,7 +51,13 @@ def run_group(name, ss, rom):
            '--rom', rom, '--out', str(out), '--frames', str(4000 + 1600 * len(ss)), '--shot-every', '100000',
            '--mash', '40', '--var', 'CHAIN_END=1', '--var', 'MSHOT=1']
     if name.startswith('b'):
-        cmd[4] = 'chain:' + ','.join(ss)
+        # battle scripts only draw inside a battle: enter the Act 1 test battle and chain from its first battle
+        # script (6th script start). Jumping between scripts skips the box clear, so a shorter line can show
+        # leftovers of the previous one (harness artifact, not in the game).
+        m = json.loads(Path(rom + '.map.json').read_text(encoding='utf-8'))['scripts']
+        cmd[4] = 'battle_act1'
+        cmd[cmd.index('--frames') + 1] = str(9000 + 300 * len(ss))
+        cmd += ['--var', 'NTH=6', '--var', 'TARGETS={%s}' % ','.join('0x%08X' % m[s] for s in ss)]
     subprocess.run(cmd, cwd=ROOT, capture_output=True)
     shots = sorted(out.glob('m*.png'))
     for i in range(0, len(shots), 42):

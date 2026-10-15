@@ -4,7 +4,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "ふどがんをゲット！",
-  "en": "Got the Fudo Eyepatch!",
+  "en": "Got Fudo's Eyepatch!",
   "status": "tl"
  },
  {
@@ -12,7 +12,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "ふどアンをゲット！",
-  "en": "Got the Fudo Anklet!",
+  "en": "Got Fudo's Anklet!",
   "status": "tl"
  },
  {
@@ -20,7 +20,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "あかてぶをゲット！",
-  "en": "Got the Akabane Gloves!",
+  "en": "Got Akabane's Gloves!",
   "status": "tl"
  },
  {
@@ -28,7 +28,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "きょめんをゲット！",
-  "en": "Got the Kyosuke Mask!",
+  "en": "Got Kyosuke's Mask!",
   "status": "tl"
  },
  {
@@ -36,7 +36,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "だいせんをゲット！",
-  "en": "Got the Daisuke Fan!",
+  "en": "Got Daisuke's Fan!",
   "status": "tl"
  },
  {
@@ -44,7 +44,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "Kめんをゲット！",
-  "en": "Got the K Mask!",
+  "en": "Got K's Mask!",
   "status": "tl"
  },
  {
@@ -52,7 +52,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "あんかみをゲット！",
-  "en": "Got the Anzu Hairpin!",
+  "en": "Got Anzu's Hairclip!",
   "status": "tl"
  },
  {
@@ -60,7 +60,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "るりかみをゲット！",
-  "en": "Got the Ruri Hairpin!",
+  "en": "Got Ruri's Hairclip!",
   "status": "tl"
  },
  {
@@ -68,7 +68,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "おにパンをゲット！",
-  "en": "Got the Oniyasha Pants!",
+  "en": "Got the Oniyasha Undies!",
   "status": "tl"
  },
  {
@@ -76,7 +76,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "ひるサンをゲット！",
-  "en": "Got the Hiruta Sandals!",
+  "en": "Got Hiruta's Shades!",
   "status": "tl"
  },
  {
@@ -92,7 +92,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "くぼちょをゲット！",
-  "en": "Got the Kubota Vest!",
+  "en": "Got Kubota's Bow Tie!",
   "status": "tl"
  },
  {
@@ -100,7 +100,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "きらかたをゲット！",
-  "en": "Got the Kira Shoulder Guard!",
+  "en": "Got Kira's Monocle!",
   "status": "tl"
  },
  {
@@ -108,7 +108,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "MAブレをゲット！",
-  "en": "Got the MAI Bracelet!",
+  "en": "Got MAI's Bracelet!",
   "status": "tl"
  },
  {
@@ -116,7 +116,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "よこハンをゲット！",
-  "en": "Got the Yoko Handkerchief!",
+  "en": "Got the Snatcher Hammer!",
   "status": "tl"
  },
  {
@@ -124,7 +124,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "よこヘルをゲット！",
-  "en": "Got the Yoko Helmet!",
+  "en": "Got the Snatcher Helmet!",
   "status": "tl"
  },
  {
@@ -132,7 +132,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "げんぼうをゲット！",
-  "en": "Got the Gen Hat!",
+  "en": "Got Gen's Hat!",
   "status": "tl"
  },
  {
@@ -148,7 +148,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "みろゆびをゲット！",
-  "en": "Got the Miroku Ring!",
+  "en": "Got Miroku's Ring!",
   "status": "tl"
  },
  {
@@ -156,7 +156,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "ときグロをゲット！",
-  "en": "Got the Toki Glove!",
+  "en": "Got the Tokisada Gloves!",
   "status": "tl"
  },
  {
@@ -164,7 +164,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "つばグロをゲット！",
-  "en": "Got the Tsuba Glove!",
+  "en": "Got Tsubaki's Gloves!",
   "status": "tl"
  },
  {
@@ -172,7 +172,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "ひかグロをゲット！",
-  "en": "Got the Hika Glove!",
+  "en": "Got Hikage's Gloves!",
   "status": "tl"
  },
  {
@@ -180,7 +180,7 @@
   "kind": "msg",
   "speaker": "",
   "jp": "うきグロをゲット！",
-  "en": "Got the Uki Glove!",
+  "en": "Got Ukyo's Gloves!",
   "status": "tl"
  },
  {
