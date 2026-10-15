@@ -35,6 +35,9 @@ def cmd_for(name, a):
     cmd += ['--var', f"SCENE='{kind}'"]
     if kind == 'script':
         cmd += ['--var', 'TARGET=0x%08X' % target_addr(a.rom, arg)]
+    if kind == 'chain':      # chain:OFF1,OFF2,...  plays the scripts one after another from one cold boot
+        offs = arg.split(',')
+        cmd += ['--var', 'TARGETS={%s}' % ','.join('0x%08X' % target_addr(a.rom, o) for o in offs)]
     if kind == 'map':
         parts = arg.split(':')
         cmd += ['--var', 'MAP=%d' % int(parts[0])]
@@ -47,7 +50,7 @@ def cmd_for(name, a):
     after = a.after or s.get('after')
     if after:
         cmd += ['--var', f"AFTER='{after}'"]
-    mash = a.mash or s.get('mash', {'script': 45, 'map': 40}.get(kind, 0))
+    mash = a.mash or s.get('mash', {'script': 45, 'map': 40, 'chain': 30}.get(kind, 0))
     if mash:
         cmd += ['--mash', str(mash)]
     for x in a.script or []:

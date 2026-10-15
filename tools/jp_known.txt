@@ -1,0 +1,1 @@
+# hex offsets of Japanese runs kept on purpose (one per line, note after)

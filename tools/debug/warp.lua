@@ -30,6 +30,29 @@ L.on_exec(0x0804C3B4, 0x0804C3B4, function()
     return
   end
   starts = starts + 1
+  if SCENE_KIND == "chain" and TARGETS and CHAIN_END then
+    if starts == nth then
+      emu.setState({ ["cpu.r0"] = TARGETS[1] })
+      chain_k = 1
+      L.log(string.format("PLAY 1 %08X f=%d", TARGETS[1], L.frame))
+      arrive()
+    end
+    return
+  end
+  if SCENE_KIND == "chain" and TARGETS then
+    -- every script start from the NTH on plays the next target of the list (QA tours)
+    local k = starts - nth + 1
+    if k >= 1 and k <= #TARGETS then
+      emu.setState({ ["cpu.r0"] = TARGETS[k] })
+      L.log(string.format("PLAY %d %08X f=%d", k, TARGETS[k], L.frame))
+      arrive()
+      return
+    elseif k > #TARGETS then
+      L.log("CHAIN DONE f=" .. L.frame)
+      L.finish(0)
+      return
+    end
+  end
   if SCENE_KIND == "script" and TARGET and starts == nth then
     emu.setState({ ["cpu.r0"] = TARGET })
     r0 = TARGET
@@ -39,6 +62,44 @@ L.on_exec(0x0804C3B4, 0x0804C3B4, function()
   end
   L.log(string.format("SCRIPT %08X f=%d", r0, L.frame))
 end)
+
+-- CHAIN_END = 1: when the playing script reaches its end record, point the interpreter (current record pointer
+-- 0x0201B998, type 0x0201B99C, as start_script sets them) at the next target, so many scripts of one type play in
+-- one boot without waiting for the game to start another script.
+chain_k = nil
+if CHAIN_END then
+  local M = emu.memType.gbaMemory
+  L.on_frame(function()
+    if not chain_k then return end
+    local p = emu.read32(0x0201B998, M)
+    if p >= 0x08000000 and p < 0x0A000000 and emu.read32(p + 4, M) == 0xFFFFFFFF then
+      chain_k = chain_k + 1
+      if chain_k > #TARGETS then
+        L.log("CHAIN DONE f=" .. L.frame)
+        chain_k = nil
+        L.finish(0)
+        return
+      end
+      local t = TARGETS[chain_k]
+      emu.write32(0x0201B99C, emu.read32(t + 8, M), M)
+      emu.write32(0x0201B998, t + 12, M)
+      L.log(string.format("PLAY %d %08X f=%d", chain_k, t, L.frame))
+    end
+  end)
+end
+
+-- MSHOT = 1: screenshot on the frame before each mash press (the box is fully typed then), from arrival on.
+if MSHOT then
+  local prev = nil
+  L.on_frame(function(f)
+    if not (arrived and MASH and MASH > 0) then return end
+    if f % MASH == MASH - 9 then prev = emu.takeScreenshot() end
+    if f % MASH == MASH - 1 then
+      local cur = emu.takeScreenshot()
+      if cur == prev then L.write_file(OUT .. string.format("m%06d.png", f), cur) end   -- only settled screens
+    end
+  end)
+end
 
 -- map: override the first field load after NEW GAME: load_map(r0 = map table index 0x080B31DC, r1 = x tile,
 -- r2 = y tile, r3 = facing) at 0x080083C0. SCENE = "map", MAP = index, MX/MY = tiles (default: keep).

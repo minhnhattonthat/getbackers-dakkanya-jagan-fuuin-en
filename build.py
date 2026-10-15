@@ -250,6 +250,17 @@ def build(mode, overrides=None):
     path = os.path.join(ROOT, 'build', name)
     with open(path, 'wb') as f:
         f.write(rom)
+    if encoder:
+        # code table of THIS build for jp_left.py (--tbl --le16): digraph codes -> their letters, every other code
+        # keeps its Japanese glyph meaning (so leftover kana/kanji show up)
+        tbl = dict(t)
+        tbl[enc.SPACE_CODE] = ' '
+        for (a, b), code in encoder.pairs.items():
+            tbl[code] = (a + b).replace('=', '-')
+        with open(path + '.tbl', 'w', encoding='utf-8', newline='\n') as f:
+            for code in sorted(tbl):
+                if tbl[code] not in ('■', '█') and tbl[code].strip():
+                    f.write('%03X=%s\n' % (code, tbl[code]))
     with open(path + '.map.json', 'w', encoding='utf-8', newline='\n') as f:
         json.dump({'scripts': {'%06X' % s: 0x08000000 + script_at + r for s, r in rel.items()},
                    'bank': 0x08000000 + bank_at}, f, indent=0)

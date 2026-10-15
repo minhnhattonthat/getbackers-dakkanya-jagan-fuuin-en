@@ -20,4 +20,5 @@ Skill: translate-retro-game (H:\translation\batch\.claude\skills\translate-retro
 - Engine: English = digraph glyphs (2 letters per 12 px cell) allocated at build time into font codes 0x100-0x7FF; messages auto-paginate (extra 0B boxes); scripts repacked contiguously (order matters).
 
 ## Status
-- Done: Step 0, phase 1 recon (font, scripts, bank), identity build, extract, marker build, width gate for msg/name/prompt/choice, debug warp (script substitution). Next: battle access (width of bline/bank), system strings RE, glossary + pilot + translator dispatch. Open bugs: none.
+- Done: phases 1-7 (all dialogue 8188/8188, bank 2383, names, items/equipment, menus via glyph cache patch tools/menuasm.py, title + act cards graphics), review fixes. Phase 8: field-script tour `tools/debug/tour.py run` (69 groups, sheets in work/qa/tour/*/sheet_*.png). Battle: `warp.py battle_act1`.
+- Next: read every tour sheet, battle-script tour, release (`build.py release`). Known gaps: battle command/skill label graphics, opening demo captions, map shop signs, katakana logo reading stay Japanese.
