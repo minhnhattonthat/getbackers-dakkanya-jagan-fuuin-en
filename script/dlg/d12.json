@@ -4,64 +4,64 @@
   "kind": "msg",
   "speaker": "",
   "jp": "関係者以外の入室を固く禁ずる",
-  "en": "",
-  "status": ""
+  "en": "Authorized personnel only. Entry strictly prohibited.",
+  "status": "tl"
  },
  {
   "id": "F156C4:1",
   "kind": "msg",
   "speaker": "",
   "jp": "許可書を持つ者のみ入室可\n他厳禁",
-  "en": "",
-  "status": ""
+  "en": "Entry permitted only to permit holders. All others strictly prohibited.",
+  "status": "tl"
  },
  {
   "id": "F156C4:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "裏取引用の倉庫だもんね~…",
-  "en": "",
-  "status": ""
+  "en": "It's a warehouse for shady deals, after all...",
+  "status": "tl"
  },
  {
   "id": "F1577C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "関係者以外の入室を固く禁ずる",
-  "en": "",
-  "status": ""
+  "en": "Authorized personnel only. Entry strictly prohibited.",
+  "status": "tl"
  },
  {
   "id": "F1577C:1",
   "kind": "msg",
   "speaker": "",
   "jp": "許可書を持つ者のみ入室可\n他厳禁",
-  "en": "",
-  "status": ""
+  "en": "Entry permitted only to permit holders. All others strictly prohibited.",
+  "status": "tl"
  },
  {
   "id": "F1577C:3",
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "関係者以外に入られると困るってワケね",
-  "en": "",
-  "status": ""
+  "en": "So they don't want outsiders getting in, huh.",
+  "status": "tl"
  },
  {
   "id": "F15840:0",
   "kind": "msg",
   "speaker": "",
   "jp": "関係者以外の入室を固く禁ずる",
-  "en": "",
-  "status": ""
+  "en": "Authorized personnel only. Entry strictly prohibited.",
+  "status": "tl"
  },
  {
   "id": "F15840:1",
   "kind": "msg",
   "speaker": "",
   "jp": "許可書を持つ者のみ入室可\n他厳禁",
-  "en": "",
-  "status": ""
+  "en": "Entry permitted only to permit holders. All others strictly prohibited.",
+  "status": "tl"
  },
  {
   "id": "F15840:3",
@@ -76,160 +76,160 @@
   "kind": "msg",
   "speaker": "",
   "jp": "関係者以外の入室を固く禁ずる",
-  "en": "",
-  "status": ""
+  "en": "Authorized personnel only. Entry strictly prohibited.",
+  "status": "tl"
  },
  {
   "id": "F158E4:1",
   "kind": "msg",
   "speaker": "",
   "jp": "許可書を持つ者のみ入室可\n他厳禁",
-  "en": "",
-  "status": ""
+  "en": "Entry permitted only to permit holders. All others strictly prohibited.",
+  "status": "tl"
  },
  {
   "id": "F158E4:3",
   "kind": "msg",
   "speaker": "花月",
   "jp": "危険だから…\nというわけでもなさそうですね",
-  "en": "",
-  "status": ""
+  "en": "It doesn't seem to be because it's dangerous, though...",
+  "status": "tl"
  },
  {
   "id": "F159AC:0",
   "kind": "msg",
   "speaker": "",
   "jp": "関係者以外の入室を固く禁ずる",
-  "en": "",
-  "status": ""
+  "en": "Authorized personnel only. Entry strictly prohibited.",
+  "status": "tl"
  },
  {
   "id": "F159AC:1",
   "kind": "msg",
   "speaker": "",
   "jp": "許可書を持つ者のみ入室可\n他厳禁",
-  "en": "",
-  "status": ""
+  "en": "Entry permitted only to permit holders. All others strictly prohibited.",
+  "status": "tl"
  },
  {
   "id": "F159AC:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "どうせ中で\nロクでもねえことしてるからだろ?",
-  "en": "",
-  "status": ""
+  "en": "They're probably up to no good in there anyway.",
+  "status": "tl"
  },
  {
   "id": "F15A78:0",
   "kind": "msg",
   "speaker": "",
   "jp": "関係者以外の入室を固く禁ずる",
-  "en": "",
-  "status": ""
+  "en": "Authorized personnel only. Entry strictly prohibited.",
+  "status": "tl"
  },
  {
   "id": "F15A78:1",
   "kind": "msg",
   "speaker": "",
   "jp": "許可書を持つ者のみ入室可\n他厳禁",
-  "en": "",
-  "status": ""
+  "en": "Entry permitted only to permit holders. All others strictly prohibited.",
+  "status": "tl"
  },
  {
   "id": "F15A78:3",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "禁じられると逆に入りたくなるんが\n人の常…ってことで入ったろ",
-  "en": "",
-  "status": ""
+  "en": "Forbid somethin' and folks just wanna do it more... that's human nature. So in we go!",
+  "status": "tl"
  },
  {
   "id": "F15B54:0",
   "kind": "msg",
   "speaker": "",
   "jp": "関係者以外の入室を固く禁ずる",
-  "en": "",
-  "status": ""
+  "en": "Authorized personnel only. Entry strictly prohibited.",
+  "status": "tl"
  },
  {
   "id": "F15B54:1",
   "kind": "msg",
   "speaker": "",
   "jp": "許可書を持つ者のみ入室可\n他厳禁",
-  "en": "",
-  "status": ""
+  "en": "Entry permitted only to permit holders. All others strictly prohibited.",
+  "status": "tl"
  },
  {
   "id": "F15B54:3",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "心にやましいことがある輩は\nみな隠れたがるものだな",
-  "en": "",
-  "status": ""
+  "en": "Those with guilt in their hearts always wish to hide.",
+  "status": "tl"
  },
  {
   "id": "F15C2C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "関係者以外の入室を固く禁ずる",
-  "en": "",
-  "status": ""
+  "en": "Authorized personnel only. Entry strictly prohibited.",
+  "status": "tl"
  },
  {
   "id": "F15C2C:1",
   "kind": "msg",
   "speaker": "",
   "jp": "許可書を持つ者のみ入室可\n他厳禁",
-  "en": "",
-  "status": ""
+  "en": "Entry permitted only to permit holders. All others strictly prohibited.",
+  "status": "tl"
  },
  {
   "id": "F15C2C:3",
   "kind": "msg",
   "speaker": "雨流",
-  "jp": "一瞼人に入られると困るというわけだな",
-  "en": "",
-  "status": ""
+  "jp": "一般人に入られると困るというわけだな",
+  "en": "So they don't want ordinary people coming in.",
+  "status": "tl"
  },
  {
   "id": "F15CEC:0",
   "kind": "msg",
   "speaker": "",
   "jp": "倉庫はみんなのものです\nルールを守り、正しく使いましょう",
-  "en": "",
-  "status": ""
+  "en": "The warehouse belongs to everyone. Follow the rules and use it properly.",
+  "status": "tl"
  },
  {
   "id": "F15CEC:2",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "うわあ~、説得力ないね~…コレ",
-  "en": "",
-  "status": ""
+  "en": "Whoa, that's not very convincing...",
+  "status": "tl"
  },
  {
   "id": "F15D98:0",
   "kind": "msg",
   "speaker": "",
   "jp": "倉庫はみんなのものです\nルールを守り、正しく使いましょう",
-  "en": "",
-  "status": ""
+  "en": "The warehouse belongs to everyone. Follow the rules and use it properly.",
+  "status": "tl"
  },
  {
   "id": "F15D98:2",
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "法律は守ってないくせによく言うわね…",
-  "en": "",
-  "status": ""
+  "en": "Big talk, when they don't follow the law at all...",
+  "status": "tl"
  },
  {
   "id": "F15E4C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "倉庫はみんなのものです\nルールを守り、正しく使いましょう",
-  "en": "",
-  "status": ""
+  "en": "The warehouse belongs to everyone. Follow the rules and use it properly.",
+  "status": "tl"
  },
  {
   "id": "F15E4C:2",
@@ -244,408 +244,408 @@
   "kind": "msg",
   "speaker": "",
   "jp": "倉庫はみんなのものです\nルールを守り、正しく使いましょう",
-  "en": "",
-  "status": ""
+  "en": "The warehouse belongs to everyone. Follow the rules and use it properly.",
+  "status": "tl"
  },
  {
   "id": "F15EE0:2",
   "kind": "msg",
   "speaker": "花月",
   "jp": "正しく…ですか\n当てはまらない言葉ですね",
-  "en": "",
-  "status": ""
+  "en": "\"Properly\"... is it? Hardly a word that applies here.",
+  "status": "tl"
  },
  {
   "id": "F15F98:0",
   "kind": "msg",
   "speaker": "",
   "jp": "倉庫はみんなのものです\nルールを守り、正しく使いましょう",
-  "en": "",
-  "status": ""
+  "en": "The warehouse belongs to everyone. Follow the rules and use it properly.",
+  "status": "tl"
  },
  {
   "id": "F15F98:2",
   "kind": "msg",
   "speaker": "士度",
   "jp": "ルールを守り?\nハッ、笑わせんなよな",
-  "en": "",
-  "status": ""
+  "en": "\"Follow the rules\"? Hah, don't make me laugh.",
+  "status": "tl"
  },
  {
   "id": "F1604C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "倉庫はみんなのものです\nルールを守り、正しく使いましょう",
-  "en": "",
-  "status": ""
+  "en": "The warehouse belongs to everyone. Follow the rules and use it properly.",
+  "status": "tl"
  },
  {
   "id": "F1604C:2",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "フムフム…\nって全然正しく使ってへんやんけ！",
-  "en": "",
-  "status": ""
+  "en": "Hmm, hmm... Hey, you ain't usin' it properly at all!",
+  "status": "tl"
  },
  {
   "id": "F16108:0",
   "kind": "msg",
   "speaker": "",
   "jp": "倉庫はみんなのものです\nルールを守り、正しく使いましょう",
-  "en": "",
-  "status": ""
+  "en": "The warehouse belongs to everyone. Follow the rules and use it properly.",
+  "status": "tl"
  },
  {
   "id": "F16108:2",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "自分たちのルールは守れというわけか…",
-  "en": "",
-  "status": ""
+  "en": "So we're to follow their rules, is that it...",
+  "status": "tl"
  },
  {
   "id": "F161BC:0",
   "kind": "msg",
   "speaker": "",
   "jp": "倉庫はみんなのものです\nルールを守り、正しく使いましょう",
-  "en": "",
-  "status": ""
+  "en": "The warehouse belongs to everyone. Follow the rules and use it properly.",
+  "status": "tl"
  },
  {
   "id": "F161BC:2",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "これほど説得力のない言葉もないな",
-  "en": "",
-  "status": ""
+  "en": "I've never seen words less convincing than these.",
+  "status": "tl"
  },
  {
   "id": "F16268:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ねえ、蛮ちゃん\nお金ないから引き受けちゃったけど、",
-  "en": "",
-  "status": ""
+  "en": "Hey, Ban... We took this job 'cause we're broke, but...",
+  "status": "tl"
  },
  {
   "id": "F16268:2",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "今度の依頼人さんって信頼できるの?",
-  "en": "",
-  "status": ""
+  "en": "can we really trust our new client?",
+  "status": "tl"
  },
  {
   "id": "F16268:4",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "神門大介か…\nま、ちっとばかし怪しい気もすンけどな",
-  "en": "",
-  "status": ""
+  "en": "Daisuke Mikado, huh... Well, he does seem a little fishy...",
+  "status": "tl"
  },
  {
   "id": "F16268:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "にしたって今回の報酬は小判だぜ?\n受けるっきゃねーだろ！　ブハハハハ！！",
-  "en": "",
-  "status": ""
+  "en": "But this time the pay's in gold coins, y'know? We gotta take it! Bwahahahaha!!",
+  "status": "tl"
  },
  {
   "id": "F16268:7",
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "…ずいぶんと気楽なモンね",
-  "en": "",
-  "status": ""
+  "en": "...You're awfully carefree about it.",
+  "status": "tl"
  },
  {
   "id": "F16268:9",
   "kind": "msg",
   "speaker": "花月",
   "jp": "神門…\nそれは能楽の神門家のことですか?",
-  "en": "",
-  "status": ""
+  "en": "Mikado... Do you mean the Mikado family of Noh theater?",
+  "status": "tl"
  },
  {
   "id": "F16268:11",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "知ってるの、カヅっちゃん?",
-  "en": "",
-  "status": ""
+  "en": "You know them, Kazuki?",
+  "status": "tl"
  },
  {
   "id": "F16268:13",
   "kind": "msg",
   "speaker": "花月",
-  "jp": "ええ…能楽の一派ですが、\n一瞼には知られていないはずです",
-  "en": "",
-  "status": ""
+  "jp": "ええ…能楽の一派ですが、\n一般には知られていないはずです",
+  "en": "Yes... They're a school of Noh, but they shouldn't be known to the general public.",
+  "status": "tl"
  },
  {
   "id": "F16268:14",
   "kind": "msg",
   "speaker": "花月",
-  "jp": "披らの能は時の権力者にだけ\n奉じられるものなんです",
-  "en": "",
-  "status": ""
+  "jp": "彼らの能は時の権力者にだけ\n奉じられるものなんです",
+  "en": "Their Noh is performed only for those in power.",
+  "status": "tl"
  },
  {
   "id": "F16268:15",
   "kind": "msg",
   "speaker": "花月",
   "jp": "なんでもその舞で\n日本の歴史を動かしてきたとか…",
-  "en": "",
-  "status": ""
+  "en": "It's said their dances have shaped the history of Japan...",
+  "status": "tl"
  },
  {
   "id": "F16268:17",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "えっ、舞でどうやって歴史を動かすの?",
-  "en": "",
-  "status": ""
+  "en": "Huh? How can you change history by dancing?",
+  "status": "tl"
  },
  {
   "id": "F16268:19",
   "kind": "msg",
   "speaker": "花月",
   "jp": "神門家は特別な能を舞う際、\n巫面(かんなぎめん)という",
-  "en": "",
-  "status": ""
+  "en": "When the Mikado family perform a special Noh, they wear what are called Kannagi masks...",
+  "status": "tl"
  },
  {
   "id": "F16268:20",
   "kind": "msg",
   "speaker": "花月",
   "jp": "特殊な面をつけて舞うそうです",
-  "en": "",
-  "status": ""
+  "en": "special masks worn for the dance.",
+  "status": "tl"
  },
  {
   "id": "F16268:21",
   "kind": "msg",
   "speaker": "花月",
   "jp": "巫面には翁、神、男、女、狂、鬼の\n六種類があります",
-  "en": "",
-  "status": ""
+  "en": "There are six kinds of Kannagi masks: Okina, Kami, Otoko, Onna, Kurui and Oni.",
+  "status": "tl"
  },
  {
   "id": "F16268:22",
   "kind": "msg",
   "speaker": "花月",
   "jp": "その六つの面は\nそれぞれ不思議な力を宿していたとか…",
-  "en": "",
-  "status": ""
+  "en": "It's said each of those six masks held a mysterious power...",
+  "status": "tl"
  },
  {
   "id": "F16268:23",
   "kind": "msg",
   "speaker": "花月",
   "jp": "詳しいことは僕にも分かりませんが、\nそれをつけることで時の流れを",
-  "en": "",
-  "status": ""
+  "en": "I don't know the details myself, but by wearing them, I think the flow of time...",
+  "status": "tl"
  },
  {
   "id": "F16268:24",
   "kind": "msg",
   "speaker": "花月",
   "jp": "見通すことができたのではないかと\n思いますね",
-  "en": "",
-  "status": ""
+  "en": "could perhaps be foreseen.",
+  "status": "tl"
  },
  {
   "id": "F16268:26",
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "まるで祈禱呪術ね…魔女みたいだわ",
-  "en": "",
-  "status": ""
+  "en": "Sounds just like ritual sorcery... Like a witch.",
+  "status": "tl"
  },
  {
   "id": "F16268:28",
   "kind": "msg",
   "speaker": "花月",
   "jp": "呪術の部類に入ると思いますよ",
-  "en": "",
-  "status": ""
+  "en": "I'd say it does count as sorcery.",
+  "status": "tl"
  },
  {
   "id": "F16268:29",
   "kind": "msg",
   "speaker": "花月",
   "jp": "それに僕らがこの前遭遇したのが\n巫面の一つ『翁』の面ではないかと…",
-  "en": "",
-  "status": ""
+  "en": "And the mask we ran into the other day may have been one of them: the Okina mask...",
+  "status": "tl"
  },
  {
   "id": "F16268:32",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "なにいいいいいっ！?",
-  "en": "",
-  "status": ""
+  "en": "Whaaaaaat?!",
+  "status": "tl"
  },
  {
   "id": "F16268:34",
   "kind": "msg",
   "speaker": "花月",
   "jp": "ど、どうかしましたか?",
-  "en": "",
-  "status": ""
+  "en": "Wh-What's the matter?",
+  "status": "tl"
  },
  {
   "id": "F16268:36",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "真っ二つにしちまったじゃねえかよ！",
-  "en": "",
-  "status": ""
+  "en": "We went and split it right in two!",
+  "status": "tl"
  },
  {
   "id": "F16268:37",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "その巫面とやら六つ全部無傷で\n奪還するってのが条件だっつーのに！！",
-  "en": "",
-  "status": ""
+  "en": "The deal was we had to get all six of those Kannagi masks back without a scratch!!",
+  "status": "tl"
  },
  {
   "id": "F16268:39",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "んあ~、依頼料引かれるの決定だね…",
-  "en": "",
-  "status": ""
+  "en": "Nnngh, they're definitely docking our fee...",
+  "status": "tl"
  },
  {
   "id": "F16268:41",
   "kind": "msg",
   "speaker": "花月",
   "jp": "でもそれ以外のものを\n無傷で奪還すればいいんですよね?",
-  "en": "",
-  "status": ""
+  "en": "But we just have to retrieve the rest without a scratch, right?",
+  "status": "tl"
  },
  {
   "id": "F16268:43",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ん~、それも無傷で\n奪り還せるか怪しいけどね…",
-  "en": "",
-  "status": ""
+  "en": "Mmm, but I'm not sure we can get those back without a scratch either...",
+  "status": "tl"
  },
  {
   "id": "F16268:45",
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "なによ、いつになく弱気じゃない?\nどうしたってワケ?",
-  "en": "",
-  "status": ""
+  "en": "What's with you? You're unusually timid. What's the deal?",
+  "status": "tl"
  },
  {
   "id": "F16268:47",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "残りの面を運ぶヤツらが厄介なんだよ！",
-  "en": "",
-  "status": ""
+  "en": "The guys haulin' the rest of the masks are bad news!",
+  "status": "tl"
  },
  {
   "id": "F16268:49",
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "それってまさか…",
-  "en": "",
-  "status": ""
+  "en": "You don't mean...",
+  "status": "tl"
  },
  {
   "id": "F16CF8:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "いやがったぜ！\n運び屋、ミスターノーブレーキがよ！！",
-  "en": "",
-  "status": ""
+  "en": "There he is! The Transporter, Mr. No Brakes!!",
+  "status": "tl"
  },
  {
   "id": "F16CF8:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "でもってあのトラックに\n一緒に乗っているのは多分…",
-  "en": "",
-  "status": ""
+  "en": "And the one riding in that truck with him is probably...",
+  "status": "tl"
  },
  {
   "id": "F16CF8:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ジャッカルのヤローだ！\nよっしゃ、アクセル全開で突っ込むぞ！",
-  "en": "",
-  "status": ""
+  "en": "That bastard Jackal! All right, pedal to the metal, we're rammin' 'em!",
+  "status": "tl"
  },
  {
   "id": "F16E20:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "操作説明だ\nよく聞いとけよ?",
-  "en": "",
-  "status": ""
+  "en": "How to drive. Listen up, got it?",
+  "status": "tl"
  },
  {
   "id": "F16E20:2",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "まず十字ボタンの上下で車体の移動だ",
-  "en": "",
-  "status": ""
+  "en": "First, Up and Down on the Control Pad move the car.",
+  "status": "tl"
  },
  {
   "id": "F16E20:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "車や岩に当たると減速しちまうからな…\n気を付けろよ",
-  "en": "",
-  "status": ""
+  "en": "Hit a car or a rock and you'll slow down... so be careful.",
+  "status": "tl"
  },
  {
   "id": "F16E20:4",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "それと道路上の弁当箱を取ると\nてんとう虫が加速するぜ",
-  "en": "",
-  "status": ""
+  "en": "And grab the lunch boxes on the road to make the Ladybug speed up.",
+  "status": "tl"
  },
  {
   "id": "F16E20:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "スピード上げねえと馬車のトラックに\n追いつけねえから、なるべく取れよな",
-  "en": "",
-  "status": ""
+  "en": "We can't catch Basha's truck unless we speed up, so grab as many as you can.",
+  "status": "tl"
  },
  {
   "id": "F16E20:6",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "弁当の他には\nニトロ缶が落ちてることがあるぜ",
-  "en": "",
-  "status": ""
+  "en": "Besides lunch boxes, sometimes there's nitro cans lyin' around.",
+  "status": "tl"
  },
  {
   "id": "F16E20:7",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "これを取るとAボタンで\nニトロブーストが使えるってワケだ",
-  "en": "",
-  "status": ""
+  "en": "Grab one of those and you can use a Nitro Boost with the A Button.",
+  "status": "tl"
  },
  {
   "id": "F16E20:8",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ブースト発動中は無敵になるから、\nこの間に差を詰めねえとな",
-  "en": "",
-  "status": ""
+  "en": "You're invincible while boostin', so that's when we close the gap.",
+  "status": "tl"
  },
  {
   "id": "F16E20:9",
@@ -668,160 +668,160 @@
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ば、蛮ちゃん！\n羨木に素手で掴まれてまーす！！！",
-  "en": "",
-  "status": ""
+  "en": "B-Ban! Urayamagi's grabbin' us with his bare hands!!!",
+  "status": "tl"
  },
  {
   "id": "F1706C:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "バケモンが…\nニトロブーストで振り切ってやる！！",
-  "en": "",
-  "status": ""
+  "en": "That freak... I'll shake him off with a Nitro Boost!!",
+  "status": "tl"
  },
  {
   "id": "F17170:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ムハハハハ！\n見たか、俺様のドライブテクニック！！",
-  "en": "",
-  "status": ""
+  "en": "Muhahahaha! Didja see that? The great Ban's driving technique!!",
+  "status": "tl"
  },
  {
   "id": "F17170:2",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "こうなりゃ、ミスターノーブレーキと\nいえど逃げられまい！！",
-  "en": "",
-  "status": ""
+  "en": "Now even Mr. No Brakes can't get away!!",
+  "status": "tl"
  },
  {
   "id": "F17170:4",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "どうするの、蛮ちゃん?",
-  "en": "",
-  "status": ""
+  "en": "What do we do now, Ban?",
+  "status": "tl"
  },
  {
   "id": "F17170:6",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "そうだな、\nとりあえず上から飛び移って…",
-  "en": "",
-  "status": ""
+  "en": "Let's see... For starters, we jump across from up top and...",
+  "status": "tl"
  },
  {
   "id": "F172AC:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "スピンターンだと！?",
-  "en": "",
-  "status": ""
+  "en": "A spin turn?!",
+  "status": "tl"
  },
  {
   "id": "F172AC:2",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "…馬車のオヤジめ、\nこの美堂蛮様をなめんなああああ~！！",
-  "en": "",
-  "status": ""
+  "en": "...That old man Basha... Don't you underestimate the great Ban Mido!!",
+  "status": "tl"
  },
  {
   "id": "F172AC:4",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "蛮ちゃん、羨木竜童がっ！！",
-  "en": "",
-  "status": ""
+  "en": "Ban, Ryudo Urayamagi's...!!",
+  "status": "tl"
  },
  {
   "id": "F172AC:6",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ついでにバケモンにも消えてもらうぜ！\nしっかり掴まってろよ、テメーら！！",
-  "en": "",
-  "status": ""
+  "en": "And while I'm at it, that freak's gonna disappear too! Hang on tight, you guys!!",
+  "status": "tl"
  },
  {
   "id": "F173E8:1",
   "kind": "choice",
   "speaker": "蛮",
   "jp": "分かりません…",
-  "en": "",
-  "status": ""
+  "en": "I don't get it...",
+  "status": "tl"
  },
  {
   "id": "F173E8:2",
   "kind": "choice",
   "speaker": "蛮",
   "jp": "分かったよ！",
-  "en": "",
-  "status": ""
+  "en": "Got it!",
+  "status": "tl"
  },
  {
   "id": "F173E8:3",
   "kind": "prompt",
   "speaker": "蛮",
   "jp": "分かったかよ?",
-  "en": "",
-  "status": ""
+  "en": "Ya got that?",
+  "status": "tl"
  },
  {
   "id": "F17478:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "どっから入ってきやがったんだ、お前?",
-  "en": "",
-  "status": ""
+  "en": "Where the hell did you come in from?",
+  "status": "tl"
  },
  {
   "id": "F17478:3",
   "kind": "msg",
   "speaker": "杏",
   "jp": "さっきコッソリ入ってきたッスよ！\n杏の取材に抜かりはないッス~",
-  "en": "",
-  "status": ""
+  "en": "I snuck in a minute ago, see! Anzu never slips up on a story, see!",
+  "status": "tl"
  },
  {
   "id": "F17478:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "でもよく入れたよね、こんなとこに",
-  "en": "",
-  "status": ""
+  "en": "But it's amazing you got into a place like this.",
+  "status": "tl"
  },
  {
   "id": "F17478:7",
   "kind": "msg",
   "speaker": "杏",
   "jp": "パパ直伝のコッソリ侵入法ッス！",
-  "en": "",
-  "status": ""
+  "en": "It's my dad's secret sneaking-in technique, see!",
+  "status": "tl"
  },
  {
   "id": "F17478:8",
   "kind": "msg",
   "speaker": "杏",
   "jp": "これさえあれば、\nいつでもどこでもコッソリ侵入可ッス",
-  "en": "",
-  "status": ""
+  "en": "With this, I can sneak in anywhere, anytime, see!",
+  "status": "tl"
  },
  {
   "id": "F17478:10",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ビミョーに法に触れてねェか、ソレ?",
-  "en": "",
-  "status": ""
+  "en": "Ain't that kinda breakin' the law?",
+  "status": "tl"
  },
  {
   "id": "F17478:12",
   "kind": "msg",
   "speaker": "杏",
   "jp": "カタいこと言いっこなしッスよ！",
-  "en": "",
-  "status": ""
+  "en": "Don't be such a stiff, see!",
+  "status": "tl"
  },
  {
   "id": "F17478:13",
@@ -836,8 +836,8 @@
   "kind": "msg",
   "speaker": "蛮",
   "jp": "写真ねえ…",
-  "en": "",
-  "status": ""
+  "en": "Photos, huh...",
+  "status": "tl"
  },
  {
   "id": "F17774:1",
@@ -876,440 +876,440 @@
   "kind": "msg",
   "speaker": "夏実",
   "jp": "あっ、いらっしゃ~い！\n今日はお一人ですか?",
-  "en": "",
-  "status": ""
+  "en": "Oh, welcome! Are you by yourself today?",
+  "status": "tl"
  },
  {
   "id": "F17858:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "いや、ここで待ち合わせてんだ",
-  "en": "",
-  "status": ""
+  "en": "No, I'm meeting someone here.",
+  "status": "tl"
  },
  {
   "id": "F17968:1",
   "kind": "msg",
   "speaker": "杏",
   "jp": "ああっ、あれは…MAIちゃん?",
-  "en": "",
-  "status": ""
+  "en": "Whoa, is that... MAI?",
+  "status": "tl"
  },
  {
   "id": "F17968:2",
   "kind": "msg",
   "speaker": "杏",
   "jp": "めちゃ有名な\nアーティストさんじゃないッスか！",
-  "en": "",
-  "status": ""
+  "en": "Isn't she a super-famous artist?!",
+  "status": "tl"
  },
  {
   "id": "F17968:3",
   "kind": "msg",
   "speaker": "杏",
   "jp": "そんな人がどうしてこんなトコに！?",
-  "en": "",
-  "status": ""
+  "en": "What's someone like her doing in a place like this?!",
+  "status": "tl"
  },
  {
   "id": "F17968:5",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "あのね、マドカさんと\nMAIちゃんは同級生なんだよ",
-  "en": "",
-  "status": ""
+  "en": "Well, Madoka and MAI were classmates.",
+  "status": "tl"
  },
  {
   "id": "F17968:6",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "士度さんは前にマドカさんからの依頼で\nMAIちゃんの歌の奪還をしたんだよね",
-  "en": "",
-  "status": ""
+  "en": "Shido got MAI's song back once, on a job for Madoka.",
+  "status": "tl"
  },
  {
   "id": "F17968:8",
   "kind": "msg",
   "speaker": "レナ",
   "jp": "それって事務所を\n移籍した時のことですか?",
-  "en": "",
-  "status": ""
+  "en": "You mean back when she switched agencies?",
+  "status": "tl"
  },
  {
   "id": "F17968:10",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "そうそう、それそれ",
-  "en": "",
-  "status": ""
+  "en": "Yeah, yeah, that's the one.",
+  "status": "tl"
  },
  {
   "id": "F17968:12",
   "kind": "msg",
   "speaker": "杏",
   "jp": "へ~、士度さんって同じ奪還屋なのに\n蛮さんたちと違ってスゴイんスね~",
-  "en": "",
-  "status": ""
+  "en": "Wow, Shido's a retrieval agent too, but unlike Ban and Ginji, he's amazing, see!",
+  "status": "tl"
  },
  {
   "id": "F17968:14",
   "kind": "msg",
   "speaker": "レナ",
   "jp": "そういえばあのお二人は?",
-  "en": "",
-  "status": ""
+  "en": "Speaking of which, where are those two?",
+  "status": "tl"
  },
  {
   "id": "F17968:16",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "二人ともまだお店の前に倒れてたよ…",
-  "en": "",
-  "status": ""
+  "en": "They're both still lying out in front of the shop...",
+  "status": "tl"
  },
  {
   "id": "F17968:17",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "ゴミと同化してたから\n気付かなかったでしょ?",
-  "en": "",
-  "status": ""
+  "en": "They'd blended in with the garbage, so you didn't notice, right?",
+  "status": "tl"
  },
  {
   "id": "F17968:20",
   "kind": "msg",
   "speaker": "杏",
   "jp": "あー………",
-  "en": "",
-  "status": ""
+  "en": "Ahh.........",
+  "status": "tl"
  },
  {
   "id": "F17DE4:1",
   "kind": "msg",
   "speaker": "士度",
   "jp": "元気そうだな?",
-  "en": "",
-  "status": ""
+  "en": "Looks like you're doing well.",
+  "status": "tl"
  },
  {
   "id": "F17DE4:3",
   "kind": "msg",
   "speaker": "MAI",
   "jp": "ええ、おかげ様で…\nあの時のことは本当に感謝してるわ",
-  "en": "",
-  "status": ""
+  "en": "Yes, thanks to you... I'm truly grateful for what you did back then.",
+  "status": "tl"
  },
  {
   "id": "F17DE4:5",
   "kind": "msg",
   "speaker": "士度",
   "jp": "礼ならマドカに言ってくれ\n俺はマドカが望んだことをしたまでだ",
-  "en": "",
-  "status": ""
+  "en": "If you wanna thank someone, thank Madoka. I just did what Madoka wanted.",
+  "status": "tl"
  },
  {
   "id": "F17DE4:7",
   "kind": "msg",
   "speaker": "MAI",
   "jp": "あなたのような人が\nマドカの傍にいてくれて嬉しいわ…",
-  "en": "",
-  "status": ""
+  "en": "I'm glad someone like you is by Madoka's side...",
+  "status": "tl"
  },
  {
   "id": "F17DE4:8",
   "kind": "msg",
   "speaker": "MAI",
   "jp": "マドカも幸せそうだし…ね?",
-  "en": "",
-  "status": ""
+  "en": "Madoka seems happy too... right?",
+  "status": "tl"
  },
  {
   "id": "F17DE4:10",
   "kind": "msg",
   "speaker": "マドカ",
   "jp": "そ、そう?",
-  "en": "",
-  "status": ""
+  "en": "D-Do I?",
+  "status": "tl"
  },
  {
   "id": "F17DE4:11",
   "kind": "msg",
   "speaker": "マドカ",
-  "jp": "でもMAIも幸せそうな声をしてるわ\n婿約したんだもんね、事務所の先輩と",
-  "en": "",
-  "status": ""
+  "jp": "でもMAIも幸せそうな声をしてるわ\n婚約したんだもんね、事務所の先輩と",
+  "en": "But your voice sounds happy too, MAI. You got engaged to that senior from your agency, after all.",
+  "status": "tl"
  },
  {
   "id": "F17DE4:13",
   "kind": "msg",
   "speaker": "杏",
-  "jp": "こ、婿約?\n結婿しちゃうんスか、MAIちゃん?",
-  "en": "",
-  "status": ""
+  "jp": "こ、婚約?\n結婚しちゃうんスか、MAIちゃん?",
+  "en": "E-Engaged? You're getting married, MAI?",
+  "status": "tl"
  },
  {
   "id": "F17DE4:15",
   "kind": "msg",
   "speaker": "MAI",
   "jp": "うん、でもこれナイショね",
-  "en": "",
-  "status": ""
+  "en": "Yeah, but keep it a secret, okay?",
+  "status": "tl"
  },
  {
   "id": "F17DE4:17",
   "kind": "msg",
   "speaker": "士度",
-  "jp": "それで今日はマドカに\n結婿の報告をしにきたってワケか",
-  "en": "",
-  "status": ""
+  "jp": "それで今日はマドカに\n結婚の報告をしにきたってワケか",
+  "en": "So you came here today to tell Madoka you're getting married.",
+  "status": "tl"
  },
  {
   "id": "F17DE4:19",
   "kind": "msg",
   "speaker": "MAI",
   "jp": "それもあるけど…\n士度さんにお願いがあってきたの",
-  "en": "",
-  "status": ""
+  "en": "That's part of it... but I also came to ask you a favor, Shido.",
+  "status": "tl"
  },
  {
   "id": "F17DE4:21",
   "kind": "msg",
   "speaker": "士度",
   "jp": "俺に?",
-  "en": "",
-  "status": ""
+  "en": "Me?",
+  "status": "tl"
  },
  {
   "id": "F17DE4:23",
   "kind": "msg",
   "speaker": "MAI",
   "jp": "ええ…\n実はもう一人呼んでる人がいるの",
-  "en": "",
-  "status": ""
+  "en": "Yes... Actually, I've invited one more person.",
+  "status": "tl"
  },
  {
   "id": "F18308:1",
   "kind": "msg",
   "speaker": "士度",
   "jp": "…テメーは蛭田じゃねえかよ！\nなにしに来やがった！！",
-  "en": "",
-  "status": ""
+  "en": "...If it ain't Hiruta! What the hell are you doing here?!",
+  "status": "tl"
  },
  {
   "id": "F18308:3",
   "kind": "msg",
   "speaker": "マドカ",
   "jp": "士度さん、暴力はダメよ！！",
-  "en": "",
-  "status": ""
+  "en": "Shido, no violence!!",
+  "status": "tl"
  },
  {
   "id": "F18308:5",
   "kind": "msg",
   "speaker": "杏",
   "jp": "(あの蛭田って人はなんスか?)",
-  "en": "",
-  "status": ""
+  "en": "(Who's that Hiruta guy, see?)",
+  "status": "tl"
  },
  {
   "id": "F18308:7",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "(あの人はねー、\n前に士度さんたちの敵だった人だよ)",
-  "en": "",
-  "status": ""
+  "en": "(Well, he used to be an enemy of Shido and the others.)",
+  "status": "tl"
  },
  {
   "id": "F18308:9",
   "kind": "msg",
   "speaker": "レナ",
   "jp": "(悪者って顔してますもんねー…)",
-  "en": "",
-  "status": ""
+  "en": "(He does have a bad-guy face...)",
+  "status": "tl"
  },
  {
   "id": "F18308:11",
   "kind": "msg",
   "speaker": "MAI",
   "jp": "士度さん、秀夫さんは\nそんなに悪い人じゃないのよ",
-  "en": "",
-  "status": ""
+  "en": "Shido, Hideo really isn't such a bad person.",
+  "status": "tl"
  },
  {
   "id": "F18308:12",
   "kind": "msg",
   "speaker": "MAI",
   "jp": "ただ思い込んだら一直線に\n走ってしまうというか…それだけなの",
-  "en": "",
-  "status": ""
+  "en": "It's just that once he gets an idea in his head, he charges straight ahead... That's all.",
+  "status": "tl"
  },
  {
   "id": "F18308:14",
   "kind": "msg",
   "speaker": "レナ",
-  "jp": "MAIちゃんが婿約したのって\nこの人なんですか?",
-  "en": "",
-  "status": ""
+  "jp": "MAIちゃんが婚約したのって\nこの人なんですか?",
+  "en": "Is this the man you got engaged to, MAI?",
+  "status": "tl"
  },
  {
   "id": "F18308:16",
   "kind": "msg",
   "speaker": "MAI",
   "jp": "フフ、違うわよ\n秀夫さんは私にとって弟みたいなものよ",
-  "en": "",
-  "status": ""
+  "en": "Hee hee, no. Hideo's like a little brother to me.",
+  "status": "tl"
  },
  {
   "id": "F18308:18",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "弟！?　その人、\nMAIちゃんより年上じゃないの?",
-  "en": "",
-  "status": ""
+  "en": "A little brother?! Isn't he older than you, MAI?",
+  "status": "tl"
  },
  {
   "id": "F18308:20",
   "kind": "msg",
   "speaker": "MAI",
   "jp": "秀夫さんはこう見えてまだ16歳なのよ",
-  "en": "",
-  "status": ""
+  "en": "He may not look it, but Hideo's only sixteen.",
+  "status": "tl"
  },
  {
   "id": "F18308:23",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "(あ、あれで16歳！?\nうわっ、かわいそ~…)",
-  "en": "",
-  "status": ""
+  "en": "(H-He's sixteen looking like that?! Yikes, poor guy...)",
+  "status": "tl"
  },
  {
   "id": "F18308:25",
   "kind": "msg",
   "speaker": "士度",
   "jp": "…で、その蛭田が\n俺になんの用だってんだ?",
-  "en": "",
-  "status": ""
+  "en": "...So, what does Hiruta want with me?",
+  "status": "tl"
  },
  {
   "id": "F18308:27",
   "kind": "msg",
   "speaker": "蛭田",
   "jp": "ほ、ほ、ほ、本日はおし、お仕事の…",
-  "en": "",
-  "status": ""
+  "en": "T-T-T-Today I, uh, c-came about a j-job...",
+  "status": "tl"
  },
  {
   "id": "F18308:29",
   "kind": "msg",
   "speaker": "杏",
   "jp": "カミカミになってるッスよ！?",
-  "en": "",
-  "status": ""
+  "en": "You're tripping over your words, see!?",
+  "status": "tl"
  },
  {
   "id": "F18308:31",
   "kind": "msg",
   "speaker": "MAI",
   "jp": "秀夫さん、落ち着いて\nいつもの通りでいいのよ",
-  "en": "",
-  "status": ""
+  "en": "Hideo, calm down. Just be your usual self.",
+  "status": "tl"
  },
  {
   "id": "F18308:33",
   "kind": "msg",
   "speaker": "蛭田",
   "jp": "今日は仕事の依頼に来たんだ、ボク",
-  "en": "",
-  "status": ""
+  "en": "I came here today with a job for you.",
+  "status": "tl"
  },
  {
   "id": "F18308:35",
   "kind": "msg",
   "speaker": "士度",
   "jp": "仕事?　奪還のか?",
-  "en": "",
-  "status": ""
+  "en": "A job? A retrieval?",
+  "status": "tl"
  },
  {
   "id": "F18308:37",
   "kind": "msg",
   "speaker": "蛭田",
   "jp": "そうだよ！\n奪り還して欲しいのはボクのパパ！",
-  "en": "",
-  "status": ""
+  "en": "That's right! I want you to get back my daddy!",
+  "status": "tl"
  },
  {
   "id": "F18308:38",
   "kind": "msg",
   "speaker": "蛭田",
   "jp": "パパが…\nパパがさらわれちゃったんだよォ！！",
-  "en": "",
-  "status": ""
+  "en": "My daddy... My daddy's been kidnappeeed!!",
+  "status": "tl"
  },
  {
   "id": "F18B24:1",
   "kind": "msg",
   "speaker": "蛭田",
   "jp": "ここが蛭田ジャパン…パパの会社さ",
-  "en": "",
-  "status": ""
+  "en": "This is Hiruta Japan... My daddy's company.",
+  "status": "tl"
  },
  {
   "id": "F18B24:2",
   "kind": "msg",
   "speaker": "蛭田",
   "jp": "チッ、本社の方はセキュリティが\n作動してシャッターが降りちまってる…",
-  "en": "",
-  "status": ""
+  "en": "Tch, the security system went off at headquarters and the shutters came down...",
+  "status": "tl"
  },
  {
   "id": "F18B24:4",
   "kind": "msg",
   "speaker": "士度",
-  "jp": "で、お前の父親をさらったヤツらは\n地下の研究施鵠を占拠してるんだな?",
-  "en": "",
-  "status": ""
+  "jp": "で、お前の父親をさらったヤツらは\n地下の研究施設を占拠してるんだな?",
+  "en": "So the guys who kidnapped your father have taken over the underground research facility?",
+  "status": "tl"
  },
  {
   "id": "F18B24:5",
   "kind": "msg",
   "speaker": "士度",
-  "jp": "そのことは警寮に通報しなかったのか?",
-  "en": "",
-  "status": ""
+  "jp": "そのことは警察に通報しなかったのか?",
+  "en": "Didn't you report it to the police?",
+  "status": "tl"
  },
  {
   "id": "F18B24:7",
   "kind": "msg",
   "speaker": "蛭田",
   "jp": "…サツに知らせたらパパの命は\n保証しないって言ってんだよ！！",
-  "en": "",
-  "status": ""
+  "en": "...They said if I tell the cops, they won't guarantee my daddy's life!!",
+  "status": "tl"
  },
  {
   "id": "F18B24:9",
   "kind": "msg",
   "speaker": "士度",
   "jp": "そいつらの目的は?",
-  "en": "",
-  "status": ""
+  "en": "What are they after?",
+  "status": "tl"
  },
  {
   "id": "F18B24:11",
   "kind": "msg",
   "speaker": "蛭田",
   "jp": "さあね！\nまあ、身代金目当てだと思うけどね！！",
-  "en": "",
-  "status": ""
+  "en": "Who knows! Well, I bet they're after a ransom!!",
+  "status": "tl"
  },
  {
   "id": "F18B24:12",
   "kind": "msg",
   "speaker": "蛭田",
   "jp": "なにせボクん家は大金持ちだからな",
-  "en": "",
-  "status": ""
+  "en": "My family's filthy rich, after all.",
+  "status": "tl"
  },
  {
   "id": "F18B24:14",
@@ -1324,616 +1324,616 @@
   "kind": "msg",
   "speaker": "蛭田",
   "jp": "じゃ、ボクは犯人から連絡が入るかも\n知れないから自宅で待機するよ",
-  "en": "",
-  "status": ""
+  "en": "Well, the kidnappers might contact me, so I'll be waiting at home.",
+  "status": "tl"
  },
  {
   "id": "F18B24:17",
   "kind": "msg",
   "speaker": "蛭田",
   "jp": "ところで一人でここに突入するのか?",
-  "en": "",
-  "status": ""
+  "en": "By the way, are you going in there alone?",
+  "status": "tl"
  },
  {
   "id": "F18B24:19",
   "kind": "msg",
   "speaker": "士度",
   "jp": "いや、まあもう一人呼んでいるが…",
-  "en": "",
-  "status": ""
+  "en": "No, well, I've called one more guy...",
+  "status": "tl"
  },
  {
   "id": "F18B24:21",
   "kind": "msg",
   "speaker": "???",
   "jp": "正義の味方、空から現れり！！",
-  "en": "",
-  "status": ""
+  "en": "A champion of justice descends from the sky!!",
+  "status": "tl"
  },
  {
   "id": "F18F2C:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "笑師春樹、士度はんのために\n無限城から駆け足にて参上！！",
-  "en": "",
-  "status": ""
+  "en": "Emishi Haruki, here on the double from the Infinity Fortress, for Shido's sake!!",
+  "status": "tl"
  },
  {
   "id": "F18F2C:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "…笑師、依頼人を突き飛ばしてるぞ",
-  "en": "",
-  "status": ""
+  "en": "...Emishi, you knocked over the client.",
+  "status": "tl"
  },
  {
   "id": "F18F2C:5",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ああっ、あんさんが\nクライアントやったんか！",
-  "en": "",
-  "status": ""
+  "en": "Whoa, you're the client?!",
+  "status": "tl"
  },
  {
   "id": "F18F2C:6",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "えらいすんまへ~ん",
-  "en": "",
-  "status": ""
+  "en": "Sorry 'bout that, pal!",
+  "status": "tl"
  },
  {
   "id": "F18F2C:8",
   "kind": "msg",
   "speaker": "蛭田",
   "jp": "な、な、なんだ！\nこのふざけたヤツは！！",
-  "en": "",
-  "status": ""
+  "en": "Wh-Wh-What the heck! Who is this clown?!",
+  "status": "tl"
  },
  {
   "id": "F18F2C:10",
   "kind": "msg",
   "speaker": "士度",
   "jp": "まあ多少ふざけてはいるが\n腕は確かだ…気にするな",
-  "en": "",
-  "status": ""
+  "en": "He's a bit of a clown, sure, but he knows his stuff... Don't worry about it.",
+  "status": "tl"
  },
  {
   "id": "F18F2C:12",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "おっ、さっすが士度はんやな！",
-  "en": "",
-  "status": ""
+  "en": "Oh, that's my Shido!",
+  "status": "tl"
  },
  {
   "id": "F18F2C:13",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "相方を気遣うその気持ちは\nお笑いコンビには必要不可欠やで！！",
-  "en": "",
-  "status": ""
+  "en": "Lookin' out for your partner like that... it's a must for a comedy duo!!",
+  "status": "tl"
  },
  {
   "id": "F18F2C:15",
   "kind": "msg",
   "speaker": "士度",
   "jp": "お笑いコンビじゃねえ！！",
-  "en": "",
-  "status": ""
+  "en": "We're not a comedy duo!!",
+  "status": "tl"
  },
  {
   "id": "F18F2C:17",
   "kind": "msg",
   "speaker": "蛭田",
   "jp": "なんか不安になってきたが…\nまあいい、頼んだぞ！",
-  "en": "",
-  "status": ""
+  "en": "Now I'm kinda getting nervous... Whatever. I'm counting on you!",
+  "status": "tl"
  },
  {
   "id": "F18F2C:19",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ま、この最強お笑いコンビに任しとき！",
-  "en": "",
-  "status": ""
+  "en": "Just leave it to the greatest comedy duo ever!",
+  "status": "tl"
  },
  {
   "id": "F18F2C:21",
   "kind": "msg",
   "speaker": "蛭田",
   "jp": "あ、それからうちの\n量子コンピュータには傷をつけるなよ！",
-  "en": "",
-  "status": ""
+  "en": "Oh, and don't you put a scratch on our quantum computer!",
+  "status": "tl"
  },
  {
   "id": "F18F2C:22",
   "kind": "msg",
   "speaker": "蛭田",
   "jp": "壊した場合は修理費を請求するからな！",
-  "en": "",
-  "status": ""
+  "en": "If you break it, I'll bill you for the repairs!",
+  "status": "tl"
  },
  {
   "id": "F1943C:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ワイの籠で離れた場所へ\n渡ることができまっせ！",
-  "en": "",
-  "status": ""
+  "en": "With my whip, we can get across to places far away!",
+  "status": "tl"
  },
  {
   "id": "F1943C:2",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ん~、ここでしたら下のフロアから\n上のフロアへ復帰することも可能やな",
-  "en": "",
-  "status": ""
+  "en": "Hmm, from here ya can get back from the lower floor to the upper floor too.",
+  "status": "tl"
  },
  {
   "id": "F1943C:3",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "下に落っこちたらあのデカい\nコンピュータの下ンとこで籠でっせ！",
-  "en": "",
-  "status": ""
+  "en": "If ya fall down, use the whip under that big computer!",
+  "status": "tl"
  },
  {
   "id": "F1943C:4",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "覚えといてや！！",
-  "en": "",
-  "status": ""
+  "en": "Don't forget it, ya hear!!",
+  "status": "tl"
  },
  {
   "id": "F19568:1",
   "kind": "msg",
   "speaker": "バン",
   "jp": "やれやれ…ようやく出られたな",
-  "en": "",
-  "status": ""
+  "en": "Sheesh... Finally out of there.",
+  "status": "tl"
  },
  {
   "id": "F19568:2",
   "kind": "msg",
   "speaker": "バン",
   "jp": "で、なんだっけか?\n研究所のなにが知りてぇんだって?",
-  "en": "",
-  "status": ""
+  "en": "So, what was it? What'd ya wanna know about the lab?",
+  "status": "tl"
  },
  {
   "id": "F19568:4",
   "kind": "msg",
   "speaker": "士度",
   "jp": "まずカギのかかっている部屋を\nどうやって開けるのか知りてぇな",
-  "en": "",
-  "status": ""
+  "en": "First, I wanna know how to open the locked room.",
+  "status": "tl"
  },
  {
   "id": "F19568:6",
   "kind": "msg",
   "speaker": "バン",
   "jp": "開かない部屋だア?",
-  "en": "",
-  "status": ""
+  "en": "A room that won't open?",
+  "status": "tl"
  },
  {
   "id": "F19568:8",
   "kind": "msg",
   "speaker": "士度",
   "jp": "右上の部屋のことだ",
-  "en": "",
-  "status": ""
+  "en": "I mean the room in the upper right.",
+  "status": "tl"
  },
  {
   "id": "F19568:10",
   "kind": "msg",
   "speaker": "バン",
   "jp": "ああ…Bルームかよ",
-  "en": "",
-  "status": ""
+  "en": "Oh... Room B, huh.",
+  "status": "tl"
  },
  {
   "id": "F19568:12",
   "kind": "msg",
   "speaker": "士度",
   "jp": "Bルーム?",
-  "en": "",
-  "status": ""
+  "en": "Room B?",
+  "status": "tl"
  },
  {
   "id": "F19568:14",
   "kind": "msg",
   "speaker": "バン",
   "jp": "ここは左上がA、右上がB、\n左下がC、右下がDルームなんだよ",
-  "en": "",
-  "status": ""
+  "en": "Here, upper left's Room A, upper right's B, lower left's C, and lower right's Room D.",
+  "status": "tl"
  },
  {
   "id": "F19568:16",
   "kind": "msg",
   "speaker": "士度",
   "jp": "左上がAルーム、右上がBルーム、\n左下がCルーム、右下がDルームか…",
-  "en": "",
-  "status": ""
+  "en": "Upper left's Room A, upper right's Room B, lower left's Room C, lower right's Room D...",
+  "status": "tl"
  },
  {
   "id": "F19568:18",
   "kind": "msg",
   "speaker": "バン",
   "jp": "で、Bルームっつーと、\nIDパスが必要なトコだな…",
-  "en": "",
-  "status": ""
+  "en": "And Room B, that's the place you need an ID pass for...",
+  "status": "tl"
  },
  {
   "id": "F19568:19",
   "kind": "msg",
   "speaker": "バン",
   "jp": "ああ、でもIDは\nBルームん中にあるはずだぜ",
-  "en": "",
-  "status": ""
+  "en": "Oh, but the ID should be inside Room B.",
+  "status": "tl"
  },
  {
   "id": "F19568:21",
   "kind": "msg",
   "speaker": "士度",
   "jp": "IDは部屋の中にある?",
-  "en": "",
-  "status": ""
+  "en": "The ID's inside the room?",
+  "status": "tl"
  },
  {
   "id": "F19568:23",
   "kind": "msg",
   "speaker": "バン",
   "jp": "まァな…",
-  "en": "",
-  "status": ""
+  "en": "Pretty much...",
+  "status": "tl"
  },
  {
   "id": "F19568:24",
   "kind": "msg",
   "speaker": "バン",
   "jp": "ID持ってるヤツが中にいる間に\n研究所全体に睡眠薬ばらまかれたからな",
-  "en": "",
-  "status": ""
+  "en": "They sprayed sleeping gas all over the lab while the guy with the ID was inside.",
+  "status": "tl"
  },
  {
   "id": "F19568:25",
   "kind": "msg",
   "speaker": "バン",
   "jp": "研究員はID持ったまま\n中でおねんねしてるってワケだ",
-  "en": "",
-  "status": ""
+  "en": "So the researcher's takin' a nap in there with the ID on him.",
+  "status": "tl"
  },
  {
   "id": "F19568:27",
   "kind": "msg",
   "speaker": "士度",
   "jp": "なら研究員が目を覚ますのを\n待つしかない…か?",
-  "en": "",
-  "status": ""
+  "en": "Then all we can do is wait for the researcher to wake up... huh?",
+  "status": "tl"
  },
  {
   "id": "F19568:29",
   "kind": "msg",
   "speaker": "バン",
   "jp": "まア、そう悲観すンじゃねーよ",
-  "en": "",
-  "status": ""
+  "en": "Aw, don't be such a downer.",
+  "status": "tl"
  },
  {
   "id": "F19568:30",
   "kind": "msg",
   "speaker": "バン",
   "jp": "今なら特別にこのバン様が\n助けてやってもいいんだぜ?",
-  "en": "",
-  "status": ""
+  "en": "Just this once, the great Ban might help you out, y'know?",
+  "status": "tl"
  },
  {
   "id": "F19568:31",
   "kind": "msg",
   "speaker": "バン",
   "jp": "俺ならDルームのエアダクトから\nBルームに侵入することができるからな",
-  "en": "",
-  "status": ""
+  "en": "I can get into Room B through the air duct in Room D.",
+  "status": "tl"
  },
  {
   "id": "F19568:32",
   "kind": "msg",
   "speaker": "バン",
   "jp": "IDを持ってくることが\nできるってワケよ",
-  "en": "",
-  "status": ""
+  "en": "So I can bring you the ID.",
+  "status": "tl"
  },
  {
   "id": "F19568:34",
   "kind": "msg",
   "speaker": "士度",
   "jp": "…まさか手助けしてもらえるとはな",
-  "en": "",
-  "status": ""
+  "en": "...Didn't think you'd actually help me.",
+  "status": "tl"
  },
  {
   "id": "F19568:36",
   "kind": "msg",
   "speaker": "バン",
   "jp": "テメーみてぇのに\n借りを作りたくねーんだよ",
-  "en": "",
-  "status": ""
+  "en": "I just don't wanna owe a guy like you.",
+  "status": "tl"
  },
  {
   "id": "F19568:37",
   "kind": "msg",
   "speaker": "バン",
   "jp": "んじゃま、\n俺様をDルームまで運んでくれや",
-  "en": "",
-  "status": ""
+  "en": "Well then, carry the great me over to Room D.",
+  "status": "tl"
  },
  {
   "id": "F19C10:1",
   "kind": "msg",
   "speaker": "士度",
   "jp": "ここがエアダクトらしいな…",
-  "en": "",
-  "status": ""
+  "en": "Looks like this is the air duct...",
+  "status": "tl"
  },
  {
   "id": "F19C10:3",
   "kind": "msg",
   "speaker": "バン",
   "jp": "よし、ちょっくら行ってくるわ",
-  "en": "",
-  "status": ""
+  "en": "Okay, I'll be back in a jiffy.",
+  "status": "tl"
  },
  {
   "id": "F19C10:5",
   "kind": "msg",
   "speaker": "士度",
   "jp": "頼んだぞ",
-  "en": "",
-  "status": ""
+  "en": "I'm counting on you.",
+  "status": "tl"
  },
  {
   "id": "F19CC8:1",
   "kind": "msg",
   "speaker": "バン",
   "jp": "ほれ、持ってきてやったぜ",
-  "en": "",
-  "status": ""
+  "en": "Here, I brought it for ya.",
+  "status": "tl"
  },
  {
   "id": "F19CC8:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "悪いな…",
-  "en": "",
-  "status": ""
+  "en": "Thanks...",
+  "status": "tl"
  },
  {
   "id": "F19CC8:5",
   "kind": "msg",
   "speaker": "バン",
   "jp": "なァに、俺様にかかりゃ\nこン位軽いモンだっての！",
-  "en": "",
-  "status": ""
+  "en": "Hah, for the great me, that's a piece of cake!",
+  "status": "tl"
  },
  {
   "id": "F19CC8:6",
   "kind": "msg",
   "speaker": "バン",
   "jp": "ま、次からは金とるけどな",
-  "en": "",
-  "status": ""
+  "en": "Mind you, next time I'm chargin'.",
+  "status": "tl"
  },
  {
   "id": "F19CC8:8",
   "kind": "msg",
   "speaker": "士度",
   "jp": "…ヘビに金は必要ねぇだろうが",
-  "en": "",
-  "status": ""
+  "en": "...What does a snake need money for?",
+  "status": "tl"
  },
  {
   "id": "F19CC8:10",
   "kind": "msg",
   "speaker": "バン",
   "jp": "必要なくても俺様は金が好きなんだよ",
-  "en": "",
-  "status": ""
+  "en": "Don't need it, but the great Ban loves money anyway.",
+  "status": "tl"
  },
  {
   "id": "F19CC8:12",
   "kind": "msg",
   "speaker": "士度",
   "jp": "まさに守銭奴だな",
-  "en": "",
-  "status": ""
+  "en": "A real money-grubber, huh.",
+  "status": "tl"
  },
  {
   "id": "F19CC8:14",
   "kind": "msg",
   "speaker": "バン",
   "jp": "ああ?　なンか言ったか?",
-  "en": "",
-  "status": ""
+  "en": "Huh? You say somethin'?",
+  "status": "tl"
  },
  {
   "id": "F19CC8:16",
   "kind": "msg",
   "speaker": "士度",
   "jp": "なんでもねぇよ…",
-  "en": "",
-  "status": ""
+  "en": "Nothin'...",
+  "status": "tl"
  },
  {
   "id": "F19CC8:17",
   "kind": "msg",
   "speaker": "士度",
   "jp": "ところで隔壁は\nどうやって解除すンだ?",
-  "en": "",
-  "status": ""
+  "en": "By the way, how do we unlock the bulkhead?",
+  "status": "tl"
  },
  {
   "id": "F19CC8:19",
   "kind": "msg",
   "speaker": "バン",
   "jp": "そいつァBルームのパソコンから\n解除することができるぜ",
-  "en": "",
-  "status": ""
+  "en": "That can be unlocked from the computer in Room B.",
+  "status": "tl"
  },
  {
   "id": "F19CC8:21",
   "kind": "msg",
   "speaker": "士度",
   "jp": "Bルームか…よし、行ってみるか",
-  "en": "",
-  "status": ""
+  "en": "Room B, huh... All right, let's go check it out.",
+  "status": "tl"
  },
  {
   "id": "F19CC8:22",
   "kind": "msg",
   "speaker": "士度",
   "jp": "IDパス1をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got ID Pass 1!",
+  "status": "tl"
  },
  {
   "id": "F1A048:1",
   "kind": "msg",
   "speaker": "士度",
   "jp": "チッ、囲まれたか…",
-  "en": "",
-  "status": ""
+  "en": "Tch, they've got us surrounded...",
+  "status": "tl"
  },
  {
   "id": "F1A048:3",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "士度はん…\nワイらいっつもピンチに陥ってへん?",
-  "en": "",
-  "status": ""
+  "en": "Shido... Don't we always end up in a pinch?",
+  "status": "tl"
  },
  {
   "id": "F1A048:5",
   "kind": "msg",
   "speaker": "士度",
   "jp": "ヘッ、こんなもんは\nピンチとは言わねーんだよ",
-  "en": "",
-  "status": ""
+  "en": "Heh, this ain't what I'd call a pinch.",
+  "status": "tl"
  },
  {
   "id": "F1A048:6",
   "kind": "msg",
   "speaker": "士度",
   "jp": "いけるだろ、俺らなら?",
-  "en": "",
-  "status": ""
+  "en": "We can handle this, can't we?",
+  "status": "tl"
  },
  {
   "id": "F1A048:8",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "せやな！",
-  "en": "",
-  "status": ""
+  "en": "You bet!",
+  "status": "tl"
  },
  {
   "id": "F1A184:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ギャーッ！",
-  "en": "",
-  "status": ""
+  "en": "Gyaaah!",
+  "status": "tl"
  },
  {
   "id": "F1A184:2",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "なんぼおんねん！！",
-  "en": "",
-  "status": ""
+  "en": "How many are there?!",
+  "status": "tl"
  },
  {
   "id": "F1A184:4",
   "kind": "msg",
   "speaker": "士度",
   "jp": "諦めるんじゃねーよ、笑師！\nまだやれんだろ?",
-  "en": "",
-  "status": ""
+  "en": "Don't you give up, Emishi! You've still got some fight left, right?",
+  "status": "tl"
  },
  {
   "id": "F1A184:6",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "…やるしかないな！",
-  "en": "",
-  "status": ""
+  "en": "...Guess we ain't got a choice!",
+  "status": "tl"
  },
  {
   "id": "F1A26C:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ゲットバッカーズ参上！！",
-  "en": "",
-  "status": ""
+  "en": "The GetBackers have arrived!!",
+  "status": "tl"
  },
  {
   "id": "F1A26C:2",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あれっ?　こんなトコで\nなにやってんの、二人とも",
-  "en": "",
-  "status": ""
+  "en": "Huh? What are you two doing in a place like this?",
+  "status": "tl"
  },
  {
   "id": "F1A26C:4",
   "kind": "msg",
   "speaker": "士度",
   "jp": "なにって仕事だよ",
-  "en": "",
-  "status": ""
+  "en": "What's it look like? A job.",
+  "status": "tl"
  },
  {
   "id": "F1A26C:6",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "仕事だァ?　まさか面を\n奪還する仕事じゃねぇだろうな?",
-  "en": "",
-  "status": ""
+  "en": "A job, huh? Don't tell me it's a job to get back a mask?",
+  "status": "tl"
  },
  {
   "id": "F1A26C:8",
   "kind": "msg",
   "speaker": "士度",
   "jp": "面?　なんだ、そりゃ！?",
-  "en": "",
-  "status": ""
+  "en": "A mask? What're you talking about?!",
+  "status": "tl"
  },
  {
   "id": "F1A26C:10",
   "kind": "msg",
   "speaker": "花月",
   "jp": "士度たちは別の仕事なのかい?",
-  "en": "",
-  "status": ""
+  "en": "So you and Emishi are on a different job, Shido?",
+  "status": "tl"
  },
  {
   "id": "F1A26C:12",
   "kind": "msg",
   "speaker": "士度",
   "jp": "俺たちはさらわれた\n蛭田の父親を奪還する仕事だが…",
-  "en": "",
-  "status": ""
+  "en": "We're here to get back Hiruta's father. He's been kidnapped...",
+  "status": "tl"
  },
  {
   "id": "F1A26C:14",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "なんだ、そりゃ?\n相変わらずダセー仕事してやがんな！",
-  "en": "",
-  "status": ""
+  "en": "The hell's that? You're still taking lame jobs, I see!",
+  "status": "tl"
  },
  {
   "id": "F1A26C:15",
@@ -1948,88 +1948,88 @@
   "kind": "msg",
   "speaker": "笑師",
   "jp": "(…ヘビのせいか、\n美堂はんの言葉が余計ムカつくわ)",
-  "en": "",
-  "status": ""
+  "en": "(...Maybe it's the snake, but Mido's mouth is gettin' on my nerves even more.)",
+  "status": "tl"
  },
  {
   "id": "F1A26C:19",
   "kind": "msg",
   "speaker": "士度",
   "jp": "(…ああ、そうだな)",
-  "en": "",
-  "status": ""
+  "en": "(...Yeah, tell me about it.)",
+  "status": "tl"
  },
  {
   "id": "F1A26C:21",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "うんざりした顔しちゃってどうしたの?",
-  "en": "",
-  "status": ""
+  "en": "What's with the fed-up faces?",
+  "status": "tl"
  },
  {
   "id": "F1A26C:23",
   "kind": "msg",
   "speaker": "士度",
   "jp": "いや…ところでお前らは\n別の仕事で来たのか?",
-  "en": "",
-  "status": ""
+  "en": "Nothing... So, you two came here on a different job?",
+  "status": "tl"
  },
  {
   "id": "F1A26C:25",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あ、うん\nオレたちは能のお面の奪還なんだよね",
-  "en": "",
-  "status": ""
+  "en": "Oh, yeah. We're here to get back a Noh mask.",
+  "status": "tl"
  },
  {
   "id": "F1A26C:27",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "能のお面なんてこないなトコに\nあらへんのちゃう?",
-  "en": "",
-  "status": ""
+  "en": "Ain't no way a Noh mask would be in a place like this, right?",
+  "status": "tl"
  },
  {
   "id": "F1A26C:29",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "う、うーん…\nでも依頼人さんはここにあるからって…",
-  "en": "",
-  "status": ""
+  "en": "W-Well... But the client said it'd be here...",
+  "status": "tl"
  },
  {
   "id": "F1A26C:31",
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "…どういうことかしら?",
-  "en": "",
-  "status": ""
+  "en": "...What's that supposed to mean?",
+  "status": "tl"
  },
  {
   "id": "F1A26C:33",
   "kind": "msg",
   "speaker": "花月",
   "jp": "恐らく、あの京介という人が\n今回の事件に関与しているんでしょうね",
-  "en": "",
-  "status": ""
+  "en": "Most likely that man named Kyosuke is involved in this incident.",
+  "status": "tl"
  },
  {
   "id": "F1A26C:35",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "つっても、\n金目当てってワケでもなさそうだな?",
-  "en": "",
-  "status": ""
+  "en": "Still, it doesn't look like he's in it for the money, huh?",
+  "status": "tl"
  },
  {
   "id": "F1A26C:36",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "蛭田父と面ヤローの間に\n何らかの関係性があるってとこか?",
-  "en": "",
-  "status": ""
+  "en": "So Hiruta's old man and Mask Boy are connected somehow?",
+  "status": "tl"
  },
  {
   "id": "F1A26C:38",
@@ -2044,39 +2044,39 @@
   "kind": "msg",
   "speaker": "花月",
   "jp": "しかし、個人的な関係性というよりは\n組織でのつながりを感じますが",
-  "en": "",
-  "status": ""
+  "en": "Though it feels less like a personal connection and more like an organizational one.",
+  "status": "tl"
  },
  {
   "id": "F1A26C:41",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "つまり、あの面ヤローには\nバックがついてるってワケか…",
-  "en": "",
-  "status": ""
+  "en": "So Mask Boy's got somebody backing him up, huh...",
+  "status": "tl"
  },
  {
   "id": "F1A26C:43",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ねえねえ、なに難しい話してんの?",
-  "en": "",
-  "status": ""
+  "en": "Hey, hey, what's all the complicated talk about?",
+  "status": "tl"
  },
  {
   "id": "F1A26C:45",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "気にすンな、\n聞いたとこで分かりゃしねーから",
-  "en": "",
-  "status": ""
+  "en": "Don't worry about it. You wouldn't get it even if you heard.",
+  "status": "tl"
  },
  {
   "id": "F1AC28:0",
   "kind": "msg",
   "speaker": "",
   "jp": "RRRRRRRRR\nRRRRRRRRR…",
-  "en": "",
-  "status": ""
+  "en": "Brrrrrrring... Brrrrrrring...",
+  "status": "tl"
  }
 ]

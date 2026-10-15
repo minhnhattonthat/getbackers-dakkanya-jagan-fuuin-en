@@ -188,8 +188,8 @@
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "雨流",
-  "en": "",
-  "status": ""
+  "en": "Uryu.",
+  "status": "tl"
  },
  {
   "id": "F89B2C:1",
@@ -252,8 +252,8 @@
   "kind": "msg",
   "speaker": "雨流",
   "jp": "筧",
-  "en": "",
-  "status": ""
+  "en": "Kakei.",
+  "status": "tl"
  },
  {
   "id": "F89DCC:1",
@@ -308,8 +308,8 @@
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "銀次君",
-  "en": "",
-  "status": ""
+  "en": "Ginji...",
+  "status": "tl"
  },
  {
   "id": "F8A010:0",

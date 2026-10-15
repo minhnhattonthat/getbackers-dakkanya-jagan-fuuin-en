@@ -4,288 +4,288 @@
   "kind": "msg",
   "speaker": "笑師",
   "jp": "おおっ、アクセス成功~！",
-  "en": "",
-  "status": ""
+  "en": "Ooh, access granted~!",
+  "status": "tl"
  },
  {
   "id": "F1FAB0:2",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ん~、このパソコンからは\n隔壁1が解除できるみたいやな",
-  "en": "",
-  "status": ""
+  "en": "Hmm, looks like this computer can open Bulkhead 1.",
+  "status": "tl"
  },
  {
   "id": "F1FAB0:4",
   "kind": "msg",
   "speaker": "士度",
   "jp": "全て解除することはできねぇか…",
-  "en": "",
-  "status": ""
+  "en": "So we can't open all of them...",
+  "status": "tl"
  },
  {
   "id": "F1FAB0:5",
   "kind": "msg",
   "speaker": "士度",
   "jp": "とりあえず1を解除してくれ",
-  "en": "",
-  "status": ""
+  "en": "For now, open Bulkhead 1.",
+  "status": "tl"
  },
  {
   "id": "F1FAB0:7",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "OK、任しとき！",
-  "en": "",
-  "status": ""
+  "en": "OK, leave it to me!",
+  "status": "tl"
  },
  {
   "id": "F1FAB0:8",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "隔壁1を解除した！",
-  "en": "",
-  "status": ""
+  "en": "Bulkhead 1 opened!",
+  "status": "tl"
  },
  {
   "id": "F1FC08:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "これで最後やったのにぃ~",
-  "en": "",
-  "status": ""
+  "en": "And that was the last one, too~",
+  "status": "tl"
  },
  {
   "id": "F1FC08:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "確認してみた方がいいかもな…",
-  "en": "",
-  "status": ""
+  "en": "Might be better to double-check...",
+  "status": "tl"
  },
  {
   "id": "F1FC94:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "あ、あらら?　間違うたんか！?",
-  "en": "",
-  "status": ""
+  "en": "Wh-Whoa? Did I get it wrong?!",
+  "status": "tl"
  },
  {
   "id": "F1FC94:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "落ち着け、笑師\n一番気に入っている曲名だぞ",
-  "en": "",
-  "status": ""
+  "en": "Calm down, Emishi. It's the song title she likes most.",
+  "status": "tl"
  },
  {
   "id": "F1FD3C:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "アカン、間違えてもーた！",
-  "en": "",
-  "status": ""
+  "en": "No good, I messed up!",
+  "status": "tl"
  },
  {
   "id": "F1FD3C:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "もう一度確認してみた方がいいかもな…",
-  "en": "",
-  "status": ""
+  "en": "Might be better to check one more time...",
+  "status": "tl"
  },
  {
   "id": "F1FDD0:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "よし、入れてみよか",
-  "en": "",
-  "status": ""
+  "en": "All right, let's type it in.",
+  "status": "tl"
  },
  {
   "id": "F1FDD0:2",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "オノダコウヘイ…っと",
-  "en": "",
-  "status": ""
+  "en": "Kohei Onoda... there.",
+  "status": "tl"
  },
  {
   "id": "F1FDD0:4",
   "kind": "msg",
   "speaker": "士度",
   "jp": "…エラーが出てるぞ",
-  "en": "",
-  "status": ""
+  "en": "...It's giving an error.",
+  "status": "tl"
  },
  {
   "id": "F1FDD0:6",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "な、な、なんでやね~ん！",
-  "en": "",
-  "status": ""
+  "en": "Wh-Wh-Why the heck not~?!",
+  "status": "tl"
  },
  {
   "id": "F1FDD0:8",
   "kind": "msg",
   "speaker": "士度",
-  "jp": "自分以外の名前を鵠定してるのかもな…",
-  "en": "",
-  "status": ""
+  "jp": "自分以外の名前を設定してるのかもな…",
+  "en": "Maybe he set it to someone else's name...",
+  "status": "tl"
  },
  {
   "id": "F1FDD0:10",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ん~、どないしよか?",
-  "en": "",
-  "status": ""
+  "en": "Hmm, so what do we do?",
+  "status": "tl"
  },
  {
   "id": "F1FDD0:12",
   "kind": "msg",
   "speaker": "士度",
   "jp": "部屋の中を詳しく\n調べてみるしかねえだろうな",
-  "en": "",
-  "status": ""
+  "en": "Guess we'll have to search this room carefully.",
+  "status": "tl"
  },
  {
   "id": "F1FDD0:13",
   "kind": "msg",
   "speaker": "士度",
   "jp": "なにかヒントがあるかも知れねえし",
-  "en": "",
-  "status": ""
+  "en": "There might be a hint somewhere.",
+  "status": "tl"
  },
  {
   "id": "F1FDD0:15",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "せやな！　調べてみましょか！！",
-  "en": "",
-  "status": ""
+  "en": "Right on! Let's start lookin'!!",
+  "status": "tl"
  },
  {
   "id": "F1FFDC:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "このパソコンにちょちょっと\nアクセスすればエエんやな?",
-  "en": "",
-  "status": ""
+  "en": "So I just gotta access this computer real quick, right?",
+  "status": "tl"
  },
  {
   "id": "F1FFDC:2",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "楽勝やん~",
-  "en": "",
-  "status": ""
+  "en": "Piece of cake~",
+  "status": "tl"
  },
  {
   "id": "F1FFDC:4",
   "kind": "msg",
   "speaker": "士度",
   "jp": "笑師、パスワードを要求してるぞ",
-  "en": "",
-  "status": ""
+  "en": "Emishi, it's asking for a password.",
+  "status": "tl"
  },
  {
   "id": "F1FFDC:6",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "name…って、\nここの部屋の人の名前かいな",
-  "en": "",
-  "status": ""
+  "en": "\"Name\"... Ya mean the name of whoever's room this is?",
+  "status": "tl"
  },
  {
   "id": "F1FFDC:7",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "そんなん分からへんやん！",
-  "en": "",
-  "status": ""
+  "en": "How am I supposed to know that?!",
+  "status": "tl"
  },
  {
   "id": "F1FFDC:9",
   "kind": "msg",
   "speaker": "士度",
   "jp": "部屋の中を調べてみた方が良さそうだな",
-  "en": "",
-  "status": ""
+  "en": "Looks like we'd better search the room.",
+  "status": "tl"
  },
  {
   "id": "F20160:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "こりゃまたぎょうさん\n貼ってありますなあ",
-  "en": "",
-  "status": ""
+  "en": "Well, look at all these posters stuck up here.",
+  "status": "tl"
  },
  {
   "id": "F20160:2",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "しかも、これ全部MAIちゃんやんか",
-  "en": "",
-  "status": ""
+  "en": "And every last one of 'em is MAI!",
+  "status": "tl"
  },
  {
   "id": "F20160:4",
   "kind": "msg",
   "speaker": "士度",
   "jp": "MAIのファンってことか…",
-  "en": "",
-  "status": ""
+  "en": "So he's a MAI fan...",
+  "status": "tl"
  },
  {
   "id": "F20230:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "なんや、この雑誌にも\nMAIちゃん載ってまっせ！",
-  "en": "",
-  "status": ""
+  "en": "Hey, MAI's in this magazine too!",
+  "status": "tl"
  },
  {
   "id": "F20230:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "やっぱファンなんだな…",
-  "en": "",
-  "status": ""
+  "en": "Guess he really is a fan...",
+  "status": "tl"
  },
  {
   "id": "F20230:5",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "おっ、プロフィールやんか！\nなになに…",
-  "en": "",
-  "status": ""
+  "en": "Ooh, it's her profile! Let's see...",
+  "status": "tl"
  },
  {
   "id": "F20230:6",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "MAI(本名:坂本茉衣)",
-  "en": "",
-  "status": ""
+  "en": "MAI (Real name: Mai Sakamoto)",
+  "status": "tl"
  },
  {
   "id": "F20230:7",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "4月20日生まれ、年齢17歳\n血液型A型、出身地:東京",
-  "en": "",
-  "status": ""
+  "en": "Born April 20, age 17. Blood type A, hometown: Tokyo.",
+  "status": "tl"
  },
  {
   "id": "F20230:8",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "フムフム…覚えとこ！！",
-  "en": "",
-  "status": ""
+  "en": "Uh-huh, uh-huh... Gotta remember that!!",
+  "status": "tl"
  },
  {
   "id": "F20230:10",
@@ -300,296 +300,296 @@
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ん~、音楽雑誌やな…",
-  "en": "",
-  "status": ""
+  "en": "Hmm, a music magazine...",
+  "status": "tl"
  },
  {
   "id": "F203D4:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "特にパスワードに\nなりそうなものはないか?",
-  "en": "",
-  "status": ""
+  "en": "Nothing in there that could be a password?",
+  "status": "tl"
  },
  {
   "id": "F203D4:5",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "あらへんなあ",
-  "en": "",
-  "status": ""
+  "en": "Nope, nothin'.",
+  "status": "tl"
  },
  {
   "id": "F20498:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "この雑誌にもMAIちゃん載ってまっせ",
-  "en": "",
-  "status": ""
+  "en": "MAI's in this magazine too!",
+  "status": "tl"
  },
  {
   "id": "F20498:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "本当にファンなんだな…",
-  "en": "",
-  "status": ""
+  "en": "He really is a fan...",
+  "status": "tl"
  },
  {
   "id": "F20498:5",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ん~、なになに?",
-  "en": "",
-  "status": ""
+  "en": "Hmm, what's this?",
+  "status": "tl"
  },
  {
   "id": "F20498:6",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "MAI全曲紹介",
-  "en": "",
-  "status": ""
+  "en": "MAI's Complete Song Guide",
+  "status": "tl"
  },
  {
   "id": "F20498:7",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "デビュー曲\n『キラキラ☆チュ！　チュ！　チュ♥』",
-  "en": "",
-  "status": ""
+  "en": "Debut single: \"Sparkle☆Chu! Chu! Chu♥\"",
+  "status": "tl"
  },
  {
   "id": "F20498:8",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "2ndシングル\n『スパイシー☆ラブ！』",
-  "en": "",
-  "status": ""
+  "en": "2nd single: \"Spicy☆Love!\"",
+  "status": "tl"
  },
  {
   "id": "F20498:9",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "3rdシングル\n『twinkle☆キラめいて』",
-  "en": "",
-  "status": ""
+  "en": "3rd single: \"Twinkle☆Shining Bright\"",
+  "status": "tl"
  },
  {
   "id": "F20498:10",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "1stアルバム\n『DA・DA・DA・DA・ダーリン』",
-  "en": "",
-  "status": ""
+  "en": "1st album: \"DA-DA-DA-DA-Darling\"",
+  "status": "tl"
  },
  {
   "id": "F20498:11",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "4thシングル\n『言葉にならないカテゴリー』",
-  "en": "",
-  "status": ""
+  "en": "4th single: \"A Category Beyond Words\"",
+  "status": "tl"
  },
  {
   "id": "F20498:12",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "持っとる、持っとる！\n全部持ってんで~！！",
-  "en": "",
-  "status": ""
+  "en": "Got it, got it! I got every one of 'em~!!",
+  "status": "tl"
  },
  {
   "id": "F20498:13",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "なあ、士度はん?",
-  "en": "",
-  "status": ""
+  "en": "Right, Shido?",
+  "status": "tl"
  },
  {
   "id": "F20498:15",
   "kind": "msg",
   "speaker": "士度",
   "jp": "マドカが持っていたな、確か…",
-  "en": "",
-  "status": ""
+  "en": "Madoka had them, if I remember right...",
+  "status": "tl"
  },
  {
   "id": "F20740:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "これはテレビ雑誌やなあ",
-  "en": "",
-  "status": ""
+  "en": "This one's a TV magazine.",
+  "status": "tl"
  },
  {
   "id": "F20740:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "パスワードになりそうなものはねえか?",
-  "en": "",
-  "status": ""
+  "en": "Anything that could be a password?",
+  "status": "tl"
  },
  {
   "id": "F20740:5",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "パラパラ~っと\n見た感じではあらへんなあ",
-  "en": "",
-  "status": ""
+  "en": "Flippin' through real quick... Don't look like it.",
+  "status": "tl"
  },
  {
   "id": "F20820:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "おおっ！\nこれにもMAIちゃん載ってまっせ！！",
-  "en": "",
-  "status": ""
+  "en": "Whoa! MAI's in this one too!!",
+  "status": "tl"
  },
  {
   "id": "F20820:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "………で?",
-  "en": "",
-  "status": ""
+  "en": ".........And?",
+  "status": "tl"
  },
  {
   "id": "F20820:5",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "なになに…",
-  "en": "",
-  "status": ""
+  "en": "Let's see...",
+  "status": "tl"
  },
  {
   "id": "F20820:6",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "熱烈交際！！\n超人気アーティスト深夜のお忍びデート",
-  "en": "",
-  "status": ""
+  "en": "Hot romance!! Superstar's secret late-night date!",
+  "status": "tl"
  },
  {
   "id": "F20820:7",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "人気アーティスト、MAIが同事務所の\n先輩と付き合っていることが発覚",
-  "en": "",
-  "status": ""
+  "en": "Popular artist MAI has been revealed to be dating a senior star from her own agency.",
+  "status": "tl"
  },
  {
   "id": "F20820:8",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "二人は同じMMSに所属しており、\nMAIの移籍によって知り合った…",
-  "en": "",
-  "status": ""
+  "en": "The two are both signed to MMS, and met when MAI transferred there...",
+  "status": "tl"
  },
  {
   "id": "F20820:9",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "…って、なんやコレ！?\nMAIちゃん、付き合ってる人おるん?",
-  "en": "",
-  "status": ""
+  "en": "...Wait, what the heck?! MAI's seein' somebody?",
+  "status": "tl"
  },
  {
   "id": "F20820:11",
   "kind": "msg",
   "speaker": "士度",
-  "jp": "(そういえば婿約したんだっけな…)",
-  "en": "",
-  "status": ""
+  "jp": "(そういえば婚約したんだっけな…)",
+  "en": "(Come to think of it, she got engaged...)",
+  "status": "tl"
  },
  {
   "id": "F20820:13",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "な、なんでやねーん！！！\nショックで胸が張り裂けそうやわあー！",
-  "en": "",
-  "status": ""
+  "en": "Wh-Wh-Why?!! My heart's 'bout to burst from the shock!",
+  "status": "tl"
  },
  {
   "id": "F20820:15",
   "kind": "msg",
   "speaker": "士度",
-  "jp": "(婿約したことは言わないでおくか…)",
-  "en": "",
-  "status": ""
+  "jp": "(婚約したことは言わないでおくか…)",
+  "en": "(Better not mention the engagement...)",
+  "status": "tl"
  },
  {
   "id": "F20AF8:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ん~、これは週刊誌みたいやな\n芸能ネタとか載っとるヤツや",
-  "en": "",
-  "status": ""
+  "en": "Hmm, this looks like a weekly tabloid. The kind with celebrity gossip.",
+  "status": "tl"
  },
  {
   "id": "F20AF8:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "なにか情報は載ってるのか?",
-  "en": "",
-  "status": ""
+  "en": "Any info in there?",
+  "status": "tl"
  },
  {
   "id": "F20AF8:5",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "特にあらへんなあ",
-  "en": "",
-  "status": ""
+  "en": "Nothin' much.",
+  "status": "tl"
  },
  {
   "id": "F20BD8:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "これもMAIちゃん載っとるで！",
-  "en": "",
-  "status": ""
+  "en": "MAI's in this one too!",
+  "status": "tl"
  },
  {
   "id": "F20BD8:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "とことんファンみてぇだな…",
-  "en": "",
-  "status": ""
+  "en": "Looks like he's a die-hard fan...",
+  "status": "tl"
  },
  {
   "id": "F20BD8:5",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "んーと、\n新曲のタイトルが発表になっとるな",
-  "en": "",
-  "status": ""
+  "en": "Let's see... They announced the title of her new song.",
+  "status": "tl"
  },
  {
   "id": "F20BD8:6",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ニューシングルは\n『還らないこと』っちゅータイトルやで",
-  "en": "",
-  "status": ""
+  "en": "The new single's called \"Never Coming Back\"!",
+  "status": "tl"
  },
  {
   "id": "F20BD8:7",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "10月10日発売予定！",
-  "en": "",
-  "status": ""
+  "en": "Coming out October 10!",
+  "status": "tl"
  },
  {
   "id": "F20BD8:8",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "アカ~ン！　早よ予約せな、予約！！",
-  "en": "",
-  "status": ""
+  "en": "Aw man! I gotta preorder it quick!!",
+  "status": "tl"
  },
  {
   "id": "F20BD8:10",
@@ -604,144 +604,144 @@
   "kind": "msg",
   "speaker": "笑師",
   "jp": "こら音楽系の専門誌やな",
-  "en": "",
-  "status": ""
+  "en": "This here's a music magazine for real enthusiasts.",
+  "status": "tl"
  },
  {
   "id": "F20D78:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "情報になりそうなものはねえのかよ?",
-  "en": "",
-  "status": ""
+  "en": "Anything in there we can use?",
+  "status": "tl"
  },
  {
   "id": "F20D78:5",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "んん~、見当たらんなあ",
-  "en": "",
-  "status": ""
+  "en": "Hmmm, can't see nothin'.",
+  "status": "tl"
  },
  {
   "id": "F20E44:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "こらまた全部MAIちゃんのもんやで",
-  "en": "",
-  "status": ""
+  "en": "Every one of these is MAI's stuff, too.",
+  "status": "tl"
  },
  {
   "id": "F20E44:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "ファンだから当然か…",
-  "en": "",
-  "status": ""
+  "en": "Makes sense, for a fan...",
+  "status": "tl"
  },
  {
   "id": "F20E44:5",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ん?　『スパイシー☆ラブ！』の\nCDが三枚ありまっせ?",
-  "en": "",
-  "status": ""
+  "en": "Huh? There's three copies of the \"Spicy☆Love!\" CD.",
+  "status": "tl"
  },
  {
   "id": "F20E44:6",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "お気に入りなんかな?",
-  "en": "",
-  "status": ""
+  "en": "Must be his favorite?",
+  "status": "tl"
  },
  {
   "id": "F20E44:8",
   "kind": "msg",
   "speaker": "士度",
   "jp": "そうなのかもな…",
-  "en": "",
-  "status": ""
+  "en": "Could be...",
+  "status": "tl"
  },
  {
   "id": "F20E44:10",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "士度はんは知っとるんか、\n『スパイシー☆ラブ』?",
-  "en": "",
-  "status": ""
+  "en": "Ya know \"Spicy☆Love,\" Shido?",
+  "status": "tl"
  },
  {
   "id": "F20E44:12",
   "kind": "msg",
   "speaker": "士度",
   "jp": "いや…",
-  "en": "",
-  "status": ""
+  "en": "No...",
+  "status": "tl"
  },
  {
   "id": "F20E44:14",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "アカンて！\n時代の波に取り残されてんで！！",
-  "en": "",
-  "status": ""
+  "en": "No good! You're gettin' left behind by the times!!",
+  "status": "tl"
  },
  {
   "id": "F20E44:15",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "今からワイが歌ったるから\nしっかり覚えるんやで~?",
-  "en": "",
-  "status": ""
+  "en": "I'll sing it for ya right now, so make sure ya learn it~?",
+  "status": "tl"
  },
  {
   "id": "F20E44:16",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "♪スパイシー☆ラブ",
-  "en": "",
-  "status": ""
+  "en": "♪Spicy☆Love",
+  "status": "tl"
  },
  {
   "id": "F20E44:17",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "♪恋の調味料~",
-  "en": "",
-  "status": ""
+  "en": "♪The seasoning of romance~",
+  "status": "tl"
  },
  {
   "id": "F20E44:18",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "♪あなたとの甘くせつない日々",
-  "en": "",
-  "status": ""
+  "en": "♪Sweet and painful days with you",
+  "status": "tl"
  },
  {
   "id": "F20E44:19",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "♪そして　さよなら~",
-  "en": "",
-  "status": ""
+  "en": "♪And then, so long~",
+  "status": "tl"
  },
  {
   "id": "F20E44:20",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "♪わたしの　グッバイ☆ラブ！",
-  "en": "",
-  "status": ""
+  "en": "♪My very own Goodbye☆Love!",
+  "status": "tl"
  },
  {
   "id": "F20E44:21",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "んん~、ワイの歌声も最高やな~！",
-  "en": "",
-  "status": ""
+  "en": "Mmm~, my singin' voice is the best, too~!",
+  "status": "tl"
  },
  {
   "id": "F20E44:23",
@@ -756,8 +756,8 @@
   "kind": "msg",
   "speaker": "笑師",
   "jp": "CDとMDやな…\n音楽好きな人っちゅーことやな",
-  "en": "",
-  "status": ""
+  "en": "CDs and MDs... So this person loves music.",
+  "status": "tl"
  },
  {
   "id": "F2118C:3",
@@ -772,576 +772,576 @@
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ホワイトボードや",
-  "en": "",
-  "status": ""
+  "en": "A whiteboard.",
+  "status": "tl"
  },
  {
   "id": "F2121C:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "なにかありそうなのか?",
-  "en": "",
-  "status": ""
+  "en": "Anything on it?",
+  "status": "tl"
  },
  {
   "id": "F2121C:5",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "仕事の予定書いとるだけやな…\nなんもあらへん",
-  "en": "",
-  "status": ""
+  "en": "Just a work schedule... Nothin' useful.",
+  "status": "tl"
  },
  {
   "id": "F2121C:7",
   "kind": "msg",
   "speaker": "士度",
   "jp": "そうか…",
-  "en": "",
-  "status": ""
+  "en": "I see...",
+  "status": "tl"
  },
  {
   "id": "F21314:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "おっ、手帳発見~！",
-  "en": "",
-  "status": ""
+  "en": "Ooh, found a planner~!",
+  "status": "tl"
  },
  {
   "id": "F21314:2",
   "kind": "msg",
   "speaker": "笑師",
-  "jp": "中身諌んだろか",
-  "en": "",
-  "status": ""
+  "jp": "中身読んだろか",
+  "en": "Let's have a read.",
+  "status": "tl"
  },
  {
   "id": "F21314:4",
   "kind": "msg",
   "speaker": "士度",
   "jp": "おい、いいのかよ?",
-  "en": "",
-  "status": ""
+  "en": "Hey, are you sure about this?",
+  "status": "tl"
  },
  {
   "id": "F21314:6",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "バレへん、バレへん！！",
-  "en": "",
-  "status": ""
+  "en": "Nobody'll know, nobody'll know!!",
+  "status": "tl"
  },
  {
   "id": "F21314:7",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "どれどれ…",
-  "en": "",
-  "status": ""
+  "en": "Let's see...",
+  "status": "tl"
  },
  {
   "id": "F21314:8",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F21314:9",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "…………",
-  "en": "",
-  "status": ""
+  "en": "............",
+  "status": "tl"
  },
  {
   "id": "F21314:10",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "……………",
-  "en": "",
-  "status": ""
+  "en": "...............",
+  "status": "tl"
  },
  {
   "id": "F21314:11",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "アカン…どこも白紙や",
-  "en": "",
-  "status": ""
+  "en": "No good... Every page is blank.",
+  "status": "tl"
  },
  {
   "id": "F21314:13",
   "kind": "msg",
   "speaker": "士度",
   "jp": "情報はなし…か",
-  "en": "",
-  "status": ""
+  "en": "No info, then...",
+  "status": "tl"
  },
  {
   "id": "F21490:1",
   "kind": "msg",
   "speaker": "士度",
   "jp": "これでだいぶ分かってきたな?",
-  "en": "",
-  "status": ""
+  "en": "We've figured out a lot now, right?",
+  "status": "tl"
  },
  {
   "id": "F21490:3",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "せやな！\nパスワード入れてみよか！！",
-  "en": "",
-  "status": ""
+  "en": "Sure have! Let's try the password!!",
+  "status": "tl"
  },
  {
   "id": "F2152C:1",
   "kind": "choice",
   "speaker": "笑師",
   "jp": "小山幹夫",
-  "en": "",
-  "status": ""
+  "en": "Mikeo Koyama",
+  "status": "tl"
  },
  {
   "id": "F2152C:2",
   "kind": "choice",
   "speaker": "笑師",
   "jp": "小山幹雄",
-  "en": "",
-  "status": ""
+  "en": "Mickio Koyama",
+  "status": "tl"
  },
  {
   "id": "F2152C:3",
   "kind": "choice",
   "speaker": "笑師",
   "jp": "小山幹男",
-  "en": "",
-  "status": ""
+  "en": "Mikiyo Koyama",
+  "status": "tl"
  },
  {
   "id": "F2152C:4",
   "kind": "choice",
   "speaker": "笑師",
   "jp": "小山幹生",
-  "en": "",
-  "status": ""
+  "en": "Mikio Koyama",
+  "status": "tl"
  },
  {
   "id": "F2152C:5",
   "kind": "choice",
   "speaker": "笑師",
   "jp": "小山幹郎",
-  "en": "",
-  "status": ""
+  "en": "Mikiro Koyama",
+  "status": "tl"
  },
  {
   "id": "F2152C:6",
   "kind": "prompt",
   "speaker": "笑師",
   "jp": "まずは名前…っと",
-  "en": "",
-  "status": ""
+  "en": "First the name...",
+  "status": "tl"
  },
  {
   "id": "F215D4:1",
   "kind": "choice",
   "speaker": "笑師",
   "jp": "19800612",
-  "en": "",
-  "status": ""
+  "en": "19800612",
+  "status": "tl"
  },
  {
   "id": "F215D4:2",
   "kind": "choice",
   "speaker": "笑師",
   "jp": "19800814",
-  "en": "",
-  "status": ""
+  "en": "19800814",
+  "status": "tl"
  },
  {
   "id": "F215D4:3",
   "kind": "choice",
   "speaker": "笑師",
   "jp": "19800622",
-  "en": "",
-  "status": ""
+  "en": "19800622",
+  "status": "tl"
  },
  {
   "id": "F215D4:4",
   "kind": "choice",
   "speaker": "笑師",
   "jp": "19800613",
-  "en": "",
-  "status": ""
+  "en": "19800613",
+  "status": "tl"
  },
  {
   "id": "F215D4:5",
   "kind": "choice",
   "speaker": "笑師",
   "jp": "19800715",
-  "en": "",
-  "status": ""
+  "en": "19800715",
+  "status": "tl"
  },
  {
   "id": "F215D4:6",
   "kind": "prompt",
   "speaker": "笑師",
   "jp": "次に生年月日…っと",
-  "en": "",
-  "status": ""
+  "en": "Next, date of birth...",
+  "status": "tl"
  },
  {
   "id": "F216A8:1",
   "kind": "choice",
   "speaker": "笑師",
   "jp": "人",
-  "en": "",
-  "status": ""
+  "en": "Human",
+  "status": "tl"
  },
  {
   "id": "F216A8:2",
   "kind": "choice",
   "speaker": "笑師",
   "jp": "男",
-  "en": "",
-  "status": ""
+  "en": "Male",
+  "status": "tl"
  },
  {
   "id": "F216A8:3",
   "kind": "choice",
   "speaker": "笑師",
   "jp": "女",
-  "en": "",
-  "status": ""
+  "en": "Female",
+  "status": "tl"
  },
  {
   "id": "F216A8:4",
   "kind": "choice",
   "speaker": "笑師",
   "jp": "?",
-  "en": "",
-  "status": ""
+  "en": "?",
+  "status": "tl"
  },
  {
   "id": "F216A8:5",
   "kind": "choice",
   "speaker": "笑師",
   "jp": "アレ",
-  "en": "",
-  "status": ""
+  "en": "You-know-what",
+  "status": "tl"
  },
  {
   "id": "F216A8:6",
   "kind": "prompt",
   "speaker": "笑師",
   "jp": "性別…っと",
-  "en": "",
-  "status": ""
+  "en": "Sex...",
+  "status": "tl"
  },
  {
   "id": "F21738:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "やったで、アクセス成功や！",
-  "en": "",
-  "status": ""
+  "en": "All right, access granted!",
+  "status": "tl"
  },
  {
   "id": "F21738:2",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ここからは…\n隔壁2が解除できるみたいやな",
-  "en": "",
-  "status": ""
+  "en": "Looks like we can open Bulkhead 2 from here.",
+  "status": "tl"
  },
  {
   "id": "F21738:4",
   "kind": "msg",
   "speaker": "士度",
   "jp": "解除してくれ",
-  "en": "",
-  "status": ""
+  "en": "Open it.",
+  "status": "tl"
  },
  {
   "id": "F21738:6",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "よっしゃ、任しとき！！",
-  "en": "",
-  "status": ""
+  "en": "You got it, leave it to me!!",
+  "status": "tl"
  },
  {
   "id": "F21738:7",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "隔壁2を解除した！",
-  "en": "",
-  "status": ""
+  "en": "Bulkhead 2 opened!",
+  "status": "tl"
  },
  {
   "id": "F21854:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ん~、これやと思ったのになあ",
-  "en": "",
-  "status": ""
+  "en": "Hmm, I was sure that was it...",
+  "status": "tl"
  },
  {
   "id": "F21854:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "違ったか…",
-  "en": "",
-  "status": ""
+  "en": "Wrong, huh...",
+  "status": "tl"
  },
  {
   "id": "F218D4:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "おしい！",
-  "en": "",
-  "status": ""
+  "en": "So close!",
+  "status": "tl"
  },
  {
   "id": "F218D4:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "…おしいか?",
-  "en": "",
-  "status": ""
+  "en": "...Was it close?",
+  "status": "tl"
  },
  {
   "id": "F21940:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "んん~、微妙やな~",
-  "en": "",
-  "status": ""
+  "en": "Hmmm~, hard to say~",
+  "status": "tl"
  },
  {
   "id": "F21940:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "もう一度確認してみた方がいいかもな…",
-  "en": "",
-  "status": ""
+  "en": "Might be better to check one more time...",
+  "status": "tl"
  },
  {
   "id": "F219D0:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "こっちもパスワードが必要みたいやな",
-  "en": "",
-  "status": ""
+  "en": "Looks like this one needs a password too.",
+  "status": "tl"
  },
  {
   "id": "F219D0:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "探してみるとするか…",
-  "en": "",
-  "status": ""
+  "en": "Guess we'd better look for it...",
+  "status": "tl"
  },
  {
   "id": "F21A60:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "おっ、手帳発見や！",
-  "en": "",
-  "status": ""
+  "en": "Ooh, found a planner!",
+  "status": "tl"
  },
  {
   "id": "F21A60:2",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "なになに持ち主らしき人物の名は\n『コヤマ　ミキ』…",
-  "en": "",
-  "status": ""
+  "en": "Let's see, the owner's name looks like... \"Miki Koyama\"...",
+  "status": "tl"
  },
  {
   "id": "F21A60:4",
   "kind": "msg",
   "speaker": "士度",
   "jp": "他の情報は?",
-  "en": "",
-  "status": ""
+  "en": "Anything else?",
+  "status": "tl"
  },
  {
   "id": "F21A60:6",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ん~、あらへんな…",
-  "en": "",
-  "status": ""
+  "en": "Hmm, nope...",
+  "status": "tl"
  },
  {
   "id": "F21B50:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "んん~、化粧品ぎょうさん持っとるなあ\n女の子って感じやな！",
-  "en": "",
-  "status": ""
+  "en": "Mmm~, she's got loads of makeup. Real girly!",
+  "status": "tl"
  },
  {
   "id": "F21B50:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "それで情報は?",
-  "en": "",
-  "status": ""
+  "en": "So, any info?",
+  "status": "tl"
  },
  {
   "id": "F21B50:5",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "手がかりになりそなモンはあらへんなあ",
-  "en": "",
-  "status": ""
+  "en": "Nothin' here that looks like a clue.",
+  "status": "tl"
  },
  {
   "id": "F21C38:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "化粧品でごまかしとるってことやな…",
-  "en": "",
-  "status": ""
+  "en": "So she's coverin' things up with makeup...",
+  "status": "tl"
  },
  {
   "id": "F21C38:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "見た目じゃ分からねえってことか…",
-  "en": "",
-  "status": ""
+  "en": "So you can't tell by looks alone...",
+  "status": "tl"
  },
  {
   "id": "F21CD4:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "こないな服を着ていても…",
-  "en": "",
-  "status": ""
+  "en": "Even wearin' clothes like these...",
+  "status": "tl"
  },
  {
   "id": "F21CD4:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "中身は…",
-  "en": "",
-  "status": ""
+  "en": "What's underneath...",
+  "status": "tl"
  },
  {
   "id": "F21D4C:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ロッカーん中に私服が入っとりまっせ！",
-  "en": "",
-  "status": ""
+  "en": "There's regular clothes in the locker!",
+  "status": "tl"
  },
  {
   "id": "F21D4C:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "勝手にのぞいていいのかよ?",
-  "en": "",
-  "status": ""
+  "en": "Is it okay to just peek in there?",
+  "status": "tl"
  },
  {
   "id": "F21D4C:5",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ん~、フローラルな香りやなあ",
-  "en": "",
-  "status": ""
+  "en": "Mmm~, smells all floral.",
+  "status": "tl"
  },
  {
   "id": "F21D4C:6",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "服もいかにも女の子って感じやわあ",
-  "en": "",
-  "status": ""
+  "en": "The clothes are super girly, too.",
+  "status": "tl"
  },
  {
   "id": "F21D4C:8",
   "kind": "msg",
   "speaker": "士度",
   "jp": "それで情報は?",
-  "en": "",
-  "status": ""
+  "en": "So, any info?",
+  "status": "tl"
  },
  {
   "id": "F21D4C:10",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "なさそやな…",
-  "en": "",
-  "status": ""
+  "en": "Don't look like there's anything...",
+  "status": "tl"
  },
  {
   "id": "F21EA8:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ん?　奥にガムテープで\nぐるぐる巻きにされた封筒発見！！",
-  "en": "",
-  "status": ""
+  "en": "Hm? Found an envelope way in the back, all wrapped up in duct tape!!",
+  "status": "tl"
  },
  {
   "id": "F21EA8:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "怪しいな…中身を見てみるか",
-  "en": "",
-  "status": ""
+  "en": "Suspicious... Let's see what's inside.",
+  "status": "tl"
  },
  {
   "id": "F21EA8:5",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "中身は…写真や！",
-  "en": "",
-  "status": ""
+  "en": "What's inside is... a photo!",
+  "status": "tl"
  },
  {
   "id": "F21EA8:6",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F21EA8:7",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "なんや、全然別人が写っとるんやけど…",
-  "en": "",
-  "status": ""
+  "en": "Huh? This is a totally different person in the picture...",
+  "status": "tl"
  },
  {
   "id": "F21EA8:9",
   "kind": "msg",
   "speaker": "士度",
   "jp": "………男?",
-  "en": "",
-  "status": ""
+  "en": ".........A man?",
+  "status": "tl"
  },
  {
   "id": "F21EA8:10",
   "kind": "msg",
   "speaker": "士度",
   "jp": "といってもコヤマ　ミキに\n特徴は似ているな",
-  "en": "",
-  "status": ""
+  "en": "Still, his features look a lot like Miki Koyama's.",
+  "status": "tl"
  },
  {
   "id": "F21EA8:12",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F21EA8:14",
@@ -1356,287 +1356,287 @@
   "kind": "msg",
   "speaker": "笑師",
   "jp": "怪しぃな、名前とか\n確認できるモン探してみましょか",
-  "en": "",
-  "status": ""
+  "en": "That's fishy. Let's look for somethin' that'll confirm a name or whatever.",
+  "status": "tl"
  },
  {
   "id": "F220D8:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "前の写真を剥ぎ取ったのって…",
-  "en": "",
-  "status": ""
+  "en": "So whoever tore out those earlier photos...",
+  "status": "tl"
  },
  {
   "id": "F220D8:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "証拠隠滅ってことなんだろうな…",
-  "en": "",
-  "status": ""
+  "en": "Was getting rid of the evidence, I guess...",
+  "status": "tl"
  },
  {
   "id": "F2216C:1",
   "kind": "msg",
   "speaker": "笑師",
-  "jp": "資料が入っとる翔やな\n…特にめぼしいもんはあらへんなあ",
-  "en": "",
-  "status": ""
+  "jp": "資料が入っとる棚やな\n…特にめぼしいもんはあらへんなあ",
+  "en": "This shelf's got files in it... Nothin' worth a look, though.",
+  "status": "tl"
  },
  {
   "id": "F2216C:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "収穫なしか…",
-  "en": "",
-  "status": ""
+  "en": "Nothing, huh...",
+  "status": "tl"
  },
  {
   "id": "F22208:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ん?\n資料に交じってアルバムが入ってまっせ",
-  "en": "",
-  "status": ""
+  "en": "Hm? There's an album mixed in with the files.",
+  "status": "tl"
  },
  {
   "id": "F22208:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "アルバム?",
-  "en": "",
-  "status": ""
+  "en": "A photo album?",
+  "status": "tl"
  },
  {
   "id": "F22208:5",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "題して『ミキ☆ヒストリー』",
-  "en": "",
-  "status": ""
+  "en": "It's called \"Miki☆History.\"",
+  "status": "tl"
  },
  {
   "id": "F22208:6",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "どれどれ…\nなんや~、可愛ェ子やんか~♥",
-  "en": "",
-  "status": ""
+  "en": "Lemme see... Whoa, ain't she a cutie~♥",
+  "status": "tl"
  },
  {
   "id": "F22208:8",
   "kind": "msg",
   "speaker": "士度",
   "jp": "ん?　いくつか剥ぎ取って\nある写真があるぞ",
-  "en": "",
-  "status": ""
+  "en": "Hm? Some of the photos have been torn out.",
+  "status": "tl"
  },
  {
   "id": "F22208:10",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "あらら?\n気に入らん写真やったんかな?",
-  "en": "",
-  "status": ""
+  "en": "Huh? Guess she didn't like those pictures?",
+  "status": "tl"
  },
  {
   "id": "F22208:12",
   "kind": "msg",
   "speaker": "士度",
   "jp": "取られた写真は\n前のページに集中しているな…",
-  "en": "",
-  "status": ""
+  "en": "The missing photos are all from the early pages...",
+  "status": "tl"
  },
  {
   "id": "F22208:14",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ナゾやな…",
-  "en": "",
-  "status": ""
+  "en": "Now that's a mystery...",
+  "status": "tl"
  },
  {
   "id": "F2241C:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "おっと白衣のポッケから社員証発見~",
-  "en": "",
-  "status": ""
+  "en": "Whoops, found an employee ID in the lab coat pocket~",
+  "status": "tl"
  },
  {
   "id": "F2241C:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "名前はコヤマ　ミキ…",
-  "en": "",
-  "status": ""
+  "en": "The name's Miki Koyama...",
+  "status": "tl"
  },
  {
   "id": "F2241C:5",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ミキちゃんか、可愛ェ名前やなあ",
-  "en": "",
-  "status": ""
+  "en": "Miki, huh? What a cute name.",
+  "status": "tl"
  },
  {
   "id": "F224EC:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "どれどれ社員証確認してみよか",
-  "en": "",
-  "status": ""
+  "en": "Let's check out that employee ID.",
+  "status": "tl"
  },
  {
   "id": "F224EC:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "名前はコヤマ　ミキ…",
-  "en": "",
-  "status": ""
+  "en": "The name's Miki Koyama...",
+  "status": "tl"
  },
  {
   "id": "F224EC:4",
   "kind": "msg",
   "speaker": "士度",
   "jp": "顔写真もアルバムのものだな",
-  "en": "",
-  "status": ""
+  "en": "The photo's from the album, too.",
+  "status": "tl"
  },
  {
   "id": "F224EC:6",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ん?　これ、\nなんか上から貼ってあらへん?",
-  "en": "",
-  "status": ""
+  "en": "Hm? Ain't somethin' stuck on this?",
+  "status": "tl"
  },
  {
   "id": "F224EC:8",
   "kind": "msg",
   "speaker": "士度",
   "jp": "確かに…名前と写真は上から\n貼り付けてあるみてえだな?",
-  "en": "",
-  "status": ""
+  "en": "You're right... Looks like the name and photo were pasted on over something.",
+  "status": "tl"
  },
  {
   "id": "F224EC:10",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "はがしてみよか",
-  "en": "",
-  "status": ""
+  "en": "Let's try peelin' it off.",
+  "status": "tl"
  },
  {
   "id": "F224EC:11",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F224EC:12",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "…………",
-  "en": "",
-  "status": ""
+  "en": "............",
+  "status": "tl"
  },
  {
   "id": "F224EC:13",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "……………",
-  "en": "",
-  "status": ""
+  "en": "...............",
+  "status": "tl"
  },
  {
   "id": "F224EC:14",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "アカ~ン、はがれんわ~",
-  "en": "",
-  "status": ""
+  "en": "No gooood, it won't come off!",
+  "status": "tl"
  },
  {
   "id": "F224EC:16",
   "kind": "msg",
   "speaker": "士度",
   "jp": "なにか隠してることがありそうだな?",
-  "en": "",
-  "status": ""
+  "en": "Looks like someone's hiding something.",
+  "status": "tl"
  },
  {
   "id": "F2271C:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "士度はん、\nカバンの奥底からパスポート発見！",
-  "en": "",
-  "status": ""
+  "en": "Shido, found a passport at the very bottom of the bag!",
+  "status": "tl"
  },
  {
   "id": "F2271C:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "これはさすがに偽れねえだろ",
-  "en": "",
-  "status": ""
+  "en": "Now this, nobody can fake.",
+  "status": "tl"
  },
  {
   "id": "F2271C:4",
   "kind": "msg",
   "speaker": "士度",
   "jp": "…で、なにが書いてあんだ?",
-  "en": "",
-  "status": ""
+  "en": "...So, what's it say?",
+  "status": "tl"
  },
  {
   "id": "F2271C:6",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "名前は…『小山　幹生』",
-  "en": "",
-  "status": ""
+  "en": "The name's... \"Mikio Koyama.\"",
+  "status": "tl"
  },
  {
   "id": "F2271C:7",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "生年月日…19800612",
-  "en": "",
-  "status": ""
+  "en": "Date of birth... 19800612.",
+  "status": "tl"
  },
  {
   "id": "F2271C:8",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "性別…『男』",
-  "en": "",
-  "status": ""
+  "en": "Sex... \"Male.\"",
+  "status": "tl"
  },
  {
   "id": "F2271C:9",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ど、どないなっとんのや！?",
-  "en": "",
-  "status": ""
+  "en": "Wh-what the heck's goin' on here?!",
+  "status": "tl"
  },
  {
   "id": "F2271C:11",
   "kind": "msg",
   "speaker": "士度",
   "jp": "まあ…そういうことなんだろうな",
-  "en": "",
-  "status": ""
+  "en": "Well... I guess that's how it is.",
+  "status": "tl"
  },
  {
   "id": "F2271C:12",
   "kind": "msg",
   "speaker": "士度",
   "jp": "そろそろパスワードが\n入力できそうだな?",
-  "en": "",
-  "status": ""
+  "en": "Guess we can enter the password now.",
+  "status": "tl"
  }
 ]

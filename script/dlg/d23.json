@@ -260,24 +260,24 @@
   "kind": "choice",
   "speaker": "蛮",
   "jp": "分かりません…",
-  "en": "",
-  "status": ""
+  "en": "I don't get it...",
+  "status": "tl"
  },
  {
   "id": "F46C8C:2",
   "kind": "choice",
   "speaker": "蛮",
   "jp": "分かったよ！",
-  "en": "",
-  "status": ""
+  "en": "Got it!",
+  "status": "tl"
  },
  {
   "id": "F46C8C:3",
   "kind": "prompt",
   "speaker": "蛮",
   "jp": "分かったかよ?",
-  "en": "",
-  "status": ""
+  "en": "Ya got that?",
+  "status": "tl"
  },
  {
   "id": "F46D1C:0",

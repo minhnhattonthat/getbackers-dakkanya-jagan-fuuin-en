@@ -58,6 +58,13 @@ glossary, pick a form (official English if you know it, else Hepburn), use it co
   百獣擬態 -> Hundred Beast Mimicry; ブルマン -> Blue Mountain; ウグイス廊下 -> nightingale floor; 招き猫 -> beckoning cat;
   カギ爪ロープ -> Grappling Rope; 地下室のカギ -> Basement Key; 清十郎 -> Seijuro.
 - More glyph misreads: 獄散 = 蹴散, 胤 = 脱, 菅 = 管, 綿 = 絡 (連絡), 頷 = 額, 勾 = 句 (文句), 閲 = 閉.
+- 小判 -> gold coins; ジャッカル (Ban about Akabane) -> Jackal; 巫面(かんなぎめん) -> Kannagi masks (Okina, Kami, Otoko,
+  Onna, Kurui, Oni); 能楽 -> Noh; てんとう虫 -> the Ladybug (Ban's car); ミスターノーブレーキ -> Mr. No Brakes;
+  ウニ頭 -> urchin head; 面ヤロー -> Mask Boy; 秀夫 -> Hideo; 猿マワシ -> monkey trainer; 白ヘビのバン -> Ban the white snake
+  (a pet snake named Ban: a "Ban" speaker tag can be the snake); 連絡通路キー -> Connecting Passage Key; IDパス -> ID Pass.
+- MAI songs: 還らないこと -> Never Coming Back; ゲットイットオン！奪還BABY -> Get It On! Get-Back Baby;
+  裏新宿……みれん -> Ura-Shinjuku... Lingering Love.
+- More glyph misreads (already fixed in later TSVs): 寮 = 察, 婿 = 婚, 鵠 = 設, 諌 = 読, 瞼 = 般, 披 = 彼.
 - Ginji's たれ (tare) form = "droopy" chibi Ginji ("go all droopy"). Mecha Hiruta speaks in ALL CAPS.
 - Known glyph misreads in the Japanese: 責様 = 貴様 (you bastard), 閲 = 閉, 誉 = 響, 薇 = 猿 (monkey; 猿擬 = Monkey
   Mimicry), 濤 = 議, 獺 = 殲. Kira's Italian stays Italian ("Benissimo!", "Tutto chiaro?").

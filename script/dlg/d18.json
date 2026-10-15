@@ -4,392 +4,392 @@
   "kind": "msg",
   "speaker": "銀次",
   "jp": "後はもう一つの水槽だね！",
-  "en": "",
-  "status": ""
+  "en": "Now there's just the other tank!",
+  "status": "tl"
  },
  {
   "id": "F31460:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ったく、\nプールになにがあるってンだよ…",
-  "en": "",
-  "status": ""
+  "en": "Jeez, what's in the pool anyway...",
+  "status": "tl"
  },
  {
   "id": "F31460:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あれ、底の方になにか光ってない?",
-  "en": "",
-  "status": ""
+  "en": "Huh, isn't something shining down at the bottom?",
+  "status": "tl"
  },
  {
   "id": "F31460:5",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ん~、カギみたいやな…",
-  "en": "",
-  "status": ""
+  "en": "Hmm, looks like a key...",
+  "status": "tl"
  },
  {
   "id": "F31460:6",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "こっちにはイルカもおらんし、\nどないしよか?",
-  "en": "",
-  "status": ""
+  "en": "There ain't no dolphins over here neither... What do we do?",
+  "status": "tl"
  },
  {
   "id": "F31460:8",
   "kind": "msg",
   "speaker": "士度",
   "jp": "プールの水を抜くしかねえだろうな…",
-  "en": "",
-  "status": ""
+  "en": "Only thing to do is drain the pool...",
+  "status": "tl"
  },
  {
   "id": "F31460:10",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ええっ、水ってどうやって抜くの！?",
-  "en": "",
-  "status": ""
+  "en": "Whaaat?! How do we drain the water?!",
+  "status": "tl"
  },
  {
   "id": "F31460:12",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "オーシャンチューブの水を抜いたトコに\n水量調節機械があっただろうが?",
-  "en": "",
-  "status": ""
+  "en": "There was a water control machine where we drained the Ocean Tube, remember?",
+  "status": "tl"
  },
  {
   "id": "F31460:13",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "あのどれか一つのレバーをいじれば\nここの水を抜くことが出来るってこった",
-  "en": "",
-  "status": ""
+  "en": "Mess with one of those levers, and we can drain the water here.",
+  "status": "tl"
  },
  {
   "id": "F31460:15",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "そっか！\nじゃあ行ってみようよ",
-  "en": "",
-  "status": ""
+  "en": "Oh yeah! Let's go, then.",
+  "status": "tl"
  },
  {
   "id": "F316FC:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "水がなくなって\n下に降りられるようになったな…",
-  "en": "",
-  "status": ""
+  "en": "Water's gone, so now we can get down there...",
+  "status": "tl"
  },
  {
   "id": "F316FC:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "階段から下に降りてみよっか！",
-  "en": "",
-  "status": ""
+  "en": "Let's take the stairs down!",
+  "status": "tl"
  },
  {
   "id": "F317A4:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あれ真っ暗だね…",
-  "en": "",
-  "status": ""
+  "en": "Huh, it's pitch black...",
+  "status": "tl"
  },
  {
   "id": "F317A4:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "電気がきてねえのか?",
-  "en": "",
-  "status": ""
+  "en": "No power?",
+  "status": "tl"
  },
  {
   "id": "F317A4:4",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "まずはどっかで電気を点けねえとな…",
-  "en": "",
-  "status": ""
+  "en": "First we gotta get the lights on somewhere...",
+  "status": "tl"
  },
  {
   "id": "F31850:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "んじゃ、とりあえず\n発電力の低い魚から試してみるか…",
-  "en": "",
-  "status": ""
+  "en": "Okay, let's start with the fish with the weakest charge...",
+  "status": "tl"
  },
  {
   "id": "F31850:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "スケイト…発電力1ボルトの魚だね",
-  "en": "",
-  "status": ""
+  "en": "A skate... it puts out 1 volt.",
+  "status": "tl"
  },
  {
   "id": "F31850:4",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "でも刺激を与えるって\nどうしたらいいのかな?",
-  "en": "",
-  "status": ""
+  "en": "But how do we stimulate it?",
+  "status": "tl"
  },
  {
   "id": "F31850:6",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "そんなんお前が向こうに\n電気流しゃいいんじゃねえの?",
-  "en": "",
-  "status": ""
+  "en": "Can't you just zap it with your electricity?",
+  "status": "tl"
  },
  {
   "id": "F31850:7",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "したら向こうも\nビビって電気発するだろうよ",
-  "en": "",
-  "status": ""
+  "en": "Then it'll get spooked and let off some juice too.",
+  "status": "tl"
  },
  {
   "id": "F31850:9",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "うん！　分かった！！",
-  "en": "",
-  "status": ""
+  "en": "Yeah! Got it!!",
+  "status": "tl"
  },
  {
   "id": "F31850:10",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "オレの電気は\nAボタンを押すと発電するよ！",
-  "en": "",
-  "status": ""
+  "en": "Press the A Button to make me generate electricity!",
+  "status": "tl"
  },
  {
   "id": "F31850:11",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "この水槽は電気をあまり通さないから、\n結構ガンバんないとダメかもね！",
-  "en": "",
-  "status": ""
+  "en": "This tank doesn't conduct electricity very well, so I might have to try really hard!",
+  "status": "tl"
  },
  {
   "id": "F31850:12",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "準備が整ったら始めよう！",
-  "en": "",
-  "status": ""
+  "en": "Let's start when you're ready!",
+  "status": "tl"
  },
  {
   "id": "F31AB4:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "じゃ、やってみよう~！！",
-  "en": "",
-  "status": ""
+  "en": "Okay, let's do this!!",
+  "status": "tl"
  },
  {
   "id": "F31AB4:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おっしゃ、銀次！\n気合入れて連打しろや！！",
-  "en": "",
-  "status": ""
+  "en": "All right, Ginji! Get fired up and mash that button!!",
+  "status": "tl"
  },
  {
   "id": "F31B50:1",
   "kind": "msg",
   "speaker": "銀次",
-  "jp": "やった！\n鵠定電力を満たしたよ！！",
-  "en": "",
-  "status": ""
+  "jp": "やった！\n設定電力を満たしたよ！！",
+  "en": "Yay! I hit the required power!!",
+  "status": "tl"
  },
  {
   "id": "F31B50:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "よし、残りのモンもガンバってくれや",
-  "en": "",
-  "status": ""
+  "en": "Good, keep it up for the rest, too.",
+  "status": "tl"
  },
  {
   "id": "F31B50:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "う~ん、\nなんかお腹すいてきたような~…",
-  "en": "",
-  "status": ""
+  "en": "Uuugh, I think I'm getting hungry...",
+  "status": "tl"
  },
  {
   "id": "F31B50:7",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ンなモン、依頼料さえ入りゃあ\n好きなモンたらふく食わしてやるって！",
-  "en": "",
-  "status": ""
+  "en": "Once we get paid, you can stuff yourself with whatever ya want!",
+  "status": "tl"
  },
  {
   "id": "F31B50:9",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "やったあ！\nじゃあオレ、刺身がいいな！！",
-  "en": "",
-  "status": ""
+  "en": "Yaaay! Then I want sashimi!!",
+  "status": "tl"
  },
  {
   "id": "F31B50:11",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おう、寿司でも刺身でも\nなんでも好きなモン選べや！！",
-  "en": "",
-  "status": ""
+  "en": "Sure, sushi, sashimi, pick whatever ya like!!",
+  "status": "tl"
  },
  {
   "id": "F31B50:13",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "…水族館でこないな話\n大声でしててエエんやろか…",
-  "en": "",
-  "status": ""
+  "en": "...Is it okay to be talkin' like that out loud in an aquarium...",
+  "status": "tl"
  },
  {
   "id": "F31D98:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "やった~！\nこれで全部終了~！！",
-  "en": "",
-  "status": ""
+  "en": "Yaaay! That's all of 'em!!",
+  "status": "tl"
  },
  {
   "id": "F31D98:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "電気も点いたし\n隔壁の方も解除されたみてぇだな?",
-  "en": "",
-  "status": ""
+  "en": "Lights are on, and looks like the bulkhead's open too.",
+  "status": "tl"
  },
  {
   "id": "F31D98:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あ、ねえ床にカギが落ちてるよ?",
-  "en": "",
-  "status": ""
+  "en": "Oh, hey, there's a key on the floor.",
+  "status": "tl"
  },
  {
   "id": "F31D98:6",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "SRキー4をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got SR Key 4!",
+  "status": "tl"
  },
  {
   "id": "F31EC0:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ジャッカル！",
-  "en": "",
-  "status": ""
+  "en": "Jackal!",
+  "status": "tl"
  },
  {
   "id": "F31EC0:3",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "おや、これはこれは…\nやはりみなさんには縁があるようですね",
-  "en": "",
-  "status": ""
+  "en": "Well, well... It seems we truly are fated to meet.",
+  "status": "tl"
  },
  {
   "id": "F31EC0:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "テメー…こンなとこでなにしてやがる?",
-  "en": "",
-  "status": ""
+  "en": "You... what're you doin' in a place like this?",
+  "status": "tl"
  },
  {
   "id": "F31EC0:7",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "仕事ですよ\n私は運び屋ですからね…",
-  "en": "",
-  "status": ""
+  "en": "Working. I am a Transporter, after all...",
+  "status": "tl"
  },
  {
   "id": "F31EC0:9",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "…連中の探している\n『ヒミコ』ってのはなんだ?",
-  "en": "",
-  "status": ""
+  "en": "...What's this \"Himiko\" those guys are lookin' for?",
+  "status": "tl"
  },
  {
   "id": "F31EC0:11",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "存じません…",
-  "en": "",
-  "status": ""
+  "en": "I couldn't say...",
+  "status": "tl"
  },
  {
   "id": "F31EC0:12",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "私は仕事の内容よりも\nその過程に興味がありますからね…",
-  "en": "",
-  "status": ""
+  "en": "I'm more interested in the process of a job than its content...",
+  "status": "tl"
  },
  {
   "id": "F31EC0:13",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "退屈な仕事になるかと思いましたが、\n思いのほか楽しめそうですね…",
-  "en": "",
-  "status": ""
+  "en": "I thought this would be a dull job, but it seems I'll enjoy it more than expected...",
+  "status": "tl"
  },
  {
   "id": "F31EC0:14",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "では、参りますよ",
-  "en": "",
-  "status": ""
+  "en": "Now then, here I come.",
+  "status": "tl"
  },
  {
   "id": "F31EC0:16",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "！！",
-  "en": "",
-  "status": ""
+  "en": "!!",
+  "status": "tl"
  },
  {
   "id": "F321AC:1",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "やはり興味深いですね…あなたがたは\n以前よりも戦闘能力が増しているようだ",
-  "en": "",
-  "status": ""
+  "en": "Fascinating, as always... You seem to have grown stronger in battle since last time.",
+  "status": "tl"
  },
  {
   "id": "F321AC:2",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "もっとも、そうでないとこちらとしても\n楽しみ甲斐がないのですが…",
-  "en": "",
-  "status": ""
+  "en": "Then again, if you hadn't, it wouldn't be much fun for me...",
+  "status": "tl"
  },
  {
   "id": "F321AC:4",
@@ -404,120 +404,120 @@
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "またお会いできるといいですね…\nそれでは失礼致します",
-  "en": "",
-  "status": ""
+  "en": "I hope we meet again... Now, if you'll excuse me.",
+  "status": "tl"
  },
  {
   "id": "F321AC:7",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "ばんばねのM、ばんぎんのMをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Ban & Akabane M and the Ban & Ginji M!",
+  "status": "tl"
  },
  {
   "id": "F323B4:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "雪彦君…！",
-  "en": "",
-  "status": ""
+  "en": "Yukihiko...!",
+  "status": "tl"
  },
  {
   "id": "F323B4:3",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "銀次君！",
-  "en": "",
-  "status": ""
+  "en": "Ginji!",
+  "status": "tl"
  },
  {
   "id": "F323B4:4",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "それに…美堂蛮！！",
-  "en": "",
-  "status": ""
+  "en": "And... Ban Mido!!",
+  "status": "tl"
  },
  {
   "id": "F323B4:6",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "なんだ、テメーもここで仕事か?",
-  "en": "",
-  "status": ""
+  "en": "What, you workin' here too?",
+  "status": "tl"
  },
  {
   "id": "F323B4:8",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F323B4:10",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "雪彦君、さっきはレナちゃんを\n助けてくれてありがとう",
-  "en": "",
-  "status": ""
+  "en": "Yukihiko, thanks for helping Rena earlier.",
+  "status": "tl"
  },
  {
   "id": "F323B4:12",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "あの人、\nやっぱり知り合いだったんだね?",
-  "en": "",
-  "status": ""
+  "en": "So she was your friend after all?",
+  "status": "tl"
  },
  {
   "id": "F323B4:13",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "無事に逃げられたか\n心配だったんだけど…良かったよ",
-  "en": "",
-  "status": ""
+  "en": "I was worried whether she got away safely... I'm glad.",
+  "status": "tl"
  },
  {
   "id": "F323B4:15",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "レナちゃんが世話ンなったってンなら\n仕方ねえな…",
-  "en": "",
-  "status": ""
+  "en": "If you looked out for Rena, then I guess...",
+  "status": "tl"
  },
  {
   "id": "F323B4:16",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "今日のところは見逃してやるぜ",
-  "en": "",
-  "status": ""
+  "en": "I'll let you off the hook for today.",
+  "status": "tl"
  },
  {
   "id": "F323B4:18",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "我ら弥勒一族から逃れられると思うなよ\n美堂蛮！！",
-  "en": "",
-  "status": ""
+  "en": "Don't think you can escape us, the Miroku clan, Ban Mido!!",
+  "status": "tl"
  },
  {
   "id": "F323B4:20",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "出てきやがったか…夏彦！",
-  "en": "",
-  "status": ""
+  "en": "So you finally showed up... Natsuhiko!",
+  "status": "tl"
  },
  {
   "id": "F323B4:22",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "エリスの仇…とらせてもらうぞ！",
-  "en": "",
-  "status": ""
+  "en": "I'll avenge Eris... count on it!",
+  "status": "tl"
  },
  {
   "id": "F323B4:24",
@@ -532,32 +532,32 @@
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F32834:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "なんだ、ヤメるってのか?\nまだ戦えんだろうが",
-  "en": "",
-  "status": ""
+  "en": "What, you're quittin'? You can still fight, can'tcha?",
+  "status": "tl"
  },
  {
   "id": "F32834:5",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "兄たちはまだあなたと\n戦いたがっていますが…",
-  "en": "",
-  "status": ""
+  "en": "My brothers still want to fight you, but...",
+  "status": "tl"
  },
  {
   "id": "F32834:6",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "今日はここで終わりにしましょう",
-  "en": "",
-  "status": ""
+  "en": "Let's end it here for today.",
+  "status": "tl"
  },
  {
   "id": "F32834:8",
@@ -572,872 +572,872 @@
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "ただ…僕としても\nあなたを許したわけじゃない",
-  "en": "",
-  "status": ""
+  "en": "But... I haven't forgiven you either.",
+  "status": "tl"
  },
  {
   "id": "F32834:11",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "それだけは覚えていて下さい",
-  "en": "",
-  "status": ""
+  "en": "Please remember that much.",
+  "status": "tl"
  },
  {
   "id": "F32834:13",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ああ、覚えといてやるよ",
-  "en": "",
-  "status": ""
+  "en": "Yeah, I'll remember.",
+  "status": "tl"
  },
  {
   "id": "F32834:15",
   "kind": "prompt",
   "speaker": "弥勒",
   "jp": "…さよなら",
-  "en": "",
-  "status": ""
+  "en": "...Goodbye.",
+  "status": "tl"
  },
  {
   "id": "F32834:16",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "銀次君",
-  "en": "",
-  "status": ""
+  "en": "Ginji...",
+  "status": "tl"
  },
  {
   "id": "F32AE8:1",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "花月…！",
-  "en": "",
-  "status": ""
+  "en": "Kazuki...!",
+  "status": "tl"
  },
  {
   "id": "F32AE8:3",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "…なんだ、あの面は！?",
-  "en": "",
-  "status": ""
+  "en": "...What's with that mask?!",
+  "status": "tl"
  },
  {
   "id": "F32AE8:5",
   "kind": "msg",
   "speaker": "花月",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F32AE8:7",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "…なるほどな",
-  "en": "",
-  "status": ""
+  "en": "...I see.",
+  "status": "tl"
  },
  {
   "id": "F32AE8:8",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "他の面をつけたザコ共も\nああやって操ってるってワケか",
-  "en": "",
-  "status": ""
+  "en": "So that's how you're controlling the other small fry in masks too.",
+  "status": "tl"
  },
  {
   "id": "F32AE8:10",
   "kind": "msg",
   "speaker": "鬼夜叉",
   "jp": "さすがに頭の回転が速いネ、\n美堂蛮サン?",
-  "en": "",
-  "status": ""
+  "en": "Quick on the uptake as always, huh, Ban Mido?",
+  "status": "tl"
  },
  {
   "id": "F32AE8:12",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "じゃあ…カヅっちゃんも\n面に操られてるってこと?",
-  "en": "",
-  "status": ""
+  "en": "So... Kazu's being controlled by a mask too?",
+  "status": "tl"
  },
  {
   "id": "F32AE8:14",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "…そういうことになンだろうな",
-  "en": "",
-  "status": ""
+  "en": "...Looks that way.",
+  "status": "tl"
  },
  {
   "id": "F32AE8:16",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "そんな…カヅっちゃん！\n目を覚ましてよ！！",
-  "en": "",
-  "status": ""
+  "en": "No way... Kazu! Wake up!!",
+  "status": "tl"
  },
  {
   "id": "F32AE8:18",
   "kind": "msg",
   "speaker": "花月",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F32AE8:20",
   "kind": "msg",
   "speaker": "京介",
   "jp": "呼びかけても無駄です",
-  "en": "",
-  "status": ""
+  "en": "Calling out to him is pointless.",
+  "status": "tl"
  },
  {
   "id": "F32AE8:21",
   "kind": "msg",
   "speaker": "京介",
   "jp": "この者の精神は\n面に完全に取り込まれている…",
-  "en": "",
-  "status": ""
+  "en": "His mind has been completely swallowed by the mask...",
+  "status": "tl"
  },
  {
   "id": "F32AE8:23",
   "kind": "msg",
   "speaker": "鬼夜叉",
   "jp": "そう、この人を奪り還したいなら、\n面を破壊しなくっちゃ",
-  "en": "",
-  "status": ""
+  "en": "Right. If you want him back, you'll have to destroy the mask.",
+  "status": "tl"
  },
  {
   "id": "F32AE8:24",
   "kind": "msg",
   "speaker": "鬼夜叉",
   "jp": "ま、どっちにしたって双方無傷って\nワケにはいかないだろうけどサ?",
-  "en": "",
-  "status": ""
+  "en": "Well, either way, I doubt both sides'll walk away without a scratch, y'know?",
+  "status": "tl"
  },
  {
   "id": "F32AE8:26",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "そんな………",
-  "en": "",
-  "status": ""
+  "en": "No way...",
+  "status": "tl"
  },
  {
   "id": "F32AE8:28",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "ここは我々に任せてもらおうか、雷帝",
-  "en": "",
-  "status": ""
+  "en": "Leave this to us, Raitei.",
+  "status": "tl"
  },
  {
   "id": "F32AE8:30",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "俺たちが必ず花月を奪還してみせる",
-  "en": "",
-  "status": ""
+  "en": "We will get Kazuki back. Count on it.",
+  "status": "tl"
  },
  {
   "id": "F32AE8:32",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "十兵衛、雨流…",
-  "en": "",
-  "status": ""
+  "en": "Juubei, Uryu...",
+  "status": "tl"
  },
  {
   "id": "F32AE8:34",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "油断するなよ、雨流",
-  "en": "",
-  "status": ""
+  "en": "Don't let your guard down, Uryu.",
+  "status": "tl"
  },
  {
   "id": "F32AE8:35",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "相手はあの花月だ…\n面だけに気を取られると命はないぞ",
-  "en": "",
-  "status": ""
+  "en": "This is Kazuki we're facing... Focus only on the mask and you're dead.",
+  "status": "tl"
  },
  {
   "id": "F32AE8:37",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "元より承知の上だ…行くぞ！",
-  "en": "",
-  "status": ""
+  "en": "I knew that going in... Let's go!",
+  "status": "tl"
  },
  {
   "id": "F32AE8:39",
   "kind": "msg",
   "speaker": "花月",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F332EC:1",
   "kind": "prompt",
   "speaker": "十兵衛",
   "jp": "目覚めろ",
-  "en": "",
-  "status": ""
+  "en": "Wake up",
+  "status": "tl"
  },
  {
   "id": "F332EC:2",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "花月！！",
-  "en": "",
-  "status": ""
+  "en": "Kazuki!!",
+  "status": "tl"
  },
  {
   "id": "F332EC:3",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "聞こえるはずだ！",
-  "en": "",
-  "status": ""
+  "en": "You must be able to hear me!",
+  "status": "tl"
  },
  {
   "id": "F332EC:4",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "貴様の「魂」がまだ一筋の絃で\nその体と繋がっているなら必ず！！",
-  "en": "",
-  "status": ""
+  "en": "If your \"soul\" is still bound to that body by a single string, you will!!",
+  "status": "tl"
  },
  {
   "id": "F333F8:1",
   "kind": "msg",
   "speaker": "花月",
   "jp": "十…兵衛",
-  "en": "",
-  "status": ""
+  "en": "Juu...bei.",
+  "status": "tl"
  },
  {
   "id": "F333F8:3",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "…やはり残っていたか\n一本の絃が",
-  "en": "",
-  "status": ""
+  "en": "...So one string did remain.",
+  "status": "tl"
  },
  {
   "id": "F333F8:5",
   "kind": "msg",
   "speaker": "花月",
   "jp": "ああ…戻ってこれたよ",
-  "en": "",
-  "status": ""
+  "en": "Yes... I've made it back.",
+  "status": "tl"
  },
  {
   "id": "F333F8:6",
   "kind": "msg",
   "speaker": "花月",
   "jp": "君の血で染まった\nこの「赤い絃」のおかげで…",
-  "en": "",
-  "status": ""
+  "en": "Thanks to this \"red string,\" dyed with your blood...",
+  "status": "tl"
  },
  {
   "id": "F333F8:8",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "…どうやら奪り還せたようだな?",
-  "en": "",
-  "status": ""
+  "en": "...Looks like we got him back, eh?",
+  "status": "tl"
  },
  {
   "id": "F333F8:10",
   "kind": "msg",
   "speaker": "花月",
   "jp": "すまない、二人とも…\nただ僕は…",
-  "en": "",
-  "status": ""
+  "en": "I'm sorry, both of you... It's just that I...",
+  "status": "tl"
  },
  {
   "id": "F333F8:12",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "お前のことだ、考えもなしに\n捕まるわけはないと思っていた",
-  "en": "",
-  "status": ""
+  "en": "Knowing you, I never thought you'd get captured without a plan.",
+  "status": "tl"
  },
  {
   "id": "F333F8:13",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "なにか考えが\nあってのことだったんだな?",
-  "en": "",
-  "status": ""
+  "en": "You had a plan in mind, didn't you?",
+  "status": "tl"
  },
  {
   "id": "F333F8:15",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "だがそのことは後で聞こう\n今はゆっくりと体を休めているといい",
-  "en": "",
-  "status": ""
+  "en": "But we'll hear about that later. For now, just rest your body.",
+  "status": "tl"
  },
  {
   "id": "F33740:1",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "…どうもカギがかかっているようだな",
-  "en": "",
-  "status": ""
+  "en": "...It seems to be locked.",
+  "status": "tl"
  },
  {
   "id": "F33740:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "こっちはパスじゃ開かねえか…",
-  "en": "",
-  "status": ""
+  "en": "The pass won't open this one, huh...",
+  "status": "tl"
  },
  {
   "id": "F337DC:1",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "…カギがかかっているな?",
-  "en": "",
-  "status": ""
+  "en": "...It's locked, isn't it?",
+  "status": "tl"
  },
  {
   "id": "F337DC:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "こっちは別のカギが必要みてぇだな",
-  "en": "",
-  "status": ""
+  "en": "Looks like this one needs a different key.",
+  "status": "tl"
  },
  {
   "id": "F3386C:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "オイ、警報装置のある部屋に\nカギがかかってンぞ?",
-  "en": "",
-  "status": ""
+  "en": "Hey, the room with the alarm system is locked, y'know?",
+  "status": "tl"
  },
  {
   "id": "F3386C:3",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "カギが?　あそこのカギは\n館長が持っていると思いますが…",
-  "en": "",
-  "status": ""
+  "en": "Locked? I believe the director has the key to that room...",
+  "status": "tl"
  },
  {
   "id": "F3386C:4",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "館長は今日は出張しているんです",
-  "en": "",
-  "status": ""
+  "en": "The director's away on a business trip today.",
+  "status": "tl"
  },
  {
   "id": "F3386C:6",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "ということは、あの部屋のカギは\nここにないということだな?",
-  "en": "",
-  "status": ""
+  "en": "Which means the key to that room isn't here, correct?",
+  "status": "tl"
  },
  {
   "id": "F3386C:8",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "そうなりますね…",
-  "en": "",
-  "status": ""
+  "en": "I guess so...",
+  "status": "tl"
  },
  {
   "id": "F3386C:10",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "どうする、蛮ちゃん?",
-  "en": "",
-  "status": ""
+  "en": "What do we do, Ban?",
+  "status": "tl"
  },
  {
   "id": "F3386C:12",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "…こうなったら\nトビラをぶっ壊すしかねえな",
-  "en": "",
-  "status": ""
+  "en": "...At this point, we'll just have to smash the door down.",
+  "status": "tl"
  },
  {
   "id": "F3386C:14",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "そ、そんな乱暴な…ここはまだ\nオープンもしていないんですよ！?",
-  "en": "",
-  "status": ""
+  "en": "Wh-that's so violent... This place hasn't even opened yet, you know?!",
+  "status": "tl"
  },
  {
   "id": "F3386C:16",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "つったって、他に手段がねえんじゃなあ",
-  "en": "",
-  "status": ""
+  "en": "Well, if there's no other way...",
+  "status": "tl"
  },
  {
   "id": "F3386C:18",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "…なくはないです",
-  "en": "",
-  "status": ""
+  "en": "...There is another way.",
+  "status": "tl"
  },
  {
   "id": "F3386C:20",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "えっ、どうするの?",
-  "en": "",
-  "status": ""
+  "en": "Huh? What is it?",
+  "status": "tl"
  },
  {
   "id": "F3386C:22",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "中央左の部屋は開くはずなので、\nそこから行くことができるはずです",
-  "en": "",
-  "status": ""
+  "en": "The middle-left room should be open, so you should be able to get there from that room.",
+  "status": "tl"
  },
  {
   "id": "F3386C:23",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "オーシャンチューブを通れば…",
-  "en": "",
-  "status": ""
+  "en": "By going through the Ocean Tube...",
+  "status": "tl"
  },
  {
   "id": "F3386C:25",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "オーシャンチューブって、\nあの水の入っとるチューブかいな！?",
-  "en": "",
-  "status": ""
+  "en": "The Ocean Tube? Ya mean that tube full of water?!",
+  "status": "tl"
  },
  {
   "id": "F3386C:27",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "はい、まだ魚を入れる前の状態なので、\n今なら水を抜くことができます",
-  "en": "",
-  "status": ""
+  "en": "Yes. We haven't put the fish in yet, so the water can still be drained.",
+  "status": "tl"
  },
  {
   "id": "F3386C:28",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "水を抜く装置も左の部屋にありますよ",
-  "en": "",
-  "status": ""
+  "en": "The device for draining it is in the left room too.",
+  "status": "tl"
  },
  {
   "id": "F3386C:30",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "で、水の抜き方ってのは?",
-  "en": "",
-  "status": ""
+  "en": "So how do we drain it?",
+  "status": "tl"
  },
  {
   "id": "F3386C:32",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "私は新人なのでそこまでは…",
-  "en": "",
-  "status": ""
+  "en": "I'm new here, so I don't know that much...",
+  "status": "tl"
  },
  {
   "id": "F3386C:33",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "確かどれか一つのレバーを上げるか\n下げるかするといいはずなんですが…",
-  "en": "",
-  "status": ""
+  "en": "I think you just raise or lower one of the levers...",
+  "status": "tl"
  },
  {
   "id": "F3386C:35",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "う、う~ん…なんか不安…",
-  "en": "",
-  "status": ""
+  "en": "Uh, uhh... I've got a bad feeling about this...",
+  "status": "tl"
  },
  {
   "id": "F3386C:37",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ま、やるしかねえだろうな…\n行ってみるとするか",
-  "en": "",
-  "status": ""
+  "en": "Well, guess we've got no choice... Let's go have a look.",
+  "status": "tl"
  },
  {
   "id": "F3386C:39",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "あ、待って下さい\nカギを持っていって下さい",
-  "en": "",
-  "status": ""
+  "en": "Oh, wait. Please take the key.",
+  "status": "tl"
  },
  {
   "id": "F3386C:40",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "このカギがあれば\n赤いトビラを開くことができますよ",
-  "en": "",
-  "status": ""
+  "en": "This key will open the red door.",
+  "status": "tl"
  },
  {
   "id": "F3386C:41",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "それともしも間違って\n別の水量調節レバーをいじってしまうと",
-  "en": "",
-  "status": ""
+  "en": "Also, if you touch the wrong water level lever by mistake...",
+  "status": "tl"
  },
  {
   "id": "F3386C:42",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "緊急警報が鳴るので注意して下さい",
-  "en": "",
-  "status": ""
+  "en": "Emergency alarms will go off, so please be careful.",
+  "status": "tl"
  },
  {
   "id": "F3386C:43",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "ちなみにこの緊急警報が解除されると\n間違ったレバーは元に戻りますから",
-  "en": "",
-  "status": ""
+  "en": "By the way, once the emergency alarm is turned off, the wrong lever goes back to how it was...",
+  "status": "tl"
  },
  {
   "id": "F3386C:44",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "あなた方が元に\n戻したりしなくて大丈夫ですよ",
-  "en": "",
-  "status": ""
+  "en": "So you don't need to reset it yourselves.",
+  "status": "tl"
  },
  {
   "id": "F3386C:45",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "SRキー1をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got SR Key 1!",
+  "status": "tl"
  },
  {
   "id": "F3403C:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ン、アンタここのスタッフか?",
-  "en": "",
-  "status": ""
+  "en": "Hm? You work here?",
+  "status": "tl"
  },
  {
   "id": "F3403C:3",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "はい、そうですけど…",
-  "en": "",
-  "status": ""
+  "en": "Yes, I do...",
+  "status": "tl"
  },
  {
   "id": "F3403C:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "下に行く階段が閉じちまってる\nみてえなんだが、どうにかなんねーか?",
-  "en": "",
-  "status": ""
+  "en": "Looks like the stairs going down got sealed off. Can you do anything about it?",
+  "status": "tl"
  },
  {
   "id": "F3403C:7",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "そうですか、\n警報装置が作動したみたいですね…",
-  "en": "",
-  "status": ""
+  "en": "I see. It looks like the alarm system went off...",
+  "status": "tl"
  },
  {
   "id": "F3403C:8",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "隔壁を除くには\nまず警報を解除しなくてはなりません",
-  "en": "",
-  "status": ""
+  "en": "To remove the bulkhead, the alarm has to be turned off first.",
+  "status": "tl"
  },
  {
   "id": "F3403C:9",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "警報を解除するには警報装置を\n操作しなければならないんですけど…",
-  "en": "",
-  "status": ""
+  "en": "To turn off the alarm, someone has to operate the alarm system, but...",
+  "status": "tl"
  },
  {
   "id": "F3403C:11",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "けど…?",
-  "en": "",
-  "status": ""
+  "en": "But...?",
+  "status": "tl"
  },
  {
   "id": "F3403C:13",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "さっき足をくじいてしまいまして、\n私がそこに行くことはできません…",
-  "en": "",
-  "status": ""
+  "en": "I twisted my ankle a while ago, so I can't go there myself...",
+  "status": "tl"
  },
  {
   "id": "F3403C:14",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "すみませんが、\nみなさんで警報を解除して下さい",
-  "en": "",
-  "status": ""
+  "en": "I'm sorry, but could you all turn off the alarm?",
+  "status": "tl"
  },
  {
   "id": "F3403C:16",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "で、その装置ってのはどこにあンだ?",
-  "en": "",
-  "status": ""
+  "en": "So where's this system, anyway?",
+  "status": "tl"
  },
  {
   "id": "F3403C:18",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "通路の中央右側の部屋です\nオーシャンチューブのある辺りですね",
-  "en": "",
-  "status": ""
+  "en": "In the room on the right, halfway down the passage. Around where the Ocean Tube is.",
+  "status": "tl"
  },
  {
   "id": "F3403C:20",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "オーシャンチューブ???",
-  "en": "",
-  "status": ""
+  "en": "Ocean Tube???",
+  "status": "tl"
  },
  {
   "id": "F3403C:22",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "頭上にチューブ型の水槽があるんです",
-  "en": "",
-  "status": ""
+  "en": "There's a tube-shaped tank overhead.",
+  "status": "tl"
  },
  {
   "id": "F3403C:23",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "ここはオープン前だから\nまだ魚は入ってないんですけどね…",
-  "en": "",
-  "status": ""
+  "en": "We haven't opened yet, so there aren't any fish in it...",
+  "status": "tl"
  },
  {
   "id": "F3403C:25",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "なるほどな…\nよし、行ってみるとするか",
-  "en": "",
-  "status": ""
+  "en": "Got it... Okay, let's go check it out.",
+  "status": "tl"
  },
  {
   "id": "F3449C:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "助けに来ましたよ！",
-  "en": "",
-  "status": ""
+  "en": "We came to rescue you!",
+  "status": "tl"
  },
  {
   "id": "F3449C:3",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "あ…どうもありがとうございます…",
-  "en": "",
-  "status": ""
+  "en": "Oh... Thank you very much...",
+  "status": "tl"
  },
  {
   "id": "F3449C:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "アンタ、ここのスタッフだよな?",
-  "en": "",
-  "status": ""
+  "en": "You work here, right?",
+  "status": "tl"
  },
  {
   "id": "F3449C:7",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "あ、はい…そうですけど…",
-  "en": "",
-  "status": ""
+  "en": "Ah, yes... I do...",
+  "status": "tl"
  },
  {
   "id": "F3449C:9",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "このフロアの電気を点けるにゃ\nどうしたらいいんだ?",
-  "en": "",
-  "status": ""
+  "en": "What do we gotta do to turn on the lights on this floor?",
+  "status": "tl"
  },
  {
   "id": "F3449C:11",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "電気ですかあ…\nここって元々暗いとこなんですよね…",
-  "en": "",
-  "status": ""
+  "en": "The lights, huh... This place is supposed to be dark, actually...",
+  "status": "tl"
  },
  {
   "id": "F3449C:12",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "あの…ここだけまだ電気が\n供給されていないっていうか…",
-  "en": "",
-  "status": ""
+  "en": "Um... It's just that this area isn't getting power yet, sort of...",
+  "status": "tl"
  },
  {
   "id": "F3449C:13",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "そんな感じで…",
-  "en": "",
-  "status": ""
+  "en": "Something like that...",
+  "status": "tl"
  },
  {
   "id": "F3449C:15",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ということは明るくならないってこと?",
-  "en": "",
-  "status": ""
+  "en": "So it can't be lit up?",
+  "status": "tl"
  },
  {
   "id": "F3449C:17",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "あ、でも一時的に\n明るくさせることはできるかも…",
-  "en": "",
-  "status": ""
+  "en": "Oh, but maybe it can be lit up temporarily...",
+  "status": "tl"
  },
  {
   "id": "F3449C:19",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "その方法とは?",
-  "en": "",
-  "status": ""
+  "en": "And how is that?",
+  "status": "tl"
  },
  {
   "id": "F3449C:21",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "あの…ここって\n電気ナマズとかがいるんですよね…",
-  "en": "",
-  "status": ""
+  "en": "Um... There are electric catfish and such in here...",
+  "status": "tl"
  },
  {
   "id": "F3449C:22",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "そういうのが全部発電してくれれば\nフロアの電気が点くはずです…",
-  "en": "",
-  "status": ""
+  "en": "If they all generate electricity, the floor lights should come on...",
+  "status": "tl"
  },
  {
   "id": "F3449C:23",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "一時的に…ですけど",
-  "en": "",
-  "status": ""
+  "en": "Only temporarily... though.",
+  "status": "tl"
  },
  {
   "id": "F3449C:25",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "だったらお前が電気作った方が\n早ェんじゃねーのか?",
-  "en": "",
-  "status": ""
+  "en": "Then wouldn't it be faster if you made the electricity yourself?",
+  "status": "tl"
  },
  {
   "id": "F3449C:27",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "うん、そうかもね",
-  "en": "",
-  "status": ""
+  "en": "Yeah, maybe.",
+  "status": "tl"
  },
  {
   "id": "F3449C:29",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "あ、ダメですダメです…\n外部からの電気は取り込めないんです",
-  "en": "",
-  "status": ""
+  "en": "Oh, no, no, you can't... It can't take in power from outside.",
+  "status": "tl"
  },
  {
   "id": "F3449C:30",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "あくまで電気を発生させる生物の\nすごさを体験してもらうものなので…",
-  "en": "",
-  "status": ""
+  "en": "The whole idea is to let people experience how amazing electric creatures are...",
+  "status": "tl"
  },
  {
   "id": "F3449C:32",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ってことは俺たちは\n見てるだけってことかよ?",
-  "en": "",
-  "status": ""
+  "en": "So all we get to do is stand here and watch?",
+  "status": "tl"
  },
  {
   "id": "F3449C:34",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "それがそうでもないんです…",
-  "en": "",
-  "status": ""
+  "en": "Actually, not quite...",
+  "status": "tl"
  },
  {
   "id": "F3449C:35",
   "kind": "msg",
   "speaker": "スタッフ",
-  "jp": "電気を多く発電させるために、\n披らを刺激してあげて下さい",
-  "en": "",
-  "status": ""
+  "jp": "電気を多く発電させるために、\n彼らを刺激してあげて下さい",
+  "en": "To make them generate more electricity, please stimulate them.",
+  "status": "tl"
  },
  {
   "id": "F3449C:36",
   "kind": "msg",
   "speaker": "スタッフ",
-  "jp": "披らは危険を寮知すると発電しますので\nちょっとした刺激を与えるんです…",
-  "en": "",
-  "status": ""
+  "jp": "彼らは危険を察知すると発電しますので\nちょっとした刺激を与えるんです…",
+  "en": "They generate electricity when they sense danger, so you just give them a little jolt...",
+  "status": "tl"
  },
  {
   "id": "F3449C:38",
@@ -1452,1335 +1452,1335 @@
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "それぞれ一定量以上の電気を\n発電しないと電力として供給されません",
-  "en": "",
-  "status": ""
+  "en": "Each one has to generate a certain amount or it won't be supplied as power.",
+  "status": "tl"
  },
  {
   "id": "F3449C:41",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "だから最初は発電力の\n少ない魚から試すのがいいかと…",
-  "en": "",
-  "status": ""
+  "en": "So it's best to start with the fish that generate the least...",
+  "status": "tl"
  },
  {
   "id": "F3449C:43",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "発電力の低い魚?",
-  "en": "",
-  "status": ""
+  "en": "The fish that generate the least?",
+  "status": "tl"
  },
  {
   "id": "F3449C:45",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "ええ…低い方から挙げると\nスケイトが1ボルト…",
-  "en": "",
-  "status": ""
+  "en": "Yes... From lowest to highest, the skate makes 1 volt...",
+  "status": "tl"
  },
  {
   "id": "F3449C:46",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "シビレエイが60ボルト…\nデンキナマズが350ボルト…",
-  "en": "",
-  "status": ""
+  "en": "The electric ray makes 60 volts... The electric catfish makes 350 volts...",
+  "status": "tl"
  },
  {
   "id": "F3449C:47",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "…で、最後に\nデンキウナギが500ボルトです",
-  "en": "",
-  "status": ""
+  "en": "...And finally, the electric eel makes 500 volts.",
+  "status": "tl"
  },
  {
   "id": "F3449C:49",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "お前と比べるとゴミみてぇなモンだな",
-  "en": "",
-  "status": ""
+  "en": "Compared to you, they're garbage.",
+  "status": "tl"
  },
  {
   "id": "F3449C:51",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "いやー、でもスゴいよ\nどうやって発電してんだろ?",
-  "en": "",
-  "status": ""
+  "en": "Nah, they're still amazing. I wonder how they make electricity?",
+  "status": "tl"
  },
  {
   "id": "F3449C:53",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "そりゃお前もな…",
-  "en": "",
-  "status": ""
+  "en": "Could say the same about you...",
+  "status": "tl"
  },
  {
   "id": "F34D54:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "助けに来ましたよ！",
-  "en": "",
-  "status": ""
+  "en": "We came to rescue you!",
+  "status": "tl"
  },
  {
   "id": "F34D54:3",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "ありがとうございます！\n助かりました~！！",
-  "en": "",
-  "status": ""
+  "en": "Thank you so much! You saved me!!",
+  "status": "tl"
  },
  {
   "id": "F34D54:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "アンタ…ここのスタッフだよな?",
-  "en": "",
-  "status": ""
+  "en": "You... work here, right?",
+  "status": "tl"
  },
  {
   "id": "F34D54:7",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "はい、そうですけど…",
-  "en": "",
-  "status": ""
+  "en": "Yes, I do...",
+  "status": "tl"
  },
  {
   "id": "F34D54:9",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "警報を解除したいんだが?",
-  "en": "",
-  "status": ""
+  "en": "We wanna turn off the alarm.",
+  "status": "tl"
  },
  {
   "id": "F34D54:11",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "私が解除してもいいですけど…",
-  "en": "",
-  "status": ""
+  "en": "I could turn it off for you, but...",
+  "status": "tl"
  },
  {
   "id": "F34D54:12",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "でも、ちょっと手伝って\nいただきたいことがあるんです",
-  "en": "",
-  "status": ""
+  "en": "There's something I'd like you to help me with.",
+  "status": "tl"
  },
  {
   "id": "F34D54:14",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "…はあ",
-  "en": "",
-  "status": ""
+  "en": "...Huh.",
+  "status": "tl"
  },
  {
   "id": "F34D54:16",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "ここはオープン直前なんですけど、\n人手が足りず準備が整ってないんです",
-  "en": "",
-  "status": ""
+  "en": "We're about to open, but we're short-staffed and not ready.",
+  "status": "tl"
  },
  {
   "id": "F34D54:18",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "なんかヤな予感すンな………",
-  "en": "",
-  "status": ""
+  "en": "I got a bad feeling about this...",
+  "status": "tl"
  },
  {
   "id": "F34D54:20",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "で、魚を水槽に入れるのを\n手伝って欲しいんです♥",
-  "en": "",
-  "status": ""
+  "en": "So I'd like you to help me put the fish in the tanks♥",
+  "status": "tl"
  },
  {
   "id": "F34D54:22",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "アホか！　ンなモン、自分らでやれ！！",
-  "en": "",
-  "status": ""
+  "en": "You idiot! Do that crap yourselves!!",
+  "status": "tl"
  },
  {
   "id": "F34D54:24",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "分かりました\nでは警報は解除しないということで",
-  "en": "",
-  "status": ""
+  "en": "I see. Then the alarm stays on.",
+  "status": "tl"
  },
  {
   "id": "F34D54:26",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あ~、待って待って！\nやります、やります！！",
-  "en": "",
-  "status": ""
+  "en": "Aaah, wait, wait! We'll do it, we'll do it!!",
+  "status": "tl"
  },
  {
   "id": "F34D54:28",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "テメー、安請け合いすンじゃねえよ！",
-  "en": "",
-  "status": ""
+  "en": "Don't go agreeing to stuff so easy, you moron!",
+  "status": "tl"
  },
  {
   "id": "F34D54:30",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "だって、\n階段使えないと先に進めないしさ…",
-  "en": "",
-  "status": ""
+  "en": "But we can't go on if we can't use the stairs...",
+  "status": "tl"
  },
  {
   "id": "F34D54:32",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "ここは我慢するのが懸命だな…",
-  "en": "",
-  "status": ""
+  "en": "It would be wise to put up with this...",
+  "status": "tl"
  },
  {
   "id": "F34D54:34",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "大丈夫、\nそんなに魚は多くありませんから！",
-  "en": "",
-  "status": ""
+  "en": "Don't worry, there aren't many fish!",
+  "status": "tl"
  },
  {
   "id": "F34D54:35",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "魚は1FとB1Fの小部屋に\n合わせて21匹います",
-  "en": "",
-  "status": ""
+  "en": "There are 21 fish in all, in the small rooms on 1F and B1F.",
+  "status": "tl"
  },
  {
   "id": "F34D54:37",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "に、21匹もかいな！！",
-  "en": "",
-  "status": ""
+  "en": "T-21 of 'em?!",
+  "status": "tl"
  },
  {
   "id": "F34D54:38",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ギャーッ！　お、多っ！！",
-  "en": "",
-  "status": ""
+  "en": "Gyaaah! Th-that's a lot!!",
+  "status": "tl"
  },
  {
   "id": "F34D54:40",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "フフ…すみませんね",
-  "en": "",
-  "status": ""
+  "en": "Heh heh... Sorry about that.",
+  "status": "tl"
  },
  {
   "id": "F34D54:41",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "ええ、それをこのフロアの\n水槽に振り分けて欲しいんです",
-  "en": "",
-  "status": ""
+  "en": "Yes, and I'd like you to sort them into the tanks on this floor.",
+  "status": "tl"
  },
  {
   "id": "F34D54:43",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "振り分ける！?",
-  "en": "",
-  "status": ""
+  "en": "Sort them?!",
+  "status": "tl"
  },
  {
   "id": "F34D54:45",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "ええ、水槽は海水魚用、淡水魚用、\n回遊魚用、刺胞動物用、節足動物用、",
-  "en": "",
-  "status": ""
+  "en": "Yes. The tanks are split into seven: saltwater fish, freshwater fish, migratory fish, cnidarians, arthropods,",
+  "status": "tl"
  },
  {
   "id": "F34D54:46",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "軟体動物用、刺皮動物用の\n七つに分かれています",
-  "en": "",
-  "status": ""
+  "en": "mollusks and echinoderms.",
+  "status": "tl"
  },
  {
   "id": "F34D54:47",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "それぞれの適した水槽に\n入れてあげて下さいね",
-  "en": "",
-  "status": ""
+  "en": "Please put each one in the tank that suits it.",
+  "status": "tl"
  },
  {
   "id": "F34D54:49",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "刺胞どうぶ…えっ、ええっ！?\n先生、なんだか分かりません！！",
-  "en": "",
-  "status": ""
+  "en": "Cnidar... Huh? Whaaat?! Teacher, I don't get any of this!!",
+  "status": "tl"
  },
  {
   "id": "F34D54:51",
   "kind": "msg",
   "speaker": "スタッフ",
-  "jp": "分からない場合はその魚を\n持っている状態で私に辱ねて下さいね",
-  "en": "",
-  "status": ""
+  "jp": "分からない場合はその魚を\n持っている状態で私に訪ねて下さいね",
+  "en": "If you're not sure, ask me while you're carrying that fish.",
+  "status": "tl"
  },
  {
   "id": "F34D54:52",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "それと魚は安全のため、\n必ず一匹ずつ運ぶようにして下さい",
-  "en": "",
-  "status": ""
+  "en": "Also, for safety, always carry the fish one at a time.",
+  "status": "tl"
  },
  {
   "id": "F34D54:53",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "それじゃ、カギをお渡ししますね",
-  "en": "",
-  "status": ""
+  "en": "Well then, here's the key.",
+  "status": "tl"
  },
  {
   "id": "F34D54:54",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "このカギで青いトビラを\n開けることができますよ",
-  "en": "",
-  "status": ""
+  "en": "This key opens the blue door.",
+  "status": "tl"
  },
  {
   "id": "F34D54:55",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "SRキー2をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got SR Key 2!",
+  "status": "tl"
  },
  {
   "id": "F34D54:57",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "に、21匹も…",
-  "en": "",
-  "status": ""
+  "en": "T-21 of them...",
+  "status": "tl"
  },
  {
   "id": "F34D54:59",
   "kind": "choice",
   "speaker": "蛮",
   "jp": "任せてよ！",
-  "en": "",
-  "status": ""
+  "en": "Leave it to me!",
+  "status": "tl"
  },
  {
   "id": "F34D54:60",
   "kind": "prompt",
   "speaker": "蛮",
   "jp": "21匹探す覚悟はあるのかよ、銀次?",
-  "en": "",
-  "status": ""
+  "en": "Ready to hunt down 21 fish, Ginji?",
+  "status": "tl"
  },
  {
   "id": "F356DC:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おう、ネーちゃん…\nようやっと魚の移し変えが終わったぜ",
-  "en": "",
-  "status": ""
+  "en": "Yo, lady... We're finally done moving all the fish.",
+  "status": "tl"
  },
  {
   "id": "F356DC:3",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "ありがとうございます！\nホントに助かりました~♥",
-  "en": "",
-  "status": ""
+  "en": "Thank you so much! You were a real lifesaver♥",
+  "status": "tl"
  },
  {
   "id": "F356DC:4",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "じゃ、警報を解除しときますね",
-  "en": "",
-  "status": ""
+  "en": "Okay, I'll turn the alarm off now.",
+  "status": "tl"
  },
  {
   "id": "F357D0:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "すんまへ~ん\nこの魚の種類ってなんやろか?",
-  "en": "",
-  "status": ""
+  "en": "'Scuuuse me! What fish is this?",
+  "status": "tl"
  },
  {
   "id": "F357D0:3",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "これはスズキですね\n別名、出世魚とも呼ばれます",
-  "en": "",
-  "status": ""
+  "en": "This is a suzuki, a sea bass. It's also called a \"promotion fish.\"",
+  "status": "tl"
  },
  {
   "id": "F357D0:5",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "出世するんかいな！?",
-  "en": "",
-  "status": ""
+  "en": "It gets promoted?!",
+  "status": "tl"
  },
  {
   "id": "F357D0:7",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "ええ、\n年齢や大きさで名前が異なるんです",
-  "en": "",
-  "status": ""
+  "en": "Yes, its name changes with its age and size.",
+  "status": "tl"
  },
  {
   "id": "F357D0:8",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "小さい方からハクラ、セイゴ、フッコ、\nチュウハン、スズキといった感じに",
-  "en": "",
-  "status": ""
+  "en": "From smallest up, it goes hakura, seigo, fukko, chuhan, then suzuki.",
+  "status": "tl"
  },
  {
   "id": "F357D0:10",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "名前をコロコロ変える\n芸能人みたいやな~…",
-  "en": "",
-  "status": ""
+  "en": "Like some celebrity who keeps changin' their stage name...",
+  "status": "tl"
  },
  {
   "id": "F357D0:12",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "稚魚時代は川にも遡上するんですけど、\n基本的には海水魚ですね",
-  "en": "",
-  "status": ""
+  "en": "The young swim up rivers too, but it's basically a saltwater fish.",
+  "status": "tl"
  },
  {
   "id": "F357D0:14",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "フムフム、海水魚っと…",
-  "en": "",
-  "status": ""
+  "en": "Uh-huh, saltwater fish, got it...",
+  "status": "tl"
  },
  {
   "id": "F35A4C:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "この魚の種類ってなんですか?",
-  "en": "",
-  "status": ""
+  "en": "What kind of fish is this?",
+  "status": "tl"
  },
  {
   "id": "F35A4C:3",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "これはフグですね",
-  "en": "",
-  "status": ""
+  "en": "This is a pufferfish.",
+  "status": "tl"
  },
  {
   "id": "F35A4C:4",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "淡水に棲むものもいますが、\nこれは海水魚です",
-  "en": "",
-  "status": ""
+  "en": "Some live in freshwater, but this one is a saltwater fish.",
+  "status": "tl"
  },
  {
   "id": "F35A4C:6",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "海水魚かあ…\nいいなあ、フグとか食べてみたいなあ",
-  "en": "",
-  "status": ""
+  "en": "A saltwater fish, huh... Man, I'd love to try eating pufferfish.",
+  "status": "tl"
  },
  {
   "id": "F35A4C:8",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "フグは胃と腸に空気や水を吸い込み、\n体を大きく膨らませることが出来ます",
-  "en": "",
-  "status": ""
+  "en": "A pufferfish sucks air or water into its stomach and gut to puff its body up big.",
+  "status": "tl"
  },
  {
   "id": "F35A4C:9",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "又、多くの種が内臓、皮膚に\nテトロドトキシンという毒を持ってます",
-  "en": "",
-  "status": ""
+  "en": "Also, many species carry a poison called tetrodotoxin in their organs and skin.",
+  "status": "tl"
  },
  {
   "id": "F35A4C:11",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "…それって死にます?",
-  "en": "",
-  "status": ""
+  "en": "...Can that kill you?",
+  "status": "tl"
  },
  {
   "id": "F35A4C:13",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "毎年、何人かはやられてますね",
-  "en": "",
-  "status": ""
+  "en": "It gets a few people every year.",
+  "status": "tl"
  },
  {
   "id": "F35A4C:15",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "やっぱ食べるのはヤメとこ…",
-  "en": "",
-  "status": ""
+  "en": "Maybe I'll skip eating it after all...",
+  "status": "tl"
  },
  {
   "id": "F35CD4:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "この魚の種類ってなんですか?",
-  "en": "",
-  "status": ""
+  "en": "What kind of fish is this?",
+  "status": "tl"
  },
  {
   "id": "F35CD4:3",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "これはミノカサゴ…海水魚ですね",
-  "en": "",
-  "status": ""
+  "en": "This is a red lionfish... a saltwater fish.",
+  "status": "tl"
  },
  {
   "id": "F35CD4:4",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "英名でライオン・フィッシュと言います",
-  "en": "",
-  "status": ""
+  "en": "Its English name is \"lionfish.\"",
+  "status": "tl"
  },
  {
   "id": "F35CD4:5",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "背びれと胸びれが\nとても発達しているのが特徴ですが…",
-  "en": "",
-  "status": ""
+  "en": "It's known for its very well-developed dorsal and pectoral fins, but...",
+  "status": "tl"
  },
  {
   "id": "F35CD4:6",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "でもこの背びれにはトゲがありまして、\nそこに毒があるので刺されると痛いです",
-  "en": "",
-  "status": ""
+  "en": "Its dorsal fin has venomous spines, so getting stung really hurts.",
+  "status": "tl"
  },
  {
   "id": "F35CD4:8",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "えっ、どれくらい痛いんでしょう?",
-  "en": "",
-  "status": ""
+  "en": "Huh? How much does it hurt?",
+  "status": "tl"
  },
  {
   "id": "F35CD4:10",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "ものすごぉぉぉく痛いですよ",
-  "en": "",
-  "status": ""
+  "en": "It hurts sooo very much.",
+  "status": "tl"
  },
  {
   "id": "F35CD4:12",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "な、なるほど…",
-  "en": "",
-  "status": ""
+  "en": "I-I see...",
+  "status": "tl"
  },
  {
   "id": "F35EE8:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "この魚の種類ってなんですか?",
-  "en": "",
-  "status": ""
+  "en": "What kind of fish is this?",
+  "status": "tl"
  },
  {
   "id": "F35EE8:3",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "これはコイ、淡水魚ですね",
-  "en": "",
-  "status": ""
+  "en": "This is a carp, a freshwater fish.",
+  "status": "tl"
  },
  {
   "id": "F35EE8:4",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "野生種はほとんど黒褐色ですが、\n観賞用品種は色彩が豊かです",
-  "en": "",
-  "status": ""
+  "en": "Wild ones are mostly blackish-brown, but ornamental breeds are very colorful.",
+  "status": "tl"
  },
  {
   "id": "F35EE8:5",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "日本では食用として\n用いられることもありますね",
-  "en": "",
-  "status": ""
+  "en": "In Japan, people sometimes eat them.",
+  "status": "tl"
  },
  {
   "id": "F35EE8:7",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "えっ、食べられるんですか?\n池にいるコイとか！?",
-  "en": "",
-  "status": ""
+  "en": "Huh, you can eat them? Like the carp in ponds?!",
+  "status": "tl"
  },
  {
   "id": "F35EE8:9",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "それはヤメた方がいいかと…",
-  "en": "",
-  "status": ""
+  "en": "I wouldn't recommend that...",
+  "status": "tl"
  },
  {
   "id": "F36098:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "この魚の種類ってなんですか?",
-  "en": "",
-  "status": ""
+  "en": "What kind of fish is this?",
+  "status": "tl"
  },
  {
   "id": "F36098:3",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "これはアユ…淡水魚ですね",
-  "en": "",
-  "status": ""
+  "en": "This is an ayu... a freshwater fish.",
+  "status": "tl"
  },
  {
   "id": "F36098:4",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "アユは藻を餌としていますので、\n身に臭みがなくて美味しいですよ",
-  "en": "",
-  "status": ""
+  "en": "Ayu feed on algae, so their meat has no fishy smell and tastes great.",
+  "status": "tl"
  },
  {
   "id": "F36098:6",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "美味しいんですね！?",
-  "en": "",
-  "status": ""
+  "en": "It tastes great?!",
+  "status": "tl"
  },
  {
   "id": "F36098:8",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "ええ、夏場は特に美味しいみたいですよ",
-  "en": "",
-  "status": ""
+  "en": "Yes, they say it's especially tasty in summer.",
+  "status": "tl"
  },
  {
   "id": "F36098:10",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ダメだ、お腹すいてきちゃったよ~…",
-  "en": "",
-  "status": ""
+  "en": "It's no use, I'm getting hungry...",
+  "status": "tl"
  },
  {
   "id": "F36238:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "この魚の種類ってなんですか?",
-  "en": "",
-  "status": ""
+  "en": "What kind of fish is this?",
+  "status": "tl"
  },
  {
   "id": "F36238:3",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "これはニジマス、淡水魚です",
-  "en": "",
-  "status": ""
+  "en": "This is a rainbow trout, a freshwater fish.",
+  "status": "tl"
  },
  {
   "id": "F36238:4",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "サケ目の魚なので体型も\nサケに似ているところがあります",
-  "en": "",
-  "status": ""
+  "en": "It's in the salmon order, so its body looks a bit like a salmon's.",
+  "status": "tl"
  },
  {
   "id": "F36238:5",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "原産はカリフォルニアなんですが、\n日本各地で見ることができますね",
-  "en": "",
-  "status": ""
+  "en": "It's originally from California, but you can see it all over Japan.",
+  "status": "tl"
  },
  {
   "id": "F36238:7",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "なるほどな…",
-  "en": "",
-  "status": ""
+  "en": "I see...",
+  "status": "tl"
  },
  {
   "id": "F36394:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "この魚の種類ってなんですか?",
-  "en": "",
-  "status": ""
+  "en": "What kind of fish is this?",
+  "status": "tl"
  },
  {
   "id": "F36394:3",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "これはマグロ…回遊魚ですね",
-  "en": "",
-  "status": ""
+  "en": "This is a tuna... a migratory fish.",
+  "status": "tl"
  },
  {
   "id": "F36394:4",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "クロマグロ、メバチ、キハダ、\nビンナガなどが日本近海で捕れます",
-  "en": "",
-  "status": ""
+  "en": "Bluefin, bigeye, yellowfin and albacore are caught in waters near Japan.",
+  "status": "tl"
  },
  {
   "id": "F36394:6",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "で、トロってのはどの部分だ?",
-  "en": "",
-  "status": ""
+  "en": "So which part's the toro?",
+  "status": "tl"
  },
  {
   "id": "F36394:8",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "は?",
-  "en": "",
-  "status": ""
+  "en": "Excuse me?",
+  "status": "tl"
  },
  {
   "id": "F36394:10",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "俺様は大トロが食いてえんだ！！",
-  "en": "",
-  "status": ""
+  "en": "The great Ban wants some fatty toro!!",
+  "status": "tl"
  },
  {
   "id": "F36394:12",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "蛮ちゃん、落ち着いて…\nここで食べちゃダメだってば…",
-  "en": "",
-  "status": ""
+  "en": "Ban, calm down... You can't eat it here...",
+  "status": "tl"
  },
  {
   "id": "F36570:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "この魚の種類ってなんですか?",
-  "en": "",
-  "status": ""
+  "en": "What kind of fish is this?",
+  "status": "tl"
  },
  {
   "id": "F36570:3",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "これはアジ、回遊魚ですね",
-  "en": "",
-  "status": ""
+  "en": "This is a horse mackerel, a migratory fish.",
+  "status": "tl"
  },
  {
   "id": "F36570:4",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "体の側線上にぜんごと呼ばれる\n独特のウロコがあるのが特徴です",
-  "en": "",
-  "status": ""
+  "en": "It's known for the special scales along its lateral line, called \"zengo.\"",
+  "status": "tl"
  },
  {
   "id": "F36570:5",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "マアジ、カンパチ、ブリなどの\n水産魚が多いですね",
-  "en": "",
-  "status": ""
+  "en": "Many of its kin are commercial fish, like Japanese jack, amberjack and yellowtail.",
+  "status": "tl"
  },
  {
   "id": "F36570:7",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ブリもアジの仲間なんだ?",
-  "en": "",
-  "status": ""
+  "en": "Yellowtail is related to horse mackerel?",
+  "status": "tl"
  },
  {
   "id": "F36570:8",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "オレ、アジには\n開きしかないんだと思ってたよ~",
-  "en": "",
-  "status": ""
+  "en": "I thought horse mackerel only came butterflied and dried!",
+  "status": "tl"
  },
  {
   "id": "F36570:10",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "開きは種類じゃないと思うんですけど…",
-  "en": "",
-  "status": ""
+  "en": "I don't think \"butterflied\" is a species...",
+  "status": "tl"
  },
  {
   "id": "F3674C:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "この魚の種類ってなんですか?",
-  "en": "",
-  "status": ""
+  "en": "What kind of fish is this?",
+  "status": "tl"
  },
  {
   "id": "F3674C:3",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "これはイワシ、回遊魚です",
-  "en": "",
-  "status": ""
+  "en": "This is a sardine, a migratory fish.",
+  "status": "tl"
  },
  {
   "id": "F3674C:4",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "マイワシやウルメイワシ、\nカタクチイワシなんかがいます",
-  "en": "",
-  "status": ""
+  "en": "There are Japanese sardines, round herring, anchovies and so on.",
+  "status": "tl"
  },
  {
   "id": "F3674C:5",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "食用になる他、飼料や肥料などにも\n使われています",
-  "en": "",
-  "status": ""
+  "en": "Besides being eaten, they're used for animal feed and fertilizer.",
+  "status": "tl"
  },
  {
   "id": "F3674C:7",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "はぁ、飼料にもなっとんのやなあ",
-  "en": "",
-  "status": ""
+  "en": "Huh, so they're feed too, eh?",
+  "status": "tl"
  },
  {
   "id": "F368A0:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "これの種類ってなんですか?",
-  "en": "",
-  "status": ""
+  "en": "What kind is this one?",
+  "status": "tl"
  },
  {
   "id": "F368A0:3",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "これはクラゲ…刺胞動物ですね",
-  "en": "",
-  "status": ""
+  "en": "This is a jellyfish... a cnidarian.",
+  "status": "tl"
  },
  {
   "id": "F368A0:4",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "体は寒天質で骨格がありません",
-  "en": "",
-  "status": ""
+  "en": "Its body is jelly-like, with no skeleton.",
+  "status": "tl"
  },
  {
   "id": "F368A0:6",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "骨がないの?",
-  "en": "",
-  "status": ""
+  "en": "It's got no bones?",
+  "status": "tl"
  },
  {
   "id": "F368A0:8",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "ええ、ですから浮遊生活に適しています",
-  "en": "",
-  "status": ""
+  "en": "Yes, which is why it's suited to a drifting life.",
+  "status": "tl"
  },
  {
   "id": "F368A0:10",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "浮遊生活?",
-  "en": "",
-  "status": ""
+  "en": "A drifting life?",
+  "status": "tl"
  },
  {
   "id": "F368A0:12",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "こう波に揺られてフワフワと…",
-  "en": "",
-  "status": ""
+  "en": "Just sort of floating along, rocked by the waves...",
+  "status": "tl"
  },
  {
   "id": "F368A0:14",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "いいなあ、\nオレもそういう生活したいなあ",
-  "en": "",
-  "status": ""
+  "en": "Lucky... I wanna live like that too.",
+  "status": "tl"
  },
  {
   "id": "F368A0:16",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "(今でも十分してるがな！\nたれ銀次がそれやがな！！)",
-  "en": "",
-  "status": ""
+  "en": "(Ya already do! That's what Tare-Ginji is!!)",
+  "status": "tl"
  },
  {
   "id": "F36AE0:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "これの種類ってなんですか?",
-  "en": "",
-  "status": ""
+  "en": "What kind is this one?",
+  "status": "tl"
  },
  {
   "id": "F36AE0:3",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "これはイソギンチャク、\n刺胞動物ですね",
-  "en": "",
-  "status": ""
+  "en": "This is a sea anemone, a cnidarian.",
+  "status": "tl"
  },
  {
   "id": "F36AE0:4",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "刺激を受けると体が収縮して\n巾着のように見えるのでこう呼ばれます",
-  "en": "",
-  "status": ""
+  "en": "When touched, its body shrinks up like a drawstring pouch, which is how it got its Japanese name.",
+  "status": "tl"
  },
  {
   "id": "F36AE0:6",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ところでイソギンチャクって\n食べれます?",
-  "en": "",
-  "status": ""
+  "en": "By the way, can you eat sea anemones?",
+  "status": "tl"
  },
  {
   "id": "F36AE0:8",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "日本では島根県の一部の村で\n食べる習慣があるそうですが…",
-  "en": "",
-  "status": ""
+  "en": "I hear some villages in Shimane, Japan, have a custom of eating them...",
+  "status": "tl"
  },
  {
   "id": "F36AE0:10",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "今回は俺の勝ちといったところだな",
-  "en": "",
-  "status": ""
+  "en": "I'd say I win this round.",
+  "status": "tl"
  },
  {
   "id": "F36AE0:12",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "これで勝ったと思うなよ…筧",
-  "en": "",
-  "status": ""
+  "en": "Don't think this means you've won... Kakei.",
+  "status": "tl"
  },
  {
   "id": "F36D00:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "これの種類ってなんですか?",
-  "en": "",
-  "status": ""
+  "en": "What kind is this one?",
+  "status": "tl"
  },
  {
   "id": "F36D00:3",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "これはハネウミヒドラ…\n刺胞動物ですね",
-  "en": "",
-  "status": ""
+  "en": "This is a feather hydroid... a cnidarian.",
+  "status": "tl"
  },
  {
   "id": "F36D00:4",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "海底の岩場に羽状で群体を作ります\nこれに手で触ると軽い痛みを感じますね",
-  "en": "",
-  "status": ""
+  "en": "It forms feathery colonies on rocky seabeds. Touching it with your hand stings a little.",
+  "status": "tl"
  },
  {
   "id": "F36D00:6",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "じゃあ触らない方がいいんですね?",
-  "en": "",
-  "status": ""
+  "en": "So it's better not to touch it?",
+  "status": "tl"
  },
  {
   "id": "F36D00:8",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "そうですね、\nなるべく触らない方がいいですよ",
-  "en": "",
-  "status": ""
+  "en": "That's right. Try not to touch it if you can.",
+  "status": "tl"
  },
  {
   "id": "F36E8C:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "これの種類ってなんですか?",
-  "en": "",
-  "status": ""
+  "en": "What kind is this one?",
+  "status": "tl"
  },
  {
   "id": "F36E8C:3",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "これはエビ、節足動物です",
-  "en": "",
-  "status": ""
+  "en": "This is a shrimp, an arthropod.",
+  "status": "tl"
  },
  {
   "id": "F36E8C:4",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "長い触角と飛び出た複眼…\n頭胸部が甲皮で覆われているのが特徴",
-  "en": "",
-  "status": ""
+  "en": "Long antennae, bulging compound eyes... and a shell covering its cephalothorax.",
+  "status": "tl"
  },
  {
   "id": "F36E8C:5",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "腹部に遊泳脚、頭胸部に歩脚があり、\n中にはハサミを持つものもいます",
-  "en": "",
-  "status": ""
+  "en": "It has swimming legs on its abdomen and walking legs up front. Some even have claws.",
+  "status": "tl"
  },
  {
   "id": "F36E8C:7",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "説明だけ聞くとエイリアンみてえだな…",
-  "en": "",
-  "status": ""
+  "en": "Just hearing that, it sounds like an alien...",
+  "status": "tl"
  },
  {
   "id": "F37000:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "これの種類ってなんですか?",
-  "en": "",
-  "status": ""
+  "en": "What kind is this one?",
+  "status": "tl"
  },
  {
   "id": "F37000:3",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "これはカニ…節足動物です",
-  "en": "",
-  "status": ""
+  "en": "This is a crab... an arthropod.",
+  "status": "tl"
  },
  {
   "id": "F37000:4",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "一対のはさみと四対の歩脚を持ち、\n体は甲で包まれています",
-  "en": "",
-  "status": ""
+  "en": "It has one pair of claws and four pairs of walking legs, and its body is covered by a shell.",
+  "status": "tl"
  },
  {
   "id": "F37000:5",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "食用になるものが多いですね",
-  "en": "",
-  "status": ""
+  "en": "Many kinds are edible.",
+  "status": "tl"
  },
  {
   "id": "F37000:7",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "タラバガニとか食べたいなあ~",
-  "en": "",
-  "status": ""
+  "en": "I'd love to eat some king crab...",
+  "status": "tl"
  },
  {
   "id": "F37000:9",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "あ、タラバガニは\nカニ類じゃありませんよ",
-  "en": "",
-  "status": ""
+  "en": "Oh, king crabs aren't true crabs, you know.",
+  "status": "tl"
  },
  {
   "id": "F37000:11",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "えっ…じゃあなんなんでしょう?",
-  "en": "",
-  "status": ""
+  "en": "Huh... Then what are they?",
+  "status": "tl"
  },
  {
   "id": "F37000:13",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "ヤドカリ類になりますね",
-  "en": "",
-  "status": ""
+  "en": "They're a kind of hermit crab.",
+  "status": "tl"
  },
  {
   "id": "F37000:15",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "な、なるほど…\n(…なにが違うんだろ?)",
-  "en": "",
-  "status": ""
+  "en": "I-I see... (...What's the difference?)",
+  "status": "tl"
  },
  {
   "id": "F37254:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "これの種類ってなんですか?",
-  "en": "",
-  "status": ""
+  "en": "What kind is this one?",
+  "status": "tl"
  },
  {
   "id": "F37254:3",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "これはヤドカリ、節足動物ですね",
-  "en": "",
-  "status": ""
+  "en": "This is a hermit crab, an arthropod.",
+  "status": "tl"
  },
  {
   "id": "F37254:4",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "体型はカニとエビの中間と\nいった感じになります",
-  "en": "",
-  "status": ""
+  "en": "Its body shape is sort of halfway between a crab and a shrimp.",
+  "status": "tl"
  },
  {
   "id": "F37254:5",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "又、腹部が軟弱で多くは巻貝の殻で\n保護してあります",
-  "en": "",
-  "status": ""
+  "en": "Its abdomen is soft, so most protect it with a sea snail's shell.",
+  "status": "tl"
  },
  {
   "id": "F37254:7",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "その巻貝が家なんですね?",
-  "en": "",
-  "status": ""
+  "en": "So that snail shell is its house?",
+  "status": "tl"
  },
  {
   "id": "F37254:9",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "家というか…\n殻の代わりなんですけどね",
-  "en": "",
-  "status": ""
+  "en": "More like a stand-in for a shell than a house...",
+  "status": "tl"
  },
  {
   "id": "F373EC:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "これの種類ってなんですか?",
-  "en": "",
-  "status": ""
+  "en": "What kind is this one?",
+  "status": "tl"
  },
  {
   "id": "F373EC:3",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "これはタコ、軟体動物です",
-  "en": "",
-  "status": ""
+  "en": "This is an octopus, a mollusk.",
+  "status": "tl"
  },
  {
   "id": "F373EC:4",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "丸い頭状の胴に\n吸盤のある八本の腕が付いています",
-  "en": "",
-  "status": ""
+  "en": "Its round, head-like body has eight arms with suckers.",
+  "status": "tl"
  },
  {
   "id": "F373EC:5",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "日本では食用にしますが、西欧では\n悪魔の魚と呼ばれ食用にしません",
-  "en": "",
-  "status": ""
+  "en": "In Japan it's eaten, but in the West it's called the devil fish and isn't eaten.",
+  "status": "tl"
  },
  {
   "id": "F373EC:7",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "まさに悪魔の魚だ、ヤツらはな…",
-  "en": "",
-  "status": ""
+  "en": "Devil fish is right. Those things are pure evil...",
+  "status": "tl"
  },
  {
   "id": "F3754C:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "これの種類ってなんですか?",
-  "en": "",
-  "status": ""
+  "en": "What kind is this one?",
+  "status": "tl"
  },
  {
   "id": "F3754C:3",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "これはイカ…軟体動物ですね",
-  "en": "",
-  "status": ""
+  "en": "This is a squid... a mollusk.",
+  "status": "tl"
  },
  {
   "id": "F3754C:4",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "体は円筒状で十本の長い腕を持ちます",
-  "en": "",
-  "status": ""
+  "en": "Its body is cylindrical, with ten long arms.",
+  "status": "tl"
  },
  {
   "id": "F3754C:5",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "体長25mmのヒメイカから\n15mを超えるダイオウイカまで",
-  "en": "",
-  "status": ""
+  "en": "From the 25 mm dwarf squid to the giant squid, over 15 m long...",
+  "status": "tl"
  },
  {
   "id": "F3754C:6",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "幅広い種類が存在します",
-  "en": "",
-  "status": ""
+  "en": "There's a wide range of species.",
+  "status": "tl"
  },
  {
   "id": "F3754C:8",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "そのダイオウイカってのに\n襲われたンだよな、俺様は…",
-  "en": "",
-  "status": ""
+  "en": "One of those giant squids attacked the great me, y'know...",
+  "status": "tl"
  },
  {
   "id": "F3754C:10",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なんでだろうね…蛮ちゃん…",
-  "en": "",
-  "status": ""
+  "en": "I wonder why, Ban...",
+  "status": "tl"
  },
  {
   "id": "F37714:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "これの種類ってなんですか?",
-  "en": "",
-  "status": ""
+  "en": "What kind is this one?",
+  "status": "tl"
  },
  {
   "id": "F37714:3",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "これはサザエ、軟体動物です",
-  "en": "",
-  "status": ""
+  "en": "This is a turban shell, a mollusk.",
+  "status": "tl"
  },
  {
   "id": "F37714:4",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "海産の巻貝で浅海の岩礁に生息します",
-  "en": "",
-  "status": ""
+  "en": "It's a sea snail that lives on reefs in shallow water.",
+  "status": "tl"
  },
  {
   "id": "F37714:5",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "身は刺身やつぼ焼きに用いられ、\n貝はボタンの材料になります",
-  "en": "",
-  "status": ""
+  "en": "The meat is eaten raw or grilled in the shell, and the shell is used to make buttons.",
+  "status": "tl"
  },
  {
   "id": "F37714:7",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "へ~、万能なんですね~",
-  "en": "",
-  "status": ""
+  "en": "Wow, it's good for everything!",
+  "status": "tl"
  }
 ]

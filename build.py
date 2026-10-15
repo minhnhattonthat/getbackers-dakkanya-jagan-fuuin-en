@@ -14,6 +14,7 @@ from extract import messages, BANK, SPACE  # noqa: E402
 import enc  # noqa: E402
 import fontlib  # noqa: E402
 import layout  # noqa: E402
+import sysmenu  # noqa: E402
 
 OUT = {'identity': 'getbackers_identity.gba', 'marker': 'getbackers_marker.gba', 'build': 'getbackers_en.gba',
        'qa': 'getbackers_qa.gba'}
@@ -131,6 +132,45 @@ def rebuild_script(rom, s, subs, encoder):
     return bytes(out)
 
 
+BLANKS = (enc.SPACE_CODE, 0x6AE)
+SYS_START, SYS_END = 0xFE4000, 0xFFF000     # menu charsets / index lists (free 0xFF fill)
+
+
+class Alloc:
+    def __init__(self, lo, hi):
+        self.at, self.hi = lo, hi
+
+    def __call__(self, n):
+        off = self.at
+        self.at = (self.at + n + 3) & ~3
+        if self.at > self.hi:
+            raise SystemExit('menu data area full')
+        return off
+
+
+def bank_layout(codes):
+    """-> (leading full spaces, body cells, trailing blank codes) of a JP bank string."""
+    lead = 0
+    while lead < len(codes) and codes[lead] == enc.SPACE_CODE:
+        lead += 1
+    end = len(codes)
+    while end > lead and codes[end - 1] in BLANKS:
+        end -= 1
+    return lead, end - lead, codes[end:]
+
+
+def bank_codes(jp_codes, en, encoder):
+    """English for a bank string, keeping the JP field layout: right-aligned fields (leading spaces) stay
+    right-aligned to where the JP text ended; trailing blank/filler codes are kept as they were."""
+    lead, body, trail = bank_layout(jp_codes)
+    if en.startswith('_'):            # translators mark a leading space (fragments after a name) with _
+        en = ' ' + en[1:]
+    if lead:
+        width = 2 * (lead + body)
+        en = ' ' * max(0, width - enc.line_halves(en)) + en
+    return encoder.encode(en) + list(trail)
+
+
 def build(mode, overrides=None):
     overrides = overrides or {}
     rom = bytearray(load_rom())
@@ -139,13 +179,17 @@ def build(mode, overrides=None):
     jobs, bank_en, lines_all = plan(orig, t, mode, overrides)
     encoder = None
     if mode != 'identity':
-        encoder = enc.Encoder()
+        encoder = enc.Encoder(reserved={0x6AE})   # 0x6AE = blank filler glyph used by bank strings
+        if mode in ('build', 'qa'):
+            lines_all += sysmenu.lines()
         for ln in lines_all:
             encoder.add(ln)
         encoder.freeze()
         for code, px in encoder.glyphs().items():
             o = fontlib.glyph_off(code)
             rom[o:o + 0x80] = fontlib.encode_glyph(px)
+        if mode in ('build', 'qa'):
+            sysmenu.apply(rom, encoder, Alloc(SYS_START, SYS_END))
     # repack scripts contiguously in ROM order (4 zero bytes after each, like the original: some scripts
     # are reached only by walking on from the previous one, so order and spacing must not change)
     scripts = sorted(s for s in find_scripts(orig) if s != BANK)
@@ -161,7 +205,7 @@ def build(mode, overrides=None):
     brecs, bend = parse_script(orig, BANK)
     bank = bytearray(b'PAC3')
     for i, (q, p) in enumerate(brecs):
-        bank += txt(encoder.encode(bank_en[i])) if i in bank_en else rec(p)
+        bank += txt(bank_codes(codes_of(p), bank_en[i], encoder)) if i in bank_en else rec(p)
     # placement: original area (up to FREE_END) first; overflow goes past 16 MiB (ROM grows to 32 MiB)
     if SCRIPT_START + len(blob) + len(bank) <= FREE_END:
         script_at, bank_at = SCRIPT_START, SCRIPT_START + len(blob)

@@ -56,6 +56,17 @@ def test_romdiff(rom):
             if 0x08EE1AC4 <= v < 0x08FC2618:
                 allowed.append((i, i + 4))
     allowed.append((0x58174, 0x58178))
+    allowed.append((0xFE4000, 0xFFF000))      # menu data
+    import sysmenu
+    for scr in sysmenu.load():
+        for k, n in (('charset_lit', 4), ('charset_imm', 1)):
+            a = int(scr[k], 16)
+            allowed.append((a, a + n))
+        for lab in scr['labels']:
+            for k, n in (('lit', 4), ('imm', 1)):
+                if lab.get(k):
+                    a = int(lab[k], 16)
+                    allowed.append((a, a + n))
     extra = os.path.join(ROOT, 'tools', 'allowed_ranges.txt')
     if os.path.exists(extra):
         for line in open(extra, encoding='utf-8'):

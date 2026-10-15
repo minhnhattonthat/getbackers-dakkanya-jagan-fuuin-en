@@ -1356,8 +1356,8 @@
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "銀次君",
-  "en": "",
-  "status": ""
+  "en": "Ginji...",
+  "status": "tl"
  },
  {
   "id": "F64EB0:22",
@@ -1436,8 +1436,8 @@
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F6553C:1",
@@ -2028,8 +2028,8 @@
   "kind": "msg",
   "speaker": "銀次",
   "jp": "そっかあ…",
-  "en": "",
-  "status": ""
+  "en": "I see...",
+  "status": "tl"
  },
  {
   "id": "F65890:102",
@@ -2884,8 +2884,8 @@
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F68514:35",
@@ -4060,8 +4060,8 @@
   "kind": "msg",
   "speaker": "京介",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F6B600:3",

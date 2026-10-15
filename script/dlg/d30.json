@@ -676,8 +676,8 @@
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なるほど~",
-  "en": "",
-  "status": ""
+  "en": "I seeee...",
+  "status": "tl"
  },
  {
   "id": "F5E1D4:13",
@@ -1228,8 +1228,8 @@
   "kind": "msg",
   "speaker": "蛮",
   "jp": "…………",
-  "en": "",
-  "status": ""
+  "en": "............",
+  "status": "tl"
  },
  {
   "id": "F5F3DC:26",
@@ -1652,8 +1652,8 @@
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なるほど~",
-  "en": "",
-  "status": ""
+  "en": "I seeee...",
+  "status": "tl"
  },
  {
   "id": "F6085C:15",
@@ -1723,7 +1723,7 @@
   "id": "F6085C:29",
   "kind": "msg",
   "speaker": "銀次",
-  "jp": "(うっ、諌まれてるし…)",
+  "jp": "(うっ、読まれてるし…)",
   "en": "",
   "status": ""
  },

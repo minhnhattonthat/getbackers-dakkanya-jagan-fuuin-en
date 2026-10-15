@@ -4,232 +4,232 @@
   "kind": "choice",
   "speaker": "銀次",
   "jp": "レバー右",
-  "en": "",
-  "status": ""
+  "en": "Right lever",
+  "status": "tl"
  },
  {
   "id": "F3A480:2",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "レバー左",
-  "en": "",
-  "status": ""
+  "en": "Left lever",
+  "status": "tl"
  },
  {
   "id": "F3A480:3",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "やめておく",
-  "en": "",
-  "status": ""
+  "en": "Leave it",
+  "status": "tl"
  },
  {
   "id": "F3A480:4",
   "kind": "prompt",
   "speaker": "銀次",
   "jp": "水量調節機械3のどれをいじる?",
-  "en": "",
-  "status": ""
+  "en": "Which lever on Water Regulator 3?",
+  "status": "tl"
  },
  {
   "id": "F3A524:1",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "レバー右",
-  "en": "",
-  "status": ""
+  "en": "Right lever",
+  "status": "tl"
  },
  {
   "id": "F3A524:2",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "レバー左",
-  "en": "",
-  "status": ""
+  "en": "Left lever",
+  "status": "tl"
  },
  {
   "id": "F3A524:3",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "やめておく",
-  "en": "",
-  "status": ""
+  "en": "Leave it",
+  "status": "tl"
  },
  {
   "id": "F3A524:4",
   "kind": "prompt",
   "speaker": "銀次",
   "jp": "水量調節機械4のどれをいじる?",
-  "en": "",
-  "status": ""
+  "en": "Which lever on Water Regulator 4?",
+  "status": "tl"
  },
  {
   "id": "F3A5C8:1",
   "kind": "msg",
   "speaker": "士度",
   "jp": "こいつはボスじゃねえな…",
-  "en": "",
-  "status": ""
+  "en": "You're not the boss...",
+  "status": "tl"
  },
  {
   "id": "F3A618:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "捕まえた！\n早く水槽のとこまで連れて行こうよ！！",
-  "en": "",
-  "status": ""
+  "en": "Got it! Let's hurry and take it to the tank!!",
+  "status": "tl"
  },
  {
   "id": "F3A618:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "って水槽はどこにあンだよ?",
-  "en": "",
-  "status": ""
+  "en": "And where the heck's the tank?",
+  "status": "tl"
  },
  {
   "id": "F3A618:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "うーん…\n真ん中辺から行けそうだったよ",
-  "en": "",
-  "status": ""
+  "en": "Hmm... Looked like we could get there from around the middle.",
+  "status": "tl"
  },
  {
   "id": "F3A708:1",
   "kind": "msg",
   "speaker": "士度",
   "jp": "お前がボスか?",
-  "en": "",
-  "status": ""
+  "en": "Are you the boss?",
+  "status": "tl"
  },
  {
   "id": "F3A708:2",
   "kind": "msg",
   "speaker": "士度",
   "jp": "仲間を連れて水槽に戻ってくれ",
-  "en": "",
-  "status": ""
+  "en": "Take your pals back to the tank.",
+  "status": "tl"
  },
  {
   "id": "F3A778:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "…って、テメーまで\nここでなにしてやがんだ、ババア！",
-  "en": "",
-  "status": ""
+  "en": "...Wait, what're YOU doin' here, you old hag?!",
+  "status": "tl"
  },
  {
   "id": "F3A778:2",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "99歳のくせして\nギャルと間違われてんじゃねえ！！",
-  "en": "",
-  "status": ""
+  "en": "You're 99 years old! Quit gettin' mistaken for some young gal!!",
+  "status": "tl"
  },
  {
   "id": "F3A778:4",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "なによ、失礼ね~",
-  "en": "",
-  "status": ""
+  "en": "Hmph, how rude~",
+  "status": "tl"
  },
  {
   "id": "F3A778:5",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "あたしだってたまには\nこうして外で遊びたいわよ",
-  "en": "",
-  "status": ""
+  "en": "Even I like to come out and have fun like this once in a while.",
+  "status": "tl"
  },
  {
   "id": "F3A778:6",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "アラ、あなたは確か…",
-  "en": "",
-  "status": ""
+  "en": "Oh my, you're...",
+  "status": "tl"
  },
  {
   "id": "F3A778:8",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "………?",
-  "en": "",
-  "status": ""
+  "en": "......?",
+  "status": "tl"
  },
  {
   "id": "F3A778:10",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "そうね…あの時、雨流クンは\n気を失ってたから知らないわよね~♥",
-  "en": "",
-  "status": ""
+  "en": "Right... You were out cold back then, Uryu, so you wouldn't know~♥",
+  "status": "tl"
  },
  {
   "id": "F3A778:11",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "蛮になにをされちゃったのか…",
-  "en": "",
-  "status": ""
+  "en": "What Ban did to you...",
+  "status": "tl"
  },
  {
   "id": "F3A778:13",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おい、ババア…\n余計なこと言うんじゃねえよ",
-  "en": "",
-  "status": ""
+  "en": "Hey, hag... Don't go flappin' your mouth.",
+  "status": "tl"
  },
  {
   "id": "F3A778:15",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "…なんだ、美堂と俺の間に\nなにかあったのか?",
-  "en": "",
-  "status": ""
+  "en": "...What? Did something happen between Mido and me?",
+  "status": "tl"
  },
  {
   "id": "F3A778:17",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "なにかどころじゃないわよ~?\nあの時、蛮ったらキミにキ…",
-  "en": "",
-  "status": ""
+  "en": "Way more than \"something\"~ Back then, Ban gave you a ki...",
+  "status": "tl"
  },
  {
   "id": "F3A778:19",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "だから、それは儀式だろうが！\nフザけんのもいい加減にしろ、ババア！",
-  "en": "",
-  "status": ""
+  "en": "I told you, that was a ritual! Quit screwin' around, you old hag!",
+  "status": "tl"
  },
  {
   "id": "F3A778:21",
   "kind": "msg",
   "speaker": "マリーア",
   "jp": "なによ~、本当のことを\n教えてあげようと思っただけなのに♥",
-  "en": "",
-  "status": ""
+  "en": "Oh, come on~ I was just going to tell him the truth♥",
+  "status": "tl"
  },
  {
   "id": "F3A778:23",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "…俺は一体、美堂に\nなにをされたというんだ！?",
-  "en": "",
-  "status": ""
+  "en": "...Just what did Mido do to me?!",
+  "status": "tl"
  },
  {
   "id": "F3A778:25",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "う、う~ん…\nそれはオレの口からはちょっと…",
-  "en": "",
-  "status": ""
+  "en": "W-well, uhh... I'd rather not be the one to say...",
+  "status": "tl"
  },
  {
   "id": "F3A778:27",
@@ -388,8 +388,8 @@
   "kind": "msg",
   "speaker": "士度",
   "jp": "おい、大丈夫か?",
-  "en": "",
-  "status": ""
+  "en": "Hey, you okay?",
+  "status": "tl"
  },
  {
   "id": "F3B450:3",
@@ -1172,8 +1172,8 @@
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F3D450:3",
@@ -1612,8 +1612,8 @@
   "kind": "msg",
   "speaker": "笑師",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:24",
@@ -1652,8 +1652,8 @@
   "kind": "msg",
   "speaker": "笑師",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F3DEE8:34",

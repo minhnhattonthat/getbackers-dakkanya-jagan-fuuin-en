@@ -804,16 +804,16 @@
   "kind": "msg",
   "speaker": "花月",
   "jp": "そうですね\nまずは車庫から開けましょうか",
-  "en": "",
-  "status": ""
+  "en": "Indeed. Let's start by opening the garages.",
+  "status": "tl"
  },
  {
   "id": "F10A98:9",
   "kind": "msg",
   "speaker": "花月",
   "jp": "そうするには倉庫Bの操作盤を\n再び操作する必要がありそうですね?",
-  "en": "",
-  "status": ""
+  "en": "To do that, it seems we'll need to work the control panel in Warehouse B again, won't we?",
+  "status": "tl"
  },
  {
   "id": "F10A98:11",
@@ -828,200 +828,200 @@
   "kind": "msg",
   "speaker": "銀次",
   "jp": "良かった~\nやっと合流できたね！",
-  "en": "",
-  "status": ""
+  "en": "Phew! We finally met up again!",
+  "status": "tl"
  },
  {
   "id": "F10CC0:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "これで後はジャッカルのヤローを\n探すだけだな",
-  "en": "",
-  "status": ""
+  "en": "Now all that's left is to find that bastard Jackal.",
+  "status": "tl"
  },
  {
   "id": "F10D6C:1",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "ようやく追いついてくれましたか…\n待ちかねましたよ",
-  "en": "",
-  "status": ""
+  "en": "So you've finally caught up with me... I've been waiting for you.",
+  "status": "tl"
  },
  {
   "id": "F10D6C:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "別に待ってなくて\n良かったんですけどね…",
-  "en": "",
-  "status": ""
+  "en": "You really didn't have to wait for us, you know...",
+  "status": "tl"
  },
  {
   "id": "F10D6C:5",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "では私はこの方々と楽しみますので",
-  "en": "",
-  "status": ""
+  "en": "Well then, I shall enjoy myself with these gentlemen.",
+  "status": "tl"
  },
  {
   "id": "F10D6C:7",
   "kind": "msg",
   "speaker": "京介",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F10F48:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "待て、コラァ！！",
-  "en": "",
-  "status": ""
+  "en": "Hold it, damn you!!",
+  "status": "tl"
  },
  {
   "id": "F10F48:3",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "他の方に目移りされては困りますね…\n美堂クン",
-  "en": "",
-  "status": ""
+  "en": "It's rather troubling when your eyes wander to someone else... Ban Mido.",
+  "status": "tl"
  },
  {
   "id": "F10F48:4",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "あなたの相手はこの私ですよ?",
-  "en": "",
-  "status": ""
+  "en": "I'm the one you'll be dealing with, aren't I?",
+  "status": "tl"
  },
  {
   "id": "F10F48:6",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "悪ィがテメーの\n相手をしてるヒマはねーんだよ！！",
-  "en": "",
-  "status": ""
+  "en": "Sorry, but I ain't got time to play with you!!",
+  "status": "tl"
  },
  {
   "id": "F10F48:8",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "やれやれ…\nずいぶんと嫌われたものですね",
-  "en": "",
-  "status": ""
+  "en": "My, my... It seems I'm quite disliked.",
+  "status": "tl"
  },
  {
   "id": "F10F48:9",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "ではもう一人の方に\nお相手していただきましょうか…",
-  "en": "",
-  "status": ""
+  "en": "Then perhaps the other gentleman will keep me company...",
+  "status": "tl"
  },
  {
   "id": "F10F48:10",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "…ねえ、天野銀次クン?",
-  "en": "",
-  "status": ""
+  "en": "...Isn't that right, Ginji Amano?",
+  "status": "tl"
  },
  {
   "id": "F10F48:12",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "えっ！?　オ、オレですか?",
-  "en": "",
-  "status": ""
+  "en": "Huh?! M-Me?",
+  "status": "tl"
  },
  {
   "id": "F10F48:14",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "はい♥",
-  "en": "",
-  "status": ""
+  "en": "Yes.♥",
+  "status": "tl"
  },
  {
   "id": "F10F48:16",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "悪ィ、銀次！\n絃巻きとなんとか持ちこたえろや！",
-  "en": "",
-  "status": ""
+  "en": "Sorry, Ginji! Just hang in there somehow with Spool Boy!",
+  "status": "tl"
  },
  {
   "id": "F10F48:17",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "俺と卑弥呼はあの面ヤローを追う！！",
-  "en": "",
-  "status": ""
+  "en": "Himiko and I are going after that mask creep!!",
+  "status": "tl"
  },
  {
   "id": "F10F48:19",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "えっ！?",
-  "en": "",
-  "status": ""
+  "en": "Huh?!",
+  "status": "tl"
  },
  {
   "id": "F10F48:20",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "だって、ゲットバッカーズのSは\n一人じゃないって意味のSでー…",
-  "en": "",
-  "status": ""
+  "en": "But the S in GetBackers is there 'cause there's more than one of us...",
+  "status": "tl"
  },
  {
   "id": "F10F48:21",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "…って、ちょっと\n置いてかないでよ、蛮ちゃ~ん！！",
-  "en": "",
-  "status": ""
+  "en": "...H-Hey, wait! Don't leave me behind, Baaan!!",
+  "status": "tl"
  },
  {
   "id": "F11408:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ひどいよ…蛮ちゃん………",
-  "en": "",
-  "status": ""
+  "en": "That's so mean... Ban.........",
+  "status": "tl"
  },
  {
   "id": "F11408:3",
   "kind": "msg",
   "speaker": "花月",
   "jp": "気を付けて下さい、銀次さん！\n相手はすぐにでも仕掛けてきますよ！！",
-  "en": "",
-  "status": ""
+  "en": "Be careful, Ginji! He'll make his move any second now!!",
+  "status": "tl"
  },
  {
   "id": "F11408:5",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "クス、それでは存分に\n楽しませていただきましょうか…",
-  "en": "",
-  "status": ""
+  "en": "Heh... Well then, let me enjoy this to my heart's content...",
+  "status": "tl"
  },
  {
   "id": "F115A8:1",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "やはりあなたという方は面白い方ですね\n戦う度に強さが増しているようだ…",
-  "en": "",
-  "status": ""
+  "en": "You truly are an interesting one. You seem to grow stronger every time we fight...",
+  "status": "tl"
  },
  {
   "id": "F115A8:2",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "その成長が極限に達した時…\nその時が楽しみですよ…実にね",
-  "en": "",
-  "status": ""
+  "en": "When that growth reaches its limit... I look forward to that moment... truly.",
+  "status": "tl"
  },
  {
   "id": "F115A8:4",
@@ -1036,775 +1036,775 @@
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "しかし今はまだ\nその時ではないようですね…",
-  "en": "",
-  "status": ""
+  "en": "But it seems that time has not yet come...",
+  "status": "tl"
  },
  {
   "id": "F115A8:7",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "では今日のところはこれで失礼致します\nいずれまたお会いしましょう",
-  "en": "",
-  "status": ""
+  "en": "Then I shall take my leave for today. Until we meet again.",
+  "status": "tl"
  },
  {
   "id": "F117A4:1",
   "kind": "msg",
   "speaker": "花月",
   "jp": "大丈夫ですか、銀次さん?",
-  "en": "",
-  "status": ""
+  "en": "Are you all right, Ginji?",
+  "status": "tl"
  },
  {
   "id": "F117A4:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "う、うん…",
-  "en": "",
-  "status": ""
+  "en": "Y-Yeah...",
+  "status": "tl"
  },
  {
   "id": "F117A4:4",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あっ、蛮ちゃんたちは！?",
-  "en": "",
-  "status": ""
+  "en": "Oh! What about Ban and Himiko?!",
+  "status": "tl"
  },
  {
   "id": "F11888:1",
   "kind": "msg",
   "speaker": "京介",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F11888:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "その面を手に入れて\nなにをしようってンだ?",
-  "en": "",
-  "status": ""
+  "en": "What're you plannin' to do once you get your hands on those masks?",
+  "status": "tl"
  },
  {
   "id": "F11888:4",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "京介ちゃんよォ",
-  "en": "",
-  "status": ""
+  "en": "Huh, Kyosuke, pal?",
+  "status": "tl"
  },
  {
   "id": "F11888:6",
   "kind": "msg",
   "speaker": "京介",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F11888:8",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "邪眼が効かねーっつったよな?\nなにモンなんだ、テメーは?",
-  "en": "",
-  "status": ""
+  "en": "You said the Evil Eye won't work on you, right? What the hell are you?",
+  "status": "tl"
  },
  {
   "id": "F11888:10",
   "kind": "msg",
   "speaker": "京介",
   "jp": "………",
-  "en": "",
-  "status": ""
+  "en": ".........",
+  "status": "tl"
  },
  {
   "id": "F11888:12",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "なんとか言ったらどうなんだよ！！",
-  "en": "",
-  "status": ""
+  "en": "Say something, why don'tcha!!",
+  "status": "tl"
  },
  {
   "id": "F11888:14",
   "kind": "msg",
   "speaker": "???",
   "jp": "悪いね、コイツ無口だからサ\n代わりにオレが答えてあげようか?",
-  "en": "",
-  "status": ""
+  "en": "Sorry, this guy doesn't talk much. Want me to answer for him?",
+  "status": "tl"
  },
  {
   "id": "F11888:16",
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "…なによ、あれ！?",
-  "en": "",
-  "status": ""
+  "en": "...What is that thing?!",
+  "status": "tl"
  },
  {
   "id": "F11888:18",
   "kind": "msg",
   "speaker": "鬼夜叉",
   "jp": "式神の鬼夜叉(おにやしゃ)…だヨ\n無口なコイツの代弁者?　そんな感じ",
-  "en": "",
-  "status": ""
+  "en": "I'm Oniyasha, a shikigami spirit... His spokesman, 'cause he doesn't talk. Something like that.",
+  "status": "tl"
  },
  {
   "id": "F11888:20",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "で、テメーがなにを\nしゃべってくれるってんだ?",
-  "en": "",
-  "status": ""
+  "en": "So, what're you gonna tell me?",
+  "status": "tl"
  },
  {
   "id": "F11888:22",
   "kind": "msg",
   "speaker": "鬼夜叉",
   "jp": "イロイロと…ネ",
-  "en": "",
-  "status": ""
+  "en": "Oh... all kinds of stuff.",
+  "status": "tl"
  },
  {
   "id": "F11888:23",
   "kind": "msg",
   "speaker": "鬼夜叉",
   "jp": "まずはなんだっけ?\n邪眼が効かないのはなんでか?",
-  "en": "",
-  "status": ""
+  "en": "What was first again? Why the Evil Eye doesn't work?",
+  "status": "tl"
  },
  {
   "id": "F11888:24",
   "kind": "msg",
   "speaker": "鬼夜叉",
   "jp": "まあモノは試してみなヨ",
-  "en": "",
-  "status": ""
+  "en": "Well, no harm in trying, right?",
+  "status": "tl"
  },
  {
   "id": "F11888:25",
   "kind": "msg",
   "speaker": "鬼夜叉",
   "jp": "コイツに邪眼をかけてみれば\n分かるんじゃない?",
-  "en": "",
-  "status": ""
+  "en": "Why don't you try your Evil Eye on him? Then you'll get it, won't you?",
+  "status": "tl"
  },
  {
   "id": "F11888:27",
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "…どうするの、蛮?",
-  "en": "",
-  "status": ""
+  "en": "...What are you gonna do, Ban?",
+  "status": "tl"
  },
  {
   "id": "F11888:29",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ヘッ、そこまで言われたんじゃあな…\n面白ェ、やってやらあ！！",
-  "en": "",
-  "status": ""
+  "en": "Heh, if you're gonna push it that far... Fine, I'll do it!!",
+  "status": "tl"
  },
  {
   "id": "F11E3C:1",
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "…蛮！?",
-  "en": "",
-  "status": ""
+  "en": "...Ban?!",
+  "status": "tl"
  },
  {
   "id": "F11E3C:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "…効かねえだと?\n俺の邪眼は生き物には100%効くはずだ",
-  "en": "",
-  "status": ""
+  "en": "...It didn't work? My Evil Eye's supposed to work 100% on anything alive.",
+  "status": "tl"
  },
  {
   "id": "F11E3C:4",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "テメー…一体、何者だ！?",
-  "en": "",
-  "status": ""
+  "en": "You... What the hell are you?!",
+  "status": "tl"
  },
  {
   "id": "F11E3C:6",
   "kind": "msg",
   "speaker": "京介",
   "jp": "僕は夢を見ない",
-  "en": "",
-  "status": ""
+  "en": "I do not dream.",
+  "status": "tl"
  },
  {
   "id": "F11E3C:7",
   "kind": "msg",
   "speaker": "京介",
   "jp": "そう言ったはずだ…",
-  "en": "",
-  "status": ""
+  "en": "I believe I told you that...",
+  "status": "tl"
  },
  {
   "id": "F11E3C:9",
   "kind": "msg",
   "speaker": "鬼夜叉",
   "jp": "そう京介は夢を見ない",
-  "en": "",
-  "status": ""
+  "en": "That's right, Kyosuke doesn't dream.",
+  "status": "tl"
  },
  {
   "id": "F11E3C:10",
   "kind": "msg",
   "speaker": "鬼夜叉",
   "jp": "そんなの見たことないし、\nこの先も見ることはナイ",
-  "en": "",
-  "status": ""
+  "en": "He's never seen one, and never will.",
+  "status": "tl"
  },
  {
   "id": "F11E3C:11",
   "kind": "msg",
   "speaker": "鬼夜叉",
   "jp": "京介はずーっと夢を見ない",
-  "en": "",
-  "status": ""
+  "en": "Kyosuke doesn't dream, ever.",
+  "status": "tl"
  },
  {
   "id": "F11E3C:13",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "なんだ、そりゃ?\n謎かけのつもりかよ?",
-  "en": "",
-  "status": ""
+  "en": "What's that supposed to mean? Is that some kinda riddle?",
+  "status": "tl"
  },
  {
   "id": "F11E3C:15",
   "kind": "msg",
   "speaker": "鬼夜叉",
   "jp": "別にィ…で、どう?\n得意の邪眼が効かなくて悔しい?",
-  "en": "",
-  "status": ""
+  "en": "Not really... So, how's it feel? Bummed your precious Evil Eye didn't work?",
+  "status": "tl"
  },
  {
   "id": "F11E3C:17",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ンなモンが効かなくても、\n要は面を奪り還しゃいいだけの話だ！",
-  "en": "",
-  "status": ""
+  "en": "Who cares if it doesn't work? All I gotta do is get those masks back!",
+  "status": "tl"
  },
  {
   "id": "F11E3C:18",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "邪眼使うまでもねェ！！",
-  "en": "",
-  "status": ""
+  "en": "I don't even need the Evil Eye for this!!",
+  "status": "tl"
  },
  {
   "id": "F11E3C:20",
   "kind": "msg",
   "speaker": "鬼夜叉",
   "jp": "フーン、だってサ、京介…\nやっちまおうぜ！！",
-  "en": "",
-  "status": ""
+  "en": "Hmm, hear that, Kyosuke? Let's take 'em out!!",
+  "status": "tl"
  },
  {
   "id": "F12218:1",
   "kind": "msg",
   "speaker": "鬼夜叉",
   "jp": "なかなかヤルね、キミたちもさ…",
-  "en": "",
-  "status": ""
+  "en": "Not bad, you guys...",
+  "status": "tl"
  },
  {
   "id": "F12218:2",
   "kind": "msg",
   "speaker": "鬼夜叉",
   "jp": "誰たちだっけ?\n一応、名前聞いとくケド?",
-  "en": "",
-  "status": ""
+  "en": "Who were you again? Guess I'll ask your names, just in case.",
+  "status": "tl"
  },
  {
   "id": "F12218:4",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ハッ、知らねーんなら教えてやるよ！",
-  "en": "",
-  "status": ""
+  "en": "Hah, if ya don't know, I'll tell ya!",
+  "status": "tl"
  },
  {
   "id": "F12218:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "奪還率100%の無敵の奪還屋、\nゲットバッカーズの美堂蛮様だ！！",
-  "en": "",
-  "status": ""
+  "en": "The invincible retrieval agent with a 100% success rate, the great Ban Mido of the GetBackers!!",
+  "status": "tl"
  },
  {
   "id": "F12218:7",
   "kind": "msg",
   "speaker": "鬼夜叉",
   "jp": "フーン、奪還屋ねえ…\nまあ覚えとくよ",
-  "en": "",
-  "status": ""
+  "en": "Hmm, retrieval agents, huh... Well, I'll remember that.",
+  "status": "tl"
  },
  {
   "id": "F12218:8",
   "kind": "msg",
   "speaker": "鬼夜叉",
   "jp": "また会えるといいね、美堂蛮サン?",
-  "en": "",
-  "status": ""
+  "en": "Hope we meet again, Mister Ban Mido.",
+  "status": "tl"
  },
  {
   "id": "F12218:9",
   "kind": "msg",
   "speaker": "鬼夜叉",
   "jp": "…ンじゃ行こうぜ、京介",
-  "en": "",
-  "status": ""
+  "en": "...Okay, let's go, Kyosuke.",
+  "status": "tl"
  },
  {
   "id": "F12420:1",
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "…ねえ、どういうこと?\n蛮の邪眼が効かないなんて………",
-  "en": "",
-  "status": ""
+  "en": "...Hey, what's going on? Your Evil Eye didn't work, Ban.........",
+  "status": "tl"
  },
  {
   "id": "F12498:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ば、蛮ちゃ~~~ん\nブジで良かったよ~~~~っ！！",
-  "en": "",
-  "status": ""
+  "en": "B-Baaaaan! I'm so glad you're okaaaaay!!",
+  "status": "tl"
  },
  {
   "id": "F12498:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おう、銀次！\nそっちも元気そうじゃねえかよ",
-  "en": "",
-  "status": ""
+  "en": "Yo, Ginji! Looks like you're doin' fine too.",
+  "status": "tl"
  },
  {
   "id": "F12498:4",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ジャッカルのヤローは\n尻尾まいて逃げたのか?",
-  "en": "",
-  "status": ""
+  "en": "Did that bastard Jackal turn tail and run?",
+  "status": "tl"
  },
  {
   "id": "F12498:6",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "うーん、そういうわけでもないけど…",
-  "en": "",
-  "status": ""
+  "en": "Hmm, not exactly...",
+  "status": "tl"
  },
  {
   "id": "F12498:7",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "で、奪還は?　うまくいったの?",
-  "en": "",
-  "status": ""
+  "en": "So, what about the retrieval? Did it go okay?",
+  "status": "tl"
  },
  {
   "id": "F12498:9",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おうよ！　俺様に抜かりはないぜ！！",
-  "en": "",
-  "status": ""
+  "en": "You bet! The great Ban never fails!!",
+  "status": "tl"
  },
  {
   "id": "F12498:11",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "やったー！　小判だ~！！",
-  "en": "",
-  "status": ""
+  "en": "Yaaay! Gold coins!!",
+  "status": "tl"
  },
  {
   "id": "F12498:12",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "蛮ちゃん、これでやっと\n貧乏生活ともおサラバだね！！",
-  "en": "",
-  "status": ""
+  "en": "Ban, now we can finally say goodbye to being poor!!",
+  "status": "tl"
  },
  {
   "id": "F12498:14",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "もちろんだ！",
-  "en": "",
-  "status": ""
+  "en": "Damn right!",
+  "status": "tl"
  },
  {
   "id": "F12498:15",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "さァてと、\n小判と引き換えに行くとするか！！",
-  "en": "",
-  "status": ""
+  "en": "Aaalright, let's go trade this in for those gold coins!!",
+  "status": "tl"
  },
  {
   "id": "F1280C:1",
   "kind": "msg",
   "speaker": "大介",
   "jp": "そうですか…翁の面は割れましたか…",
-  "en": "",
-  "status": ""
+  "en": "I see... So the Okina mask was broken...",
+  "status": "tl"
  },
  {
   "id": "F1280C:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "え、えーと…その時はお面奪還を\n引き受ける前のことだったもので…",
-  "en": "",
-  "status": ""
+  "en": "W-Well, um... that happened before we took the job to get the masks back...",
+  "status": "tl"
  },
  {
   "id": "F1280C:4",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "一応、割れたものの方も\n持ってきたんですけどね…",
-  "en": "",
-  "status": ""
+  "en": "We did bring the broken one with us, though...",
+  "status": "tl"
  },
  {
   "id": "F1280C:6",
   "kind": "msg",
   "speaker": "大介",
   "jp": "………！",
-  "en": "",
-  "status": ""
+  "en": ".........!",
+  "status": "tl"
  },
  {
   "id": "F1280C:8",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "だ、大介さん?",
-  "en": "",
-  "status": ""
+  "en": "D-Daisuke?",
+  "status": "tl"
  },
  {
   "id": "F1280C:10",
   "kind": "msg",
   "speaker": "大介",
   "jp": "これはどうやら偽物のようですね",
-  "en": "",
-  "status": ""
+  "en": "It appears this one is a fake.",
+  "status": "tl"
  },
  {
   "id": "F1280C:12",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ニセモノだァ?",
-  "en": "",
-  "status": ""
+  "en": "A fake?",
+  "status": "tl"
  },
  {
   "id": "F1280C:14",
   "kind": "msg",
   "speaker": "大介",
   "jp": "………まさか…",
-  "en": "",
-  "status": ""
+  "en": ".........It can't be...",
+  "status": "tl"
  },
  {
   "id": "F1280C:16",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "?　どうかしました?",
-  "en": "",
-  "status": ""
+  "en": "? Is something wrong?",
+  "status": "tl"
  },
  {
   "id": "F1280C:18",
   "kind": "msg",
   "speaker": "大介",
   "jp": "…いえ、なんでもありません",
-  "en": "",
-  "status": ""
+  "en": "...No, it's nothing.",
+  "status": "tl"
  },
  {
   "id": "F1280C:19",
   "kind": "msg",
   "speaker": "大介",
   "jp": "割れた翁の面は偽物ですので、\n後で本物を奪還していただければ…",
-  "en": "",
-  "status": ""
+  "en": "The broken Okina mask is a fake, so if you could retrieve the real one later...",
+  "status": "tl"
  },
  {
   "id": "F1280C:21",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "じゃあ依頼料は引かれないんですね?",
-  "en": "",
-  "status": ""
+  "en": "So you won't dock our fee?",
+  "status": "tl"
  },
  {
   "id": "F1280C:23",
   "kind": "msg",
   "speaker": "大介",
   "jp": "はい…",
-  "en": "",
-  "status": ""
+  "en": "No...",
+  "status": "tl"
  },
  {
   "id": "F1280C:24",
   "kind": "msg",
   "speaker": "大介",
   "jp": "ですが、依頼料の支払いは全ての面の\n奪還後ということになっておりますので",
-  "en": "",
-  "status": ""
+  "en": "However, as agreed, your fee will be paid after all the masks have been retrieved.",
+  "status": "tl"
  },
  {
   "id": "F1280C:25",
   "kind": "msg",
   "speaker": "大介",
   "jp": "今回はこのまま失礼致します",
-  "en": "",
-  "status": ""
+  "en": "I shall take my leave for now.",
+  "status": "tl"
  },
  {
   "id": "F12C90:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あの…大介さん?",
-  "en": "",
-  "status": ""
+  "en": "Um... Daisuke?",
+  "status": "tl"
  },
  {
   "id": "F12C90:3",
   "kind": "msg",
   "speaker": "大介",
   "jp": "なんでしょう?",
-  "en": "",
-  "status": ""
+  "en": "Yes, what is it?",
+  "status": "tl"
  },
  {
   "id": "F12C90:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "京介さんのこと、\n聞かなくていいんですか?",
-  "en": "",
-  "status": ""
+  "en": "Don't you want to ask about Kyosuke?",
+  "status": "tl"
  },
  {
   "id": "F12C90:7",
   "kind": "msg",
   "speaker": "大介",
   "jp": "…京介は…兄は元気でしたか?",
-  "en": "",
-  "status": ""
+  "en": "...Kyosuke... Was my brother well?",
+  "status": "tl"
  },
  {
   "id": "F12C90:9",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "まあ元気そうだったぜ、一応な…",
-  "en": "",
-  "status": ""
+  "en": "Well, he looked fine, more or less...",
+  "status": "tl"
  },
  {
   "id": "F12C90:11",
   "kind": "msg",
   "speaker": "大介",
   "jp": "そうですか、それで十分です",
-  "en": "",
-  "status": ""
+  "en": "I see. That's enough for me.",
+  "status": "tl"
  },
  {
   "id": "F12C90:12",
   "kind": "msg",
   "speaker": "大介",
   "jp": "では…",
-  "en": "",
-  "status": ""
+  "en": "Then...",
+  "status": "tl"
  },
  {
   "id": "F12E8C:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "大介さんって京介さんのこと、\nあんまり好きじゃないのかな?",
-  "en": "",
-  "status": ""
+  "en": "Doesn't Daisuke like Kyosuke much?",
+  "status": "tl"
  },
  {
   "id": "F12E8C:2",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "兄弟とかってもっとお互いのことを\n心配するものじゃないの?",
-  "en": "",
-  "status": ""
+  "en": "Aren't brothers supposed to worry about each other more?",
+  "status": "tl"
  },
  {
   "id": "F12E8C:4",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "…どォせ複雑な事情でもあンだろうよ",
-  "en": "",
-  "status": ""
+  "en": "...Probably some complicated family business.",
+  "status": "tl"
  },
  {
   "id": "F12E8C:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ま、その辺のとこは\n絃巻きが探ってくれてるしな…",
-  "en": "",
-  "status": ""
+  "en": "Anyway, Spool Boy's lookin' into that stuff for us...",
+  "status": "tl"
  },
  {
   "id": "F12E8C:6",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "それよりも依頼料のことだ！",
-  "en": "",
-  "status": ""
+  "en": "More importantly, there's our fee!",
+  "status": "tl"
  },
  {
   "id": "F12E8C:7",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "全部奪還しねぇと入らねー\nなんつぅ契約だったか！?",
-  "en": "",
-  "status": ""
+  "en": "The deal was we don't get a dime unless we get 'em ALL back?!",
+  "status": "tl"
  },
  {
   "id": "F12E8C:9",
   "kind": "msg",
   "speaker": "ヘヴン",
   "jp": "そうよ！",
-  "en": "",
-  "status": ""
+  "en": "That's right!",
+  "status": "tl"
  },
  {
   "id": "F12E8C:10",
   "kind": "msg",
   "speaker": "ヘヴン",
   "jp": "アンタたちが小判に夢中で\n聞いてなかっただけじゃないの",
-  "en": "",
-  "status": ""
+  "en": "You two were just too busy drooling over the gold coins to listen.",
+  "status": "tl"
  },
  {
   "id": "F12E8C:12",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "んあ~、まだ手に入らないんだね…",
-  "en": "",
-  "status": ""
+  "en": "Nnngh... So we still don't get it...",
+  "status": "tl"
  },
  {
   "id": "F12E8C:13",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "今日はお腹いっぱい\nご飯食べられると思ったのに~…",
-  "en": "",
-  "status": ""
+  "en": "And I thought I'd get to eat till I was full today...",
+  "status": "tl"
  },
  {
   "id": "F12E8C:15",
   "kind": "msg",
   "speaker": "杏",
   "jp": "所持金0記録がまたまた更新ッスね！\nおめでたいッス~！！",
-  "en": "",
-  "status": ""
+  "en": "Another new record for zero cash on hand, see! Congratulations, see!!",
+  "status": "tl"
  },
  {
   "id": "F12E8C:17",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "なァにがおめでたいだ！",
-  "en": "",
-  "status": ""
+  "en": "What the hell's there to congratulate?!",
+  "status": "tl"
  },
  {
   "id": "F12E8C:18",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "写真撮るなら\n取材料よこせっつってんだろうが！！",
-  "en": "",
-  "status": ""
+  "en": "I told ya, if you're takin' pictures, pay up for the interview!!",
+  "status": "tl"
  },
  {
   "id": "F12E8C:20",
   "kind": "msg",
   "speaker": "杏",
   "jp": "だからそれは出世払いするッスよ",
-  "en": "",
-  "status": ""
+  "en": "Like I said, I'll pay you back once I hit the big time, see.",
+  "status": "tl"
  },
  {
   "id": "F12E8C:22",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "フザけんじゃねーよ、貧乳娘が！",
-  "en": "",
-  "status": ""
+  "en": "Quit screwin' around, you flat-chested brat!",
+  "status": "tl"
  },
  {
   "id": "F12E8C:23",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "…ダメだ、めまいがしてきやがった",
-  "en": "",
-  "status": ""
+  "en": "...Crap, now I'm gettin' dizzy.",
+  "status": "tl"
  },
  {
   "id": "F12E8C:25",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "んあ~、\nなんだかお花畑が見えてきたような~…",
-  "en": "",
-  "status": ""
+  "en": "Nnngh... I think I'm starting to see a field of flowers...",
+  "status": "tl"
  },
  {
   "id": "F134F4:1",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "マスター、蛮さんたちが！！",
-  "en": "",
-  "status": ""
+  "en": "Boss, Ban and Ginji are...!!",
+  "status": "tl"
  },
  {
   "id": "F134F4:3",
   "kind": "msg",
   "speaker": "波児",
   "jp": "夏実ちゃん、レナちゃん、\nその二人を店の外に捨ててきてくれ",
-  "en": "",
-  "status": ""
+  "en": "Natsumi, Rena, go dump those two outside the shop, would you?",
+  "status": "tl"
  },
  {
   "id": "F134F4:6",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "は~い♥",
-  "en": "",
-  "status": ""
+  "en": "Oookay!♥",
+  "status": "tl"
  },
  {
   "id": "F13644:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "…くっそー、ナメやがって………\nいつか見返してやっかんな…",
-  "en": "",
-  "status": ""
+  "en": "...Dammit, lookin' down on us like that... Someday I'll show 'em...",
+  "status": "tl"
  },
  {
   "id": "F13644:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "…蛮ちゃん、小判だけは\nなにがあっても手に入れようね…",
-  "en": "",
-  "status": ""
+  "en": "...Ban, no matter what happens, let's get those gold coins...",
+  "status": "tl"
  }
 ]

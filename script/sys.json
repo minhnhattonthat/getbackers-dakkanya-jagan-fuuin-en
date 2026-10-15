@@ -1,0 +1,15 @@
+[
+ {
+  "id": "main_menu",
+  "note": "field START menu; window inner width 5 cells",
+  "charset_lit": "BC9C", "charset_imm": "BB86", "glyphs": 21,
+  "labels": [
+   {"jp": "ステータス", "en": "Status", "lit": "BCA0", "imm": "BB98"},
+   {"jp": "パーティー", "en": "Party", "lit": "BCA8", "imm": "BBA8"},
+   {"jp": "アイテム", "en": "Items", "lit": "BCAC", "imm": "BBB8"},
+   {"jp": "装備", "en": "Equipment", "lit": "BCB0", "imm": "BBC8"},
+   {"jp": "オプション", "en": "Options", "lit": "BCB4", "imm": "BBD8"},
+   {"jp": "セーブ", "en": "Save", "lit": "BCB8", "imm": "BBE8"}
+  ]
+ }
+]

@@ -4,776 +4,776 @@
   "kind": "msg",
   "speaker": "銀次",
   "jp": "これの種類ってなんですか?",
-  "en": "",
-  "status": ""
+  "en": "What kind is this one?",
+  "status": "tl"
  },
  {
   "id": "F3785C:3",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "これはウニ、刺皮動物です",
-  "en": "",
-  "status": ""
+  "en": "This is a sea urchin, an echinoderm.",
+  "status": "tl"
  },
  {
   "id": "F3785C:4",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "体は栗のいがに似て多くの刺を持ちます",
-  "en": "",
-  "status": ""
+  "en": "Its body has lots of spines, like a chestnut burr.",
+  "status": "tl"
  },
  {
   "id": "F3785C:6",
   "kind": "msg",
   "speaker": "士度",
   "jp": "性格はがめつく、\n金に極めてうるさい…と",
-  "en": "",
-  "status": ""
+  "en": "Personality: greedy, and extremely fussy about money... got it.",
+  "status": "tl"
  },
  {
   "id": "F3785C:8",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なるほど~",
-  "en": "",
-  "status": ""
+  "en": "I seeee...",
+  "status": "tl"
  },
  {
   "id": "F3785C:10",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "納得するなっての…",
-  "en": "",
-  "status": ""
+  "en": "Don't agree with him...",
+  "status": "tl"
  },
  {
   "id": "F379C8:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "これの種類ってなんですか?",
-  "en": "",
-  "status": ""
+  "en": "What kind is this one?",
+  "status": "tl"
  },
  {
   "id": "F379C8:3",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "これはヒトデ、刺皮動物ですね",
-  "en": "",
-  "status": ""
+  "en": "This is a starfish, an echinoderm.",
+  "status": "tl"
  },
  {
   "id": "F379C8:4",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "体は扁平な中央盤と\n五本の腕から成っています",
-  "en": "",
-  "status": ""
+  "en": "Its body is a flat central disc with five arms.",
+  "status": "tl"
  },
  {
   "id": "F379C8:5",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "再生力が強いのが特徴です",
-  "en": "",
-  "status": ""
+  "en": "It's known for its strong regenerative power.",
+  "status": "tl"
  },
  {
   "id": "F379C8:7",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "再生能力?",
-  "en": "",
-  "status": ""
+  "en": "Regenerative power?",
+  "status": "tl"
  },
  {
   "id": "F379C8:9",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "ええ、切れた腕から本体を\n再生させることも可能です",
-  "en": "",
-  "status": ""
+  "en": "Yes. It can even regrow a whole body from a severed arm.",
+  "status": "tl"
  },
  {
   "id": "F379C8:11",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ええ~、気持ち悪いね~\nそういう敵がいたらイヤかも…",
-  "en": "",
-  "status": ""
+  "en": "Eww, that's gross... I'd hate to fight an enemy like that...",
+  "status": "tl"
  },
  {
   "id": "F37B98:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "これの種類ってなんですか?",
-  "en": "",
-  "status": ""
+  "en": "What kind is this one?",
+  "status": "tl"
  },
  {
   "id": "F37B98:3",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "これはナマコ、刺皮動物です",
-  "en": "",
-  "status": ""
+  "en": "This is a sea cucumber, an echinoderm.",
+  "status": "tl"
  },
  {
   "id": "F37B98:4",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "体は円筒状で左右対称の形をしています",
-  "en": "",
-  "status": ""
+  "en": "Its body is cylindrical and symmetrical left to right.",
+  "status": "tl"
  },
  {
   "id": "F37B98:5",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "マナマコを生食する他に干物のいりこや\n塩辛のこのわたとして食べられます",
-  "en": "",
-  "status": ""
+  "en": "Besides being eaten raw, it's eaten dried as iriko or as salted guts called konowata.",
+  "status": "tl"
  },
  {
   "id": "F37B98:7",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "うわ~、これは食べたくないかも…",
-  "en": "",
-  "status": ""
+  "en": "Ugh, I don't think I wanna eat this one...",
+  "status": "tl"
  },
  {
   "id": "F37CF0:1",
   "kind": "msg",
   "speaker": "スタッフ",
   "jp": "魚を全部運び終えたら\n警報を解除してあげますよ♥",
-  "en": "",
-  "status": ""
+  "en": "Once you've carried all the fish, I'll turn off the alarm for you♥",
+  "status": "tl"
  },
  {
   "id": "F37D60:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "まず持ってる魚を水槽に入れてから\n次の魚に移った方がいいかもね",
-  "en": "",
-  "status": ""
+  "en": "Maybe we should put the fish we're holding in a tank before moving on to the next one.",
+  "status": "tl"
  },
  {
   "id": "F37DD8:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なんだろ、この魚…?",
-  "en": "",
-  "status": ""
+  "en": "I wonder what this fish is...?",
+  "status": "tl"
  },
  {
   "id": "F37DD8:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "これはスズキだな…",
-  "en": "",
-  "status": ""
+  "en": "This is a suzuki...",
+  "status": "tl"
  },
  {
   "id": "F37DD8:5",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "なんや人の名前みたいやなあ",
-  "en": "",
-  "status": ""
+  "en": "Sounds like a guy's name, huh?",
+  "status": "tl"
  },
  {
   "id": "F37E94:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なんだろ、この魚…?",
-  "en": "",
-  "status": ""
+  "en": "I wonder what this fish is...?",
+  "status": "tl"
  },
  {
   "id": "F37E94:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "これはフグだな…",
-  "en": "",
-  "status": ""
+  "en": "This is a pufferfish...",
+  "status": "tl"
  },
  {
   "id": "F37E94:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "フグかあ…\n一度くらい食べてみたいなあ",
-  "en": "",
-  "status": ""
+  "en": "A pufferfish, huh... I'd like to try eating one at least once.",
+  "status": "tl"
  },
  {
   "id": "F37F5C:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なんだろ、この魚…?",
-  "en": "",
-  "status": ""
+  "en": "I wonder what this fish is...?",
+  "status": "tl"
  },
  {
   "id": "F37F5C:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "これはミノカサゴだな…",
-  "en": "",
-  "status": ""
+  "en": "This is a lionfish...",
+  "status": "tl"
  },
  {
   "id": "F37F5C:5",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "えらい派手な魚やなあ~\nどこぞの演歌歌手みたいやな！",
-  "en": "",
-  "status": ""
+  "en": "Mighty flashy fish, ain't it? Like some enka singer!",
+  "status": "tl"
  },
  {
   "id": "F38038:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なんだろ、この魚…?",
-  "en": "",
-  "status": ""
+  "en": "I wonder what this fish is...?",
+  "status": "tl"
  },
  {
   "id": "F38038:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "これはコイだな…",
-  "en": "",
-  "status": ""
+  "en": "This is a koi...",
+  "status": "tl"
  },
  {
   "id": "F38038:5",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "コイ…か",
-  "en": "",
-  "status": ""
+  "en": "Koi... is it?",
+  "status": "tl"
  },
  {
   "id": "F38038:7",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "…ねえ十兵衛、もしかしてコイで\nダジャレとか考えてる?",
-  "en": "",
-  "status": ""
+  "en": "...Hey Juubei, are you thinking up a pun about koi?",
+  "status": "tl"
  },
  {
   "id": "F38038:8",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "しかもそれって『コイに恋した』とか、\nそういうのじゃないの?",
-  "en": "",
-  "status": ""
+  "en": "Something like \"Don't be koi with me,\" right?",
+  "status": "tl"
  },
  {
   "id": "F38038:10",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "なぜ分かるのだ！?",
-  "en": "",
-  "status": ""
+  "en": "How did you know?!",
+  "status": "tl"
  },
  {
   "id": "F38038:12",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "いや、なんとなくね…",
-  "en": "",
-  "status": ""
+  "en": "Eh, just a hunch...",
+  "status": "tl"
  },
  {
   "id": "F38038:14",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "寒っ…相変わらず極寒やな………",
-  "en": "",
-  "status": ""
+  "en": "Brrr... Freezin' cold as usual...",
+  "status": "tl"
  },
  {
   "id": "F38234:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なんだろ、この魚…?",
-  "en": "",
-  "status": ""
+  "en": "I wonder what this fish is...?",
+  "status": "tl"
  },
  {
   "id": "F38234:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "これはアユだな…",
-  "en": "",
-  "status": ""
+  "en": "This is an ayu...",
+  "status": "tl"
  },
  {
   "id": "F38234:5",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "アユ…",
-  "en": "",
-  "status": ""
+  "en": "Ayu...",
+  "status": "tl"
  },
  {
   "id": "F38234:7",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "アユっちゅー名前のギャルのことでも\n考えてんちゃいまっか~、雨流はん?",
-  "en": "",
-  "status": ""
+  "en": "Ya ain't thinkin' about some gal named Ayu, are ya, Uryu?",
+  "status": "tl"
  },
  {
   "id": "F38234:9",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "いや、むしろダジャレをな",
-  "en": "",
-  "status": ""
+  "en": "No. A pun, actually.",
+  "status": "tl"
  },
  {
   "id": "F38234:11",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "(アカン、\n十兵衛はんの病が伝染しとる！?)",
-  "en": "",
-  "status": ""
+  "en": "(Oh no, Juubei's disease is spreadin'?!)",
+  "status": "tl"
  },
  {
   "id": "F38234:13",
   "kind": "msg",
   "speaker": "士度",
   "jp": "(いい加減にダジャレは\n止めろと誰か言ってやれ！)",
-  "en": "",
-  "status": ""
+  "en": "(Somebody tell them to quit with the puns already!)",
+  "status": "tl"
  },
  {
   "id": "F38234:15",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "(オメーが止めりゃいいんだろうが！)",
-  "en": "",
-  "status": ""
+  "en": "(Then tell 'em yourself!)",
+  "status": "tl"
  },
  {
   "id": "F38468:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なんだろ、この魚…?",
-  "en": "",
-  "status": ""
+  "en": "I wonder what this fish is...?",
+  "status": "tl"
  },
  {
   "id": "F38468:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "これはニジマスだな…",
-  "en": "",
-  "status": ""
+  "en": "This is a rainbow trout...",
+  "status": "tl"
  },
  {
   "id": "F38468:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "地味な魚だねー",
-  "en": "",
-  "status": ""
+  "en": "It's a plain-looking fish, huh.",
+  "status": "tl"
  },
  {
   "id": "F38468:7",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ああ、まるでお笑いヤローだな",
-  "en": "",
-  "status": ""
+  "en": "Yeah, just like our comedy clown.",
+  "status": "tl"
  },
  {
   "id": "F38468:9",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "納得いかんわ、そのセリフ！\nワイはむしろハデな方やで！！",
-  "en": "",
-  "status": ""
+  "en": "I ain't buyin' that! If anything, I'm the flashy type!!",
+  "status": "tl"
  },
  {
   "id": "F38468:11",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "うーん、なんていうか…服が地味かな",
-  "en": "",
-  "status": ""
+  "en": "Hmm, how do I put it... Your clothes are kinda plain.",
+  "status": "tl"
  },
  {
   "id": "F385F4:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なんだろ、この魚…?",
-  "en": "",
-  "status": ""
+  "en": "I wonder what this fish is...?",
+  "status": "tl"
  },
  {
   "id": "F385F4:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "これはマグロだな…",
-  "en": "",
-  "status": ""
+  "en": "This is a tuna...",
+  "status": "tl"
  },
  {
   "id": "F385F4:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "マグロ！\nトロ?　むしろ大トロかっ！?",
-  "en": "",
-  "status": ""
+  "en": "Tuna! Toro? Nah, fatty toro?!",
+  "status": "tl"
  },
  {
   "id": "F385F4:7",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ああっ、蛮ちゃん！\n水族館の魚食べちゃダメだってば！！",
-  "en": "",
-  "status": ""
+  "en": "Aaah, Ban! You can't eat the aquarium fish!!",
+  "status": "tl"
  },
  {
   "id": "F38718:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なんだろ、この魚…?",
-  "en": "",
-  "status": ""
+  "en": "I wonder what this fish is...?",
+  "status": "tl"
  },
  {
   "id": "F38718:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "これはアジだな…\nお前らにお似合いの魚だ",
-  "en": "",
-  "status": ""
+  "en": "This is a horse mackerel... A fish right at your level.",
+  "status": "tl"
  },
  {
   "id": "F38718:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "なんだと、やんのかコラ！",
-  "en": "",
-  "status": ""
+  "en": "What'd you say? You wanna go, huh?!",
+  "status": "tl"
  },
  {
   "id": "F38718:7",
   "kind": "msg",
   "speaker": "士度",
   "jp": "ハッ！　悔しかったら、\nまともな食事を食えるようになるんだな",
-  "en": "",
-  "status": ""
+  "en": "Hah! If that stings, learn to afford a decent meal.",
+  "status": "tl"
  },
  {
   "id": "F38718:9",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ああっ、なんか胸に突き刺さる言葉！！",
-  "en": "",
-  "status": ""
+  "en": "Aaah, those words cut deep!!",
+  "status": "tl"
  },
  {
   "id": "F38718:11",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "くそ~、なんかやたらムカつくぜ…",
-  "en": "",
-  "status": ""
+  "en": "Dammit... That ticks me off big time...",
+  "status": "tl"
  },
  {
   "id": "F388CC:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なんだろ、この魚…?",
-  "en": "",
-  "status": ""
+  "en": "I wonder what this fish is...?",
+  "status": "tl"
  },
  {
   "id": "F388CC:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "これはイワシだな…",
-  "en": "",
-  "status": ""
+  "en": "This is a sardine...",
+  "status": "tl"
  },
  {
   "id": "F388CC:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "イワシか~、ツミレを鍋に入れたいね~",
-  "en": "",
-  "status": ""
+  "en": "Sardines, huh~ I wanna put sardine balls in a hot pot~",
+  "status": "tl"
  },
  {
   "id": "F388CC:7",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "鍋かー…うまそうだな",
-  "en": "",
-  "status": ""
+  "en": "Hot pot, huh... Sounds good.",
+  "status": "tl"
  },
  {
   "id": "F388CC:9",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ほら、蛮ちゃん…\n魚もこんなに入ってるよ~ウフフ…☆",
-  "en": "",
-  "status": ""
+  "en": "Look, Ban... There's so much fish in it~ Heehee...☆",
+  "status": "tl"
  },
  {
   "id": "F388CC:11",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "よーし、今夜はたらふく食ってやる！",
-  "en": "",
-  "status": ""
+  "en": "All right, I'm stuffin' myself tonight!",
+  "status": "tl"
  },
  {
   "id": "F388CC:13",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "なんかあそこ…マッチ売りの少女\nみたいになっとんで！?",
-  "en": "",
-  "status": ""
+  "en": "Over there... They're turnin' into the Little Match Girl?!",
+  "status": "tl"
  },
  {
   "id": "F388CC:14",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ヤバいがな！",
-  "en": "",
-  "status": ""
+  "en": "This is bad!",
+  "status": "tl"
  },
  {
   "id": "F388CC:16",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "いいから今はそっとしておいてやれ…",
-  "en": "",
-  "status": ""
+  "en": "Never mind. Just leave them be for now...",
+  "status": "tl"
  },
  {
   "id": "F38B1C:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なんだろ、これ…?",
-  "en": "",
-  "status": ""
+  "en": "I wonder what this is...?",
+  "status": "tl"
  },
  {
   "id": "F38B1C:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "これはクラゲだな…",
-  "en": "",
-  "status": ""
+  "en": "This is a jellyfish...",
+  "status": "tl"
  },
  {
   "id": "F38B1C:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "クラゲってキラいだな~\nビリビリするし",
-  "en": "",
-  "status": ""
+  "en": "I hate jellyfish... They zap!",
+  "status": "tl"
  },
  {
   "id": "F38B1C:7",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "いつもビリビリしてるヤツが\nなに言ってやがんだ…",
-  "en": "",
-  "status": ""
+  "en": "Look who's talking, Mr. Always Zapping...",
+  "status": "tl"
  },
  {
   "id": "F38C3C:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なんだろ、これ…?",
-  "en": "",
-  "status": ""
+  "en": "I wonder what this is...?",
+  "status": "tl"
  },
  {
   "id": "F38C3C:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "これはイソギンチャクだな…",
-  "en": "",
-  "status": ""
+  "en": "This is a sea anemone...",
+  "status": "tl"
  },
  {
   "id": "F38C3C:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "イソギンチャクって食べれないのかな?",
-  "en": "",
-  "status": ""
+  "en": "Can you really not eat sea anemones?",
+  "status": "tl"
  },
  {
   "id": "F38C3C:7",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "いや、ムリだろう…",
-  "en": "",
-  "status": ""
+  "en": "No, I doubt it...",
+  "status": "tl"
  },
  {
   "id": "F38C3C:9",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "いや、むしろ食べられるだろう",
-  "en": "",
-  "status": ""
+  "en": "No, I'd say they're edible.",
+  "status": "tl"
  },
  {
   "id": "F38C3C:11",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "…食用にはならん",
-  "en": "",
-  "status": ""
+  "en": "...They are not food.",
+  "status": "tl"
  },
  {
   "id": "F38C3C:13",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "いや、食用になる",
-  "en": "",
-  "status": ""
+  "en": "No, they are food.",
+  "status": "tl"
  },
  {
   "id": "F38C3C:15",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "筧…貴様………",
-  "en": "",
-  "status": ""
+  "en": "Kakei... you...",
+  "status": "tl"
  },
  {
   "id": "F38C3C:17",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "やるのか、雨流…",
-  "en": "",
-  "status": ""
+  "en": "You want a fight, Uryu...?",
+  "status": "tl"
  },
  {
   "id": "F38C3C:19",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "…イ、イソギンチャクのことで\nそんなにモメなくても…",
-  "en": "",
-  "status": ""
+  "en": "...Y-you don't have to fight that hard over sea anemones...",
+  "status": "tl"
  },
  {
   "id": "F38E9C:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なんだろ、これ…?",
-  "en": "",
-  "status": ""
+  "en": "I wonder what this is...?",
+  "status": "tl"
  },
  {
   "id": "F38E9C:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "これはヒドラだな…",
-  "en": "",
-  "status": ""
+  "en": "This is a hydroid...",
+  "status": "tl"
  },
  {
   "id": "F38E9C:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ヒドラって…ヘビ！?",
-  "en": "",
-  "status": ""
+  "en": "A hydra... like the snake?!",
+  "status": "tl"
  },
  {
   "id": "F38E9C:7",
   "kind": "msg",
   "speaker": "士度",
   "jp": "いや、クラゲの仲間だな",
-  "en": "",
-  "status": ""
+  "en": "No, it's related to jellyfish.",
+  "status": "tl"
  },
  {
   "id": "F38F88:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なんだろ、これ…?",
-  "en": "",
-  "status": ""
+  "en": "I wonder what this is...?",
+  "status": "tl"
  },
  {
   "id": "F38F88:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "これはエビだな…",
-  "en": "",
-  "status": ""
+  "en": "This is a shrimp...",
+  "status": "tl"
  },
  {
   "id": "F38F88:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "エビといえば伊勢エビ！",
-  "en": "",
-  "status": ""
+  "en": "When it comes to shrimp, it's gotta be spiny lobster!",
+  "status": "tl"
  },
  {
   "id": "F38F88:7",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "いや、むしろオマールだっつうの！",
-  "en": "",
-  "status": ""
+  "en": "Nah, it's gotta be a real lobster!",
+  "status": "tl"
  },
  {
   "id": "F38F88:9",
   "kind": "msg",
   "speaker": "士度",
   "jp": "どうせ食えもしねえくせに…",
-  "en": "",
-  "status": ""
+  "en": "Like you could ever afford either...",
+  "status": "tl"
  },
  {
   "id": "F390B8:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なんだろ、これ…?",
-  "en": "",
-  "status": ""
+  "en": "I wonder what this is...?",
+  "status": "tl"
  },
  {
   "id": "F390B8:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "これはカニだな…",
-  "en": "",
-  "status": ""
+  "en": "This is a crab...",
+  "status": "tl"
  },
  {
   "id": "F390B8:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "んあ~、一度でいいから\n肉厚なタラバガニ食べた~い",
-  "en": "",
-  "status": ""
+  "en": "Nngh... Just once, I wanna eat some big, meaty king crab...",
+  "status": "tl"
  },
  {
   "id": "F390B8:7",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "一度でいいから\n濃厚なカニミソすすりてえなあ~",
-  "en": "",
-  "status": ""
+  "en": "Just once, I wanna slurp up some rich crab innards...",
+  "status": "tl"
  },
  {
   "id": "F390B8:10",
@@ -788,160 +788,160 @@
   "kind": "msg",
   "speaker": "銀次",
   "jp": "…なんか切なくなってきたよ、\nどうしてかな…蛮ちゃん?",
-  "en": "",
-  "status": ""
+  "en": "...I'm starting to feel kinda sad. Why is that, Ban...?",
+  "status": "tl"
  },
  {
   "id": "F390B8:14",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "…なんでだろうな?",
-  "en": "",
-  "status": ""
+  "en": "...Beats me.",
+  "status": "tl"
  },
  {
   "id": "F3929C:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なんだろ、これ…?",
-  "en": "",
-  "status": ""
+  "en": "I wonder what this is...?",
+  "status": "tl"
  },
  {
   "id": "F3929C:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "これはヤドカリだな…",
-  "en": "",
-  "status": ""
+  "en": "This is a hermit crab...",
+  "status": "tl"
  },
  {
   "id": "F3929C:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ヤドを借りてるからヤドカリ?",
-  "en": "",
-  "status": ""
+  "en": "It's a \"hermit\" 'cause it borrows somebody else's house?",
+  "status": "tl"
  },
  {
   "id": "F3929C:7",
   "kind": "msg",
   "speaker": "士度",
   "jp": "そういうことだろうな\nということは、お前らはヤドナシか…",
-  "en": "",
-  "status": ""
+  "en": "Guess so. Which makes you two the homeless crabs...",
+  "status": "tl"
  },
  {
   "id": "F3929C:9",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "嗚呼！　なにげにひどいお言葉…",
-  "en": "",
-  "status": ""
+  "en": "Ahh! That was casually brutal...",
+  "status": "tl"
  },
  {
   "id": "F3929C:11",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "くそ~、いつか音羽邸よりデカい\n豪邸おっ建てて見返してやっかんな！！",
-  "en": "",
-  "status": ""
+  "en": "Dammit... Someday I'll build a mansion bigger than the Otowa estate and show you!!",
+  "status": "tl"
  },
  {
   "id": "F3929C:13",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ていうか、宿あるの士度はんのみ！?",
-  "en": "",
-  "status": ""
+  "en": "Wait, is Shido the only one with a place?!",
+  "status": "tl"
  },
  {
   "id": "F3929C:15",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "我々のことも嘲笑っているのか、\nビーストマスター！?",
-  "en": "",
-  "status": ""
+  "en": "Are you mocking us too, Beast Master?!",
+  "status": "tl"
  },
  {
   "id": "F3929C:17",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "むしろ無限城は宿にならんのか！?",
-  "en": "",
-  "status": ""
+  "en": "Doesn't the Infinity Fortress count as a home?!",
+  "status": "tl"
  },
  {
   "id": "F3953C:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なんだろ、これ…?",
-  "en": "",
-  "status": ""
+  "en": "I wonder what this is...?",
+  "status": "tl"
  },
  {
   "id": "F3953C:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "これはタコだな…",
-  "en": "",
-  "status": ""
+  "en": "This is an octopus...",
+  "status": "tl"
  },
  {
   "id": "F3953C:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "出たよ、蛮ちゃんの天敵が！",
-  "en": "",
-  "status": ""
+  "en": "There it is, Ban's archenemy!",
+  "status": "tl"
  },
  {
   "id": "F3953C:7",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "…妙なことをしたら\n寿司か刺身にしてやっかんな",
-  "en": "",
-  "status": ""
+  "en": "...Try anything funny and I'll turn you into sushi or sashimi.",
+  "status": "tl"
  },
  {
   "id": "F3953C:9",
   "kind": "msg",
   "speaker": "士度",
   "jp": "そんなに苦手なのかよ…",
-  "en": "",
-  "status": ""
+  "en": "You hate 'em that much?",
+  "status": "tl"
  },
  {
   "id": "F3953C:11",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "苦手じゃねえ！\nただコイツが俺様のことを嫌いなだけだ",
-  "en": "",
-  "status": ""
+  "en": "I don't hate 'em! This thing just hates the great me, that's all.",
+  "status": "tl"
  },
  {
   "id": "F3953C:14",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "(何故…?)",
-  "en": "",
-  "status": ""
+  "en": "(Why...?)",
+  "status": "tl"
  },
  {
   "id": "F39710:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なんだろ、これ…?",
-  "en": "",
-  "status": ""
+  "en": "I wonder what this is...?",
+  "status": "tl"
  },
  {
   "id": "F39710:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "これはイカだな…",
-  "en": "",
-  "status": ""
+  "en": "This is a squid...",
+  "status": "tl"
  },
  {
   "id": "F39710:5",
@@ -956,431 +956,431 @@
   "kind": "msg",
   "speaker": "銀次",
   "jp": "蛮ちゃん、\nタコだけじゃなくてイカも苦手なの！?",
-  "en": "",
-  "status": ""
+  "en": "Ban, you can't handle squid either, not just octopus?!",
+  "status": "tl"
  },
  {
   "id": "F39710:9",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "イカの方が俺様を嫌いなんだよ！",
-  "en": "",
-  "status": ""
+  "en": "The squid's the one that hates the great me!",
+  "status": "tl"
  },
  {
   "id": "F39710:11",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "美堂はんの前世がウニで、そん時に\nタコやイカになにかしたんちゃう?",
-  "en": "",
-  "status": ""
+  "en": "Maybe in a past life ya were a sea urchin, Mido, and did somethin' to the octopus and squid?",
+  "status": "tl"
  },
  {
   "id": "F39710:13",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "そっか！",
-  "en": "",
-  "status": ""
+  "en": "Oh, I get it!",
+  "status": "tl"
  },
  {
   "id": "F39710:15",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "いや、納得するなっての…",
-  "en": "",
-  "status": ""
+  "en": "Don't agree with him...",
+  "status": "tl"
  },
  {
   "id": "F3990C:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なんだろ、これ…?",
-  "en": "",
-  "status": ""
+  "en": "I wonder what this is...?",
+  "status": "tl"
  },
  {
   "id": "F3990C:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "これはサザエだな…",
-  "en": "",
-  "status": ""
+  "en": "This is a turban shell...",
+  "status": "tl"
  },
  {
   "id": "F3990C:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ツボ焼きにしたいね~",
-  "en": "",
-  "status": ""
+  "en": "I wanna grill it in its shell~",
+  "status": "tl"
  },
  {
   "id": "F3990C:7",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "さっきから食べ物のことばっかりだな…",
-  "en": "",
-  "status": ""
+  "en": "All you've talked about is food...",
+  "status": "tl"
  },
  {
   "id": "F39A04:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なんだろ、これ…?",
-  "en": "",
-  "status": ""
+  "en": "I wonder what this is...?",
+  "status": "tl"
  },
  {
   "id": "F39A04:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "これはウニだな…",
-  "en": "",
-  "status": ""
+  "en": "This is a sea urchin...",
+  "status": "tl"
  },
  {
   "id": "F39A04:5",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "美堂はんの前世や、前世！",
-  "en": "",
-  "status": ""
+  "en": "It's Mido in a past life!",
+  "status": "tl"
  },
  {
   "id": "F39A04:7",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "いや、それよりも…化身！?",
-  "en": "",
-  "status": ""
+  "en": "No, more like... his incarnation?!",
+  "status": "tl"
  },
  {
   "id": "F39A04:9",
   "kind": "msg",
   "speaker": "士度",
   "jp": "ホント、まんまだな",
-  "en": "",
-  "status": ""
+  "en": "Seriously, it's the spitting image.",
+  "status": "tl"
  },
  {
   "id": "F39A04:11",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "うるせぇんだよ、お前ら！！",
-  "en": "",
-  "status": ""
+  "en": "Shut up, all of you!!",
+  "status": "tl"
  },
  {
   "id": "F39B64:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なんだろ、これ…?",
-  "en": "",
-  "status": ""
+  "en": "I wonder what this is...?",
+  "status": "tl"
  },
  {
   "id": "F39B64:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "これはヒトデだな…",
-  "en": "",
-  "status": ""
+  "en": "This is a starfish...",
+  "status": "tl"
  },
  {
   "id": "F39B64:5",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "人の手に見えるからヒトデ?",
-  "en": "",
-  "status": ""
+  "en": "It's called a starfish 'cause it looks like a star?",
+  "status": "tl"
  },
  {
   "id": "F39B64:7",
   "kind": "msg",
   "speaker": "士度",
   "jp": "そういうことなんだろうな",
-  "en": "",
-  "status": ""
+  "en": "Guess that's the idea.",
+  "status": "tl"
  },
  {
   "id": "F39B64:9",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "えー、見えないよねー",
-  "en": "",
-  "status": ""
+  "en": "Nah, I don't see it.",
+  "status": "tl"
  },
  {
   "id": "F39C8C:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なんだろ、これ…?",
-  "en": "",
-  "status": ""
+  "en": "I wonder what this is...?",
+  "status": "tl"
  },
  {
   "id": "F39C8C:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "これはナマコだな…",
-  "en": "",
-  "status": ""
+  "en": "This is a sea cucumber...",
+  "status": "tl"
  },
  {
   "id": "F39C8C:5",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "アカン、うっかり持っても~た！\nおわっ、気持ち悪っ！",
-  "en": "",
-  "status": ""
+  "en": "Aw no, I grabbed it without thinkin'! Whoa, gross!",
+  "status": "tl"
  },
  {
   "id": "F39C8C:6",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "十兵衛はん、パス！",
-  "en": "",
-  "status": ""
+  "en": "Juubei, catch!",
+  "status": "tl"
  },
  {
   "id": "F39C8C:8",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "やめろ！　やめろというに！！",
-  "en": "",
-  "status": ""
+  "en": "Stop! I said stop!!",
+  "status": "tl"
  },
  {
   "id": "F39C8C:9",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "雨流、パスだ！！",
-  "en": "",
-  "status": ""
+  "en": "Uryu, catch!!",
+  "status": "tl"
  },
  {
   "id": "F39C8C:11",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "筧…貴様………",
-  "en": "",
-  "status": ""
+  "en": "Kakei... you...",
+  "status": "tl"
  },
  {
   "id": "F39C8C:12",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "パスするぞ、雷帝！",
-  "en": "",
-  "status": ""
+  "en": "Catch, Raitei!",
+  "status": "tl"
  },
  {
   "id": "F39C8C:14",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あっ、ゴメン…落としちゃった…",
-  "en": "",
-  "status": ""
+  "en": "Ah, sorry... I dropped it...",
+  "status": "tl"
  },
  {
   "id": "F39E70:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "全部の魚を移し変えたね\nスタッフの人のとこに行ってみようよ！",
-  "en": "",
-  "status": ""
+  "en": "We moved all the fish! Let's go see the staff lady!",
+  "status": "tl"
  },
  {
   "id": "F39EE8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "軟体動物用と書かれている",
-  "en": "",
-  "status": ""
+  "en": "It says \"Mollusks.\"",
+  "status": "tl"
  },
  {
   "id": "F39F30:1",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "入れてみる",
-  "en": "",
-  "status": ""
+  "en": "Put it in",
+  "status": "tl"
  },
  {
   "id": "F39F30:2",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "考え直す",
-  "en": "",
-  "status": ""
+  "en": "Think again",
+  "status": "tl"
  },
  {
   "id": "F39F30:3",
   "kind": "prompt",
   "speaker": "銀次",
   "jp": "ここに魚を入れてみよっか?",
-  "en": "",
-  "status": ""
+  "en": "Should we put a fish in here?",
+  "status": "tl"
  },
  {
   "id": "F39FC4:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あ、元気そうにしてるね！",
-  "en": "",
-  "status": ""
+  "en": "Oh, it looks happy!",
+  "status": "tl"
  },
  {
   "id": "F39FC4:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "どうやら合ってたみてえだな…",
-  "en": "",
-  "status": ""
+  "en": "Looks like we got it right...",
+  "status": "tl"
  },
  {
   "id": "F3A050:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あ、なんかぐったりしてるよ！",
-  "en": "",
-  "status": ""
+  "en": "Uh-oh, it looks all limp!",
+  "status": "tl"
  },
  {
   "id": "F3A050:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ヤベえな…上げろ、上げろ！！",
-  "en": "",
-  "status": ""
+  "en": "Not good... Get it out, get it out!!",
+  "status": "tl"
  },
  {
   "id": "F3A0E0:0",
   "kind": "msg",
   "speaker": "",
   "jp": "刺胞動物用と書かれている",
-  "en": "",
-  "status": ""
+  "en": "It says \"Cnidarians.\"",
+  "status": "tl"
  },
  {
   "id": "F3A128:0",
   "kind": "msg",
   "speaker": "",
   "jp": "海水魚用と書かれている",
-  "en": "",
-  "status": ""
+  "en": "It says \"Saltwater Fish.\"",
+  "status": "tl"
  },
  {
   "id": "F3A170:0",
   "kind": "msg",
   "speaker": "",
   "jp": "回遊魚用と書かれている",
-  "en": "",
-  "status": ""
+  "en": "It says \"Migratory Fish.\"",
+  "status": "tl"
  },
  {
   "id": "F3A1B8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "淡水魚用と書かれている",
-  "en": "",
-  "status": ""
+  "en": "It says \"Freshwater Fish.\"",
+  "status": "tl"
  },
  {
   "id": "F3A200:0",
   "kind": "msg",
   "speaker": "",
   "jp": "節足動物用と書かれている",
-  "en": "",
-  "status": ""
+  "en": "It says \"Arthropods.\"",
+  "status": "tl"
  },
  {
   "id": "F3A248:0",
   "kind": "msg",
   "speaker": "",
   "jp": "刺皮動物用と書かれている",
-  "en": "",
-  "status": ""
+  "en": "It says \"Echinoderms.\"",
+  "status": "tl"
  },
  {
   "id": "F3A290:1",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "ム、カギがかかっているようだな…",
-  "en": "",
-  "status": ""
+  "en": "Hm, it seems to be locked...",
+  "status": "tl"
  },
  {
   "id": "F3A290:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "あのネーちゃんに\nもう一回話を聞いてみるか…",
-  "en": "",
-  "status": ""
+  "en": "Guess we'd better go ask that lady again...",
+  "status": "tl"
  },
  {
   "id": "F3A338:1",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "レバー右",
-  "en": "",
-  "status": ""
+  "en": "Right lever",
+  "status": "tl"
  },
  {
   "id": "F3A338:2",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "レバー左",
-  "en": "",
-  "status": ""
+  "en": "Left lever",
+  "status": "tl"
  },
  {
   "id": "F3A338:3",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "やめておく",
-  "en": "",
-  "status": ""
+  "en": "Leave it",
+  "status": "tl"
  },
  {
   "id": "F3A338:4",
   "kind": "prompt",
   "speaker": "銀次",
   "jp": "水量調節機械1のどれをいじる?",
-  "en": "",
-  "status": ""
+  "en": "Which lever on Water Regulator 1?",
+  "status": "tl"
  },
  {
   "id": "F3A3DC:1",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "レバー右",
-  "en": "",
-  "status": ""
+  "en": "Right lever",
+  "status": "tl"
  },
  {
   "id": "F3A3DC:2",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "レバー左",
-  "en": "",
-  "status": ""
+  "en": "Left lever",
+  "status": "tl"
  },
  {
   "id": "F3A3DC:3",
   "kind": "choice",
   "speaker": "銀次",
   "jp": "やめておく",
-  "en": "",
-  "status": ""
+  "en": "Leave it",
+  "status": "tl"
  },
  {
   "id": "F3A3DC:4",
   "kind": "prompt",
   "speaker": "銀次",
   "jp": "水量調節機械2のどれをいじる?",
-  "en": "",
-  "status": ""
+  "en": "Which lever on Water Regulator 2?",
+  "status": "tl"
  }
 ]
