@@ -184,7 +184,8 @@ def title_copyright(rom):
     img = [[0] * w for _ in range(h)]
     text = '(C)Aoki/Ayamine/Kodansha/Team Dakkanya'
     canvas = [[0] * 256 for _ in range(256)]
-    draw_text(canvas, (w - text_width(text)) // 2, 4, text, 1, 4)
+    import captions                     # proportional font_en (monospace left gaps after i / l)
+    captions.draw(canvas, (w - captions.text_width(text, 1)) // 2, 4, text, 1, 4, 1)
     for y in range(h):
         img[y] = canvas[y][:w]
     base = 0x1B51A8

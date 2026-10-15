@@ -21,6 +21,7 @@ import gfx  # noqa: E402
 import actcards  # noqa: E402
 import labels  # noqa: E402
 import captions  # noqa: E402
+import signs  # noqa: E402
 
 OUT = {'identity': 'getbackers_identity.gba', 'marker': 'getbackers_marker.gba', 'build': 'getbackers_en.gba',
        'qa': 'getbackers_qa.gba'}
@@ -214,6 +215,7 @@ def build(mode, overrides=None):
             ext = Alloc(LABEL_START, LABEL_END)
             labels.apply(rom, ext)
             captions.apply(rom, ext)
+            signs.apply(rom, ext)
     # repack scripts contiguously in ROM order (4 zero bytes after each, like the original: some scripts
     # are reached only by walking on from the previous one, so order and spacing must not change)
     scripts = sorted(s for s in find_scripts(orig) if s != BANK)

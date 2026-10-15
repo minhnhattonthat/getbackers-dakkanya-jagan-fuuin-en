@@ -20,5 +20,5 @@ Skill: translate-retro-game (H:\translation\batch\.claude\skills\translate-retro
 - Engine: English = digraph glyphs (2 letters per 12 px cell) allocated at build time into font codes 0x100-0x7FF; messages auto-paginate (extra 0B boxes); scripts repacked contiguously (order matters).
 
 ## Status
-- Done: all phases. Dialogue 8188/8188, bank 2383, names, items/equipment, menus (glyph cache patch tools/menuasm.py), title + act card graphics. Phase 8 tour: all 69 field groups + 11 battle groups viewed (`tools/debug/tour.py run [--only b000,..]`; battle chains show leftover-text harness artifacts). Release v1.0 built locally (release/getbackers-dakkanya-jagan-fuuin_en.zip, patched CRC32 600361ED).
-- Known gaps: battle command/skill label graphics, opening demo captions, map shop signs, katakana logo reading stay Japanese. Open bugs: none known.
+- Done: all phases. Dialogue 8188/8188, bank 2383, names, items/equipment, menus (glyph cache patch tools/menuasm.py), all graphics text (title, act cards, battle labels tools/labels.py, demo captions tools/captions.py, shop signs tools/signs.py; see docs/re/graphics.md). ROM grows to 32 MiB (label sheets at 0x1F00000+). Phase 8 tour: 69 field + 11 battle groups viewed; clean battle captures per group in work/qa/tour/b0NNc/clean.png. Release v1.1 local.
+- Known gaps: takoyaki sign letters (shared tiles) erased only; dot-pattern poster text left. Open bugs: none known.

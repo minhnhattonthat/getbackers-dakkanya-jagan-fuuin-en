@@ -16,7 +16,7 @@ SKILL = r'H:\translation\batch\.claude\skills\translate-retro-game'
 PY = [sys.executable, '-X', 'utf8']
 ORIG = os.path.join(ROOT, 'rom', 'GetBackers Dakkanya - Jagan Fuuin! (Japan).gba')
 BUILT = os.path.join(ROOT, 'build', 'getbackers_en.gba')
-VERSION = '1.0'
+VERSION = '1.1'
 PATCH = 'GetBackers_Dakkanya_Jagan_Fuuin_EN_v%s.bps' % VERSION
 ZIP = os.path.join(ROOT, 'release', 'getbackers-dakkanya-jagan-fuuin_en.zip')
 
