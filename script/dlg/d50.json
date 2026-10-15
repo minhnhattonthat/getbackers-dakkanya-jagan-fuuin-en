@@ -4,16 +4,16 @@
   "kind": "bline",
   "speaker": "雪彦",
   "jp": "弥勒流　綺の太刀　有量円月！",
-  "en": "",
-  "status": ""
+  "en": "Silk Blade: Bounded Full Moon!",
+  "status": "tl"
  },
  {
   "id": "FA9D94:1",
   "kind": "bline",
   "speaker": "雪彦",
   "jp": "さようなら…",
-  "en": "",
-  "status": ""
+  "en": "Farewell...",
+  "status": "tl"
  },
  {
   "id": "FAA768:1",
@@ -28,112 +28,112 @@
   "kind": "msg",
   "speaker": "蛮",
   "jp": "俺様の小判がああああ~っ！！",
-  "en": "",
-  "status": ""
+  "en": "My gold coiiiiins!!",
+  "status": "tl"
  },
  {
   "id": "FABFE4:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "あ、危ないよ、蛮ちゃん！\n落ち着いて！！",
-  "en": "",
-  "status": ""
+  "en": "Th-that's dangerous, Ban! Calm down!!",
+  "status": "tl"
  },
  {
   "id": "FABFE4:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "これが落ち着いていられる状況か！！",
-  "en": "",
-  "status": ""
+  "en": "Is this a situation where I can calm down?!!",
+  "status": "tl"
  },
  {
   "id": "FABFE4:7",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "そうなんだけどさー…\nやっぱ命の方が大事じゃない?",
-  "en": "",
-  "status": ""
+  "en": "I know, but... your life matters more, right?",
+  "status": "tl"
  },
  {
   "id": "FABFE4:9",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "命よりも金が大事だーっ！！！",
-  "en": "",
-  "status": ""
+  "en": "Money matters more than my life!!!",
+  "status": "tl"
  },
  {
   "id": "FABFE4:11",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "そ、そんなムチャクチャな…",
-  "en": "",
-  "status": ""
+  "en": "Th-that's crazy...",
+  "status": "tl"
  },
  {
   "id": "FABFE4:13",
   "kind": "msg",
   "speaker": "士度",
   "jp": "相変わらず、意地汚ねえ男だな…",
-  "en": "",
-  "status": ""
+  "en": "Greedy as ever, ain't he...",
+  "status": "tl"
  },
  {
   "id": "FABFE4:15",
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "ホント、小判が\n埋まっちゃっていい気味だわ…",
-  "en": "",
-  "status": ""
+  "en": "Seriously, serves you right that the gold coins got buried...",
+  "status": "tl"
  },
  {
   "id": "FABFE4:17",
   "kind": "msg",
   "speaker": "花月",
   "jp": "でもそれって僕たちの\n依頼料でもあるんですよね?",
-  "en": "",
-  "status": ""
+  "en": "But that was our job fee as well, wasn't it?",
+  "status": "tl"
  },
  {
   "id": "FABFE4:19",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "クス…少なくとも\n私は今回の仕事を楽しめました",
-  "en": "",
-  "status": ""
+  "en": "Heh... At the very least, I enjoyed this job.",
+  "status": "tl"
  },
  {
   "id": "FABFE4:20",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "それだけで十分ですよ…",
-  "en": "",
-  "status": ""
+  "en": "That alone is quite enough...",
+  "status": "tl"
  },
  {
   "id": "FB3CD4:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "…ば、蛮ちゃん…",
-  "en": "",
-  "status": ""
+  "en": "...B-Ban...",
+  "status": "tl"
  },
  {
   "id": "FB3CD4:2",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "後ろからなにかがすごい勢いで\n追いかけてくるんですけど…?",
-  "en": "",
-  "status": ""
+  "en": "Something's chasing us from behind, and it's coming really fast...?",
+  "status": "tl"
  },
  {
   "id": "FB3CD4:4",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ああ?　パトカーか?\nったく、うぜェ………",
-  "en": "",
-  "status": ""
+  "en": "Huh? The cops? Jeez, what a pain...",
+  "status": "tl"
  },
  {
   "id": "FB412C:1",
@@ -148,8 +148,8 @@
   "kind": "msg",
   "speaker": "蛮",
   "jp": "あ、あれは…護り屋、羨木竜童！！?",
-  "en": "",
-  "status": ""
+  "en": "Th-that's... the Protector, Ryudo Hishiki?!",
+  "status": "tl"
  },
  {
   "id": "FB412C:6",
@@ -164,95 +164,95 @@
   "kind": "msg",
   "speaker": "銀次",
   "jp": "わ、笑ってるよ！",
-  "en": "",
-  "status": ""
+  "en": "H-he's laughing!",
+  "status": "tl"
  },
  {
   "id": "FB412C:9",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "しかもあの人…\n自分の足で走ってきてるんですけど！?",
-  "en": "",
-  "status": ""
+  "en": "And that guy... he's running after us on foot!?",
+  "status": "tl"
  },
  {
   "id": "FB412C:11",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "クソッ、化け物め…",
-  "en": "",
-  "status": ""
+  "en": "Damn it, that monster...",
+  "status": "tl"
  },
  {
   "id": "FB412C:12",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "アイツにだきゃあ捕まりたくねぇからな\n減速は厳禁だ！",
-  "en": "",
-  "status": ""
+  "en": "He's the one guy I don't wanna get caught by, so no slowing down!",
+  "status": "tl"
  },
  {
   "id": "FB412C:13",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "とにかく突っ込むしかねえ！！",
-  "en": "",
-  "status": ""
+  "en": "We've just gotta plow on through!!",
+  "status": "tl"
  },
  {
   "id": "FB4A94:1",
   "kind": "bline",
   "speaker": "K",
   "jp": "室町の世より早六百余年　",
-  "en": "",
-  "status": ""
+  "en": "Six hundred years since Muromachi...",
+  "status": "tl"
  },
  {
   "id": "FB4A94:3",
   "kind": "bline",
   "speaker": "K",
   "jp": "いと暗き冥府に追われても尚　",
-  "en": "",
-  "status": ""
+  "en": "Though driven to darkest Hades,",
+  "status": "tl"
  },
  {
   "id": "FB4A94:5",
   "kind": "bline",
   "speaker": "K",
   "jp": "地上の光明夢見候",
-  "en": "",
-  "status": ""
+  "en": "Still I dream of the light above.",
+  "status": "tl"
  },
  {
   "id": "FB4A94:7",
   "kind": "bline",
   "speaker": "K",
   "jp": "度重なりて怨み連なりしこの身を　",
-  "en": "",
-  "status": ""
+  "en": "This body, chained by grudges,",
+  "status": "tl"
  },
  {
   "id": "FB4A94:9",
   "kind": "bline",
   "speaker": "K",
   "jp": "鬼に食わせて物の怪へと変じ候",
-  "en": "",
-  "status": ""
+  "en": "Fed to a demon, I become a specter.",
+  "status": "tl"
  },
  {
   "id": "FB4A94:11",
   "kind": "bline",
   "speaker": "K",
   "jp": "地嶽へ送ってやる！　",
-  "en": "",
-  "status": ""
+  "en": "I'll send you to Hell!",
+  "status": "tl"
  },
  {
   "id": "FB574C:1",
   "kind": "bline",
   "speaker": "K",
   "jp": "ウオオォォオオオ！　",
-  "en": "",
-  "status": ""
+  "en": "Wooooaaaaargh!",
+  "status": "tl"
  }
 ]

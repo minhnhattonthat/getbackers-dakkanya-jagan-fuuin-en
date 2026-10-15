@@ -4,319 +4,319 @@
   "kind": "msg",
   "speaker": "",
   "jp": "エビをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got a shrimp!",
+  "status": "tl"
  },
  {
   "id": "F87AF4:0",
   "kind": "msg",
   "speaker": "",
   "jp": "カニをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got a crab!",
+  "status": "tl"
  },
  {
   "id": "F87B34:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ヤドカリをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got a hermit crab!",
+  "status": "tl"
  },
  {
   "id": "F87B78:0",
   "kind": "msg",
   "speaker": "",
   "jp": "タコをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got an octopus!",
+  "status": "tl"
  },
  {
   "id": "F87BB8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "イカをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got a squid!",
+  "status": "tl"
  },
  {
   "id": "F87BF8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "サザエをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got a turban shell!",
+  "status": "tl"
  },
  {
   "id": "F87C38:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ウニをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got a sea urchin!",
+  "status": "tl"
  },
  {
   "id": "F87C78:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ヒトデをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got a starfish!",
+  "status": "tl"
  },
  {
   "id": "F87CB8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ナマコをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got a sea cucumber!",
+  "status": "tl"
  },
  {
   "id": "F87CF8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "カードをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the card!",
+  "status": "tl"
  },
  {
   "id": "F87D38:0",
   "kind": "msg",
   "speaker": "",
   "jp": "倉庫のカギ2をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got Storehouse Key 2!",
+  "status": "tl"
  },
  {
   "id": "F87D80:0",
   "kind": "msg",
   "speaker": "",
   "jp": "スペアキーをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Spare Key!",
+  "status": "tl"
  },
  {
   "id": "F87DC4:0",
   "kind": "msg",
   "speaker": "",
   "jp": "画をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the painting!",
+  "status": "tl"
  },
  {
   "id": "F87E00:0",
   "kind": "msg",
   "speaker": "",
   "jp": "社員証をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Employee ID!",
+  "status": "tl"
  },
  {
   "id": "F87E40:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ジャケットをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the jacket!",
+  "status": "tl"
  },
  {
   "id": "F87E84:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ばんグラをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Ban Shades!",
+  "status": "tl"
  },
  {
   "id": "F87EC8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ばんカフをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got Ban's Ear Cuff!",
+  "status": "tl"
  },
  {
   "id": "F87F0C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ぎんダナをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Ginji Bandana!",
+  "status": "tl"
  },
  {
   "id": "F87F50:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ぎんグロをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Ginji Glove!",
+  "status": "tl"
  },
  {
   "id": "F87F94:0",
   "kind": "msg",
   "speaker": "",
   "jp": "しどペンをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Shido Pen!",
+  "status": "tl"
  },
  {
   "id": "F87FD8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "しどダナをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Shido Bandana!",
+  "status": "tl"
  },
  {
   "id": "F8801C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "かづどめをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Kazuki Hair Tie!",
+  "status": "tl"
  },
  {
   "id": "F88060:0",
   "kind": "msg",
   "speaker": "",
   "jp": "かづいとをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Kazuki String!",
+  "status": "tl"
  },
  {
   "id": "F880A4:0",
   "kind": "msg",
   "speaker": "",
   "jp": "えみグラをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Emishi Shades!",
+  "status": "tl"
  },
  {
   "id": "F880E8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ポーグラをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Paul Shades!",
+  "status": "tl"
  },
  {
   "id": "F8812C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ポーダナをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Paul Bandana!",
+  "status": "tl"
  },
  {
   "id": "F88170:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ひみピアをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got Himiko's Earring!",
+  "status": "tl"
  },
  {
   "id": "F881B4:0",
   "kind": "msg",
   "speaker": "",
   "jp": "なつリボをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got Natsumi's Ribbon!",
+  "status": "tl"
  },
  {
   "id": "F881F8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "マリブレをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Maria Bracelet!",
+  "status": "tl"
  },
  {
   "id": "F8823C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "マリピアをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got Maria's Earring!",
+  "status": "tl"
  },
  {
   "id": "F88280:0",
   "kind": "msg",
   "speaker": "",
   "jp": "マクダナをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the MakubeX Bandana!",
+  "status": "tl"
  },
  {
   "id": "F882C4:0",
   "kind": "msg",
   "speaker": "",
   "jp": "マクグルをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the MakubeX Goggles!",
+  "status": "tl"
  },
  {
   "id": "F88308:0",
   "kind": "msg",
   "speaker": "",
   "jp": "まぐダナをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Magdana!",
+  "status": "tl"
  },
  {
   "id": "F8834C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "あかぼうをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Akabane Hat!",
+  "status": "tl"
  },
  {
   "id": "F88390:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ひしグラをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Hishiki Shades!",
+  "status": "tl"
  },
  {
   "id": "F883D4:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ひしピアをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got Hishiki's Earring!",
+  "status": "tl"
  },
  {
   "id": "F88418:0",
   "kind": "msg",
   "speaker": "",
   "jp": "かがピアをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got Kagami's Earring!",
+  "status": "tl"
  },
  {
   "id": "F8845C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ゆきメガをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Yukihiko Specs!",
+  "status": "tl"
  },
  {
   "id": "F884A0:0",
   "kind": "msg",
   "speaker": "",
   "jp": "てしピアをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got Teshi's Earring!",
+  "status": "tl"
  },
  {
   "id": "F884E4:0",
   "kind": "msg",
   "speaker": "",
   "jp": "じゅグルをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Juubei Goggles!",
+  "status": "tl"
  }
 ]

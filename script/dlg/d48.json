@@ -4,16 +4,16 @@
   "kind": "bline",
   "speaker": "蛮",
   "jp": "喰らえ、その毒蛇の牙を以て！",
-  "en": "",
-  "status": ""
+  "en": "Taste the viper's fangs!",
+  "status": "tl"
  },
  {
   "id": "F95AA8:1",
   "kind": "bline",
   "speaker": "蛮",
   "jp": "喰らいやがれ！　",
-  "en": "",
-  "status": ""
+  "en": "Take this!",
+  "status": "tl"
  },
  {
   "id": "F963B0:1",
@@ -28,8 +28,8 @@
   "kind": "bline",
   "speaker": "銀次",
   "jp": "電磁スキャン！　",
-  "en": "",
-  "status": ""
+  "en": "Electromagnetic Scan!",
+  "status": "tl"
  },
  {
   "id": "F96BCC:1",
@@ -44,8 +44,8 @@
   "kind": "bline",
   "speaker": "銀次",
   "jp": "電磁力最大！",
-  "en": "",
-  "status": ""
+  "en": "Max electromagnetic power!",
+  "status": "tl"
  },
  {
   "id": "F973B8:1",
@@ -60,24 +60,24 @@
   "kind": "bline",
   "speaker": "銀次",
   "jp": "そろそろ終わりにしよう　",
-  "en": "",
-  "status": ""
+  "en": "Let's end this.",
+  "status": "tl"
  },
  {
   "id": "F984D4:1",
   "kind": "bline",
   "speaker": "銀次",
   "jp": "いっけええええっ！　",
-  "en": "",
-  "status": ""
+  "en": "Goooooo!",
+  "status": "tl"
  },
  {
   "id": "F98C0C:1",
   "kind": "bline",
   "speaker": "卑弥呼",
   "jp": "解毒香！",
-  "en": "",
-  "status": ""
+  "en": "Antidote Incense!",
+  "status": "tl"
  },
  {
   "id": "F99078:1",
@@ -92,167 +92,167 @@
   "kind": "bline",
   "speaker": "卑弥呼",
   "jp": "傀儡香！",
-  "en": "",
-  "status": ""
+  "en": "Puppet Incense!",
+  "status": "tl"
  },
  {
   "id": "F99428:1",
   "kind": "bline",
   "speaker": "卑弥呼",
   "jp": "回復香！",
-  "en": "",
-  "status": ""
+  "en": "Healing Incense!",
+  "status": "tl"
  },
  {
   "id": "F99774:1",
   "kind": "bline",
   "speaker": "卑弥呼",
   "jp": "火炎香！",
-  "en": "",
-  "status": ""
+  "en": "Flame Incense!",
+  "status": "tl"
  },
  {
   "id": "F99BA8:1",
   "kind": "bline",
   "speaker": "卑弥呼",
   "jp": "加速香！",
-  "en": "",
-  "status": ""
+  "en": "Speed Incense!",
+  "status": "tl"
  },
  {
   "id": "F9A534:1",
   "kind": "bline",
   "speaker": "卑弥呼",
   "jp": "覚悟はいいかしら?　",
-  "en": "",
-  "status": ""
+  "en": "Are you ready?",
+  "status": "tl"
  },
  {
   "id": "F9AC84:1",
   "kind": "bline",
   "speaker": "赤屍",
   "jp": "ブラッディ・ソード　",
-  "en": "",
-  "status": ""
+  "en": "Bloody Sword",
+  "status": "tl"
  },
  {
   "id": "F9B5B8:1",
   "kind": "bline",
   "speaker": "赤屍",
   "jp": "ブラッディ・シールド",
-  "en": "",
-  "status": ""
+  "en": "Bloody Shield",
+  "status": "tl"
  },
  {
   "id": "F9B938:1",
   "kind": "bline",
   "speaker": "赤屍",
   "jp": "ブラッディ・クロス　",
-  "en": "",
-  "status": ""
+  "en": "Bloody Cross",
+  "status": "tl"
  },
  {
   "id": "F9BC18:1",
   "kind": "bline",
   "speaker": "赤屍",
   "jp": "ブラッディ・レイン　",
-  "en": "",
-  "status": ""
+  "en": "Bloody Rain",
+  "status": "tl"
  },
  {
   "id": "F9C0A8:1",
   "kind": "bline",
   "speaker": "赤屍",
   "jp": "ブラッディ・ハリケーン　",
-  "en": "",
-  "status": ""
+  "en": "Bloody Hurricane",
+  "status": "tl"
  },
  {
   "id": "F9CA94:1",
   "kind": "bline",
   "speaker": "赤屍",
   "jp": "さあ、行きますよ",
-  "en": "",
-  "status": ""
+  "en": "Now, here I come.",
+  "status": "tl"
  },
  {
   "id": "F9D260:1",
   "kind": "bline",
   "speaker": "花月",
   "jp": "風鳥院流絃術",
-  "en": "",
-  "status": ""
+  "en": "Fuchoin-style String Arts",
+  "status": "tl"
  },
  {
   "id": "F9D260:3",
   "kind": "bline",
   "speaker": "花月",
   "jp": "風鳥院流絃術　薔玉の楯　",
-  "en": "",
-  "status": ""
+  "en": "String Arts: Rose Bead Shield",
+  "status": "tl"
  },
  {
   "id": "F9D4FC:1",
   "kind": "bline",
   "speaker": "花月",
   "jp": "風鳥院流絃術　秋雨　",
-  "en": "",
-  "status": ""
+  "en": "String Arts: Autumn Rain",
+  "status": "tl"
  },
  {
   "id": "F9D844:1",
   "kind": "bline",
   "speaker": "花月",
   "jp": "風鳥院流絃術　　",
-  "en": "",
-  "status": ""
+  "en": "Fuchoin-style String Arts",
+  "status": "tl"
  },
  {
   "id": "F9D844:3",
   "kind": "bline",
   "speaker": "花月",
   "jp": "風鳥院流絃術　絃呪縛",
-  "en": "",
-  "status": ""
+  "en": "String Arts: Cursed String Bind",
+  "status": "tl"
  },
  {
   "id": "F9DC60:1",
   "kind": "bline",
   "speaker": "花月",
   "jp": "風鳥院流絃術　　",
-  "en": "",
-  "status": ""
+  "en": "Fuchoin-style String Arts",
+  "status": "tl"
  },
  {
   "id": "F9DC60:3",
   "kind": "bline",
   "speaker": "花月",
   "jp": "風鳥院流絃術　雫",
-  "en": "",
-  "status": ""
+  "en": "String Arts: Dewdrop",
+  "status": "tl"
  },
  {
   "id": "F9E260:1",
   "kind": "bline",
   "speaker": "花月",
   "jp": "風鳥院流絃術",
-  "en": "",
-  "status": ""
+  "en": "Fuchoin-style String Arts",
+  "status": "tl"
  },
  {
   "id": "F9E260:3",
   "kind": "bline",
   "speaker": "花月",
   "jp": "風鳥院流絃術　流星　",
-  "en": "",
-  "status": ""
+  "en": "String Arts: Shooting Star",
+  "status": "tl"
  },
  {
   "id": "F9EB34:1",
   "kind": "bline",
   "speaker": "花月",
   "jp": "逃げ場はないぞ　",
-  "en": "",
-  "status": ""
+  "en": "There's no escape.",
+  "status": "tl"
  }
 ]

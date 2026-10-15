@@ -692,464 +692,464 @@
   "kind": "choice",
   "speaker": "夏実",
   "jp": "今はいい",
-  "en": "",
-  "status": ""
+  "en": "Not now",
+  "status": "tl"
  },
  {
   "id": "F82FC0:3",
   "kind": "prompt",
   "speaker": "夏実",
   "jp": "音声を組み替えて遊びますか?",
-  "en": "",
-  "status": ""
+  "en": "Want to try the Voice Remix?",
+  "status": "tl"
  },
  {
   "id": "F83054:1",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "オマケの音声組み替えいかがですか~?",
-  "en": "",
-  "status": ""
+  "en": "How about the bonus Voice Remix~?",
+  "status": "tl"
  },
  {
   "id": "F83054:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "音声組み替え…?\nなんだよ、そりゃあ?",
-  "en": "",
-  "status": ""
+  "en": "Voice Remix...? The hell's that?",
+  "status": "tl"
  },
  {
   "id": "F83054:5",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "ゲーム中で再生される\n全ての音声を組み替えて、",
-  "en": "",
-  "status": ""
+  "en": "It's a bonus where you remix all the voices played during the game,",
+  "status": "tl"
  },
  {
   "id": "F83054:6",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "自分だけのオリジナル会話を\n作っちゃおうっていうオマケで~す！",
-  "en": "",
-  "status": ""
+  "en": "and make your very own original conversations!",
+  "status": "tl"
  },
  {
   "id": "F83054:8",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "なるほどな…",
-  "en": "",
-  "status": ""
+  "en": "I see...",
+  "status": "tl"
  },
  {
   "id": "F83054:10",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "あっ、ただし！　声を再生させるには\n『~の本音』というアイテムが必要です",
-  "en": "",
-  "status": ""
+  "en": "Oh, but! To play the voices, you need an item called \"~'s True Voice.\"",
+  "status": "tl"
  },
  {
   "id": "F83054:12",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "…本音?",
-  "en": "",
-  "status": ""
+  "en": "...True Voice?",
+  "status": "tl"
  },
  {
   "id": "F83054:14",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "例えば、蛮さんの声を再生させるには\n『蛮の本音』というアイテムが必要なの",
-  "en": "",
-  "status": ""
+  "en": "For example, to play Ban's voice, you need an item called \"Ban's True Voice.\"",
+  "status": "tl"
  },
  {
   "id": "F83054:15",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "で、そうやって本音を集めていくと\n最後には沢山の人の声が再生できますよ",
-  "en": "",
-  "status": ""
+  "en": "And as you collect True Voices, in the end you'll be able to play lots of people's voices!",
+  "status": "tl"
  },
  {
   "id": "F83054:16",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "ちなみに音声組み替えは本音が\n三つ以上あると遊ぶことができますよ",
-  "en": "",
-  "status": ""
+  "en": "By the way, you can play Voice Remix once you have three or more True Voices.",
+  "status": "tl"
  },
  {
   "id": "F83054:17",
   "kind": "msg",
   "speaker": "夏実",
   "jp": "三つ以上の本音を集めてきて下さいね♥",
-  "en": "",
-  "status": ""
+  "en": "Please collect three or more True Voices♥",
+  "status": "tl"
  },
  {
   "id": "F83404:1",
   "kind": "msg",
   "speaker": "レナ",
   "jp": "さっき編集者の『キイチロー』って人が\nお二人を訪ねて来てましたよ",
-  "en": "",
-  "status": ""
+  "en": "An editor named Kiichiro came by looking for you two earlier.",
+  "status": "tl"
  },
  {
   "id": "F83404:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ああ、原稿奪還の依頼人か…\n原稿のことなんざ、すっかり忘れてたぜ",
-  "en": "",
-  "status": ""
+  "en": "Ah, the client for the manuscript job... I'd totally forgotten about the manuscript.",
+  "status": "tl"
  },
  {
   "id": "F83404:4",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "で、なんだって?",
-  "en": "",
-  "status": ""
+  "en": "So, what'd he want?",
+  "status": "tl"
  },
  {
   "id": "F83404:6",
   "kind": "msg",
   "speaker": "レナ",
   "jp": "なんか急いでるみたいだったので、\n私が原稿受け取ることになりました！",
-  "en": "",
-  "status": ""
+  "en": "He seemed to be in a hurry, so I'm the one who'll receive the manuscript!",
+  "status": "tl"
  },
  {
   "id": "F83404:8",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ってコトは、奪還した原稿を\nレナちゃんに渡せばいいってコトか?",
-  "en": "",
-  "status": ""
+  "en": "So that means we just hand the manuscript over to you once we get it back, Rena?",
+  "status": "tl"
  },
  {
   "id": "F83404:10",
   "kind": "msg",
   "speaker": "レナ",
   "jp": "そうです！",
-  "en": "",
-  "status": ""
+  "en": "That's right!",
+  "status": "tl"
  },
  {
   "id": "F83404:11",
   "kind": "msg",
   "speaker": "レナ",
   "jp": "ちゃんと奪還成功後の\nオマケも預かってるんですよ♥",
-  "en": "",
-  "status": ""
+  "en": "He even left me a bonus for when you succeed♥",
+  "status": "tl"
  },
  {
   "id": "F83404:13",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "オマケだァ?",
-  "en": "",
-  "status": ""
+  "en": "A bonus?",
+  "status": "tl"
  },
  {
   "id": "F83404:14",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "そんなものより依頼料を\n高くしてくれりゃいいものを…",
-  "en": "",
-  "status": ""
+  "en": "Instead of junk like that, he coulda just raised our fee...",
+  "status": "tl"
  },
  {
   "id": "F83404:15",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "で、そのオマケってのは?",
-  "en": "",
-  "status": ""
+  "en": "So what's this bonus?",
+  "status": "tl"
  },
  {
   "id": "F83404:17",
   "kind": "msg",
   "speaker": "レナ",
   "jp": "それは奪還成功した後のお楽しみです！",
-  "en": "",
-  "status": ""
+  "en": "That's a surprise for after you get them back!",
+  "status": "tl"
  },
  {
   "id": "F83404:18",
   "kind": "msg",
   "speaker": "レナ",
   "jp": "八枚全ての原稿を奪還して、\nまた私のところへ来て下さいね！",
-  "en": "",
-  "status": ""
+  "en": "Get back all eight pages of the manuscript and come see me again!",
+  "status": "tl"
  },
  {
   "id": "F837A0:0",
   "kind": "msg",
   "speaker": "",
   "jp": "レナに原稿を渡した！",
-  "en": "",
-  "status": ""
+  "en": "Gave the manuscript to Rena!",
+  "status": "tl"
  },
  {
   "id": "F837A0:2",
   "kind": "msg",
   "speaker": "レナ",
   "jp": "はい、確かにお預かりしました！",
-  "en": "",
-  "status": ""
+  "en": "Okay, I've got it, safe and sound!",
+  "status": "tl"
  },
  {
   "id": "F83824:1",
   "kind": "choice",
   "speaker": "レナ",
   "jp": "見る！",
-  "en": "",
-  "status": ""
+  "en": "Let me see!",
+  "status": "tl"
  },
  {
   "id": "F83824:2",
   "kind": "choice",
   "speaker": "レナ",
   "jp": "今はいい",
-  "en": "",
-  "status": ""
+  "en": "Not now",
+  "status": "tl"
  },
  {
   "id": "F83824:3",
   "kind": "prompt",
   "speaker": "レナ",
   "jp": "オマケ見てみますか?",
-  "en": "",
-  "status": ""
+  "en": "Want to see the bonus?",
+  "status": "tl"
  },
  {
   "id": "F838AC:1",
   "kind": "msg",
   "speaker": "レナ",
   "jp": "早く八枚の原稿を奪還して下さいね！",
-  "en": "",
-  "status": ""
+  "en": "Hurry and get back all eight pages of the manuscript!",
+  "status": "tl"
  },
  {
   "id": "F83908:1",
   "kind": "msg",
   "speaker": "レナ",
   "jp": "早く借金返し終わるといいですね~",
-  "en": "",
-  "status": ""
+  "en": "I hope you finish paying off your debt soon~",
+  "status": "tl"
  },
  {
   "id": "F83960:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "マドカちゃん家から出てったトラックの\n運転手って馬車さんっぽくない?",
-  "en": "",
-  "status": ""
+  "en": "Hey, doesn't the driver of that truck that left Madoka's house sound like Basha?",
+  "status": "tl"
  },
  {
   "id": "F83960:2",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なんかムチャクチャな\n走りしてたって言うし…",
-  "en": "",
-  "status": ""
+  "en": "They said he was driving like a total maniac...",
+  "status": "tl"
  },
  {
   "id": "F83960:4",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "あのオヤジとは\n再戦するっつーことになってたからな…",
-  "en": "",
-  "status": ""
+  "en": "Me and that old man were supposed to have a rematch anyway...",
+  "status": "tl"
  },
  {
   "id": "F83960:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ちょうどいいさ",
-  "en": "",
-  "status": ""
+  "en": "Suits me just fine.",
+  "status": "tl"
  },
  {
   "id": "F83960:6",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "今度こそ俺様の華麗なる\nドライブテクを見せ付けてやらあ！！",
-  "en": "",
-  "status": ""
+  "en": "This time I'll show him the great Ban's dazzling driving technique!!",
+  "status": "tl"
  },
  {
   "id": "F83ADC:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "いやがったな、馬車のオヤジめ…\n今度こそ完全に捕らえてやっかんな！",
-  "en": "",
-  "status": ""
+  "en": "There you are, you old geezer Basha... This time I'm catchin' you for good!",
+  "status": "tl"
  },
  {
   "id": "F83ADC:2",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "覚悟してろよ！！",
-  "en": "",
-  "status": ""
+  "en": "Get ready!!",
+  "status": "tl"
  },
  {
   "id": "F83B78:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ヘッ、こう真後ろに\nつかれちゃスピンターンもできまい…",
-  "en": "",
-  "status": ""
+  "en": "Heh, with me right on his tail like this, he can't pull a spin turn...",
+  "status": "tl"
  },
  {
   "id": "F83B78:2",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "よし、銀次！\nトラックの荷台に飛び移って積荷を…",
-  "en": "",
-  "status": ""
+  "en": "Alright, Ginji! Jump onto the truck bed and grab the cargo...",
+  "status": "tl"
  },
  {
   "id": "F83C2C:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ぎゃ、ぎゃあああああっ~！！\nトラックの荷台から羨木さんがっ！！！",
-  "en": "",
-  "status": ""
+  "en": "Gyaaaaaah!! Hishiki's coming out of the truck bed!!!",
+  "status": "tl"
  },
  {
   "id": "F83C2C:3",
   "kind": "msg",
   "speaker": "羨木",
   "jp": "ウガアアアアアア~ッ！！！！",
-  "en": "",
-  "status": ""
+  "en": "Graaaaaaagh!!!!",
+  "status": "tl"
  },
  {
   "id": "F83C2C:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "クソッ、\nなんてモン積んでやがんだよ！！",
-  "en": "",
-  "status": ""
+  "en": "Damn it, what the hell is he hauling?!",
+  "status": "tl"
  },
  {
   "id": "F83D3C:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "捕らえたぜ、馬車のオヤジィ！",
-  "en": "",
-  "status": ""
+  "en": "Gotcha, old man Basha!",
+  "status": "tl"
  },
  {
   "id": "F83D3C:2",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "今度こそ逃げられま…",
-  "en": "",
-  "status": ""
+  "en": "This time you ain't gettin' aw...",
+  "status": "tl"
  },
  {
   "id": "F83DB0:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "今、寿命縮んだんだけど…",
-  "en": "",
-  "status": ""
+  "en": "I think that just took years off my life...",
+  "status": "tl"
  },
  {
   "id": "F83DB0:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "あのオヤジ…一度ならず\n二度までも同じ手をつかうとはな…",
-  "en": "",
-  "status": ""
+  "en": "That old man... pulling the same trick not once, but twice...",
+  "status": "tl"
  },
  {
   "id": "F83DB0:4",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ナメんなぁぁぁぁぁっ！！！",
-  "en": "",
-  "status": ""
+  "en": "Don't screw with meeeee!!!",
+  "status": "tl"
  },
  {
   "id": "F83E84:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ヤバいよ、蛮ちゃん！\nこのままじゃ、てんとう虫が！！",
-  "en": "",
-  "status": ""
+  "en": "This is bad, Ban! At this rate, the Ladybug's gonna...!!",
+  "status": "tl"
  },
  {
   "id": "F83E84:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "高速でバックして切り返すしかねえか…",
-  "en": "",
-  "status": ""
+  "en": "Guess I gotta back up fast and turn around...",
+  "status": "tl"
  },
  {
   "id": "F83E84:4",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "よし、しっかり掴まってろよ！！",
-  "en": "",
-  "status": ""
+  "en": "Alright, hold on tight!!",
+  "status": "tl"
  },
  {
   "id": "F83F64:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "羨木のヤローは引き離してみたものの…",
-  "en": "",
-  "status": ""
+  "en": "Managed to shake off that Hishiki bastard, but...",
+  "status": "tl"
  },
  {
   "id": "F83F64:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "見えなくなっちゃったね~、\n馬車のオッチャン…",
-  "en": "",
-  "status": ""
+  "en": "We can't see him anymore... Basha, I mean...",
+  "status": "tl"
  },
  {
   "id": "F83F64:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "クソッ！\nなんとしても追いついてやらあ！！",
-  "en": "",
-  "status": ""
+  "en": "Damn it! I'm catchin' up to him no matter what!!",
+  "status": "tl"
  },
  {
   "id": "F84060:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "ギャーッ！　走ってる車を\n手で押さえてるよ、この人！！",
-  "en": "",
-  "status": ""
+  "en": "Gyaaah! This guy's holding back a moving car with his bare hands!!",
+  "status": "tl"
  },
  {
   "id": "F84060:3",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "どいつもこいつもナメやがって…",
-  "en": "",
-  "status": ""
+  "en": "Every last one of 'em is messin' with me...",
+  "status": "tl"
  },
  {
   "id": "F84060:4",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "こうなったらニトロ使うぞ！\nしっかり掴まってろ！！",
-  "en": "",
-  "status": ""
+  "en": "That does it, I'm using the nitro! Hang on tight!!",
+  "status": "tl"
  },
  {
   "id": "F84154:1",
@@ -1164,144 +1164,144 @@
   "kind": "msg",
   "speaker": "士度",
   "jp": "見ろ、向こう側になにかがあるぞ",
-  "en": "",
-  "status": ""
+  "en": "Look, there's something over on the other side.",
+  "status": "tl"
  },
  {
   "id": "F8420C:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ん~、このイルカちゃんに\n会うのも久しぶりやなぁ",
-  "en": "",
-  "status": ""
+  "en": "Mmm, it's been a while since I seen this little dolphin.",
+  "status": "tl"
  },
  {
   "id": "F8420C:2",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "元気にしとるか~?",
-  "en": "",
-  "status": ""
+  "en": "Ya doin' alright~?",
+  "status": "tl"
  },
  {
   "id": "F8420C:4",
   "kind": "msg",
   "speaker": "士度",
   "jp": "なんだか退屈してる様子だな…",
-  "en": "",
-  "status": ""
+  "en": "It looks kind of bored...",
+  "status": "tl"
  },
  {
   "id": "F8420C:6",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "確かにあまり元気はないな…",
-  "en": "",
-  "status": ""
+  "en": "Indeed, it doesn't seem very lively...",
+  "status": "tl"
  },
  {
   "id": "F8420C:8",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "なら、士度はんが遊んでやったらどや?",
-  "en": "",
-  "status": ""
+  "en": "Then how 'bout you play with it, Shido?",
+  "status": "tl"
  },
  {
   "id": "F8420C:10",
   "kind": "msg",
   "speaker": "イルカ",
   "jp": "キューン",
-  "en": "",
-  "status": ""
+  "en": "Squeee!",
+  "status": "tl"
  },
  {
   "id": "F8420C:12",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ほれほれ、喜んでんで！\nやったり、やったり！！",
-  "en": "",
-  "status": ""
+  "en": "Look at that, it's happy! Go on, go for it!!",
+  "status": "tl"
  },
  {
   "id": "F8420C:14",
   "kind": "msg",
   "speaker": "士度",
   "jp": "仕方ねえな…",
-  "en": "",
-  "status": ""
+  "en": "Guess I got no choice...",
+  "status": "tl"
  },
  {
   "id": "F8440C:1",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "あれはカギかなにかのようだな…",
-  "en": "",
-  "status": ""
+  "en": "That looks like a key or something...",
+  "status": "tl"
  },
  {
   "id": "F8440C:3",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "士度はん、イルカに頼んで\n持ってきてもらったらどうや?",
-  "en": "",
-  "status": ""
+  "en": "Shido, why don'tcha ask the dolphin to fetch it for ya?",
+  "status": "tl"
  },
  {
   "id": "F8440C:5",
   "kind": "msg",
   "speaker": "士度",
   "jp": "そうだな…",
-  "en": "",
-  "status": ""
+  "en": "Yeah...",
+  "status": "tl"
  },
  {
   "id": "F844E8:1",
   "kind": "msg",
   "speaker": "イルカ",
   "jp": "キューン",
-  "en": "",
-  "status": ""
+  "en": "Squeee!",
+  "status": "tl"
  },
  {
   "id": "F844E8:3",
   "kind": "msg",
   "speaker": "士度",
   "jp": "ん、なにかくれんのか?",
-  "en": "",
-  "status": ""
+  "en": "Hm, you're giving me something?",
+  "status": "tl"
  },
  {
   "id": "F844E8:5",
   "kind": "msg",
   "speaker": "イルカ",
   "jp": "キューン",
-  "en": "",
-  "status": ""
+  "en": "Squeee!",
+  "status": "tl"
  },
  {
   "id": "F844E8:6",
   "kind": "msg",
   "speaker": "イルカ",
   "jp": "てしピアをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got Teshi's Earring!",
+  "status": "tl"
  },
  {
   "id": "F845E0:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "なにっ！　閉まりやがっただと！?\nどうなってやがンだ、タコの呪いか…?",
-  "en": "",
-  "status": ""
+  "en": "What?! It closed on us?! What the hell's goin' on, some octopus curse...?",
+  "status": "tl"
  },
  {
   "id": "F845E0:2",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "クソッ、またカギを\n取らなきゃなンねーのかよ！！",
-  "en": "",
-  "status": ""
+  "en": "Damn it, I gotta go get the key AGAIN?!",
+  "status": "tl"
  },
  {
   "id": "F845E0:3",
@@ -1316,264 +1316,264 @@
   "kind": "msg",
   "speaker": "蛮",
   "jp": "しゃーねえな…やるしかねえか…",
-  "en": "",
-  "status": ""
+  "en": "No choice... Guess I gotta do it...",
+  "status": "tl"
  },
  {
   "id": "F846E0:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ン…なんか落ちてやがんな…",
-  "en": "",
-  "status": ""
+  "en": "Hm... somethin's lyin' here...",
+  "status": "tl"
  },
  {
   "id": "F846E0:2",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ロンピアをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got Ron's Earring!",
+  "status": "tl"
  },
  {
   "id": "F8476C:1",
   "kind": "msg",
   "speaker": "MAI",
   "jp": "あら、お久しぶり",
-  "en": "",
-  "status": ""
+  "en": "Oh, long time no see.",
+  "status": "tl"
  },
  {
   "id": "F8476C:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "今日はここでなにかあるんですか?",
-  "en": "",
-  "status": ""
+  "en": "Is something going on here today?",
+  "status": "tl"
  },
  {
   "id": "F8476C:5",
   "kind": "msg",
   "speaker": "MAI",
   "jp": "ほら、前にここでライブする\n予定だったのに中止になったじゃない?",
-  "en": "",
-  "status": ""
+  "en": "Well, remember how I was supposed to do a concert here before, but it got canceled?",
+  "status": "tl"
  },
  {
   "id": "F8476C:6",
   "kind": "msg",
   "speaker": "MAI",
   "jp": "それのやり直しなのよ",
-  "en": "",
-  "status": ""
+  "en": "This is the do-over.",
+  "status": "tl"
  },
  {
   "id": "F8476C:8",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "フーン…ま、俺たちには関係ねーな",
-  "en": "",
-  "status": ""
+  "en": "Hmph... Well, nothin' to do with us.",
+  "status": "tl"
  },
  {
   "id": "F8476C:10",
   "kind": "msg",
   "speaker": "MAI",
   "jp": "あの…実はね、THE☆カラマワリを\nもう一回やってもらいたいんだけど…",
-  "en": "",
-  "status": ""
+  "en": "Um... actually, I was hoping you'd do THE☆Spinning Wheels one more time...",
+  "status": "tl"
  },
  {
   "id": "F8476C:11",
   "kind": "msg",
   "speaker": "MAI",
   "jp": "お願いできないかしら?",
-  "en": "",
-  "status": ""
+  "en": "Would you mind?",
+  "status": "tl"
  },
  {
   "id": "F8476C:12",
   "kind": "msg",
   "speaker": "MAI",
   "jp": "バンドメンバーの一人が渋滞に\n巻き込まれてて開演に間に合わないの…",
-  "en": "",
-  "status": ""
+  "en": "One of the band members is stuck in a traffic jam and won't make it in time for the show...",
+  "status": "tl"
  },
  {
   "id": "F8476C:13",
   "kind": "msg",
   "speaker": "MAI",
   "jp": "だから開演を引き伸ばして欲しいのよ",
-  "en": "",
-  "status": ""
+  "en": "So I need you to stall the start.",
+  "status": "tl"
  },
  {
   "id": "F8476C:15",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "ああ?　ンな、メンドくせーこと…",
-  "en": "",
-  "status": ""
+  "en": "Huh? Like I wanna do somethin' that much of a pain...",
+  "status": "tl"
  },
  {
   "id": "F8476C:17",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "そういうことなら協力は惜しまんぞ",
-  "en": "",
-  "status": ""
+  "en": "If that is the case, I shall spare no effort to help.",
+  "status": "tl"
  },
  {
   "id": "F8476C:19",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "…なんでテメーが\nやる気になってンだ、サムライ君?",
-  "en": "",
-  "status": ""
+  "en": "...Why the hell are YOU all fired up, Samurai Boy?",
+  "status": "tl"
  },
  {
   "id": "F8476C:21",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "なんかね~…\nダンスに興味が沸いてきたんだって…",
-  "en": "",
-  "status": ""
+  "en": "Well, y'see... he says he's gotten into dancing...",
+  "status": "tl"
  },
  {
   "id": "F8476C:23",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "あれから密かに\n研究を重ねていたところだ",
-  "en": "",
-  "status": ""
+  "en": "I have been secretly studying it ever since.",
+  "status": "tl"
  },
  {
   "id": "F8476C:25",
   "kind": "msg",
   "speaker": "MAI",
   "jp": "そういってもらえると助かるわ！",
-  "en": "",
-  "status": ""
+  "en": "That's such a help!",
+  "status": "tl"
  },
  {
   "id": "F8476C:26",
   "kind": "msg",
   "speaker": "MAI",
   "jp": "悪いけど、ヨロシクね！！",
-  "en": "",
-  "status": ""
+  "en": "Sorry, but I'm counting on you!!",
+  "status": "tl"
  },
  {
   "id": "F84CC4:1",
   "kind": "msg",
   "speaker": "ツルコ",
   "jp": "アラ、お久しぶりね…みなさん",
-  "en": "",
-  "status": ""
+  "en": "Oh my, long time no see... everyone.",
+  "status": "tl"
  },
  {
   "id": "F84CC4:2",
   "kind": "msg",
   "speaker": "ツルコ",
   "jp": "以前の衣装奪還の時は\n大変お世話になりましたわ",
-  "en": "",
-  "status": ""
+  "en": "Thank you so much for your help with getting back my costume before.",
+  "status": "tl"
  },
  {
   "id": "F84CC4:4",
   "kind": "msg",
   "speaker": "士度",
   "jp": "いや…あれは銀次たちがしたことだ\n俺たちは関係ねーよ",
-  "en": "",
-  "status": ""
+  "en": "No... that was Ginji and the others. Had nothin' to do with us.",
+  "status": "tl"
  },
  {
   "id": "F84CC4:6",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ところで今かかってる\nこの曲はツルコはんの新曲でっか?",
-  "en": "",
-  "status": ""
+  "en": "By the way, this song playin' right now... is that a new song of yers, Tsuruko?",
+  "status": "tl"
  },
  {
   "id": "F84CC4:8",
   "kind": "msg",
   "speaker": "ツルコ",
   "jp": "アラ、よくお気づきね…",
-  "en": "",
-  "status": ""
+  "en": "Oh my, how perceptive...",
+  "status": "tl"
  },
  {
   "id": "F84CC4:9",
   "kind": "msg",
   "speaker": "ツルコ",
   "jp": "そう、新曲よ\n『桜吹雪　恋しぐれ』というの",
-  "en": "",
-  "status": ""
+  "en": "Yes, it's my new song. It's called \"Cherry Blossom Storm, Rain of Love.\"",
+  "status": "tl"
  },
  {
   "id": "F84CC4:10",
   "kind": "msg",
   "speaker": "ツルコ",
   "jp": "♪桜吹雪　恋しぐれ",
-  "en": "",
-  "status": ""
+  "en": "♪Cherry blossom storm, rain of love",
+  "status": "tl"
  },
  {
   "id": "F84CC4:11",
   "kind": "msg",
   "speaker": "ツルコ",
-  "jp": "♪類の涙も　かれ果て",
-  "en": "",
-  "status": ""
+  "jp": "♪頬の涙も　かれ果て",
+  "en": "♪The tears on my cheeks have all dried up",
+  "status": "tl"
  },
  {
   "id": "F84CC4:12",
   "kind": "msg",
   "speaker": "ツルコ",
   "jp": "♪たそがれの中　見つけた",
-  "en": "",
-  "status": ""
+  "en": "♪In the twilight, I found it",
+  "status": "tl"
  },
  {
   "id": "F84CC4:13",
   "kind": "msg",
   "speaker": "ツルコ",
   "jp": "♪あなたに　舞い落ちる",
-  "en": "",
-  "status": ""
+  "en": "♪Falling down upon you",
+  "status": "tl"
  },
  {
   "id": "F84CC4:14",
   "kind": "msg",
   "speaker": "ツルコ",
   "jp": "♪夢の花",
-  "en": "",
-  "status": ""
+  "en": "♪A flower of dreams",
+  "status": "tl"
  },
  {
   "id": "F84CC4:15",
   "kind": "msg",
   "speaker": "ツルコ",
   "jp": "…という歌なのよ",
-  "en": "",
-  "status": ""
+  "en": "...That's how the song goes.",
+  "status": "tl"
  },
  {
   "id": "F84CC4:17",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "こらまた泣ける歌やんか~",
-  "en": "",
-  "status": ""
+  "en": "Now that's a real tearjerker~",
+  "status": "tl"
  },
  {
   "id": "F84CC4:18",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "発売日チャックしとこ！",
-  "en": "",
-  "status": ""
+  "en": "Gotta check the release date!",
+  "status": "tl"
  },
  {
   "id": "F84CC4:20",
@@ -1588,104 +1588,104 @@
   "kind": "msg",
   "speaker": "士度",
   "jp": "ところで今日はここでなにかあるのか?",
-  "en": "",
-  "status": ""
+  "en": "So is somethin' happenin' here today?",
+  "status": "tl"
  },
  {
   "id": "F84CC4:23",
   "kind": "msg",
   "speaker": "ツルコ",
   "jp": "ええ、\n実はここでリサイタルがありましてね",
-  "en": "",
-  "status": ""
+  "en": "Yes, I have a recital here, you see.",
+  "status": "tl"
  },
  {
   "id": "F84CC4:24",
   "kind": "msg",
   "speaker": "ツルコ",
   "jp": "でも一つ、困ったことがあるのよ…",
-  "en": "",
-  "status": ""
+  "en": "But there's one problem...",
+  "status": "tl"
  },
  {
   "id": "F84CC4:26",
   "kind": "msg",
   "speaker": "士度",
   "jp": "まさかまた衣装が奪われたとか…?",
-  "en": "",
-  "status": ""
+  "en": "Don't tell me your costume got stolen again...?",
+  "status": "tl"
  },
  {
   "id": "F84CC4:28",
   "kind": "msg",
   "speaker": "ツルコ",
   "jp": "いえいえ、そうじゃないのよ",
-  "en": "",
-  "status": ""
+  "en": "No, no, nothing like that.",
+  "status": "tl"
  },
  {
   "id": "F84CC4:29",
   "kind": "msg",
   "speaker": "ツルコ",
   "jp": "ただね…今日は\nあまりノドの調子がよろしくないの",
-  "en": "",
-  "status": ""
+  "en": "It's just... my throat isn't in very good shape today.",
+  "status": "tl"
  },
  {
   "id": "F84CC4:30",
   "kind": "msg",
   "speaker": "ツルコ",
   "jp": "でもマイクチェックとか\nしなくちゃなりませんでしょ?",
-  "en": "",
-  "status": ""
+  "en": "But I still have to do mic checks and such, don't I?",
+  "status": "tl"
  },
  {
   "id": "F84CC4:31",
   "kind": "msg",
   "speaker": "ツルコ",
   "jp": "それで困ってるのよ",
-  "en": "",
-  "status": ""
+  "en": "So I'm in quite a bind.",
+  "status": "tl"
  },
  {
   "id": "F84CC4:33",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "そういうことなら力になりまっせ！\nな、士度はん！　雨流はん！！",
-  "en": "",
-  "status": ""
+  "en": "If that's the case, we'll help ya out! Right, Shido? Uryu?!",
+  "status": "tl"
  },
  {
   "id": "F84CC4:36",
   "kind": "msg",
   "speaker": "士度",
   "jp": "なにを言い出すんだ、笑師！?",
-  "en": "",
-  "status": ""
+  "en": "What are you sayin', Emishi?!",
+  "status": "tl"
  },
  {
   "id": "F84CC4:38",
   "kind": "msg",
   "speaker": "ツルコ",
   "jp": "そういえばあなたたち、前にもここで\n歌ったことがあるんですってねえ",
-  "en": "",
-  "status": ""
+  "en": "Come to think of it, I heard you've sung here before.",
+  "status": "tl"
  },
  {
   "id": "F84CC4:39",
   "kind": "msg",
   "speaker": "ツルコ",
   "jp": "お願いしちゃおうかしら…",
-  "en": "",
-  "status": ""
+  "en": "Perhaps I'll ask you...",
+  "status": "tl"
  },
  {
   "id": "F84CC4:41",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "任しといてーな！！",
-  "en": "",
-  "status": ""
+  "en": "Leave it to us!!",
+  "status": "tl"
  },
  {
   "id": "F84CC4:44",
@@ -1700,119 +1700,119 @@
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おい、銀次…\nお前、まさか歌詞忘れてねえだろうな?",
-  "en": "",
-  "status": ""
+  "en": "Hey, Ginji... don't tell me you forgot the lyrics?",
+  "status": "tl"
  },
  {
   "id": "F85534:3",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "う…ちょっと怪しいかも…",
-  "en": "",
-  "status": ""
+  "en": "Uh... I might be a little shaky...",
+  "status": "tl"
  },
  {
   "id": "F85534:5",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "しゃーねえな…もう一度確認しとくか",
-  "en": "",
-  "status": ""
+  "en": "Can't be helped... Let's go over 'em one more time.",
+  "status": "tl"
  },
  {
   "id": "F85660:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "士度はん、歌詞忘れてんちゃいまっか?",
-  "en": "",
-  "status": ""
+  "en": "Shido, ya ain't forgot the lyrics, have ya?",
+  "status": "tl"
  },
  {
   "id": "F85660:2",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "もう一回確認しとこか?",
-  "en": "",
-  "status": ""
+  "en": "Wanna go over 'em one more time?",
+  "status": "tl"
  },
  {
   "id": "F85660:4",
   "kind": "msg",
   "speaker": "士度",
   "jp": "そうだな、確認しておくか…",
-  "en": "",
-  "status": ""
+  "en": "Yeah, let's go over them...",
+  "status": "tl"
  },
  {
   "id": "F85760:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "よっしゃ、\n『THE☆カラマワリ』行くぞ！！",
-  "en": "",
-  "status": ""
+  "en": "Alright, \"THE☆Spinning Wheels,\" let's go!!",
+  "status": "tl"
  },
  {
   "id": "F857F0:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "よっしゃ、『きぐるミルミル』\nはりきって行きましょか~！！",
-  "en": "",
-  "status": ""
+  "en": "Alright, \"Kigurumi Mirumiru,\" let's get fired up and go~!!",
+  "status": "tl"
  },
  {
   "id": "F8588C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "人面イカをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Human-Face Squid!",
+  "status": "tl"
  },
  {
   "id": "F858D0:0",
   "kind": "msg",
   "speaker": "",
   "jp": "Mオイルをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the M Oil!",
+  "status": "tl"
  },
  {
   "id": "F85914:0",
   "kind": "msg",
   "speaker": "",
   "jp": "Hオオムギ粉をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Gut Barley Flour!",
+  "status": "tl"
  },
  {
   "id": "F8595C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "干物イモリをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Dried Newt!",
+  "status": "tl"
  },
  {
   "id": "F859A0:0",
   "kind": "msg",
   "speaker": "",
   "jp": "トカゲの尾をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Lizard Tail!",
+  "status": "tl"
  },
  {
   "id": "F859E4:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ヘビの抜け殻をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Shed Snakeskin!",
+  "status": "tl"
  },
  {
   "id": "F85A2C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "毒キノコをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Poison Mushroom!",
+  "status": "tl"
  }
 ]

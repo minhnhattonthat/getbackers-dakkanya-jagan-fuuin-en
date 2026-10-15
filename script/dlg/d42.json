@@ -4,359 +4,359 @@
   "kind": "msg",
   "speaker": "",
   "jp": "ふどがんをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Fudo Eyepatch!",
+  "status": "tl"
  },
  {
   "id": "F8A224:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ふどアンをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Fudo Anklet!",
+  "status": "tl"
  },
  {
   "id": "F8A268:0",
   "kind": "msg",
   "speaker": "",
   "jp": "あかてぶをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Akabane Gloves!",
+  "status": "tl"
  },
  {
   "id": "F8A2AC:0",
   "kind": "msg",
   "speaker": "",
   "jp": "きょめんをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Kyosuke Mask!",
+  "status": "tl"
  },
  {
   "id": "F8A2F0:0",
   "kind": "msg",
   "speaker": "",
   "jp": "だいせんをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Daisuke Fan!",
+  "status": "tl"
  },
  {
   "id": "F8A334:0",
   "kind": "msg",
   "speaker": "",
   "jp": "Kめんをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the K Mask!",
+  "status": "tl"
  },
  {
   "id": "F8A374:0",
   "kind": "msg",
   "speaker": "",
   "jp": "あんかみをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Anzu Hairpin!",
+  "status": "tl"
  },
  {
   "id": "F8A3B8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "るりかみをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Ruri Hairpin!",
+  "status": "tl"
  },
  {
   "id": "F8A3FC:0",
   "kind": "msg",
   "speaker": "",
   "jp": "おにパンをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Oniyasha Pants!",
+  "status": "tl"
  },
  {
   "id": "F8A440:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ひるサンをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Hiruta Sandals!",
+  "status": "tl"
  },
  {
   "id": "F8A484:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ひるネッをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Hiruta Necklace!",
+  "status": "tl"
  },
  {
   "id": "F8A4C8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "くぼちょをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Kubota Vest!",
+  "status": "tl"
  },
  {
   "id": "F8A50C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "きらかたをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Kira Shoulder Guard!",
+  "status": "tl"
  },
  {
   "id": "F8A550:0",
   "kind": "msg",
   "speaker": "",
   "jp": "MAブレをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the MAI Bracelet!",
+  "status": "tl"
  },
  {
   "id": "F8A594:0",
   "kind": "msg",
   "speaker": "",
   "jp": "よこハンをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Yoko Handkerchief!",
+  "status": "tl"
  },
  {
   "id": "F8A5D8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "よこヘルをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Yoko Helmet!",
+  "status": "tl"
  },
  {
   "id": "F8A61C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "げんぼうをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Gen Hat!",
+  "status": "tl"
  },
  {
   "id": "F8A660:0",
   "kind": "msg",
   "speaker": "",
   "jp": "マドリボをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got Madoka's Ribbon!",
+  "status": "tl"
  },
  {
   "id": "F8A6A4:0",
   "kind": "msg",
   "speaker": "",
   "jp": "みろゆびをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Miroku Ring!",
+  "status": "tl"
  },
  {
   "id": "F8A6E8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ときグロをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Toki Glove!",
+  "status": "tl"
  },
  {
   "id": "F8A72C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "つばグロをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Tsuba Glove!",
+  "status": "tl"
  },
  {
   "id": "F8A770:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ひかグロをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Hika Glove!",
+  "status": "tl"
  },
  {
   "id": "F8A7B4:0",
   "kind": "msg",
   "speaker": "",
   "jp": "うきグロをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Uki Glove!",
+  "status": "tl"
  },
  {
   "id": "F8A7F8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "TSCをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the TSC!",
+  "status": "tl"
  },
  {
   "id": "F8A838:0",
   "kind": "msg",
   "speaker": "",
   "jp": "HPが回復した！",
-  "en": "",
-  "status": ""
+  "en": "HP restored!",
+  "status": "tl"
  },
  {
   "id": "F8A878:0",
   "kind": "msg",
   "speaker": "",
   "jp": "HPが減少した…",
-  "en": "",
-  "status": ""
+  "en": "HP decreased...",
+  "status": "tl"
  },
  {
   "id": "F8A8B8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "カギが開いた！",
-  "en": "",
-  "status": ""
+  "en": "Unlocked!",
+  "status": "tl"
  },
  {
   "id": "F8A8EC:0",
   "kind": "msg",
   "speaker": "",
   "jp": "カギがかかっている",
-  "en": "",
-  "status": ""
+  "en": "It's locked.",
+  "status": "tl"
  },
  {
   "id": "F8A924:0",
   "kind": "msg",
   "speaker": "",
   "jp": "この後のセーブ画面で\nクリアデータをセーブし、",
-  "en": "",
-  "status": ""
+  "en": "Save your clear data on the following save screen,",
+  "status": "tl"
  },
  {
   "id": "F8A924:1",
   "kind": "msg",
   "speaker": "",
   "jp": "そのデータをロードすると\nACT8をプレイすることができます",
-  "en": "",
-  "status": ""
+  "en": "then load that data to play Act 8.",
+  "status": "tl"
  },
  {
   "id": "F8A924:2",
   "kind": "msg",
   "speaker": "",
   "jp": "前回のデータは失われますので、\nデータ上書きの際は注意して下さい",
-  "en": "",
-  "status": ""
+  "en": "Your previous data will be lost, so be careful when overwriting data.",
+  "status": "tl"
  },
  {
   "id": "F8AA14:0",
   "kind": "msg",
   "speaker": "",
   "jp": "この後のセーブ画面で\nクリアデータをセーブし、",
-  "en": "",
-  "status": ""
+  "en": "Save your clear data on the following save screen,",
+  "status": "tl"
  },
  {
   "id": "F8AA14:1",
   "kind": "msg",
   "speaker": "",
   "jp": "そのデータをロードすると\n相性とカードのみ引継ぎで",
-  "en": "",
-  "status": ""
+  "en": "If you load that data, you can carry over only affinity and cards",
+  "status": "tl"
  },
  {
   "id": "F8AA14:2",
   "kind": "msg",
   "speaker": "",
   "jp": "ACT1からプレイすることができます",
-  "en": "",
-  "status": ""
+  "en": "and play from Act 1.",
+  "status": "tl"
  },
  {
   "id": "F8AA14:3",
   "kind": "msg",
   "speaker": "",
   "jp": "前回のデータは失われますので、\nデータ上書きの際は注意して下さい",
-  "en": "",
-  "status": ""
+  "en": "Your previous data will be lost, so be careful when overwriting data.",
+  "status": "tl"
  },
  {
   "id": "F8AB28:0",
   "kind": "msg",
   "speaker": "",
   "jp": "銀次:んあ~、今回も色々あったね~",
-  "en": "",
-  "status": ""
+  "en": "Ginji: Uhh, a whole lot happened this time too~",
+  "status": "tl"
  },
  {
   "id": "F8ABB4:0",
   "kind": "msg",
   "speaker": "",
   "jp": "蛮:羨木は追いかけてくるわ、\n赤屍は出てくるわで大変だったな…",
-  "en": "",
-  "status": ""
+  "en": "Ban: Hishiki chasin' after us, Akabane showin' up... What a hassle that was...",
+  "status": "tl"
  },
  {
   "id": "F8AC5C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "銀次:あっ、そういえば蛮ちゃんに\nそっくりなヘビがいたよね~！",
-  "en": "",
-  "status": ""
+  "en": "Ginji: Oh, that reminds me, there was a snake that looked just like you, Ban~!",
+  "status": "tl"
  },
  {
   "id": "F8AD04:0",
   "kind": "msg",
   "speaker": "",
   "jp": "蛮:臨海パークじゃ、\nアイドル衣装で歌も歌っちまったしな",
-  "en": "",
-  "status": ""
+  "en": "Ban: And at Seaside Park, I even ended up singin' in an idol costume.",
+  "status": "tl"
  },
  {
   "id": "F8ADA8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "銀次:神門の里では\n露天風呂にも入っちゃったしね！",
-  "en": "",
-  "status": ""
+  "en": "Ginji: And at Mikado Village, we got to soak in an open-air bath!",
+  "status": "tl"
  },
  {
   "id": "F8AE48:0",
   "kind": "msg",
   "speaker": "",
   "jp": "蛮:色々あったな…でも、\nやっぱり金は手に入らねえんだよな…",
-  "en": "",
-  "status": ""
+  "en": "Ban: Lotta stuff happened... But we still never get our hands on any money...",
+  "status": "tl"
  },
  {
   "id": "F8AEF0:0",
   "kind": "msg",
   "speaker": "",
   "jp": "銀次:がんばって\n借金返そうね、蛮ちゃん！！",
-  "en": "",
-  "status": ""
+  "en": "Ginji: Let's do our best and pay off our debt, Ban!!",
+  "status": "tl"
  },
  {
   "id": "F8AF88:0",
   "kind": "msg",
   "speaker": "",
   "jp": "蛮:ったく、お前は今回も\n俺様に頼りっぱなしだったよな…",
-  "en": "",
-  "status": ""
+  "en": "Ban: Jeez, you were leaning on the great Ban the whole time again, weren'tcha...",
+  "status": "tl"
  },
  {
   "id": "F8B02C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "卑弥呼:それはこっちのセリフよ！\n催眠香がないと先に進めなかったくせに",
-  "en": "",
-  "status": ""
+  "en": "Himiko: That's my line! You couldn't have gone on without the Hypno Incense!",
+  "status": "tl"
  },
  {
   "id": "F8B0DC:0",
   "kind": "msg",
   "speaker": "",
   "jp": "蛮:ンなこと言ってていいのかねえ…",
-  "en": "",
-  "status": ""
+  "en": "Ban: Ya sure you wanna be talkin' like that...?",
+  "status": "tl"
  }
 ]

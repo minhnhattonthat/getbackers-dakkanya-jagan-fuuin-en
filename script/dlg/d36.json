@@ -4,319 +4,319 @@
   "kind": "msg",
   "speaker": "",
   "jp": "ウサギの尾をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Rabbit Tail!",
+  "status": "tl"
  },
  {
   "id": "F85AB4:0",
   "kind": "msg",
   "speaker": "",
   "jp": "マンドラゴラをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Mandragora!",
+  "status": "tl"
  },
  {
   "id": "F85AFC:0",
   "kind": "msg",
   "speaker": "",
   "jp": "水晶玉をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Crystal Ball!",
+  "status": "tl"
  },
  {
   "id": "F85B3C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "インセンスをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Incense!",
+  "status": "tl"
  },
  {
   "id": "F85B80:0",
   "kind": "msg",
   "speaker": "",
   "jp": "天照の面をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Amaterasu Mask!",
+  "status": "tl"
  },
  {
   "id": "F85BC4:0",
   "kind": "msg",
   "speaker": "",
   "jp": "経正の面をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Tsunemasa Mask!",
+  "status": "tl"
  },
  {
   "id": "F85C08:0",
   "kind": "msg",
   "speaker": "",
   "jp": "頼政の面をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Yorimasa Mask!",
+  "status": "tl"
  },
  {
   "id": "F85C4C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "巴の面をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Tomoe Mask!",
+  "status": "tl"
  },
  {
   "id": "F85C8C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "葵上の面をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Aoi no Ue Mask!",
+  "status": "tl"
  },
  {
   "id": "F85CD0:0",
   "kind": "msg",
   "speaker": "",
   "jp": "天細女の面をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Uzume Mask!",
+  "status": "tl"
  },
  {
   "id": "F85D14:0",
   "kind": "msg",
   "speaker": "",
   "jp": "天狗の面をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Tengu Mask!",
+  "status": "tl"
  },
  {
   "id": "F85D58:0",
   "kind": "msg",
   "speaker": "",
   "jp": "松風の面をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Matsukaze Mask!",
+  "status": "tl"
  },
  {
   "id": "F85D9C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "コーヒー券をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Coffee Ticket!",
+  "status": "tl"
  },
  {
   "id": "F85DE0:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ばんぎんのMをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Ban & Ginji M!",
+  "status": "tl"
  },
  {
   "id": "F85E28:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ばんひみのMをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Ban & Himiko M!",
+  "status": "tl"
  },
  {
   "id": "F85E70:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ばんばねのMをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Ban & Akabane M!",
+  "status": "tl"
  },
  {
   "id": "F85EB8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ばんかづのMをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Ban & Kazuki M!",
+  "status": "tl"
  },
  {
   "id": "F85F00:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ばんしどのMをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Ban & Shido M!",
+  "status": "tl"
  },
  {
   "id": "F85F48:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ばんえみのMをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Ban & Emishi M!",
+  "status": "tl"
  },
  {
   "id": "F85F90:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ばんじゅのMをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Ban & Juubei M!",
+  "status": "tl"
  },
  {
   "id": "F85FD8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ばんうりのMをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Ban & Uryu M!",
+  "status": "tl"
  },
  {
   "id": "F86020:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ひみぎんのMをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Himiko & Ginji M!",
+  "status": "tl"
  },
  {
   "id": "F86068:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ばねぎんのMをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Akabane & Ginji M!",
+  "status": "tl"
  },
  {
   "id": "F860B0:0",
   "kind": "msg",
   "speaker": "",
   "jp": "かづぎんのMをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Kazuki & Ginji M!",
+  "status": "tl"
  },
  {
   "id": "F860F8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "しどぎんのMをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Shido & Ginji M!",
+  "status": "tl"
  },
  {
   "id": "F86140:0",
   "kind": "msg",
   "speaker": "",
   "jp": "えみぎんのMをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Emishi & Ginji M!",
+  "status": "tl"
  },
  {
   "id": "F86188:0",
   "kind": "msg",
   "speaker": "",
   "jp": "じゅぎんのMをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Juubei & Ginji M!",
+  "status": "tl"
  },
  {
   "id": "F861D0:0",
   "kind": "msg",
   "speaker": "",
   "jp": "うりぎんのMをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Uryu & Ginji M!",
+  "status": "tl"
  },
  {
   "id": "F86218:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ばねひみのMをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Akabane & Himiko M!",
+  "status": "tl"
  },
  {
   "id": "F86260:0",
   "kind": "msg",
   "speaker": "",
   "jp": "かづひみのMをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Kazuki & Himiko M!",
+  "status": "tl"
  },
  {
   "id": "F862A8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "しどひみのMをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Shido & Himiko M!",
+  "status": "tl"
  },
  {
   "id": "F862F0:0",
   "kind": "msg",
   "speaker": "",
   "jp": "えみひみのMをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Emishi & Himiko M!",
+  "status": "tl"
  },
  {
   "id": "F86338:0",
   "kind": "msg",
   "speaker": "",
   "jp": "じゅひみのMをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Juubei & Himiko M!",
+  "status": "tl"
  },
  {
   "id": "F86380:0",
   "kind": "msg",
   "speaker": "",
   "jp": "うりひみのMをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Uryu & Himiko M!",
+  "status": "tl"
  },
  {
   "id": "F863C8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ばねかづのMをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Akabane & Kazuki M!",
+  "status": "tl"
  },
  {
   "id": "F86410:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ばねしどのMをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Akabane & Shido M!",
+  "status": "tl"
  },
  {
   "id": "F86458:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ばねえみのMをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Akabane & Emishi M!",
+  "status": "tl"
  },
  {
   "id": "F864A0:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ばねじゅのMをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Akabane & Juubei M!",
+  "status": "tl"
  },
  {
   "id": "F864E8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ばねうりのMをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Akabane & Uryu M!",
+  "status": "tl"
  },
  {
   "id": "F86530:0",
   "kind": "msg",
   "speaker": "",
   "jp": "しどかづのMをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Shido & Kazuki M!",
+  "status": "tl"
  }
 ]

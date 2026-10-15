@@ -4,112 +4,112 @@
   "kind": "msg",
   "speaker": "",
   "jp": "じゅグロをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Juubei Glove!",
+  "status": "tl"
  },
  {
   "id": "F8856C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "レナエプをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Rena Apron!",
+  "status": "tl"
  },
  {
   "id": "F885B0:0",
   "kind": "msg",
   "speaker": "",
   "jp": "なつエプをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Natsumi Apron!",
+  "status": "tl"
  },
  {
   "id": "F885F4:0",
   "kind": "msg",
   "speaker": "",
   "jp": "クレかみをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got Clayman's Hairpin!",
+  "status": "tl"
  },
  {
   "id": "F88638:0",
   "kind": "msg",
   "speaker": "",
   "jp": "うりリスをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Uryu Wristband!",
+  "status": "tl"
  },
  {
   "id": "F8867C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "あおグラをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Aoki Shades!",
+  "status": "tl"
  },
  {
   "id": "F886C0:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "うるせーんだよ",
-  "en": "",
-  "status": ""
+  "en": "Shaddap already.",
+  "status": "tl"
  },
  {
   "id": "F88714:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "用でもあンのかよ?",
-  "en": "",
-  "status": ""
+  "en": "You want somethin'?",
+  "status": "tl"
  },
  {
   "id": "F8876C:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "おっ、どーしたよ?",
-  "en": "",
-  "status": ""
+  "en": "Oh, what's up?",
+  "status": "tl"
  },
  {
   "id": "F887C4:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "さーて、面白くなってきやがったな！",
-  "en": "",
-  "status": ""
+  "en": "Well now, things are gettin' interesting!",
+  "status": "tl"
  },
  {
   "id": "F8882C:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "無敵の俺様に任しときな！",
-  "en": "",
-  "status": ""
+  "en": "Leave it to the invincible Ban!",
+  "status": "tl"
  },
  {
   "id": "F88888:1",
   "kind": "prompt",
   "speaker": "蛮",
   "jp": "ヘマすンじゃねーぞ",
-  "en": "",
-  "status": ""
+  "en": "Don't you screw up,",
+  "status": "tl"
  },
  {
   "id": "F88888:2",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "銀次ィ！",
-  "en": "",
-  "status": ""
+  "en": "Ginjiii!",
+  "status": "tl"
  },
  {
   "id": "F8890C:1",
   "kind": "msg",
   "speaker": "蛮",
   "jp": "助けが必要なら言えよ?",
-  "en": "",
-  "status": ""
+  "en": "Need help? Just say so, got it?",
+  "status": "tl"
  },
  {
   "id": "F88968:1",
@@ -124,64 +124,64 @@
   "kind": "msg",
   "speaker": "銀次",
   "jp": "んあ~、なんか言った?",
-  "en": "",
-  "status": ""
+  "en": "Uhh, did you say something?",
+  "status": "tl"
  },
  {
   "id": "F88A14:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "絶好調~！！",
-  "en": "",
-  "status": ""
+  "en": "I'm in top form~!!",
+  "status": "tl"
  },
  {
   "id": "F88A64:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "な~んか楽しくなってきたね！",
-  "en": "",
-  "status": ""
+  "en": "This is getting kinda fun!",
+  "status": "tl"
  },
  {
   "id": "F88AC4:1",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "オレたちっていいコンビだよね！",
-  "en": "",
-  "status": ""
+  "en": "We make a great team, don't we!",
+  "status": "tl"
  },
  {
   "id": "F88B28:1",
   "kind": "prompt",
   "speaker": "銀次",
   "jp": "蛮ちゃん",
-  "en": "",
-  "status": ""
+  "en": "Ban,",
+  "status": "tl"
  },
  {
   "id": "F88B28:2",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "二人なら無敵だよね！",
-  "en": "",
-  "status": ""
+  "en": "together we're unbeatable!",
+  "status": "tl"
  },
  {
   "id": "F88BAC:1",
   "kind": "prompt",
   "speaker": "銀次",
   "jp": "ど、どうかしましたか",
-  "en": "",
-  "status": ""
+  "en": "Wh-what's the matter,",
+  "status": "tl"
  },
  {
   "id": "F88BAC:2",
   "kind": "msg",
   "speaker": "銀次",
   "jp": "赤屍さん…",
-  "en": "",
-  "status": ""
+  "en": "Akabane...?",
+  "status": "tl"
  },
  {
   "id": "F88C34:1",
@@ -196,159 +196,159 @@
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "話し掛けないでよ",
-  "en": "",
-  "status": ""
+  "en": "Don't talk to me.",
+  "status": "tl"
  },
  {
   "id": "F88CD8:1",
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "ジロジロ見ないでくれる?",
-  "en": "",
-  "status": ""
+  "en": "Would you quit staring at me?",
+  "status": "tl"
  },
  {
   "id": "F88D38:1",
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "さてと、行きましょうか",
-  "en": "",
-  "status": ""
+  "en": "Well then, shall we go?",
+  "status": "tl"
  },
  {
   "id": "F88D98:1",
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "心配いらないわよ",
-  "en": "",
-  "status": ""
+  "en": "No need to worry.",
+  "status": "tl"
  },
  {
   "id": "F88DF0:1",
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "アンタといるとそこそこ楽しいわね",
-  "en": "",
-  "status": ""
+  "en": "Being with you is kinda fun, I guess.",
+  "status": "tl"
  },
  {
   "id": "F88E58:1",
   "kind": "msg",
   "speaker": "卑弥呼",
   "jp": "あたしだってプロなんだから！",
-  "en": "",
-  "status": ""
+  "en": "I'm a pro too, you know!",
+  "status": "tl"
  },
  {
   "id": "F88EBC:1",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "あなたには失望しました",
-  "en": "",
-  "status": ""
+  "en": "You have disappointed me.",
+  "status": "tl"
  },
  {
   "id": "F88F18:1",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "やれやれですね",
-  "en": "",
-  "status": ""
+  "en": "Oh, dear me.",
+  "status": "tl"
  },
  {
   "id": "F88F6C:1",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "少しは楽しめそうですね",
-  "en": "",
-  "status": ""
+  "en": "This might be a little entertaining.",
+  "status": "tl"
  },
  {
   "id": "F88FC8:1",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "なるほど…これは面白い",
-  "en": "",
-  "status": ""
+  "en": "I see... How very interesting.",
+  "status": "tl"
  },
  {
   "id": "F89024:1",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "たっぷりと楽しませて下さい",
-  "en": "",
-  "status": ""
+  "en": "Please, entertain me to your heart's content.",
+  "status": "tl"
  },
  {
   "id": "F89084:1",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "興味深い方ですね",
-  "en": "",
-  "status": ""
+  "en": "You're a fascinating one.",
+  "status": "tl"
  },
  {
   "id": "F890D8:1",
   "kind": "msg",
   "speaker": "赤屍",
   "jp": "本当に面白い方だ…",
-  "en": "",
-  "status": ""
+  "en": "Truly, you're an interesting one...",
+  "status": "tl"
  },
  {
   "id": "F89130:1",
   "kind": "msg",
   "speaker": "花月",
   "jp": "理解できないな、君のことは…",
-  "en": "",
-  "status": ""
+  "en": "I can't understand you...",
+  "status": "tl"
  },
  {
   "id": "F89190:1",
   "kind": "msg",
   "speaker": "花月",
   "jp": "…なんでしょうか?",
-  "en": "",
-  "status": ""
+  "en": "...What is it?",
+  "status": "tl"
  },
  {
   "id": "F891E8:1",
   "kind": "msg",
   "speaker": "花月",
   "jp": "気を引き締めて行きましょう",
-  "en": "",
-  "status": ""
+  "en": "Let's stay on our guard.",
+  "status": "tl"
  },
  {
   "id": "F89248:1",
   "kind": "msg",
   "speaker": "花月",
   "jp": "頼りにしてますよ",
-  "en": "",
-  "status": ""
+  "en": "I'm counting on you.",
+  "status": "tl"
  },
  {
   "id": "F8929C:1",
   "kind": "msg",
   "speaker": "花月",
   "jp": "僕には君が必要なようだ…",
-  "en": "",
-  "status": ""
+  "en": "It seems I need you...",
+  "status": "tl"
  },
  {
   "id": "F892F8:1",
   "kind": "prompt",
   "speaker": "花月",
   "jp": "十兵衛",
-  "en": "",
-  "status": ""
+  "en": "Juubei,",
+  "status": "tl"
  },
  {
   "id": "F892F8:2",
   "kind": "msg",
   "speaker": "花月",
   "jp": "いつもすまないね",
-  "en": "",
-  "status": ""
+  "en": "I'm sorry, as always.",
+  "status": "tl"
  }
 ]

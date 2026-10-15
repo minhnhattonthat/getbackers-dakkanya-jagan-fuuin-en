@@ -4,184 +4,184 @@
   "kind": "prompt",
   "speaker": "花月",
   "jp": "キレイだね",
-  "en": "",
-  "status": ""
+  "en": "It's beautiful,",
+  "status": "tl"
  },
  {
   "id": "F89378:2",
   "kind": "msg",
   "speaker": "花月",
   "jp": "俊樹の舞は",
-  "en": "",
-  "status": ""
+  "en": "your dance, Toshiki.",
+  "status": "tl"
  },
  {
   "id": "F893F8:1",
   "kind": "msg",
   "speaker": "士度",
   "jp": "うるせぇ、黙ってろ",
-  "en": "",
-  "status": ""
+  "en": "Shut up. Keep quiet.",
+  "status": "tl"
  },
  {
   "id": "F89450:1",
   "kind": "msg",
   "speaker": "士度",
   "jp": "話し掛けんじゃねーよ",
-  "en": "",
-  "status": ""
+  "en": "Don't talk to me.",
+  "status": "tl"
  },
  {
   "id": "F894A8:1",
   "kind": "msg",
   "speaker": "士度",
   "jp": "どうしたよ?",
-  "en": "",
-  "status": ""
+  "en": "What's up?",
+  "status": "tl"
  },
  {
   "id": "F894F8:1",
   "kind": "msg",
   "speaker": "士度",
   "jp": "ま、後ろのことは任しときな！",
-  "en": "",
-  "status": ""
+  "en": "Well, I got your back covered!",
+  "status": "tl"
  },
  {
   "id": "F89558:1",
   "kind": "msg",
   "speaker": "士度",
   "jp": "俺がいるんだ、安心しな！",
-  "en": "",
-  "status": ""
+  "en": "I'm here, so relax!",
+  "status": "tl"
  },
  {
   "id": "F895B4:1",
   "kind": "prompt",
   "speaker": "士度",
   "jp": "諦めんじゃねーぞ",
-  "en": "",
-  "status": ""
+  "en": "Don't you give up,",
+  "status": "tl"
  },
  {
   "id": "F895B4:2",
   "kind": "msg",
   "speaker": "士度",
   "jp": "笑師！",
-  "en": "",
-  "status": ""
+  "en": "Emishi!",
+  "status": "tl"
  },
  {
   "id": "F89634:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "ネタにもならへんな",
-  "en": "",
-  "status": ""
+  "en": "Can't even make a gag outta that.",
+  "status": "tl"
  },
  {
   "id": "F8968C:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "笑いのツボが分かってへんなぁ",
-  "en": "",
-  "status": ""
+  "en": "Ya just don't get comedy, do ya?",
+  "status": "tl"
  },
  {
   "id": "F896EC:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "コンビ結成せぇへん?",
-  "en": "",
-  "status": ""
+  "en": "Wanna form a comedy duo?",
+  "status": "tl"
  },
  {
   "id": "F89744:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "お笑いチャンプ目指そか！",
-  "en": "",
-  "status": ""
+  "en": "Let's aim for comedy champs!",
+  "status": "tl"
  },
  {
   "id": "F897A0:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "最強のお笑いコンビやな！",
-  "en": "",
-  "status": ""
+  "en": "We're the ultimate comedy duo!",
+  "status": "tl"
  },
  {
   "id": "F897FC:1",
   "kind": "msg",
   "speaker": "笑師",
   "jp": "士度はんのツッコミは最高やな！",
-  "en": "",
-  "status": ""
+  "en": "Your straight-man comebacks are the best, Shido!",
+  "status": "tl"
  },
  {
   "id": "F89860:1",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "理解できんな…",
-  "en": "",
-  "status": ""
+  "en": "I cannot understand it...",
+  "status": "tl"
  },
  {
   "id": "F898B8:1",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "用があるならさっさと言え",
-  "en": "",
-  "status": ""
+  "en": "If you want something, say it.",
+  "status": "tl"
  },
  {
   "id": "F89918:1",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "助けが必要か?",
-  "en": "",
-  "status": ""
+  "en": "Do you need help?",
+  "status": "tl"
  },
  {
   "id": "F89970:1",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "協力は惜しまんぞ",
-  "en": "",
-  "status": ""
+  "en": "I will spare no effort to help.",
+  "status": "tl"
  },
  {
   "id": "F899C8:1",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "お前の背中を守ってやろう",
-  "en": "",
-  "status": ""
+  "en": "I shall guard your back.",
+  "status": "tl"
  },
  {
   "id": "F89A28:1",
   "kind": "prompt",
   "speaker": "十兵衛",
   "jp": "花月",
-  "en": "",
-  "status": ""
+  "en": "Kazuki,",
+  "status": "tl"
  },
  {
   "id": "F89A28:2",
   "kind": "msg",
   "speaker": "十兵衛",
   "jp": "お前は俺が守る",
-  "en": "",
-  "status": ""
+  "en": "I will protect you.",
+  "status": "tl"
  },
  {
   "id": "F89AA8:1",
   "kind": "prompt",
   "speaker": "十兵衛",
   "jp": "俺にはお前が必要だ",
-  "en": "",
-  "status": ""
+  "en": "I need you.",
+  "status": "tl"
  },
  {
   "id": "F89AA8:2",
@@ -196,56 +196,56 @@
   "kind": "msg",
   "speaker": "雨流",
   "jp": "お前に用はない",
-  "en": "",
-  "status": ""
+  "en": "I have no business with you.",
+  "status": "tl"
  },
  {
   "id": "F89B80:1",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "馴れ馴れしくするな",
-  "en": "",
-  "status": ""
+  "en": "Don't get so familiar.",
+  "status": "tl"
  },
  {
   "id": "F89BD8:1",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "フ…どうかしたのか?",
-  "en": "",
-  "status": ""
+  "en": "Heh... Is something wrong?",
+  "status": "tl"
  },
  {
   "id": "F89C30:1",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "力が必要であれば言ってくれ",
-  "en": "",
-  "status": ""
+  "en": "If you need my strength, say so.",
+  "status": "tl"
  },
  {
   "id": "F89C90:1",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "居場所を見つけられたようだ…",
-  "en": "",
-  "status": ""
+  "en": "It seems I've found where I belong...",
+  "status": "tl"
  },
  {
   "id": "F89CF0:1",
   "kind": "msg",
   "speaker": "雨流",
   "jp": "お前のために力を尽くそう…",
-  "en": "",
-  "status": ""
+  "en": "I will do all I can for you...",
+  "status": "tl"
  },
  {
   "id": "F89D50:1",
   "kind": "prompt",
   "speaker": "雨流",
   "jp": "共に花月を守ろう",
-  "en": "",
-  "status": ""
+  "en": "Let us protect Kazuki together.",
+  "status": "tl"
  },
  {
   "id": "F89D50:2",
@@ -260,48 +260,48 @@
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "君とは話したくないんだ",
-  "en": "",
-  "status": ""
+  "en": "I don't want to talk to you.",
+  "status": "tl"
  },
  {
   "id": "F89E28:1",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "どうかしたのかな?",
-  "en": "",
-  "status": ""
+  "en": "Is something wrong?",
+  "status": "tl"
  },
  {
   "id": "F89E80:1",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "君とは友達になれるかもね",
-  "en": "",
-  "status": ""
+  "en": "Maybe we could be friends.",
+  "status": "tl"
  },
  {
   "id": "F89EDC:1",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "君といると楽しいよ",
-  "en": "",
-  "status": ""
+  "en": "It's fun being with you.",
+  "status": "tl"
  },
  {
   "id": "F89F34:1",
   "kind": "msg",
   "speaker": "弥勒",
   "jp": "親友って感じだね",
-  "en": "",
-  "status": ""
+  "en": "It feels like we're best friends.",
+  "status": "tl"
  },
  {
   "id": "F89F88:1",
   "kind": "prompt",
   "speaker": "弥勒",
   "jp": "君とは親友になれるかもね",
-  "en": "",
-  "status": ""
+  "en": "Maybe we could be best friends.",
+  "status": "tl"
  },
  {
   "id": "F89F88:2",
@@ -316,55 +316,55 @@
   "kind": "msg",
   "speaker": "",
   "jp": "なにもないようだ…",
-  "en": "",
-  "status": ""
+  "en": "There seems to be nothing here...",
+  "status": "tl"
  },
  {
   "id": "F8A048:0",
   "kind": "msg",
   "speaker": "",
   "jp": "あやメガをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Ayamine Specs!",
+  "status": "tl"
  },
  {
   "id": "F8A08C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ヘヴピアをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got Hevn's Earring!",
+  "status": "tl"
  },
  {
   "id": "F8A0D0:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ロンピアをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got Ron's Earring!",
+  "status": "tl"
  },
  {
   "id": "F8A114:0",
   "kind": "msg",
   "speaker": "",
   "jp": "きらグロをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Kira Glove!",
+  "status": "tl"
  },
  {
   "id": "F8A158:0",
   "kind": "msg",
   "speaker": "",
   "jp": "しどリスをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Shido Wristband!",
+  "status": "tl"
  },
  {
   "id": "F8A19C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "さくぬのをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Sakura Cloth!",
+  "status": "tl"
  }
 ]

@@ -4,319 +4,319 @@
   "kind": "msg",
   "speaker": "",
   "jp": "連絡通路のカギをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Connecting Passage Key!",
+  "status": "tl"
  },
  {
   "id": "F87074:0",
   "kind": "msg",
   "speaker": "",
   "jp": "カギ爪ロープをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Grappling Rope!",
+  "status": "tl"
  },
  {
   "id": "F870BC:0",
   "kind": "msg",
   "speaker": "",
   "jp": "地下室のカギをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Basement Key!",
+  "status": "tl"
  },
  {
   "id": "F87104:0",
   "kind": "msg",
   "speaker": "",
   "jp": "倉庫のカギをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Storehouse Key!",
+  "status": "tl"
  },
  {
   "id": "F87148:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ケージのカギをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Cage Key!",
+  "status": "tl"
  },
  {
   "id": "F87190:0",
   "kind": "msg",
   "speaker": "",
   "jp": "IDパス1をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got ID Pass 1!",
+  "status": "tl"
  },
  {
   "id": "F871D4:0",
   "kind": "msg",
   "speaker": "",
   "jp": "卵をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got an egg!",
+  "status": "tl"
  },
  {
   "id": "F87210:0",
   "kind": "msg",
   "speaker": "",
   "jp": "バンをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got Ban the white snake!",
+  "status": "tl"
  },
  {
   "id": "F87250:0",
   "kind": "msg",
   "speaker": "",
   "jp": "IDパス2をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got ID Pass 2!",
+  "status": "tl"
  },
  {
   "id": "F87294:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ネズミをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got a mouse!",
+  "status": "tl"
  },
  {
   "id": "F872D4:0",
   "kind": "msg",
   "speaker": "",
   "jp": "IDパス3をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got ID Pass 3!",
+  "status": "tl"
  },
  {
   "id": "F87318:0",
   "kind": "msg",
   "speaker": "",
   "jp": "コンタクトをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the contact lens!",
+  "status": "tl"
  },
  {
   "id": "F8735C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "サンプルCDをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Sample CD!",
+  "status": "tl"
  },
  {
   "id": "F873A4:0",
   "kind": "msg",
   "speaker": "",
   "jp": "入場パスをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Entry Pass!",
+  "status": "tl"
  },
  {
   "id": "F873E8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "入り口のカギ1をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got Entrance Key 1!",
+  "status": "tl"
  },
  {
   "id": "F87430:0",
   "kind": "msg",
   "speaker": "",
   "jp": "入り口のカギ2をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got Entrance Key 2!",
+  "status": "tl"
  },
  {
   "id": "F87478:0",
   "kind": "msg",
   "speaker": "",
   "jp": "SRキー1をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got SR Key 1!",
+  "status": "tl"
  },
  {
   "id": "F874BC:0",
   "kind": "msg",
   "speaker": "",
   "jp": "SRキー2をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got SR Key 2!",
+  "status": "tl"
  },
  {
   "id": "F87500:0",
   "kind": "msg",
   "speaker": "",
   "jp": "SRキー3をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got SR Key 3!",
+  "status": "tl"
  },
  {
   "id": "F87544:0",
   "kind": "msg",
   "speaker": "",
   "jp": "SRキー4をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got SR Key 4!",
+  "status": "tl"
  },
  {
   "id": "F87588:0",
   "kind": "msg",
   "speaker": "",
   "jp": "SRキー5をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got SR Key 5!",
+  "status": "tl"
  },
  {
   "id": "F875CC:0",
   "kind": "msg",
   "speaker": "",
   "jp": "SRキー6をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got SR Key 6!",
+  "status": "tl"
  },
  {
   "id": "F87610:0",
   "kind": "msg",
   "speaker": "",
   "jp": "赤の勾玉をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Red Magatama!",
+  "status": "tl"
  },
  {
   "id": "F87654:0",
   "kind": "msg",
   "speaker": "",
   "jp": "青の勾玉をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Blue Magatama!",
+  "status": "tl"
  },
  {
   "id": "F87698:0",
   "kind": "msg",
   "speaker": "",
   "jp": "黒の勾玉をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Black Magatama!",
+  "status": "tl"
  },
  {
   "id": "F876DC:0",
   "kind": "msg",
   "speaker": "",
   "jp": "白の勾玉をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the White Magatama!",
+  "status": "tl"
  },
  {
   "id": "F87720:0",
   "kind": "msg",
   "speaker": "",
   "jp": "緑の勾玉をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Green Magatama!",
+  "status": "tl"
  },
  {
   "id": "F87764:0",
   "kind": "msg",
   "speaker": "",
   "jp": "黄の勾玉をゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got the Yellow Magatama!",
+  "status": "tl"
  },
  {
   "id": "F877A8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "スズキをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got a sea bass!",
+  "status": "tl"
  },
  {
   "id": "F877E8:0",
   "kind": "msg",
   "speaker": "",
   "jp": "フグをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got a pufferfish!",
+  "status": "tl"
  },
  {
   "id": "F87828:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ミノカサゴをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got a lionfish!",
+  "status": "tl"
  },
  {
   "id": "F8786C:0",
   "kind": "msg",
   "speaker": "",
   "jp": "コイをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got a carp!",
+  "status": "tl"
  },
  {
   "id": "F878AC:0",
   "kind": "msg",
   "speaker": "",
   "jp": "アユをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got a sweetfish!",
+  "status": "tl"
  },
  {
   "id": "F878EC:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ニジマスをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got a rainbow trout!",
+  "status": "tl"
  },
  {
   "id": "F87930:0",
   "kind": "msg",
   "speaker": "",
   "jp": "マグロをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got a tuna!",
+  "status": "tl"
  },
  {
   "id": "F87970:0",
   "kind": "msg",
   "speaker": "",
   "jp": "アジをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got a horse mackerel!",
+  "status": "tl"
  },
  {
   "id": "F879B0:0",
   "kind": "msg",
   "speaker": "",
   "jp": "イワシをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got a sardine!",
+  "status": "tl"
  },
  {
   "id": "F879F0:0",
   "kind": "msg",
   "speaker": "",
   "jp": "クラゲをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got a jellyfish!",
+  "status": "tl"
  },
  {
   "id": "F87A30:0",
   "kind": "msg",
   "speaker": "",
   "jp": "イソギンをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got a sea anemone!",
+  "status": "tl"
  },
  {
   "id": "F87A74:0",
   "kind": "msg",
   "speaker": "",
   "jp": "ヒドラをゲット！",
-  "en": "",
-  "status": ""
+  "en": "Got a hydra!",
+  "status": "tl"
  }
 ]
