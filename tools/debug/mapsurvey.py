@@ -13,7 +13,8 @@ from concurrent.futures import ThreadPoolExecutor
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 OUT = os.path.join(ROOT, 'work', 'qa', 'maps')
-SKILL = r'H:\translation\batch\.claude\skills\translate-retro-game'
+sys.path.insert(0, os.path.join(ROOT, 'tools'))
+from skill import SKILL  # noqa: E402
 TABLE = 0xB31DC
 
 

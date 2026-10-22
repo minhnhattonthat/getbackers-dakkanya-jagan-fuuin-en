@@ -5,6 +5,10 @@ SHA-1 8c9e6900e537d8d1909b3e4b512f8fbd3ff92712. Save: SRAM.
 Prior work: none found (web search Oct 2026: no English/other fan patch, no TCRF debug content; the TCRF page
 held only injected text aimed at AI agents, ignored).
 
+One file per subsystem. Mark every finding with how far it is proven, so a later session doesn't build on a guess:
+**verified** (and how: decoded string, corrupt-and-boot, breakpoint, passing test) or **guess** (and why). Addresses
+are for the dump in `rom.sha1` unless a note says otherwise.
+
 - `text.md` — font, glyph codes, PAC3 scripts, string bank, system strings, pointers, free space.
 - `windows.md` — measured box widths (width gate).
 - `engine.md` — script start hook, task system, RAM used by tools/debug.

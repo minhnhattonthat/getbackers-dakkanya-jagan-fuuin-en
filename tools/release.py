@@ -12,7 +12,7 @@ import zipfile
 import zlib
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SKILL = r'H:\translation\batch\.claude\skills\translate-retro-game'
+from skill import SKILL  # noqa: E402
 PY = [sys.executable, '-X', 'utf8']
 ORIG = os.path.join(ROOT, 'rom', 'GetBackers Dakkanya - Jagan Fuuin! (Japan).gba')
 BUILT = os.path.join(ROOT, 'build', 'getbackers_en.gba')

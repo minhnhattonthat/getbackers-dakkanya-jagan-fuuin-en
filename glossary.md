@@ -2,7 +2,7 @@
 
 Binding for every translator and reviewer. Agents propose additions in reports; only the controller edits this file.
 
-## Rulings (pre-approved by the user, Oct 2026)
+## Rulings (pre-approved by the user, Oct 2026; options and reasons in docs/decisions.md)
 - Honorifics: dropped; convey the relationship through register (Ginji's "Ban-chan" -> "Ban", maybe "Ban, buddy" when
   he is wheedling; Natsumi's "Ginji-san" -> "Ginji"). Name order: given name first (Ginji Amano, Ban Mido).
 - Romanisation: official English (Tokyopop manga / Funimation anime) where it exists, else modified Hepburn, no macrons

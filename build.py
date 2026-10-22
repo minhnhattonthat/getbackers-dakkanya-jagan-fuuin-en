@@ -22,6 +22,7 @@ import actcards  # noqa: E402
 import labels  # noqa: E402
 import captions  # noqa: E402
 import signs  # noqa: E402
+import check_rom  # noqa: E402
 
 OUT = {'identity': 'getbackers_identity.gba', 'marker': 'getbackers_marker.gba', 'build': 'getbackers_en.gba',
        'qa': 'getbackers_qa.gba'}
@@ -282,6 +283,7 @@ def main():
         print(__doc__)
         return 2
     mode = sys.argv[1]
+    check_rom.check()
     if mode == 'release':
         import release
         return release.main()

@@ -11,7 +11,8 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-SKILL = Path(r'H:\translation\batch\.claude\skills\translate-retro-game')
+sys.path.insert(0, str(ROOT / 'tools'))
+from skill import SKILL  # noqa: E402
 ORIG = ROOT / 'rom' / 'GetBackers Dakkanya - Jagan Fuuin! (Japan).gba'
 SCENES = json.loads((ROOT / 'tools' / 'debug' / 'scenes.json').read_text(encoding='utf-8'))
 

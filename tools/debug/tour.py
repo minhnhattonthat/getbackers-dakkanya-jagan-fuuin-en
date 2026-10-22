@@ -18,7 +18,7 @@ sys.path.insert(0, str(ROOT / 'tools'))
 from textlib import load_rom, find_scripts, parse_script, is_cmd  # noqa: E402
 
 TOUR = ROOT / 'work' / 'qa' / 'tour'
-SKILL = Path(r'H:\translation\batch\.claude\skills\translate-retro-game')
+from skill import SKILL  # noqa: E402
 PER = 25
 FIELD_TYPES = (0, 1, 2, 6)
 
