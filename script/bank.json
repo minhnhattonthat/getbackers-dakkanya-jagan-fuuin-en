@@ -150,7 +150,7 @@
   "id": "B0021",
   "kind": "bank",
   "jp": "逃げそこなった　",
-  "en": "Couldn't flee",
+  "en": "Couldn't flee!",
   "status": "tl"
  },
  {
@@ -2467,7 +2467,7 @@
   "id": "B0352",
   "kind": "bank",
   "jp": "よけられなかった?　",
-  "en": "Couldn't dodge that?",
+  "en": "Huh? I couldn't dodge it?",
   "status": "tl"
  },
  {
@@ -2642,7 +2642,7 @@
   "id": "B0377",
   "kind": "bank",
   "jp": "避けられなかった?　",
-  "en": "Couldn't dodge it?",
+  "en": "Huh? I couldn't dodge it?",
   "status": "tl"
  },
  {
@@ -3699,7 +3699,7 @@
   "id": "B0528",
   "kind": "bank",
   "jp": "よけられなかった?　",
-  "en": "Couldn't dodge that?",
+  "en": "Huh? I couldn't dodge it?",
   "status": "tl"
  },
  {
@@ -3790,7 +3790,7 @@
   "id": "B0541",
   "kind": "bank",
   "jp": "後悔すんじゃねぇぞ?",
-  "en": "Don'tcha regret this, got it?",
+  "en": "You'll regret this, got it?",
   "status": "tl"
  },
  {

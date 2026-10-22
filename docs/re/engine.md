@@ -12,6 +12,11 @@
 ## Maps / encounters
 - `load_map` 0x080083C0 (r0 = index into the map table 0x080B31DC, r1/r2 = x/y tile, r3 = facing).
 - Encounter counter 0x02000D70 (u8): forcing it to 1 starts a battle on the next step (debug ENC=1).
+- Map event tables (0xB0000-0xBF000) hold script pointers with flags in the top nibble: NPC talk scripts
+  0x88xxxxxx (copied to the NPC objects, RAM 0x03004798 + 0x88 + idx*0x90, tested by `bge`/`& 0x7FFFFFFF`),
+  door/trigger scripts 0x18xxxxxx (table 0x080B78E8 per map, read at trigger time by 0x08006670, `& 0x0FFFFFFF`).
+  The script then runs via 0x0805DA50 -> RAM 0x0201B9D0 -> start_script. **verified** (breakpoints, JP vs EN).
+  build.py repoints them keeping the flag; tests.py checks every script pointer lands on a PAC3 header.
 
 ## String bank
 - 0xFB6034-0xFC2618, 2383 records, walked at boot by 0x0805814C (literal pool 0x08058174) into the RAM table
@@ -22,6 +27,8 @@
   FFFF-terminated list (FFFE = newline); 0x0800FC88 draws digits through index lists.
 - tools/menuasm.py hooks 0x0800FA2E / 0x0800FAE0 / 0x0800FB9A through trampolines stored in font glyph 0x7FF;
   cache RAM 0x0203FE00, 240 slots; label descriptor FFFD, k, prefill. Glyph 0x6AE = blank filler (reserved).
+  The main menu is a plain charset at the same tile base as the cache sub-screens and is redrawn after them, so a
+  plain load at the cache's tile0 turns the cache off (else its index lists read as glyph codes: kana garbage).
 
 ## Debug harness (tools/debug)
 - warp.lua replaces the NTH script start after NEW GAME (scene `script:<off>`), loads any map (`map:IDX[:X:Y]`),

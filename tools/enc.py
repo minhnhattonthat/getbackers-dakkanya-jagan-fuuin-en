@@ -149,4 +149,7 @@ if __name__ == '__main__':
     assert e.encode('Ban…') == [e.pairs[('B', 'a')], e.pairs[('n', ' ')], 0xAF]
     assert e.encode('  ') == [SPACE_CODE]
     assert wrap('one two three', 7) == ['one two', 'three']
+    # a digraph half is 6 px and the game adds a 1 px shadow: wider letters run into the next ("Ma" read "Mb")
+    wide = [c for c in HALF - {'—'} if max((len(r.rstrip('.')) for r in FONT[c]['rows']), default=0) > 5]
+    assert not wide, 'glyphs wider than 5 px: %r' % wide
     print('enc selftest ok')
