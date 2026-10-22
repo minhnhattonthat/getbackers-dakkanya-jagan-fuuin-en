@@ -2,7 +2,7 @@
  {
   "id": "item000",
   "name_jp": "人面イカ",
-  "name_en": "Human-Face Squid",
+  "name_en": "H-Face Squid",
   "text_jp": "HP回復小(単体)",
   "text_en": "Restore some HP (one ally)"
  },
@@ -16,7 +16,7 @@
  {
   "id": "item002",
   "name_jp": "Hオオムギ粉",
-  "name_en": "Gut Barley Flour",
+  "name_en": "Barley Flour",
   "text_jp": "戦闘不能回復(単体)",
   "text_en": "Revive from KO (one ally)"
  },
@@ -37,14 +37,14 @@
  {
   "id": "item005",
   "name_jp": "ヘビの抜け殻",
-  "name_en": "Shed Snakeskin",
+  "name_en": "Snakeskin",
   "text_jp": "混乱回復(単体)",
   "text_en": "Cure confusion (one ally)"
  },
  {
   "id": "item006",
   "name_jp": "毒キノコ",
-  "name_en": "Poison Mushroom",
+  "name_en": "Toadstool",
   "text_jp": "変身効果回復(単体)",
   "text_en": "Undo transformation (one ally)"
  },
@@ -79,21 +79,21 @@
  {
   "id": "item011",
   "name_jp": "天照の面",
-  "name_en": "Amaterasu Mask",
+  "name_en": "Amaterasu Mk",
   "text_jp": "変身効果回復(全体)\n戦闘中のみ",
   "text_en": "Undo transformation (all allies)\nBattle only"
  },
  {
   "id": "item012",
   "name_jp": "経正の面",
-  "name_en": "Tsunemasa Mask",
+  "name_en": "Tsunemasa Mk",
   "text_jp": "防御力アップ(単体)\n戦闘中のみ",
   "text_en": "Defense up (one ally)\nBattle only"
  },
  {
   "id": "item013",
   "name_jp": "頼政の面",
-  "name_en": "Yorimasa Mask",
+  "name_en": "Yorimasa Mk",
   "text_jp": "回避率アップ(単体)\n戦闘中のみ",
   "text_en": "Evasion up (one ally)\nBattle only"
  },
@@ -107,14 +107,14 @@
  {
   "id": "item015",
   "name_jp": "葵上の面",
-  "name_en": "Aoi-no-Ue Mask",
+  "name_en": "Aoi-no-Ue Mk",
   "text_jp": "一回だけ即死効果無効化(全体)\n戦闘中のみ",
   "text_en": "Block instant death once (all)\nBattle only"
  },
  {
   "id": "item016",
   "name_jp": "天細女の面",
-  "name_en": "Amenouzume Mask",
+  "name_en": "Uzume Mask",
   "text_jp": "HP回復小(全体)\n戦闘中のみ",
   "text_en": "Restore some HP (all allies)\nBattle only"
  },
@@ -128,14 +128,14 @@
  {
   "id": "item018",
   "name_jp": "松風の面",
-  "name_en": "Matsukaze Mask",
+  "name_en": "Matsukaze Mk",
   "text_jp": "ステータス異常回復(全体)\n戦闘中のみ",
   "text_en": "Cure status ailments (all allies)\nBattle only"
  },
  {
   "id": "item019",
   "name_jp": "コーヒー券",
-  "name_en": "Coffee Ticket",
+  "name_en": "Cafe Ticket",
   "text_jp": "HP全回復(全体)\nマップ上のみ使用可",
   "text_en": "Fully restore HP (all allies)\nUsable on the map only"
  },
@@ -156,7 +156,7 @@
  {
   "id": "item022",
   "name_jp": "ばんばねのM",
-  "name_en": "Ban&Akabane M",
+  "name_en": "Ban&Bane M",
   "text_jp": "蛮&赤屍の相性値をアップ",
   "text_en": "Raises Ban & Akabane's affinity"
  },
@@ -198,42 +198,42 @@
  {
   "id": "item028",
   "name_jp": "ひみぎんのM",
-  "name_en": "Ginji&Himiko M",
+  "name_en": "Ginji&Himi M",
   "text_jp": "銀次&卑弥呼の相性値をアップ",
   "text_en": "Raises Ginji & Himiko's affinity"
  },
  {
   "id": "item029",
   "name_jp": "ばねぎんのM",
-  "name_en": "Ginji&Akabane M",
+  "name_en": "Ginji&Bane M",
   "text_jp": "銀次&赤屍の相性値をアップ",
   "text_en": "Raises Ginji & Akabane's affinity"
  },
  {
   "id": "item030",
   "name_jp": "かづぎんのM",
-  "name_en": "Ginji&Kazuki M",
+  "name_en": "Ginji&Kazu M",
   "text_jp": "銀次&花月の相性値をアップ",
   "text_en": "Raises Ginji & Kazuki's affinity"
  },
  {
   "id": "item031",
   "name_jp": "しどぎんのM",
-  "name_en": "Ginji&Shido M",
+  "name_en": "Gin&Shido M",
   "text_jp": "銀次&士度の相性値をアップ",
   "text_en": "Raises Ginji & Shido's affinity"
  },
  {
   "id": "item032",
   "name_jp": "えみぎんのM",
-  "name_en": "Ginji&Emishi M",
+  "name_en": "Ginji&Emi M",
   "text_jp": "銀次&笑師の相性値をアップ",
   "text_en": "Raises Ginji & Emishi's affinity"
  },
  {
   "id": "item033",
   "name_jp": "じゅぎんのM",
-  "name_en": "Ginji&Juubei M",
+  "name_en": "Ginji&Juu M",
   "text_jp": "銀次&十兵衛の相性値をアップ",
   "text_en": "Raises Ginji & Juubei's affinity"
  },
@@ -247,119 +247,119 @@
  {
   "id": "item035",
   "name_jp": "ばねひみのM",
-  "name_en": "Himiko&Akabane M",
+  "name_en": "Himi&Bane M",
   "text_jp": "卑弥呼&赤屍の相性値をアップ",
   "text_en": "Raises Himiko & Akabane's affinity"
  },
  {
   "id": "item036",
   "name_jp": "かづひみのM",
-  "name_en": "Himiko&Kazuki M",
+  "name_en": "Himi&Kazu M",
   "text_jp": "卑弥呼&花月の相性値をアップ",
   "text_en": "Raises Himiko & Kazuki's affinity"
  },
  {
   "id": "item037",
   "name_jp": "しどひみのM",
-  "name_en": "Himiko&Shido M",
+  "name_en": "Himi&Shido M",
   "text_jp": "卑弥呼&士度の相性値をアップ",
   "text_en": "Raises Himiko & Shido's affinity"
  },
  {
   "id": "item038",
   "name_jp": "えみひみのM",
-  "name_en": "Himiko&Emishi M",
+  "name_en": "Himiko&Emi M",
   "text_jp": "卑弥呼&笑師の相性値をアップ",
   "text_en": "Raises Himiko & Emishi's affinity"
  },
  {
   "id": "item039",
   "name_jp": "じゅひみのM",
-  "name_en": "Himiko&Juubei M",
+  "name_en": "Himiko&Juu M",
   "text_jp": "卑弥呼&十兵衛の相性値をアップ",
   "text_en": "Raises Himiko & Juubei's affinity"
  },
  {
   "id": "item040",
   "name_jp": "うりひみのM",
-  "name_en": "Himiko&Uryu M",
+  "name_en": "Himi&Uryu M",
   "text_jp": "卑弥呼&雨流の相性値をアップ",
   "text_en": "Raises Himiko & Uryu's affinity"
  },
  {
   "id": "item041",
   "name_jp": "ばねかづのM",
-  "name_en": "Akabane&Kazuki M",
+  "name_en": "Bane&Kazu M",
   "text_jp": "赤屍&花月の相性値をアップ",
   "text_en": "Raises Akabane & Kazuki's affinity"
  },
  {
   "id": "item042",
   "name_jp": "ばねしどのM",
-  "name_en": "Akabane&Shido M",
+  "name_en": "Bane&Shido M",
   "text_jp": "赤屍&士度の相性値をアップ",
   "text_en": "Raises Akabane & Shido's affinity"
  },
  {
   "id": "item043",
   "name_jp": "ばねえみのM",
-  "name_en": "Akabane&Emishi M",
+  "name_en": "Bane&Emi M",
   "text_jp": "赤屍&笑師の相性値をアップ",
   "text_en": "Raises Akabane & Emishi's affinity"
  },
  {
   "id": "item044",
   "name_jp": "ばねじゅのM",
-  "name_en": "Akabane&Juubei M",
+  "name_en": "Bane&Juu M",
   "text_jp": "赤屍&十兵衛の相性値をアップ",
   "text_en": "Raises Akabane & Juubei's affinity"
  },
  {
   "id": "item045",
   "name_jp": "ばねうりのM",
-  "name_en": "Akabane&Uryu M",
+  "name_en": "Bane&Uryu M",
   "text_jp": "赤屍&雨流の相性値をアップ",
   "text_en": "Raises Akabane & Uryu's affinity"
  },
  {
   "id": "item046",
   "name_jp": "しどかづのM",
-  "name_en": "Kazuki&Shido M",
+  "name_en": "Kazu&Shido M",
   "text_jp": "花月&士度の相性値をアップ",
   "text_en": "Raises Kazuki & Shido's affinity"
  },
  {
   "id": "item047",
   "name_jp": "えみかづのM",
-  "name_en": "Kazuki&Emishi M",
+  "name_en": "Kazuki&Emi M",
   "text_jp": "花月&笑師の相性値をアップ",
   "text_en": "Raises Kazuki & Emishi's affinity"
  },
  {
   "id": "item048",
   "name_jp": "じゅかづのM",
-  "name_en": "Kazuki&Juubei M",
+  "name_en": "Kazuki&Juu M",
   "text_jp": "花月&十兵衛の相性値をアップ",
   "text_en": "Raises Kazuki & Juubei's affinity"
  },
  {
   "id": "item049",
   "name_jp": "うりかづのM",
-  "name_en": "Kazuki&Uryu M",
+  "name_en": "Kazu&Uryu M",
   "text_jp": "花月&雨流の相性値をアップ",
   "text_en": "Raises Kazuki & Uryu's affinity"
  },
  {
   "id": "item050",
   "name_jp": "しどえみのM",
-  "name_en": "Shido&Emishi M",
+  "name_en": "Shido&Emi M",
   "text_jp": "士度&笑師の相性値をアップ",
   "text_en": "Raises Shido & Emishi's affinity"
  },
  {
   "id": "item051",
   "name_jp": "しどじゅのM",
-  "name_en": "Shido&Juubei M",
+  "name_en": "Shido&Juu M",
   "text_jp": "士度&十兵衛の相性値をアップ",
   "text_en": "Raises Shido & Juubei's affinity"
  },
@@ -373,21 +373,21 @@
  {
   "id": "item053",
   "name_jp": "えみじゅのM",
-  "name_en": "Emishi&Juubei M",
+  "name_en": "Emishi&Juu M",
   "text_jp": "笑師&十兵衛の相性値をアップ",
   "text_en": "Raises Emishi & Juubei's affinity"
  },
  {
   "id": "item054",
   "name_jp": "えみうりのM",
-  "name_en": "Emishi&Uryu M",
+  "name_en": "Emi&Uryu M",
   "text_jp": "笑師&雨流の相性値をアップ",
   "text_en": "Raises Emishi & Uryu's affinity"
  },
  {
   "id": "item055",
   "name_jp": "じゅうりのM",
-  "name_en": "Juubei&Uryu M",
+  "name_en": "Juu&Uryu M",
   "text_jp": "十兵衛&雨流の相性値をアップ",
   "text_en": "Raises Juubei & Uryu's affinity"
  },
@@ -401,49 +401,49 @@
  {
   "id": "item057",
   "name_jp": "銀次の本音",
-  "name_en": "Ginji's Truth",
+  "name_en": "Ginji Truth",
   "text_jp": "銀次の本音",
   "text_en": "Ginji's True Voice"
  },
  {
   "id": "item058",
   "name_jp": "卑弥呼の本音",
-  "name_en": "Himiko's Truth",
+  "name_en": "Himiko Truth",
   "text_jp": "卑弥呼の本音",
   "text_en": "Himiko's True Voice"
  },
  {
   "id": "item059",
   "name_jp": "赤屍の本音",
-  "name_en": "Akabane's Truth",
+  "name_en": "Bane Truth",
   "text_jp": "赤屍の本音",
   "text_en": "Akabane's True Voice"
  },
  {
   "id": "item060",
   "name_jp": "花月の本音",
-  "name_en": "Kazuki's Truth",
+  "name_en": "Kazuki Truth",
   "text_jp": "花月の本音",
   "text_en": "Kazuki's True Voice"
  },
  {
   "id": "item061",
   "name_jp": "士度の本音",
-  "name_en": "Shido's Truth",
+  "name_en": "Shido Truth",
   "text_jp": "士度の本音",
   "text_en": "Shido's True Voice"
  },
  {
   "id": "item062",
   "name_jp": "笑師の本音",
-  "name_en": "Emishi's Truth",
+  "name_en": "Emishi Truth",
   "text_jp": "笑師の本音",
   "text_en": "Emishi's True Voice"
  },
  {
   "id": "item063",
   "name_jp": "十兵衛の本音",
-  "name_en": "Juubei's Truth",
+  "name_en": "Juubei Truth",
   "text_jp": "十兵衛の本音",
   "text_en": "Juubei's True Voice"
  },
@@ -464,14 +464,14 @@
  {
   "id": "item066",
   "name_jp": "弥勒の本音",
-  "name_en": "Miroku's Truth",
+  "name_en": "Miroku Truth",
   "text_jp": "弥勒の本音",
   "text_en": "Miroku's True Voice"
  },
  {
   "id": "item067",
   "name_jp": "敵の本音",
-  "name_en": "Enemy's Truth",
+  "name_en": "Enemy Truth",
   "text_jp": "敵の本音",
   "text_en": "Enemy's True Voice"
  },
@@ -527,14 +527,14 @@
  {
   "id": "item075",
   "name_jp": "招き猫",
-  "name_en": "Beckoning Cat",
+  "name_en": "Lucky Cat",
   "text_jp": "招き猫",
   "text_en": "Beckoning Cat"
  },
  {
   "id": "item076",
   "name_jp": "香炉",
-  "name_en": "Incense Burner",
+  "name_en": "Censer",
   "text_jp": "香炉",
   "text_en": "Incense Burner"
  },
@@ -548,7 +548,7 @@
  {
   "id": "item078",
   "name_jp": "湯たんぽ",
-  "name_en": "Hot-Water Bottle",
+  "name_en": "Bed Warmer",
   "text_jp": "湯たんぽ",
   "text_en": "Hot-Water Bottle"
  },
@@ -576,7 +576,7 @@
  {
   "id": "item082",
   "name_jp": "掛け軸",
-  "name_en": "Hanging Scroll",
+  "name_en": "Wall Scroll",
   "text_jp": "掛け軸",
   "text_en": "Hanging Scroll"
  },
@@ -590,14 +590,14 @@
  {
   "id": "item084",
   "name_jp": "のれん",
-  "name_en": "Noren Curtain",
+  "name_en": "Noren",
   "text_jp": "のれん",
   "text_en": "Noren Curtain"
  },
  {
   "id": "item085",
   "name_jp": "座布団",
-  "name_en": "Floor Cushion",
+  "name_en": "Cushion",
   "text_jp": "座布団",
   "text_en": "Floor Cushion"
  },
@@ -842,7 +842,7 @@
  {
   "id": "item120",
   "name_jp": "ニジマス",
-  "name_en": "Rainbow Trout",
+  "name_en": "Trout",
   "text_jp": "ニジマス",
   "text_en": "Rainbow Trout"
  },
@@ -856,7 +856,7 @@
  {
   "id": "item122",
   "name_jp": "アジ",
-  "name_en": "Horse Mackerel",
+  "name_en": "Scad",
   "text_jp": "アジ",
   "text_en": "Horse Mackerel"
  },

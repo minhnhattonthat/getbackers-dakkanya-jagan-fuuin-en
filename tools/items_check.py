@@ -10,7 +10,8 @@ import batches  # noqa: E402
 
 def check(e):
     errs = []
-    lim = 16
+    # field item list: the count is drawn 10 tiles after the name (0x0800DB76), so names end before it
+    lim = 12 if e['id'].startswith('item') else 16
     for k in ('name_en', 'text_en'):
         v = e.get(k, '')
         if not v:

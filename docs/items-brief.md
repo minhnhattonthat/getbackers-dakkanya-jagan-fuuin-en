@@ -5,7 +5,8 @@ fill `name_en` and `text_en` for every record, using the Edit tool (or Write the
 valid (UTF-8, `\n` inside strings for a line break). Do not touch other fields.
 
 ## Fields
-- `name_jp` -> `name_en`: the name in the item list. HARD limit: items (id item...) 16 characters; equipment
+- `name_jp` -> `name_en`: the name in the item list. HARD limit: items (id item...) 12 characters (the count is drawn
+  right after; abbreviations allowed here, D8: pair cards use the JP nicknames Gin/Himi/Bane/Kazu/Emi/Juu); equipment
   (id equip...) 10 characters (a short label in a narrow slot: "Ban Shades", "Ginji Band", "Kazuki Tie").
 - `text_jp` -> `text_en`: shown in the info panel. For consumables it is the effect ("HP回復小(単体)" -> "Restore some
   HP (one ally)"); for key items and cards it is the full name; for equipment it is "full name\neffect" (keep the
