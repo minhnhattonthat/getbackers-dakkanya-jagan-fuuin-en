@@ -276,7 +276,7 @@
   "id": "B0039",
   "kind": "bank",
   "jp": "属性(　)　　　　弱点(　)",
-  "en": "Type(      )  Weak(      )",
+  "en": "Type:             Weak:",
   "status": "tl"
  },
  {
@@ -2453,7 +2453,7 @@
   "id": "B0350",
   "kind": "bank",
   "jp": "まだまだ！　",
-  "en": "Not even close!",
+  "en": "Not done yet!",
   "status": "tl"
  },
  {
@@ -2467,7 +2467,7 @@
   "id": "B0352",
   "kind": "bank",
   "jp": "よけられなかった?　",
-  "en": "I couldn't dodge?",
+  "en": "Couldn't dodge that?",
   "status": "tl"
  },
  {
@@ -2642,7 +2642,7 @@
   "id": "B0377",
   "kind": "bank",
   "jp": "避けられなかった?　",
-  "en": "I couldn't dodge it?",
+  "en": "Couldn't dodge it?",
   "status": "tl"
  },
  {
@@ -3699,7 +3699,7 @@
   "id": "B0528",
   "kind": "bank",
   "jp": "よけられなかった?　",
-  "en": "I couldn't dodge?",
+  "en": "Couldn't dodge that?",
   "status": "tl"
  },
  {

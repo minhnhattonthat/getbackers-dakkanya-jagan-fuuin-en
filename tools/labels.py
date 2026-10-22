@@ -25,12 +25,12 @@ LEFT = 6                    # text starts 6 px in (after the slanted left end)
 MAXW = 128
 
 
-def draw_vwf(px, x, y, text, ink):
-    """Proportional font_en text (advance = glyph width + 1, space 3); returns the end x."""
+def draw_vwf(px, x, y, text, ink, space=3):
+    """Proportional font_en text (advance = glyph width + 1, space `space` px); returns the end x."""
     import enc
     for ch in text:
         if ch == ' ':
-            x += 2
+            x += space
             continue
         g = enc.FONT[ch]
         for r, row in enumerate(g['rows']):
@@ -41,9 +41,9 @@ def draw_vwf(px, x, y, text, ink):
     return x
 
 
-def text_width(text):
+def text_width(text, space=3):
     scratch = [[0] * 512 for _ in range(16)]
-    return draw_vwf(scratch, 0, 5, text, INK) - 1
+    return draw_vwf(scratch, 0, 5, text, INK, space) - 1
 
 
 def encode_piece(px, x0, w):
@@ -129,9 +129,13 @@ def apply(rom, alloc=None, report=False):
             px = sprres.frame_pixels(rom, tiles, fo)
             px = [[PANEL if v == INK else v for v in row] for row in px]
             W = len(px[0])
+            sp = 3
             end = LEFT + text_width(text)          # first column after the text
             if numbered(entry, i):
                 w = NUMBERED
+                if end + 1 > NUMBERED - 16:        # tighter spaces before the cost column
+                    sp = 2
+                    end = LEFT + text_width(text, sp)
                 assert end + 1 <= NUMBERED - 16, (text, end - LEFT)
             elif end + 6 <= W:
                 draw_vwf(px, LEFT, 5, text, INK)
@@ -143,7 +147,7 @@ def apply(rom, alloc=None, report=False):
                 assert w <= MAXW, text
             assert alloc is not None, text
             px = widen(px, w)
-            draw_vwf(px, LEFT, 5, text, INK)
+            draw_vwf(px, LEFT, 5, text, INK, sp)
             pieces = split_pieces(w)
             data = b''.join(encode_piece(px, x, pw) for x, pw in pieces)
             at = alloc(len(data) + 32)

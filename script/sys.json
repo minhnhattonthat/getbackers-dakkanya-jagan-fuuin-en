@@ -944,7 +944,7 @@
    },
    {
     "jp": "電磁スキャン",
-    "en": "Electro Scan",
+    "en": "Electromagnetic Scan",
     "lit": "B0330"
    },
    {
@@ -954,7 +954,7 @@
    },
    {
     "jp": "電磁フィールド",
-    "en": "Electro Field",
+    "en": "Electromagnetic Field",
     "lit": "B0338"
    },
    {

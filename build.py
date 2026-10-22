@@ -30,6 +30,7 @@ SCRIPT_START = 0xEE1AC4
 BANK_PTR = 0x058174
 # where script pointers live: code pools, map NPC/door tables (0xB0000+, flags in the top nibble), script tables
 REF_RANGES = [(0x0, 0xC0000), (0xED0000, SCRIPT_START)]
+BANK_NAMES = (1158, 1256)   # bank B1158-B1255: party and enemy names (later lists repeat them)
 FREE_END = 0xFE0000                         # 0xFE0000-0xFE4000 holds code/data, keep
 LABEL_START, LABEL_END = 0x1F00000, 0x2000000  # battle label sheets + widened labels (tools/labels.py; ROM -> 32 MiB)
 EXT_START, EXT_END = 0x1000000, 0x2000000   # overflow area when the ROM has to grow
@@ -182,9 +183,10 @@ def bank_text(jp_codes, en):
     return en
 
 
-def bank_codes(jp_codes, en, encoder):
-    """... plus the trailing blank/filler codes kept as they were."""
-    return encoder.encode(bank_text(jp_codes, en)) + list(bank_layout(jp_codes)[2])
+def bank_codes(jp_codes, en, encoder, name=False):
+    """... plus the trailing blank/filler codes kept as they were, except after a name: there the JP blank only
+    pads the record and shows as a gap before the fragment that follows ("Junk Kid   defeated!")."""
+    return encoder.encode(bank_text(jp_codes, en)) + ([] if name else list(bank_layout(jp_codes)[2]))
 
 
 def build(mode, overrides=None):
@@ -232,8 +234,12 @@ def build(mode, overrides=None):
         blob += b'\0\0\0\0'
     brecs, bend = parse_script(orig, BANK)
     bank = bytearray(b'PAC3')
+    names = {tuple(codes_of(brecs[i][1])) for i in range(*BANK_NAMES)}
     for i, (q, p) in enumerate(brecs):
-        bank += txt(bank_codes(codes_of(p), bank_en[i], encoder)) if i in bank_en else rec(p)
+        if i in bank_en:
+            bank += txt(bank_codes(codes_of(p), bank_en[i], encoder, tuple(codes_of(p)) in names))
+        else:
+            bank += rec(p)
     # placement: original area (up to FREE_END) first; overflow goes past 16 MiB (ROM grows to 32 MiB)
     if SCRIPT_START + len(blob) + len(bank) <= FREE_END:
         script_at, bank_at = SCRIPT_START, SCRIPT_START + len(blob)
