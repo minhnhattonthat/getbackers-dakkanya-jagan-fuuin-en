@@ -4,7 +4,8 @@ English menu labels need far more distinct 12 px cells than the Japanese charset
 switched to "cache mode" keep label lists as GLYPH CODES and load each glyph into VRAM on first use:
 - 0x0800FA2C load_charset(list, bytes, tile0): if list[0] == 0xFFFD (a cache descriptor: FFFD, k, k codes), it
   sets up a cache of bytes/2 slots at tile0 (slots 0..k-1 pre-filled, never evicted: digits drawn by index) and
-  loads nothing else. Any other list: original behaviour.
+  loads nothing else. Any other list: original behaviour, and the cache is turned off if the list loads at its
+  tile0 (else the main menu, a plain screen redrawn there after a cache sub-screen, read its indices as codes).
 - 0x0800FAAC draw_label / 0x0800FB60 draw_label_ff: each entry e becomes the slot holding glyph code e when the
   label's base tile is the cache's tile0 (round-robin eviction from slot k). Other labels: original behaviour.
 Cache state lives at RAM 0x0203FE00 (unused EWRAM). Hooks reach the code through trampolines inside the empty
@@ -77,6 +78,14 @@ hc_done:
     pop {r3}
     bx r3
 hc_ret:
+    @ a plain charset over the cache's tiles (main menu after a sub-screen) turns the cache off
+    ldr r4, =RAM
+    ldrh r3, [r4, #2]
+    cmp r3, r2
+    bne hc_out
+    movs r3, #0
+    strh r3, [r4, #0]
+hc_out:
     bx lr
 
 @ r0 = glyph code, r1 = slot; DMA the glyph into tile0 + slot*4. Clobbers r0-r4.

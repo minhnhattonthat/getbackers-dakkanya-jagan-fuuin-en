@@ -50,9 +50,9 @@ def test_romdiff(rom):
     new = open(path, 'rb').read()
     allowed = [(fontlib.FONT_BASE, fontlib.FONT_BASE + 8 * 0x8000), (0xEE1AC4, 0xFE0000), (0x1000000, 0x2000000)]
     # pointer words the build repoints
-    for lo, hi in [(0, 0xB0000), (0xED0000, 0xEE1AC4)]:
+    for lo, hi in [(0, 0xC0000), (0xED0000, 0xEE1AC4)]:
         for i in range(lo, hi, 4):
-            v = struct.unpack_from('<I', rom, i)[0]
+            v = struct.unpack_from('<I', rom, i)[0] & 0x0FFFFFFF
             if 0x08EE1AC4 <= v < 0x08FC2618:
                 allowed.append((i, i + 4))
     allowed.append((0x58174, 0x58178))
@@ -79,19 +79,27 @@ def test_romdiff(rom):
             if line:
                 a, b = line.split('-')
                 allowed.append((int(a, 16), int(b, 16)))
-    allowed.sort()
-    starts = [a for a, b in allowed]
+    merged = []                         # disjoint, so one bisect finds the only range that can hold i
+    for a, b in sorted(allowed):
+        if merged and a <= merged[-1][1]:
+            merged[-1][1] = max(merged[-1][1], b)
+        else:
+            merged.append([a, b])
+    starts = [a for a, b in merged]
     import bisect
 
-    def ok(i):
+    def span(i):
         k = bisect.bisect_right(starts, i) - 1
-        return any(allowed[j][0] <= i < allowed[j][1] for j in range(max(0, k - 2), k + 1))
+        return merged[k][1] if k >= 0 and i < merged[k][1] else None
+
+    def ok(i):
+        return span(i) is not None
     n = min(len(rom), len(new))
     bad = []
     for c in range(0, n, 0x1000):
         if rom[c:c + 0x1000] == new[c:c + 0x1000]:
             continue
-        if any(a <= c and c + 0x1000 <= b for a, b in allowed[:3]):
+        if (span(c) or 0) >= c + 0x1000:
             continue
         for i in range(c, min(c + 0x1000, n)):
             if rom[i] != new[i] and not ok(i):
@@ -102,12 +110,28 @@ def test_romdiff(rom):
     check(not bad, 'romdiff: bytes changed outside allowed ranges at ' + ', '.join('%X' % b for b in bad))
 
 
+def test_script_ptrs(rom):
+    """Every word that points at a script start in the JP ROM (map NPC/door tables keep flags in the top nibble)
+    must point at a PAC3 header in the English build."""
+    path = os.path.join(ROOT, 'build', 'getbackers_en.gba')
+    if not os.path.exists(path):
+        return
+    new = open(path, 'rb').read()
+    starts = set(find_scripts(rom))
+    for lo, hi in [(0, 0xC0000), (0xED0000, 0xEE1AC4)]:
+        for i in range(lo, hi, 4):
+            if (struct.unpack_from('<I', rom, i)[0] & 0x0FFFFFFF) - 0x08000000 in starts:
+                p = (struct.unpack_from('<I', new, i)[0] & 0x0FFFFFFF) - 0x08000000
+                check(new[p:p + 4] == b'PAC3', 'script pointer at %X -> %X is not a script' % (i, p))
+
+
 def main():
     rom = load_rom()
     t = load_glyphs()
     t[0x5C3] = '　'
     test_coverage(rom, t)
     test_romdiff(rom)
+    test_script_ptrs(rom)
     for f in fails[:20]:
         print('FAIL', f)
     print('tests: %d failure(s)' % len(fails))

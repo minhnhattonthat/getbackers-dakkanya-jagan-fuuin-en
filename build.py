@@ -28,7 +28,8 @@ OUT = {'identity': 'getbackers_identity.gba', 'marker': 'getbackers_marker.gba',
        'qa': 'getbackers_qa.gba'}
 SCRIPT_START = 0xEE1AC4
 BANK_PTR = 0x058174
-REF_RANGES = [(0x0, 0xB0000), (0xED0000, SCRIPT_START)]   # where script pointers live (code pools + tables)
+# where script pointers live: code pools, map NPC/door tables (0xB0000+, flags in the top nibble), script tables
+REF_RANGES = [(0x0, 0xC0000), (0xED0000, SCRIPT_START)]
 FREE_END = 0xFE0000                         # 0xFE0000-0xFE4000 holds code/data, keep
 LABEL_START, LABEL_END = 0x1F00000, 0x2000000  # battle label sheets + widened labels (tools/labels.py; ROM -> 32 MiB)
 EXT_START, EXT_END = 0x1000000, 0x2000000   # overflow area when the ROM has to grow
@@ -251,9 +252,10 @@ def build(mode, overrides=None):
     # repoint
     for lo, hi in REF_RANGES:
         for i in range(lo, hi, 4):
-            v = struct.unpack_from('<I', orig, i)[0] - 0x08000000
+            w = struct.unpack_from('<I', orig, i)[0]
+            v = (w & 0x0FFFFFFF) - 0x08000000     # map tables keep flags in the top nibble (0x88.., 0x18..)
             if v in rel:
-                struct.pack_into('<I', rom, i, 0x08000000 + script_at + rel[v])
+                struct.pack_into('<I', rom, i, (w & 0xF0000000) | (0x08000000 + script_at + rel[v]))
     struct.pack_into('<I', rom, BANK_PTR, 0x08000000 + bank_at)
     os.makedirs(os.path.join(ROOT, 'build'), exist_ok=True)
     name = OUT['qa' if overrides else mode]
