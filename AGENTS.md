@@ -19,6 +19,7 @@ Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.js
 - Edit source files (.py .lua .asm .tbl .json) only with the file-edit tool; scripts here read and analyse, never `.replace()` and write back.
 - The user's decisions, with the options and reasons: `docs/decisions.md`. Read it before asking the user anything; add each new ruling there the same session.
 - Player bug reports: GitHub issues (`gh issue list --label bug`). Copy the attached save into `work/states/`, reproduce in the emulator, fix, commit with `Fixes #N`, and update `docs/status.md`.
+- Subagents: dispatch the `.claude/agents/` types (translator, reviewer, visual-qa, playtester), never general-purpose: their short tool list cuts each agent's start-up context from ~43k to ~9k tokens.
 - Engine: English = digraph glyphs (2 letters per 12 px cell) allocated at build time into font codes 0x100-0x7FF; messages auto-paginate (extra 0B boxes); scripts repacked contiguously (order matters). ROM grows to 32 MiB (label sheets at 0x1F00000+).
 
 ## Status

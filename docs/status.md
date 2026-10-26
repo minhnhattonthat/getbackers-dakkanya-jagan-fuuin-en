@@ -7,7 +7,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Done:** dialogue 8188/8188, bank 2383, names, items/equipment, menus (glyph cache patch tools/menuasm.py), all
   graphics text (title, act cards, battle labels tools/labels.py, demo captions tools/captions.py, shop signs
   tools/signs.py; see docs/re/graphics.md). Phase 8 tour: 69 field + 11 battle groups viewed; clean battle captures
-  per group in work/qa/tour/b0NNc/clean.png. Repo restructured to fan-translation-template (2026-10-23).
+  per group in work/qa/tour/b0NNc/clean.png. Repo restructured to fan-translation-template (2026-10-27: subagent types, docs/screenshots; D9).
 - **Agent playtest 2026-10-23** (docs/playtester-brief.md; sessions work/playtest/s_*, s2_*), fixed:
   - 74 map NPC/door scripts never started (flagged pointers 0x88../0x18.. in 0xB0000-0xBF000 not repointed; black
     screen on talking to Anzu, story stuck). tests.py now checks every script pointer.
