@@ -29,4 +29,3 @@ tools/*/
 evidence/private/
 *.pyc
 .pytest_cache/
-!tbl/gfx/*.bin

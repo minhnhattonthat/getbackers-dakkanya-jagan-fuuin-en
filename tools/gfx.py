@@ -1,7 +1,8 @@
 """Graphics text: redraw Japanese drawn as tiles (docs/re/graphics.md).
 
-Each job edits a raw 8bpp/4bpp tile block in the ROM through a BG map taken from a VRAM dump: the map tells which
-tile sits where on screen, the job paints English into screen rectangles (palette indices), and the changed tiles
+Each job edits a raw 8bpp/4bpp tile block in the ROM through a BG map (the layout the game puts in VRAM, rebuilt
+here from the ROM tiles and a run list, so no game graphics live in the repo): the map tells which tile sits where
+on screen, the job paints English into screen rectangles (palette indices), and the changed tiles
 are written back to their ROM offsets. Tiles shared with an unedited area are refused.
   python -X utf8 tools/gfx.py show JOB      -> work/gfx_<job>.png (the composed layer, 4x, with a grid)
   build.py calls apply(rom) for every job in JOBS."""
@@ -13,7 +14,15 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import enc  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DUMPS = os.path.join(ROOT, 'tbl', 'gfx')     # committed VRAM/palette dumps the jobs are based on
+
+# title logo BG2 as in VRAM: map 32x32 u16 at 0x1000 = tile 1 over 30x20 plus these runs (row, col, first tile,
+# count); 8bpp tiles at 0x8000, tiles 0-1 blank, 2-349 raw in ROM from 0x8505C; palette at ROM 0x84E1C
+TITLE_RUNS = [(0, 9, 2, 5), (1, 8, 7, 5), (1, 14, 12, 3), (2, 7, 2, 1), (2, 8, 15, 17), (2, 26, 32, 2),
+              (3, 7, 34, 21), (4, 5, 55, 23), (5, 4, 78, 25), (6, 3, 103, 25), (7, 2, 128, 26), (8, 0, 154, 29),
+              (9, 0, 183, 29), (10, 0, 212, 30), (11, 0, 242, 30), (12, 0, 272, 30), (13, 1, 302, 1),
+              (13, 3, 303, 27), (14, 19, 330, 10), (15, 26, 340, 3), (16, 26, 343, 3), (17, 26, 346, 3),
+              (18, 26, 349, 1)]
+TITLE_TILES, TITLE_NTILES, TITLE_PAL = 0x8505C, 350, 0x84E1C
 
 # micro font 3x5 (rows top to bottom) for very small labels
 MICRO = {
@@ -142,14 +151,22 @@ def fill(img, rect, colour):
             img[y][x] = colour
 
 
-def load_dump(name):
-    p = os.path.join(DUMPS, name)
-    return open(p + '.vram.bin', 'rb').read(), open(p + '.pal.bin', 'rb').read()
+def title_vram(rom):
+    """-> (vram, palette) of the title logo layer, built from the ROM."""
+    v = bytearray(0x8000 + TITLE_NTILES * 64)
+    for cy in range(20):
+        for cx in range(30):
+            struct.pack_into('<H', v, 0x1000 + 2 * (cy * 32 + cx), 1)
+    for cy, cx, t, n in TITLE_RUNS:
+        for k in range(n):
+            struct.pack_into('<H', v, 0x1000 + 2 * (cy * 32 + cx + k), t + k)
+    v[0x8000 + 2 * 64:] = rom[TITLE_TILES:TITLE_TILES + (TITLE_NTILES - 2) * 64]
+    return bytes(v), bytes(rom[TITLE_PAL:TITLE_PAL + 512])
 
 
 def title_job(rom):
-    vram, pal = load_dump('title')
-    lay = Layer(vram, 0x1000, 0x8000, 8, 0x8505C, 2)
+    vram, pal = title_vram(rom)
+    lay = Layer(vram, 0x1000, 0x8000, 8, TITLE_TILES, 2)
     img = compose(lay)
     orig = [row[:] for row in img]
     edits = []
@@ -214,14 +231,14 @@ JOBS = {'title': title_job, 'title_copyright': title_copyright}
 def apply(rom):
     total = 0
     for name, job in JOBS.items():
-        if os.path.exists(os.path.join(DUMPS, name.split('_')[0] + '.vram.bin')):
-            total += job(rom)
+        total += job(rom)
     return total
 
 
 def show(name):
     from PIL import Image
-    vram, pal = load_dump(name)
+    from textlib import load_rom
+    vram, pal = title_vram(load_rom())
     lay = Layer(vram, 0x1000, 0x8000, 8, 0x8505C, 2)
     img = compose(lay)
     cols = [struct.unpack_from('<H', pal, 2 * i)[0] for i in range(256)]

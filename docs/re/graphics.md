@@ -2,7 +2,7 @@
 
 | Where | Data | Status |
 |---|---|---|
-| Title logo 奪還屋 box / 邪眼封印！ strip | BG2 8bpp tiles at 0x8505C (dumps tbl/gfx/title.*) | English ("DAKKANYA", "EVIL EYE SEALED!"), tools/gfx.py |
+| Title logo 奪還屋 box / 邪眼封印！ strip | BG2 8bpp tiles at 0x8505C (map rebuilt from the ROM by tools/gfx.py title_vram) | English ("DAKKANYA", "EVIL EYE SEALED!"), tools/gfx.py |
 | Katakana ゲットバッカーズ above the logo | same BG | painted out (tools/gfx.py TITLE_EDITS) |
 | Title copyright line | OBJ strip at 0x1B51A8 | English, tools/gfx.py (proportional font) |
 | Act title cards 0-9 | table 0x9BADC (tiles + map), copied to free space with new tiles | English, tools/actcards.py |
