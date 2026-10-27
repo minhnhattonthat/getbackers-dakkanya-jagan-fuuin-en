@@ -26,7 +26,14 @@ An `issue` is any of:
 Standing non-bugs, `ok` (the controller adds the game's own below):
 - text still typing out, a box mid-fade or mid-scroll, a cursor caught mid-blink;
 - a map or scene still loading after a warp;
-- anything identical in the original's sheet.
+- anything identical in the original's sheet. English pages don't line up with the JP sheet of the same id (English
+  auto-paginates into extra boxes): look for the line across the group's `tour_jp/<group>/sheet_*.png`.
+- a page ending mid-sentence on ▼ when that sentence alone is longer than one box (2 lines): the paginator
+  (tools/layout.py) ends pages on sentence ends wherever that costs no extra box. A page ending mid-sentence
+  where the sentence would fit on its own page is still an issue.
+- `~` at line ends (Ginji, Maria and others): a glossary/style question, not a visual bug.
+- battle groups (`b*`): stale text from the previous line left in the box past a shorter line's end (the tour jumps
+  between scripts without the game's box clear). Text that is wrong in itself is still an issue.
 - English is drawn two letters per 12 px cell (digraph glyphs), so letter spacing is tight and pairs can look joined;
   only a wrong or unreadable letter is an issue.
 - the save screen's TIME position and the touching stat rows on the status screen (both as in the original);

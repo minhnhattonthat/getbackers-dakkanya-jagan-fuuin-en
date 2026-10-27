@@ -10,3 +10,6 @@ if not SCRIPTS.is_dir():
     sys.exit(f"translate-retro-game skill not found at {SKILL}: install the plugin or set $SKILL")
 if str(SCRIPTS) not in sys.path:
     sys.path.insert(1, str(SCRIPTS))  # after tools/, ahead of site-packages, as the old vendored path was
+
+if __name__ == "__main__":
+    print(SKILL.as_posix())

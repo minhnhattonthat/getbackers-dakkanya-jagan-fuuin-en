@@ -10,6 +10,7 @@ PY = [sys.executable, '-X', 'utf8']
 STEPS = [
     ('identity build', PY + ['build.py', 'identity']),
     ('encoder selftest', PY + ['tools/enc.py']),
+    ('layout selftest', PY + ['tools/layout.py']),
     ('english build', PY + ['build.py', 'build']),
     ('tests', PY + ['tools/tests.py']),
     ('lint', PY + ['tools/lint.py']),

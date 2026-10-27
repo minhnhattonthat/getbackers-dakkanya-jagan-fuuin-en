@@ -220,6 +220,10 @@ def build(mode, overrides=None):
             labels.apply(rom, ext)
             captions.apply(rom, ext)
             signs.apply(rom, ext)
+            # scan line = B0039 + type at code 3 + weakness at code 12, drawn 14 codes long (movs r0,#0xE at
+            # 0x08053BE0): a 3-code weakness ("Sc|en|t ") lost its last code. Draw 15.
+            assert rom[0x53BE0:0x53BE2] == b'\x0e\x20'
+            rom[0x53BE0] = 0x0F
     # repack scripts contiguously in ROM order (4 zero bytes after each, like the original: some scripts
     # are reached only by walking on from the previous one, so order and spacing must not change)
     scripts = sorted(s for s in find_scripts(orig) if s != BANK)

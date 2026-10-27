@@ -21,6 +21,9 @@
 ## String bank
 - 0xFB6034-0xFC2618, 2383 records, walked at boot by 0x0805814C (literal pool 0x08058174) into the RAM table
   0x02024F14 (8 bytes each). Records must stay 4-byte aligned.
+- Scan line (0x08053BC0): memcpy (0x0808142C) of template B0039 into 0x0201EB44, then type name (B0040+) at code 3
+  and weakness at code 12, each by its record length; drawn as a fixed 14 codes (movs r0,#0xE at 0x08053BE0).
+  build.py makes it 15 so a 3-code weakness ("Sc|en|t ") shows in full.
 
 ## Menu charset system and glyph-cache patch
 - 0x0800FA2C loads a screen charset; 0x0800FAAC draws a label by length; 0x0800FB60 draws an

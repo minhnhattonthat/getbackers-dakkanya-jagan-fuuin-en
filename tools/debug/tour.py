@@ -1,8 +1,11 @@
 """QA tour of every PAC3 script with text: chains of scripts from cold boots, a screenshot before each A press,
 one contact sheet per chain cropped to the message area (work/qa/tour/<group>/sheet_*.png).
   python -X utf8 tools/debug/tour.py plan                 -> work/qa/tour/plan.json (groups of 25)
-  python -X utf8 tools/debug/tour.py run [--jobs 3] [--only g000,g001] [--rom build/getbackers_en.gba]
+  python -X utf8 tools/debug/tour.py run [--jobs 3] [--only g000,g001] [--rom build/getbackers_en.gba] [--frames N]
+  python -X utf8 tools/debug/tour.py rest                 -> stalled chains: run the unplayed scripts as <group>x, xx..
   python -X utf8 tools/debug/tour.py status               -> which groups ran, which scripts played
+--frames overrides the frame budget (f031 waits for a random NPC: 150000+). JP reference: --rom
+build/getbackers_identity.gba --tour work/qa/tour_jp.
 Script types 0/1/2/6 play in the Act 1 intro context; battle types 3/4/5 need a battle (see battle_act1)."""
 import argparse
 import json
@@ -43,8 +46,8 @@ def plan():
     print('groups', len(out), {k: len(v) for k, v in groups.items()})
 
 
-def run_group(name, ss, rom):
-    out = TOUR / name
+def run_group(name, ss, rom, tour, frames=None):
+    out = tour / name
     if (out / 'log.txt').exists() and 'CHAIN DONE' in (out / 'log.txt').read_text(encoding='utf-8', errors='replace'):
         return name, 'cached'
     cmd = [sys.executable, '-X', 'utf8', str(ROOT / 'tools' / 'debug' / 'warp.py'), 'chain:' + ','.join(ss),
@@ -58,6 +61,8 @@ def run_group(name, ss, rom):
         cmd[4] = 'battle_act1'
         cmd[cmd.index('--frames') + 1] = str(9000 + 300 * len(ss))
         cmd += ['--var', 'NTH=6', '--var', 'TARGETS={%s}' % ','.join('0x%08X' % m[s] for s in ss)]
+    if frames:
+        cmd[cmd.index('--frames') + 1] = str(frames)
     subprocess.run(cmd, cwd=ROOT, capture_output=True)
     shots = sorted(out.glob('m*.png'))
     for i in range(0, len(shots), 42):
@@ -71,24 +76,40 @@ def run_group(name, ss, rom):
 
 def main():
     p = argparse.ArgumentParser()
-    p.add_argument('cmd', choices=['plan', 'run', 'status'])
+    p.add_argument('cmd', choices=['plan', 'run', 'rest', 'status'])
     p.add_argument('--jobs', type=int, default=3)
     p.add_argument('--only')
     p.add_argument('--rom', default=str(ROOT / 'build' / 'getbackers_en.gba'))
+    p.add_argument('--tour', type=Path, default=TOUR, help='output dir; the plan is always work/qa/tour/plan.json')
+    p.add_argument('--frames', type=int)
     a = p.parse_args()
     if a.cmd == 'plan':
         plan()
         return 0
     pl = json.loads((TOUR / 'plan.json').read_text(encoding='utf-8'))
-    names = a.only.split(',') if a.only else [n for n in pl if n.startswith('f')]
+    names = a.only.split(',') if a.only else list(pl)
     if a.cmd == 'status':
         for n in names:
-            lg = TOUR / n / 'log.txt'
+            lg = a.tour / n / 'log.txt'
             t = lg.read_text(encoding='utf-8', errors='replace') if lg.exists() else ''
             print(n, len(pl[n]), 'played', t.count('PLAY '), 'done' if 'CHAIN DONE' in t else '')
         return 0
+    if a.cmd == 'rest':
+        for g in names:
+            name, rest = g, pl[g]
+            while True:
+                lg = a.tour / name / 'log.txt'
+                t = lg.read_text(encoding='utf-8', errors='replace') if lg.exists() else 'CHAIN DONE'
+                rest = rest[max(t.count('PLAY '), 1):]  # rest[n-1] hung, rest[n:] never started (n=0: drop one)
+                if 'CHAIN DONE' in t or not rest:
+                    break
+                name += 'x'
+                if not (a.tour / name / 'log.txt').exists():  # an unfinished x group is read, not re-run
+                    print(name, len(rest), 'from', rest[0], run_group(name, rest, a.rom, a.tour, a.frames)[1],
+                          flush=True)
+        return 0
     with ThreadPoolExecutor(a.jobs) as ex:
-        for name, res in ex.map(lambda n: run_group(n, pl[n], a.rom), names):
+        for name, res in ex.map(lambda n: run_group(n, pl[n], a.rom, a.tour, a.frames), names):
             print(name, res, flush=True)
     return 0
 

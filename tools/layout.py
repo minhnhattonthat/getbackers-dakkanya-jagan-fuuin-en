@@ -1,5 +1,7 @@
 """Box layout per text kind: limits (in 6 px halves) and how English becomes script records.
 Limits are the measured width gate (docs/re/windows.md)."""
+import re
+
 import enc
 
 # kind -> (halves per line, lines per page); msg pages beyond the first become extra boxes
@@ -13,21 +15,49 @@ LIMITS = {
     'bank': (36, 1),
 }
 OP_MSG1, OP_MSG2 = 0x8000000A, 0x8000000B
+SENTENCE_END = ('.', '!', '?', '…', '~', '♥', '♪')
+
+
+TITLES = ('Mr.', 'Mrs.', 'Ms.', 'Dr.')
+
+
+def _even(text, w):
+    """Wrap at the narrowest width that keeps the line count, so lines even out (no one-word last line), unless
+    that leaves a title ("Mr.") at a line end apart from its name."""
+    lines = enc.wrap(text, w)
+    if len(lines) > 1:
+        for w2 in range(w // 2, w + 1):  # 2+ lines means > w halves of text, so no even split is narrower than w/2
+            cand = enc.wrap(text, w2)
+            if len(cand) <= len(lines) and max(enc.line_halves(x) for x in cand) <= w2 \
+                    and not any(x.endswith(TITLES) for x in cand[:-1]):
+                return cand
+    return lines
+
+
+def _line_pages(text, w, n):
+    lines = _even(text, w)
+    return [lines[i:i + n] for i in range(0, len(lines), n)]
 
 
 def pages(kind, en):
-    """Wrap into pages of n lines. When the text needs more than one page, the wrap width is narrowed to the
-    smallest that still gives the same number of lines, so the lines even out instead of leaving a one-word
-    widow box."""
+    """Wrap into pages of n lines, evened out. A message longer than a page is packed a whole sentence at a time
+    (each page evened on its own), so pages end on a sentence end, unless that would take more pages."""
     w, n = LIMITS[kind]
-    lines = enc.wrap(en, w)
-    if len(lines) > n:
-        for w2 in range(w * 2 // 3, w):
-            cand = enc.wrap(en, w2)
-            if len(cand) <= len(lines) and max(enc.line_halves(x) for x in cand) <= w2:
-                lines = cand
-                break
-    return [lines[i:i + n] for i in range(0, len(lines), n)]
+    flat = _line_pages(en, w, n)
+    if len(flat) < 2:
+        return flat
+    sents = re.split(r'(?:(?<=[.!?…~♥♪])|(?<=[.!?…~♥♪][)"\']))(?<![A-Z][a-z]\.)(?<!Mr\.) (?=\S)', en)
+    out, i = [], 0
+    while i < len(sents):
+        if len(enc.wrap(sents[i], w)) > n:   # a sentence longer than a page: lay out the rest line by line
+            out += _line_pages(' '.join(sents[i:]), w, n)
+            break
+        j = i + 1
+        while j < len(sents) and len(enc.wrap(' '.join(sents[i:j + 1]), w)) <= n:
+            j += 1
+        out.append(_even(' '.join(sents[i:j]), w))
+        i = j
+    return out if len(out) <= len(flat) else flat
 
 
 def emit(u, en):
@@ -74,3 +104,20 @@ def marker(e):
 
 def name_marker(jp):
     return 'NAME' + '-' * 12
+
+
+if __name__ == '__main__':
+    # one page: lines even out instead of a one-word last line
+    assert pages('msg', 'Electric catfish... Output: 350 volts') == [['Electric catfish...', 'Output: 350 volts']]
+    # two pages: each ends on a sentence end where one exists...
+    assert pages('msg', "Well, in this place, I guess it ain't impossible... Bet there's a trick to it, though.") \
+        == [["Well, in this place, I guess", "it ain't impossible..."], ["Bet there's a trick to it, though."]]
+    # a title stays with its name
+    assert not any(ln.endswith(TITLES) for ln in pages('msg', "Let's go... Mr. Transporter, Mr. Protector.")[0])
+    # a closing bracket after the sentence end still counts as one
+    assert pages('msg', "Shido: (Same thing Juubei said?!) You and Juubei are weirdly alike, y'know.") \
+        == [['Shido: (Same thing Juubei said?!)'], ["You and Juubei are", "weirdly alike, y'know."]]
+    # ...but never at the cost of an extra page
+    long = 'One two three four five six seven. ' * 3
+    assert len(pages('msg', long.strip())) == len(_line_pages(long.strip(), *LIMITS['msg']))
+    print('layout selftest ok')

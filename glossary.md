@@ -96,6 +96,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | 風鳥院流 / 絃術 | Fuchoin-style / String Arts | | | |
 | 妖術 / 妖術師 | sorcery / sorcerer | | | |
 | 面 | mask | | Noh masks; 翁面 Okina mask, 男面 Otoko mask... | |
+| 巫面 | Kannagi mask(s) | | the six Mikado masks; move 巫面の舞 Kannagi Mask Dance | Miko Mask |
 | 合体技 | combo attack | | | |
 | バトルシンク | Battle Sync | | | |
 | 気力 | Spirit | | battle resource | |

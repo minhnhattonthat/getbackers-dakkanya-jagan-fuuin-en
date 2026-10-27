@@ -53,8 +53,9 @@ def main():
         rng += ['--range', r]
     run('jp_left', PY + [os.path.join(SKILL, 'scripts', 'jp_left.py'), BUILT, '--tbl', BUILT + '.tbl', '--le16',
                          '--min', '3', '--known', 'tools/jp_known.txt'] + rng)
-    if tour and not os.path.exists(os.path.join(ROOT, 'work', 'qa', 'tour', 'plan.json')):
-        raise SystemExit('no screen tour (tools/debug/tour.py run); pass --no-tour only while iterating')
+    if tour:  # every tour sheet needs a current ok/fixed verdict (docs/visual-qa-brief.md)
+        run('qa_gate', PY + [os.path.join(SKILL, 'scripts', 'qa_gate.py'), 'check', 'work/qa/manifest.tsv',
+                             'work/qa/verdicts'])
     os.makedirs(os.path.join(ROOT, 'release'), exist_ok=True)
     bps = os.path.join(ROOT, 'release', PATCH)
     run('bps', PY + [os.path.join(SKILL, 'scripts', 'bps.py'), 'make', ORIG, BUILT, bps])
