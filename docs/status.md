@@ -35,4 +35,4 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Open bugs:**
   - Bank B0112/B0114 still "Electro Scan/Field" (lint cap 16 from JP length; where the bank copy is drawn is unknown).
 - **Not playtested yet:** past Act 1 "ask around" (no trigger found), equipment with gear, shops, Run line at battle start.
-- **Waiting on the user:** publishing (v1.1 zip in release/, D10).
+- **Published 2026-10-27:** github.com/minhnhattonthat/getbackers-dakkanya-jagan-fuuin-en, release v1.1 (patch SHA-1 e162276f…). Title BG map now rebuilt from the user's ROM (tools/gfx.py title_vram); the Konami dumps tbl/gfx/title.*.bin were removed from history before the first push.
