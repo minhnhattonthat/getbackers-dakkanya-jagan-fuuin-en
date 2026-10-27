@@ -31,7 +31,7 @@ Standing non-bugs, `ok` (the controller adds the game's own below):
 - a page ending mid-sentence on ▼ when that sentence alone is longer than one box (2 lines): the paginator
   (tools/layout.py) ends pages on sentence ends wherever that costs no extra box. A page ending mid-sentence
   where the sentence would fit on its own page is still an issue.
-- `~` at line ends (Ginji, Maria and others): a glossary/style question, not a visual bug.
+- `~` at line ends (Ginji, Maria and others): kept on purpose (D10).
 - battle groups (`b*`): stale text from the previous line left in the box past a shorter line's end (the tour jumps
   between scripts without the game's box clear). Text that is wrong in itself is still an issue.
 - English is drawn two letters per 12 px cell (digraph glyphs), so letter spacing is tight and pairs can look joined;

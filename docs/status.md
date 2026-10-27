@@ -35,4 +35,4 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Open bugs:**
   - Bank B0112/B0114 still "Electro Scan/Field" (lint cap 16 from JP length; where the bank copy is drawn is unknown).
 - **Not playtested yet:** past Act 1 "ask around" (no trigger found), equipment with gear, shops, Run line at battle start.
-- **Waiting on the user:** publishing; ruling on "~" at line ends (211 lines keep it, glossary says drop ～).
+- **Waiting on the user:** publishing (v1.1 zip in release/, D10).

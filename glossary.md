@@ -15,8 +15,8 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 - Sound effects / grunts: English equivalents (ガツガツ -> "Munch munch...", ぐっ -> "Ngh!").
 
 ## Style rules
-- Punctuation: 「」 -> "...", 『』 -> "...", … / ・・・ -> "...", ！！ -> "!!", ！？ / ？！ -> "?!", ～ -> drop or stretch the
-  word ("Baaan!"), ♥ and ♪ may be kept (the font has them).
+- Punctuation: 「」 -> "...", 『』 -> "...", … / ・・・ -> "...", ！！ -> "!!", ！？ / ？！ -> "?!", ～ -> drop, stretch the
+  word ("Baaan!") or keep as "~" at a line end (D10: the 211 existing "~" stay), ♥ and ♪ may be kept (the font has them).
 - Plain ASCII only (plus ♥ ♪ ☆). No tabs, no fullwidth characters.
 - Furigana in parentheses (杏(あんず)) are reading aids: drop them, just write the name.
 - (Parenthesised whispers) stay in parentheses.
