@@ -9,6 +9,20 @@ no game data you can play; you need your own dump of the Japanese game.
 **Found a bug?** [Report it](../../issues/new/choose): untranslated text, typos, overflow, crashes. Attaching a savestate
 helps most.
 
+## Translation status
+
+| Part | Status |
+|---|---|
+| Dialogue / story, choices, battle cut-ins and messages | Translated |
+| Menus, items, equipment, enemy names and database | Translated |
+| Battle command, party, item and skill panels | Translated |
+| Title screen, act title cards, opening demo captions | Translated (katakana reading above the logo removed) |
+| Shop signs in town maps | Partly translated (takoyaki sign keeps only its picture; tiny poster dot-text left) |
+| Staff credits | Translated |
+
+Known issues: two skill names may still show the short "Electro Scan/Field" in one place; a rare kanji misread from
+the game's font may have shaped a line.
+
 ## What's here
 
 | Path | What it is |
